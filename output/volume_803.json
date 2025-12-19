@@ -1,0 +1,1873 @@
+[
+  {
+    "uid": "QTS_803_001_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬人雨後翫竹",
+    "poem": [
+      "南天春雨時，那鑒雪霜姿。",
+      "眾類亦雲茂，虛心能自持。",
+      "多留晉賢醉，早伴舜妃悲。",
+      "晚歲君能賞，蒼蒼勁節奇。"
+    ]
+  },
+  {
+    "uid": "QTS_803_002_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春望詞四首 其一",
+    "poem": [
+      "花開不同賞，花落不同悲。",
+      "欲問相思處，花開花落時。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_803_002_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春望詞四首 其二",
+    "poem": [
+      "攬草結同心，將以遺知音。",
+      "春愁正斷絕，春鳥複哀吟。"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_803_002_03",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春望詞四首 其三",
+    "poem": [
+      "風花日將老，佳期猶渺渺。",
+      "不結同心人，空結同心草。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_803_002_04",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春望詞四首 其四",
+    "poem": [
+      "那堪花滿枝，翻作兩相思。",
+      "玉箸垂朝鏡，春風知不知。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_803_003_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "宣上人見示與諸公唱和",
+    "poem": [
+      "許廁高齋唱，涓泉定不如。",
+      "可憐譙記室，流水滿禪居。"
+    ]
+  },
+  {
+    "uid": "QTS_803_004_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "風",
+    "poem": [
+      "獵蕙微風遠，飄弦唳一聲。",
+      "林梢鳴淅瀝，松徑夜淒清。"
+    ]
+  },
+  {
+    "uid": "QTS_803_005_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "月",
+    "poem": [
+      "魄依鉤樣小，扇逐漢機團。",
+      "細影將圓質，人間幾處看。"
+    ]
+  },
+  {
+    "uid": "QTS_803_006_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "蟬",
+    "poem": [
+      "露滌清音遠，風吹數葉齊。",
+      "聲聲似相接，各在一枝棲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "數",
+        "variant": "故",
+        "source": "一作「故」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_007_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "池上雙鳥",
+    "poem": [
+      "雙棲綠池上，朝暮共飛還。",
+      "更憶將雛日，同心蓮葉間。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "暮共",
+        "variant": "去暮",
+        "source": "一作「去暮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_008_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "鴛鴦草",
+    "poem": [
+      "綠英滿香砌，兩兩鴛鴦小。",
+      "但娛春日長，不管秋風早。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "秋",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_009_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "罰赴邊有懷上韋令公二首 其一",
+    "poem": [
+      "聞道邊城苦，今來到始知。",
+      "羞將門下曲，唱與隴頭兒。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_009_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "罰赴邊有懷上韋令公二首 其二",
+    "poem": [
+      "黠虜猶違命，烽煙直北愁。",
+      "卻教嚴譴妾，不敢向松州。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_010_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "詠八十一顆",
+    "poem": [
+      "色比丹霞朝日，形如合浦篔簹。",
+      "開時九九如數，見處雙雙頡頏。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "篔簹",
+        "variant": "圓璫",
+        "source": "一作「圓璫」"
+      },
+      {
+        "line": 2,
+        "text": "如",
+        "variant": "知",
+        "source": "一作「知」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_011_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "謁巫山廟",
+    "poem": [
+      "亂猨啼處訪高唐，路入煙霞草木香。",
+      "山色未能忘宋玉，水聲猶是哭襄王。",
+      "朝朝夜夜陽臺下，為雨為雲楚國亡。",
+      "惆悵廟前多少柳，春來空鬬畫眉長。"
+    ]
+  },
+  {
+    "uid": "QTS_803_012_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "牡丹",
+    "poem": [
+      "去春零落暮春時，淚濕紅箋怨別離。",
+      "常恐便同巫峽散，因何重有武陵期。",
+      "傳情每向馨香得，不語還應彼此知。",
+      "只欲欄邊安枕席，夜深閑共說相思。"
+    ]
+  },
+  {
+    "uid": "QTS_803_013_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "賊平後上高相公",
+    "poem": [
+      "驚看天地白荒荒，瞥見青山舊夕陽。",
+      "始信威能照映，由來日月借生光。"
+    ]
+  },
+  {
+    "uid": "QTS_803_014_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "送友人",
+    "poem": [
+      "水國蒹葭夜有霜，月寒山色共蒼蒼。",
+      "誰言千里自今夕，離夢杳如關塞長。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "塞",
+        "variant": "路",
+        "source": "一作「路」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_015_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "聽僧吹蘆管",
+    "poem": [
+      "曉蟬嗚咽暮鶯愁，言語殷勤十指頭。",
+      "罷閱梵書聊一弄，散隨金磬泥清秋。"
+    ]
+  },
+  {
+    "uid": "QTS_803_016_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬郭簡州寄柑子",
+    "poem": [
+      "霜規不讓黃金色，圓質仍含御史香。",
+      "何處同聲情最異？臨川太守謝家郎。"
+    ]
+  },
+  {
+    "uid": "QTS_803_017_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "上川主武元衡相國二首 其一",
+    "poem": [
+      "落日重城夕霧收，玳筵雕俎薦諸侯。",
+      "因令朗月當庭燎，不使珠簾下玉鉤。"
+    ],
+    "notes": [
+      {
+        "content": "一本無元衡二字。",
+        "context": "上川主武元衡相國二首",
+        "original_title": "上川主武元衡相國二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_017_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "上川主武元衡相國二首 其二",
+    "poem": [
+      "東閣移尊綺席陳，貂簪龍節更宜春。",
+      "軍城畫角三聲歇，雲幕初垂紅燭新。"
+    ],
+    "notes": [
+      {
+        "content": "一本無元衡二字。",
+        "context": "上川主武元衡相國二首",
+        "original_title": "上川主武元衡相國二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_018_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "憶荔枝",
+    "poem": [
+      "傳聞象郡隔南荒，絳實豐肌不可忘。",
+      "近有青衣連楚水，素漿還得類瓊漿。"
+    ]
+  },
+  {
+    "uid": "QTS_803_019_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "斛石山曉望寄呂侍御",
+    "poem": [
+      "曦輪初轉照仙扃，旋擘煙嵐上窅冥。",
+      "不得玄暉同指點，天涯蒼翠漫青青。"
+    ]
+  },
+  {
+    "uid": "QTS_803_020_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "寄詞",
+    "poem": [
+      "菌閣芝樓杳靄中，霞開深見玉皇宮。",
+      "紫陽天上神仙客，稱在人間立世功。"
+    ]
+  },
+  {
+    "uid": "QTS_803_021_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "斛石山書事",
+    "poem": [
+      "王家山水畫圖中，意思都盧粉墨容。",
+      "今日忽登虛境望，步搖冠翠一千峰。"
+    ]
+  },
+  {
+    "uid": "QTS_803_022_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "送姚員外",
+    "poem": [
+      "萬條江柳早秋枝，嫋地翻風色未衰。",
+      "欲折爾來將贈別，莫教煙月兩鄉悲。"
+    ]
+  },
+  {
+    "uid": "QTS_803_023_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬祝十三秀才",
+    "poem": [
+      "浩思藍玉彩寒，冰囊敲碎楚金盤。",
+      "詩家利器馳聲久，何用春闈榜下看。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "藍",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_024_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "別李郎中",
+    "poem": [
+      "花落梧桐鳳別凰，想登秦嶺更淒涼。",
+      "安仁縱有詩將賦，一半音詞雜悼亡。"
+    ]
+  },
+  {
+    "uid": "QTS_803_025_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "送扶煉師",
+    "poem": [
+      "錦浦歸舟巫峽雲，綠波迢遞雨紛紛。",
+      "山陰妙術人傳久，也說將鵝與右軍。"
+    ]
+  },
+  {
+    "uid": "QTS_803_026_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "摩訶池贈蕭中丞",
+    "poem": [
+      "昔以多能佐碧油，今朝同泛舊仙舟。",
+      "淒涼逝水頹波遠，惟有碑泉咽不流。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "有",
+        "variant": "到",
+        "source": "一作「到」"
+      },
+      {
+        "line": 2,
+        "text": "泉",
+        "variant": "前",
+        "source": "一作「前」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_027_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "鄉思",
+    "poem": [
+      "峨嵋山下水如油，憐我心同不繫舟。",
+      "何日片帆離錦浦，棹聲齊唱發中流。"
+    ],
+    "notes": [
+      {
+        "content": "用前韻，此首補入。",
+        "context": "鄉思",
+        "original_title": "鄉思〈用前韻，此首補入。〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_028_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "和李書記席上見贈",
+    "poem": [
+      "翩翩射策東堂秀，豈複相逢豁寸心。",
+      "借問風光為誰麗，萬條絲柳翠煙深。"
+    ]
+  },
+  {
+    "uid": "QTS_803_029_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "棠梨花和李太尉",
+    "poem": [
+      "吳均蕙圃移嘉木，正及東溪春雨時。",
+      "日晚鶯啼何所為，淺深紅膩壓繁枝。"
+    ]
+  },
+  {
+    "uid": "QTS_803_030_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬文使君",
+    "poem": [
+      "延英曉拜漢恩新，五馬騰驤九陌塵。",
+      "今日謝庭飛白雪，巴歌不復舊陽春。"
+    ]
+  },
+  {
+    "uid": "QTS_803_031_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬吳隨君",
+    "poem": [
+      "支公別墅接花扃，買得前山總未經。",
+      "入戶剡溪雲水滿，高齋咫尺躡青冥。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "躡",
+        "variant": "接",
+        "source": "一作「接」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_032_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬李校書",
+    "poem": [
+      "才遊象外身雖遠，學茂區中事易聞。",
+      "自顧漳濱多病後，空瞻逸翮舞青雲。"
+    ]
+  },
+  {
+    "uid": "QTS_803_033_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "賦淩雲寺二首 其一",
+    "poem": [
+      "聞說淩雲寺裏苔，風高日近絕纖埃。",
+      "橫雲點染芙蓉壁，似待詩人寶月來。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_033_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "賦淩雲寺二首 其二",
+    "poem": [
+      "聞說淩雲寺裏花，飛空繞磴逐江斜。",
+      "有時鎖得嫦娥鏡，鏤出瑤臺五色霞。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_034_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "九日遇雨二首 其一",
+    "poem": [
+      "萬里驚飆朔氣深，江城蕭索晝陰陰。",
+      "誰憐不得登山去，可惜寒芳色似金。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_034_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "九日遇雨二首 其二",
+    "poem": [
+      "茱萸秋節佳期阻，金菊寒花滿院香。",
+      "神女欲來知有意，先令雲雨暗池塘。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_035_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬雍秀才貽巴峽圖",
+    "poem": [
+      "千疊雲峰萬頃湖，白波分去繞荊吳。",
+      "感君識我枕流意，重示瞿塘峽口圖。"
+    ]
+  },
+  {
+    "uid": "QTS_803_036_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "上王尚書",
+    "poem": [
+      "碧玉雙幢白玉郎，初辭天帝下扶桑。",
+      "手持雲篆題新榜，十萬人家春日長。"
+    ]
+  },
+  {
+    "uid": "QTS_803_037_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "和劉賓客玉蕣",
+    "poem": [
+      "瓊枝的皪露珊珊，欲折如披玉彩寒。",
+      "閑拂朱房何所似，緣山偏映月輪殘。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "玉",
+        "variant": "霞",
+        "source": "一作「霞」"
+      },
+      {
+        "line": 2,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_038_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "江邊",
+    "poem": [
+      "西風忽報鴈雙雙，人世心形兩自降。",
+      "不為魚腸有真訣，誰能夢夢立清江。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鴈",
+        "variant": "燕",
+        "source": "一作「燕」"
+      },
+      {
+        "line": 2,
+        "text": "夢夢",
+        "variant": "夜夜",
+        "source": "一作「夜夜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_039_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "送盧員外",
+    "poem": [
+      "玉壘山前風雪夜，錦官城外別離魂。",
+      "信陵公子如相問，長向夷門感舊恩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "外",
+        "variant": "北",
+        "source": "一作「北」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_040_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "題竹郎廟",
+    "poem": [
+      "竹郎廟前多古木，夕陽沉沉山更綠。",
+      "何處江村有笛聲，聲聲儘是迎郎曲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "郎",
+        "variant": "仙",
+        "source": "一作「仙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_041_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "贈蘇十三中丞",
+    "poem": [
+      "洛陽陌上埋輪氣，欲逐秋空擊隼飛。",
+      "今日芝泥檢征詔，別須臺外振霜威。"
+    ]
+  },
+  {
+    "uid": "QTS_803_042_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "和郭員外題萬里橋",
+    "poem": [
+      "萬里橋頭獨越吟，知憑文字寫愁心。",
+      "細侯風韻兼前事，不止為舟也作霖。"
+    ]
+  },
+  {
+    "uid": "QTS_803_043_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "送鄭眉州",
+    "poem": [
+      "雨暗眉山江水流，離人掩袂立高樓。",
+      "雙旌千騎駢東陌，獨有羅敷望上頭。"
+    ]
+  },
+  {
+    "uid": "QTS_803_044_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "江亭餞別",
+    "poem": [
+      "綠沼紅泥物象幽，范汪兼倅李並州。",
+      "離亭急管四更後，不見公車心獨愁。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "公車",
+        "variant": "車公",
+        "source": "一作「車公」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_045_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "江亭餞別",
+    "poem": [
+      "春教風景駐仙霞，水面魚身總帶花。",
+      "人世不思靈卉異，競將紅纈染輕沙。"
+    ]
+  },
+  {
+    "uid": "QTS_803_046_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "採蓮舟",
+    "poem": [
+      "風前一葉壓荷蕖，解報新秋又得魚。",
+      "兔走烏馳人語靜，滿溪紅袂棹歌初。"
+    ]
+  },
+  {
+    "uid": "QTS_803_047_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "菱荇沼",
+    "poem": [
+      "水荇斜牽綠藻浮，柳絲和葉臥清流。",
+      "何時得向溪頭賞，旋摘菱花旋泛舟。"
+    ]
+  },
+  {
+    "uid": "QTS_803_048_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "金燈花",
+    "poem": [
+      "闌邊不見蘘蘘葉，砌下惟翻豔豔叢。",
+      "細視欲將何物比，曉霞初疊赤城宮。"
+    ]
+  },
+  {
+    "uid": "QTS_803_049_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春郊遊眺寄孫處士二首 其一",
+    "poem": [
+      "低頭久立向薔薇，愛似零陵香惹衣。",
+      "何事碧溪孫處士，百勞東去燕西飛。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_049_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "春郊遊眺寄孫處士二首 其二",
+    "poem": [
+      "今朝縱目翫芳菲，夾纈籠裙繡地衣。",
+      "滿袖滿頭兼手把，教人識是看花歸。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_050_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬楊供奉法師見招",
+    "poem": [
+      "遠水長流潔復清，雪窗高臥與雲平。",
+      "不嫌袁室無煙火，惟笑商山有姓名。"
+    ]
+  },
+  {
+    "uid": "QTS_803_051_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "試新服裁製初成三首 其一",
+    "poem": [
+      "紫陽宮裏賜紅綃，仙霧朦朧隔海遙。",
+      "霜兔毳寒冰繭淨，嫦娥笑指織星橋。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_803_051_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "試新服裁製初成三首 其二",
+    "poem": [
+      "九氣分為九色霞，五靈仙馭五雲車。",
+      "春風因過東君舍，偷樣人間染百花。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_803_051_03",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "試新服裁製初成三首 其三",
+    "poem": [
+      "長裾本是上清儀，曾逐群仙把玉芝。",
+      "每到宮中歌舞會，折腰齊唱步虛詞。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_803_052_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "寄張元夫",
+    "poem": [
+      "前溪獨立後溪行，鷺識朱衣自不驚。",
+      "借問人間愁寂意，伯牙弦絕已無聲。"
+    ]
+  },
+  {
+    "uid": "QTS_803_053_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬辛員外折花見遺",
+    "poem": [
+      "青鳥東飛正落梅，銜花滿口下瑤臺。",
+      "一枝為授殷勤意，把向風前旋旋開。"
+    ]
+  },
+  {
+    "uid": "QTS_803_054_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "贈遠二首 其一",
+    "poem": [
+      "芙蓉新落蜀山秋，錦字開緘到是愁。",
+      "閨閣不知戎馬事，月高還上望夫樓。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_054_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "贈遠二首 其二",
+    "poem": [
+      "擾弱新蒲葉又齊，春深花落塞前溪。",
+      "知君未轉秦關騎，月照千門掩袖啼。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_055_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "秋泉",
+    "poem": [
+      "冷色初澄一帶煙，幽聲遙瀉十絲弦。",
+      "長來枕上牽情思，不使愁人半夜眠。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "情",
+        "variant": "愁",
+        "source": "一作「愁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_056_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "柳絮",
+    "poem": [
+      "二月楊花輕複微，春風搖盪惹人衣。",
+      "他家本是無情物，一任南飛又北飛。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "任",
+        "variant": "向",
+        "source": "一作「向」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_057_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "續嘉陵驛詩獻武相國",
+    "poem": [
+      "蜀門西更上青天，強為公歌蜀國弦。",
+      "卓氏長卿稱士女，錦江玉壘獻山川。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "城",
+        "source": "一作「城」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_058_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "段相國游武擔寺，病不能從題寄",
+    "poem": [
+      "消瘦翻堪見令公，落花無那恨東風。",
+      "儂心猶道青春在，羞看飛蓬石鏡中。"
+    ]
+  },
+  {
+    "uid": "QTS_803_059_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "段相國游武擔寺，病不能從題寄",
+    "poem": [
+      "公子翩翩說校書，玉弓金勒紫綃裾。",
+      "玄成莫便驕名譽，文采風流定不如。"
+    ]
+  },
+  {
+    "uid": "QTS_803_060_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩",
+    "poem": [
+      "元微之使蜀，嚴司空遣濤徃事，因事獲怒，逺之，濤作《十離詩》以獻，遂復善焉。"
+    ]
+  },
+  {
+    "uid": "QTS_803_061_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 犬離主",
+    "poem": [
+      "馴擾朱門四五年，毛香足淨主人憐。",
+      "無端咬著親情客，不得紅絲毯上眠。"
+    ],
+    "notes": [
+      {
+        "content": "濤因醉爭令擲注子，誤傷相公，猶子去幕，故云。",
+        "context": "十離詩 犬離主"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "無端",
+        "variant": "只因",
+        "source": "一作「只因」"
+      },
+      {
+        "line": 2,
+        "text": "親情客",
+        "variant": "情親腳",
+        "source": "一作「情親腳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_062_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 筆離手",
+    "poem": [
+      "越管宣毫始稱情，紅箋紙上撒花瓊。",
+      "都緣用久鋒頭盡，不得羲之手裏擎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "撒",
+        "variant": "散",
+        "source": "一作「散」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_063_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 馬離廄",
+    "poem": [
+      "雪耳紅毛淺碧蹄，追風曾到日東西。",
+      "為驚玉貌郎君墜，不得華軒更一嘶。"
+    ]
+  },
+  {
+    "uid": "QTS_803_064_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 鸚鵡離籠",
+    "poem": [
+      "隴西獨自一孤身，飛去飛來上錦茵。",
+      "都緣出語無方便，不得籠中再喚人。"
+    ]
+  },
+  {
+    "uid": "QTS_803_065_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 燕離巢",
+    "poem": [
+      "出入朱門未忍拋，主人常愛語交交。",
+      "銜泥{{另}穢汚}污卻}}珊瑚枕，不得梁間更壘巢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "枕",
+        "variant": "簟",
+        "source": "一作「簟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_066_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 珠離掌",
+    "poem": [
+      "皎潔圓明內外通，清光似照水晶宮。",
+      "只緣一點玷相穢，不得終宵在掌中。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "只",
+        "variant": "都",
+        "source": "一作「都」"
+      },
+      {
+        "line": 2,
+        "text": "玷",
+        "variant": "瑕",
+        "source": "一作「瑕」"
+      },
+      {
+        "line": 2,
+        "text": "宵",
+        "variant": "朝",
+        "source": "一作「朝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_067_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 魚離池",
+    "poem": [
+      "跳躍深池四五秋，常搖朱尾弄綸鉤。",
+      "無端擺斷芙蓉朵，不得清波更一遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "跳",
+        "variant": "戲",
+        "source": "一作「戲」"
+      },
+      {
+        "line": 1,
+        "text": "深",
+        "variant": "蓮",
+        "source": "一作「蓮」"
+      },
+      {
+        "line": 1,
+        "text": "綸",
+        "variant": "銀",
+        "source": "一作「銀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_068_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 鷹離鞲",
+    "poem": [
+      "爪利如鋒眼似鈴，平原捉兔稱高情。",
+      "無端竄向青雲外，不得君王臂上擎。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "臂上",
+        "variant": "手裏",
+        "source": "一作「手裏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_069_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 竹離亭",
+    "poem": [
+      "蓊鬱新栽四五行，常將勁節負秋霜。",
+      "為緣春筍鑽牆破，不得垂陰覆玉堂。"
+    ]
+  },
+  {
+    "uid": "QTS_803_070_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "十離詩 鏡離臺",
+    "poem": [
+      "鑄瀉黃金鏡始開，初生三五月裵回。",
+      "為遭無限塵蒙蔽，不得華堂上玉臺。"
+    ]
+  },
+  {
+    "uid": "QTS_803_071_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "酬杜舍人",
+    "poem": [
+      "雙魚底事到儂家，撲手新詩片片霞。",
+      "唱到白蘋洲畔曲，芙蓉空老蜀江花。"
+    ]
+  },
+  {
+    "uid": "QTS_803_072_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "籌邊樓",
+    "poem": [
+      "平臨雲鳥八窗秋，壯壓西川四十州。",
+      "諸將莫貪羌族馬，最高層處見邊頭。"
+    ]
+  },
+  {
+    "uid": "QTS_803_073_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "贈韋校書",
+    "poem": [
+      "芸香誤比荊山玉，那似登科甲乙年。",
+      "澹地鮮風將綺思，飄花散蕊媚青天。"
+    ]
+  },
+  {
+    "uid": "QTS_803_074_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "江月樓",
+    "poem": [
+      "秋風仿佛吳江冷，鷗路參差夕陽影。",
+      "垂虹納納臥譙門，雉堞眈眈俯漁艇。",
+      "陽安小兒拍手笑，使君幻出江南景。"
+    ],
+    "notes": [
+      {
+        "content": "以下見《唐音統籤》。",
+        "context": "江月樓",
+        "original_title": "江月樓",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_075_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "西巖",
+    "poem": [
+      "憑闌卻憶騎鯨客，把酒臨風手自招。",
+      "細雨聲中停去馬，夕陽影裏亂鳴蜩。"
+    ]
+  },
+  {
+    "uid": "QTS_803_076_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "罰赴邊上武相公二首 其一",
+    "poem": [
+      "螢在荒蕪月在天，螢飛豈到月輪邊。",
+      "重光萬里應相照，目斷雲霄信不傳。"
+    ],
+    "notes": [
+      {
+        "content": "見《吟窗雜錄》。",
+        "context": "罰赴邊上武相公二首",
+        "original_title": "罰赴邊上武相公二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_076_02",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "罰赴邊上武相公二首 其二",
+    "poem": [
+      "按轡嶺頭寒複寒，微風細雨徹心肝。",
+      "但得放兒歸捨去，山水屏風永不看。"
+    ],
+    "notes": [
+      {
+        "content": "見《吟窗雜錄》。",
+        "context": "罰赴邊上武相公二首",
+        "original_title": "罰赴邊上武相公二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_803_077_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "寄舊詩與元微之",
+    "poem": [
+      "詩篇調態人皆有，細膩風光我獨知。",
+      "月下詠花憐暗澹，雨朝題柳為欹垂。",
+      "長教碧玉藏深處，總向紅箋寫自隨。",
+      "老大不能收拾得，與君開似教男兒。"
+    ],
+    "notes": [
+      {
+        "content": "此首集不載。",
+        "context": "寄舊詩與元微之",
+        "original_title": "寄舊詩與元微之",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_803_078_01",
+    "volume": 803,
+    "author": {
+      "canonical": "薛涛",
+      "recorded": "薛濤",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Xue Tao",
+      "wikidata_id": "Q1267666"
+    },
+    "title": "句",
+    "poem": [
+      "枝迎南北鳥，葉送往來風。",
+      "[6]"
+    ]
+  }
+]

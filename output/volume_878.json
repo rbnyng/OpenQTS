@@ -1,0 +1,937 @@
+[
+  {
+    "uid": "QTS_878_001_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "牛口謠",
+    "poem": [
+      "豆入牛口，勢不得久。"
+    ],
+    "notes": [
+      {
+        "type": "title_note",
+        "content": "詩六十首",
+        "context": "無名氏"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_878_002_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "高昌童謠",
+    "poem": [
+      "高昌兵馬如霜雪，漢家兵馬如日月。",
+      "日月照霜雪。",
+      "回首自消滅。"
+    ]
+  },
+  {
+    "uid": "QTS_878_003_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "咸亨後謠",
+    "poem": [
+      "莫浪語，阿婆嗔，三叔聞時笑殺人。"
+    ]
+  },
+  {
+    "uid": "QTS_878_004_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "調露初京城民謠",
+    "poem": [
+      "側堂堂，撓堂堂。"
+    ]
+  },
+  {
+    "uid": "QTS_878_005_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嵩嶽童謠",
+    "poem": [
+      "嵩山凡幾層，不畏登不得，只畏不得登。",
+      "三度徵兵馬，傍道打騰騰。"
+    ]
+  },
+  {
+    "uid": "QTS_878_006_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李敬玄謠",
+    "poem": [
+      "洮河李阿婆，鄯州王伯母。",
+      "見賊不敢鬥，總由曹新婦。"
+    ]
+  },
+  {
+    "uid": "QTS_878_007_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "永淳中童謠",
+    "poem": [
+      "新禾不入箱，新麥不入場。",
+      "迨及八九月，狗吠空垣牆。"
+    ]
+  },
+  {
+    "uid": "QTS_878_008_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "楊柳謠",
+    "poem": [
+      "楊柳楊柳漫頭駝。"
+    ]
+  },
+  {
+    "uid": "QTS_878_009_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "裴炎謠",
+    "poem": [
+      "一片火，兩片火，緋衣小兒當殿坐。"
+    ]
+  },
+  {
+    "uid": "QTS_878_010_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "武后長壽元年民間謠",
+    "poem": [
+      "補闕連車載，拾遺平鬥量。",
+      "欔槌侍御史，碗脫侍中郎。"
+    ]
+  },
+  {
+    "uid": "QTS_878_011_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "續謠",
+    "poem": [
+      "評事不讀律，博士不尋章。",
+      "糊心宣撫使，眯目聖神皇。"
+    ]
+  },
+  {
+    "uid": "QTS_878_012_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "天樞謠",
+    "poem": [
+      "一條麻索挽，天樞絕去也。"
+    ]
+  },
+  {
+    "uid": "QTS_878_013_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "武后時謠",
+    "poem": [
+      "張公吃酒李公醉。"
+    ]
+  },
+  {
+    "uid": "QTS_878_014_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "武后時童謠",
+    "poem": [
+      "紅綠複裙長，千里萬里猶香。"
+    ]
+  },
+  {
+    "uid": "QTS_878_015_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "神龍後烏鵲窠謠",
+    "poem": [
+      "山南烏鵲窠，山北金駱駝。",
+      "鐮柯不鑿孔，斧子不施柯。"
+    ]
+  },
+  {
+    "uid": "QTS_878_016_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "吏部謠",
+    "poem": [
+      "岑愔獠子後，崔湜令公孫。",
+      "三人相比校，莫賀咄骨渾。"
+    ]
+  },
+  {
+    "uid": "QTS_878_017_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "黃犢子謠",
+    "poem": [
+      "黃牸犢子挽紖斷，兩腳蹋地鞋𪎱斷。"
+    ]
+  },
+  {
+    "uid": "QTS_878_018_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "安樂寺童謠",
+    "poem": [
+      "可憐安樂寺，了了樹頭懸。"
+    ]
+  },
+  {
+    "uid": "QTS_878_019_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "鯉魚兒謠",
+    "poem": [
+      "可憐聖善寺，身著綠毛衣。",
+      "牽來河裏飲，蹋殺鯉魚兒。"
+    ]
+  },
+  {
+    "uid": "QTS_878_020_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "羊頭山謠",
+    "poem": [
+      "羊頭山北作朝堂。"
+    ]
+  },
+  {
+    "uid": "QTS_878_021_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "金橋童謠",
+    "poem": [
+      "聖人執節度金橋。"
+    ]
+  },
+  {
+    "uid": "QTS_878_022_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "天寶中京兆謠",
+    "poem": [
+      "欲得米麥賤，無過追李峴。"
+    ]
+  },
+  {
+    "uid": "QTS_878_023_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "天寶初語",
+    "poem": [
+      "義髻拋河裏，黃裙逐水流。"
+    ]
+  },
+  {
+    "uid": "QTS_878_024_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "楊氏謠",
+    "poem": [
+      "男不封侯女作妃，君看女卻是門楣。"
+    ]
+  },
+  {
+    "uid": "QTS_878_025_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "神雞童謠",
+    "poem": [
+      "生兒不用識文字。",
+      "鬥雞走馬勝讀書。",
+      "賈家小兒年十三，富貴榮華代不如。",
+      "能令金距期勝負，白羅繡衫隨軟輿。",
+      "父死長安千裏外，差夫治道挽喪車。"
+    ]
+  },
+  {
+    "uid": "QTS_878_026_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "燕燕謠",
+    "poem": [
+      "燕燕，飛上天。",
+      "天上女兒鋪白氈，氈上有千錢。"
+    ]
+  },
+  {
+    "uid": "QTS_878_027_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "幽州謠",
+    "poem": [
+      "舊來誇戴竿，今日不堪看。",
+      "但看五月裏，清水河邊見契丹。"
+    ]
+  },
+  {
+    "uid": "QTS_878_028_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "兩京童謠",
+    "poem": [
+      "不怕上蘭單，惟愁答辨難。",
+      "無錢求案典，生死任都官。"
+    ]
+  },
+  {
+    "uid": "QTS_878_029_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "兩頭朱童謠",
+    "poem": [
+      "一隻箸，兩頭朱，五六月化為膽。"
+    ]
+  },
+  {
+    "uid": "QTS_878_030_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "打麥謠",
+    "poem": [
+      "打麥，麥打。",
+      "三三三，舞了也。"
+    ]
+  },
+  {
+    "uid": "QTS_878_031_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "張權輿作裴度偽謠",
+    "poem": [
+      "非衣小兒坦其腹，天上有口被驅逐。"
+    ]
+  },
+  {
+    "uid": "QTS_878_032_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "馬僕射謠",
+    "poem": [
+      "齋鐘動也，和尚不上堂。"
+    ]
+  },
+  {
+    "uid": "QTS_878_033_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "咸通七年童謠",
+    "poem": [
+      "草青青，被嚴霜。",
+      "鵲始巢，複看顛狂。"
+    ]
+  },
+  {
+    "uid": "QTS_878_034_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "咸通十四年成都謠",
+    "poem": [
+      "咸通癸巳，出無所之。",
+      "蛇去馬來，道路稍開。",
+      "頭無片瓦，地有殘灰。"
+    ]
+  },
+  {
+    "uid": "QTS_878_035_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "幹符六年童謠",
+    "poem": [
+      "八月無霜塞草青，將軍騎馬出空城。",
+      "漢家天子西巡狩，猶向江東更索兵。"
+    ]
+  },
+  {
+    "uid": "QTS_878_036_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "僖宗時童謠",
+    "poem": [
+      "金色蝦蟆爭努眼，翻卻曹州天下反。"
+    ]
+  },
+  {
+    "uid": "QTS_878_037_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "黃巢軍中謠",
+    "poem": [
+      "逢儒則肉師必覆。"
+    ]
+  },
+  {
+    "uid": "QTS_878_038_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "中和初童謠",
+    "poem": [
+      "黃巢走，泰山東，死在翁家翁。"
+    ]
+  },
+  {
+    "uid": "QTS_878_039_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "山陰老人偽謠",
+    "poem": [
+      "欲識聖人姓，千里草青青。",
+      "欲識聖人名，日從日上生。"
+    ]
+  },
+  {
+    "uid": "QTS_878_040_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "胡楚賓謠",
+    "poem": [
+      "胡楚賓，李翰林。",
+      "詞同三峽水，字值雙南金。"
+    ]
+  },
+  {
+    "uid": "QTS_878_041_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "後唐軍士謠",
+    "poem": [
+      "除去菩薩，扶立生鐵。"
+    ]
+  },
+  {
+    "uid": "QTS_878_042_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "周顯德中齊州謠",
+    "poem": [
+      "蹋陽春，人間二月雨和塵。",
+      "陽春蹋盡西風起，腸斷人間白髮人。"
+    ]
+  },
+  {
+    "uid": "QTS_878_043_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "天佑中江南童謠",
+    "poem": [
+      "東海鯉魚飛上天。"
+    ]
+  },
+  {
+    "uid": "QTS_878_044_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "真人謠",
+    "poem": [
+      "有一真人在冀川，開口持弓向外邊。"
+    ]
+  },
+  {
+    "uid": "QTS_878_045_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李後主童謠",
+    "poem": [
+      "索得娘來忘卻家，後園桃李不生花。",
+      "豬兒狗兒都死盡，養得貓兒患赤瘕。"
+    ]
+  },
+  {
+    "uid": "QTS_878_046_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "秦人竹𧳽謠",
+    "poem": [
+      "𧳽𧳽引黑牛，天差不自由。",
+      "但看戊寅歲，揚在蜀江頭。"
+    ]
+  },
+  {
+    "uid": "QTS_878_047_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "蜀人謠",
+    "poem": [
+      "黑牛無系絆，棕繩一時斷。"
+    ]
+  },
+  {
+    "uid": "QTS_878_048_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "秦城芭蕉謠",
+    "poem": [
+      "花開來裏，花謝也裏。"
+    ]
+  },
+  {
+    "uid": "QTS_878_049_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "蜀童謠",
+    "poem": [
+      "我有一帖藥，其名曰阿魏，賣與十八子。"
+    ]
+  },
+  {
+    "uid": "QTS_878_050_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "蜀中掃地和尚",
+    "poem": [
+      "水行仙，怕秦川。"
+    ]
+  },
+  {
+    "uid": "QTS_878_051_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "福州謠",
+    "poem": [
+      "騎馬來，騎馬去。"
+    ]
+  },
+  {
+    "uid": "QTS_878_052_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "閩人謠",
+    "poem": [
+      "風吹楊菜鼓山下，不得錢郎戈不罷。"
+    ]
+  },
+  {
+    "uid": "QTS_878_053_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "廣州童謠",
+    "poem": [
+      "羊頭二四，白天雨至。"
+    ]
+  },
+  {
+    "uid": "QTS_878_054_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "桂管童謠",
+    "poem": [
+      "大蟲來。"
+    ]
+  },
+  {
+    "uid": "QTS_878_055_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "湖南童謠",
+    "poem": [
+      "湖南城郭好長街，竟栽柳樹不栽槐。",
+      "百姓奔竄無一事，只是椎芒織草鞋。"
+    ]
+  },
+  {
+    "uid": "QTS_878_056_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "長沙童謠",
+    "poem": [
+      "鞭打馬，馬急走。"
+    ]
+  },
+  {
+    "uid": "QTS_878_057_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "湘中童謠",
+    "poem": [
+      "馬去不用鞭，咬牙過今年。"
+    ]
+  },
+  {
+    "uid": "QTS_878_058_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "長沙童謠",
+    "poem": [
+      "三羊五馬，馬子離群，羊子無舍。"
+    ]
+  },
+  {
+    "uid": "QTS_878_059_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "丹陽語",
+    "poem": [
+      "待錢來，待錢來。"
+    ]
+  },
+  {
+    "uid": "QTS_878_060_01",
+    "volume": 878,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "遼述律後謠",
+    "poem": [
+      "青牛嫗，曾避路。"
+    ]
+  }
+]

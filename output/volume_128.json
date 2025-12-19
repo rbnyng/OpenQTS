@@ -1,0 +1,2277 @@
+[
+  {
+    "uid": "QTS_128_001_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "奉和聖制從蓬萊向興慶閣道中留春雨中春望之作應制",
+    "poem": [
+      "渭水自縈秦塞曲，黃山舊遶漢宮斜。",
+      "鑾輿迥出千門柳，閣道廻看上苑花。",
+      "雲裏帝城雙鳳闕，雨中春樹萬人家。",
+      "爲乘陽氣行時令，不是宸遊玩物華。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "塞",
+        "variant": "甸",
+        "source": "一作「甸」"
+      },
+      {
+        "line": 2,
+        "text": "千",
+        "variant": "仙",
+        "source": "一作「仙」"
+      },
+      {
+        "line": 2,
+        "text": "廻",
+        "variant": "遙",
+        "source": "一作「遙」"
+      },
+      {
+        "line": 4,
+        "text": "玩",
+        "variant": "重",
+        "source": "一作「重」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_002_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "大同殿柱產玉芝龍池上有慶雲神光照殿百官共覩聖恩便賜宴樂敢書即事",
+    "poem": [
+      "欲笑周文歌宴鎬，遙輕漢武樂橫汾。",
+      "豈知玉殿生三秀，詎有銅池出五雲。",
+      "陌上堯樽傾北斗，樓前舜樂動南薰。",
+      "共歡天意同人意，萬歲千秋奉聖君。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "知",
+        "variant": "如",
+        "source": "一作「如」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_003_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "敕賜百官櫻桃",
+    "poem": [
+      "芙蓉闕下會千官，紫禁朱櫻出上蘭。",
+      "纔是寢園春薦後，非關御苑鳥銜殘。",
+      "歸鞍競帶青絲籠，中使頻傾赤玉盤。",
+      "飽食不須愁內熱，大官還有蔗漿寒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蘭",
+        "variant": "闌",
+        "source": "一作「闌」"
+      },
+      {
+        "line": 2,
+        "text": "纔",
+        "variant": "總",
+        "source": "一作「總」"
+      },
+      {
+        "line": 4,
+        "text": "愁",
+        "variant": "憂",
+        "source": "一作「憂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_004_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "敕借岐王九成宮避暑應教",
+    "poem": [
+      "帝子遠辭丹鳳闕，天書遙借翠微宮。",
+      "隔窗雲霧生衣上，卷幔山泉入鏡中。",
+      "林下水聲喧語笑，巖間樹色隱房櫳。",
+      "仙家未必能勝此，何事吹笙向碧空。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "笙",
+        "variant": "簫",
+        "source": "一作「簫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_005_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "和賈舍人早朝大明宮之作",
+    "poem": [
+      "絳幘雞人送曉籌，尚衣方進翠雲裘。",
+      "九天閶闔開宮殿，萬國衣冠拜冕旒。",
+      "日色纔臨仙掌動，香煙欲傍袞龍浮。",
+      "朝罷須裁五色詔，佩聲歸向鳳池頭。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "送",
+        "variant": "報",
+        "source": "一作「報」"
+      },
+      {
+        "line": 2,
+        "text": "天",
+        "variant": "重",
+        "source": "一作「重」"
+      },
+      {
+        "line": 4,
+        "text": "向",
+        "variant": "到",
+        "source": "一作「到」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_006_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "和太常韋主簿五郎溫湯寓目之作",
+    "poem": [
+      "漢主離宮接露臺，秦川一半夕陽開。",
+      "青山盡是朱旗繞，碧澗翻從玉殿來。",
+      "新豐樹裏行人度，小苑城邊獵騎廻。",
+      "聞道甘泉能獻賦，懸知獨有子雲才。"
+    ]
+  },
+  {
+    "uid": "QTS_128_007_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "苑舍人能書梵字兼達梵音皆曲盡其妙戲爲之贈",
+    "poem": [
+      "名儒待詔滿公車，才子爲郎典石渠。",
+      "蓮花法藏心懸悟，貝葉經文手自書。",
+      "楚詞共許勝楊馬，梵字何人辨魯魚。",
+      "故舊相望在三事，願君莫厭承明廬。"
+    ]
+  },
+  {
+    "uid": "QTS_128_008_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "重酬苑郎中",
+    "poem": [
+      "何幸含香奉至尊，多慙未報主人恩。",
+      "草木盡能酬雨露，榮枯安敢問乾坤。",
+      "仙郎有意憐同舍，丞相無私斷埽門。",
+      "揚子解嘲徒自遣，馮唐已老復何論。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "盡",
+        "variant": "豈",
+        "source": "一作「豈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_009_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "酬郭給事",
+    "poem": [
+      "洞門高閣靄餘輝，桃李陰陰柳絮飛。",
+      "禁裏疎鐘官舍晚，省中啼鳥吏人稀。",
+      "晨搖玉佩趨金殿，夕奉天書拜瑣闈。",
+      "強欲從君無那老，將因臥病解朝衣。"
+    ]
+  },
+  {
+    "uid": "QTS_128_010_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "出塞",
+    "poem": [
+      "居延城外獵天驕，白草連山野火燒。",
+      "暮雲空磧時驅馬，秋日平原好射鵰。",
+      "護羗校尉朝乘障，破虜將軍夜渡遼。",
+      "玉靶角弓珠勒馬，漢家將賜霍嫖姚。"
+    ]
+  },
+  {
+    "uid": "QTS_128_011_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "既蒙宥罪旋復拜官伏感聖恩竊書鄙意兼奉簡新除使君等諸公",
+    "poem": [
+      "忽蒙漢詔還冠冕，始覺殷王解網羅。",
+      "日比皇明猶自暗，天齊聖壽未雲多。",
+      "花迎喜氣皆知笑，鳥識歡心亦解歌。",
+      "聞道百城新佩印，還來雙闕共鳴珂。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "皆知",
+        "variant": "猶能",
+        "source": "一作「猶能」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_012_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送方尊師歸嵩山",
+    "poem": [
+      "仙官欲往九龍潭，旄節朱幡倚石龕。",
+      "山壓天中半天上，洞穿江底出江南。",
+      "瀑布杉松常帶雨，夕陽蒼翠忽成嵐。",
+      "借問迎來雙白鶴，已曾衡嶽送蘇耽。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "往",
+        "variant": "住",
+        "source": "一作「住」"
+      },
+      {
+        "line": 1,
+        "text": "旄",
+        "variant": "毛",
+        "source": "一作「毛」"
+      },
+      {
+        "line": 3,
+        "text": "蒼",
+        "variant": "彩",
+        "source": "一作「彩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_013_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送楊少府貶郴州",
+    "poem": [
+      "明到衡山與洞庭，若爲秋月聽猿聲。",
+      "愁看北渚三湘遠，惡說南風五兩輕。",
+      "青草瘴時過夏口，白頭浪裏出湓城。",
+      "長沙不久留才子，賈誼何須弔屈平。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遠",
+        "variant": "近",
+        "source": "一作「近」，一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_014_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "過乘如禪師蕭居士嵩丘蘭若",
+    "poem": [
+      "無着天親弟與兄，嵩丘蘭若一峰晴。",
+      "食隨鳴磬巢烏下，行踏空林落葉聲。",
+      "迸水定侵香案濕，雨花應共石牀平。",
+      "深洞長松何所有，儼然天竺古先生。"
+    ]
+  },
+  {
+    "uid": "QTS_128_015_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "春日與裴迪過新昌里訪呂逸人不遇",
+    "poem": [
+      "桃源一向絕風塵，柳市南頭訪隱淪。",
+      "到門不敢題凡鳥，看竹何須問主人。",
+      "城上青山如屋裏，東家流水入西鄰。",
+      "閉戶著書多歲月，種松皆老作龍鱗。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "一向",
+        "variant": "四面",
+        "source": "一作「四面」，一作「面面」"
+      },
+      {
+        "line": 3,
+        "text": "上",
+        "variant": "外",
+        "source": "一作「外」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_016_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "酌酒與裴迪",
+    "poem": [
+      "酌酒與君君自寬，人情翻覆似波瀾。",
+      "白首相知猶按劍，朱門先達笑彈冠。",
+      "草色全經細雨濕，花枝欲動春風寒。",
+      "世事浮雲何足問，不如高臥且加餐。"
+    ]
+  },
+  {
+    "uid": "QTS_128_017_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川別業",
+    "poem": [
+      "不到東山向一年，歸來纔及種春田。",
+      "雨中草色綠堪染，水上桃花紅欲然。",
+      "優婁比丘經論學，傴僂丈人鄉里賢。",
+      "披衣倒屣且相見，相歡語笑衡門前。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "欲",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_018_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "早秋山中作",
+    "poem": [
+      "無才不敢累明時，思向東谿守故籬。",
+      "豈厭尚平婚嫁早，卻嫌陶令去官遲。",
+      "草間蛩響臨秋急，山裏蟬聲薄暮悲。",
+      "寂寞柴門人不到，空林獨與白雲期。"
+    ]
+  },
+  {
+    "uid": "QTS_128_019_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "積雨輞川莊作",
+    "poem": [
+      "積雨空林煙火遲，蒸藜炊黍餉東菑。",
+      "漠漠水田飛白鷺，陰陰夏木囀黃鸝。",
+      "山中習靜觀朝槿，松下清齋折露葵。",
+      "野老與人爭席罷，海鷗何事更相疑。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "事",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_020_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "聽百舌鳥",
+    "poem": [
+      "上蘭門外草萋萋，未央宮中花裏棲。",
+      "亦有相隨過御苑，不知若箇向金堤。",
+      "入春解作千般語，拂曙能先百鳥啼。",
+      "萬戶千門應覺曉，建章何必聽鳴雞。"
+    ]
+  },
+  {
+    "uid": "QTS_128_021_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "息夫人",
+    "poem": [
+      "莫以今時寵，難忘舊日恩。",
+      "看花滿眼淚，不共楚王言。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "時",
+        "variant": "朝",
+        "source": "一作「朝」"
+      },
+      {
+        "line": 1,
+        "text": "難忘",
+        "variant": "寧無",
+        "source": "一作「寧無」，一作「能忘」"
+      },
+      {
+        "line": 1,
+        "text": "舊",
+        "variant": "昔",
+        "source": "一作「昔」"
+      },
+      {
+        "line": 2,
+        "text": "眼",
+        "variant": "目",
+        "source": "一作「目」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_022_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "班婕妤三首 其一",
+    "poem": [
+      "玉窗螢影度，金殿人聲絕。",
+      "秋夜守羅帷，孤燈耿不滅。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_128_022_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "班婕妤三首 其二",
+    "poem": [
+      "宮殿生秋草，君王恩幸疎。",
+      "那堪聞鳳吹，門外度金輿。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_128_022_03",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "班婕妤三首 其三",
+    "poem": [
+      "怪來妝閣閉，朝下不相迎。",
+      "總向春園裏，花間笑語聲。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 2,
+        "text": "向",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_023_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 孟城坳",
+    "poem": [
+      "新家孟城口，古木餘衰柳。",
+      "來者復爲誰，空悲昔人有。"
+    ]
+  },
+  {
+    "uid": "QTS_128_024_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 華子岡",
+    "poem": [
+      "飛鳥去不窮，連山復秋色。",
+      "上下華子岡，惆悵情何極。"
+    ]
+  },
+  {
+    "uid": "QTS_128_025_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 文杏館",
+    "poem": [
+      "文杏裁爲梁，香茅結爲宇。",
+      "不知棟裏雲，去作人間雨。"
+    ]
+  },
+  {
+    "uid": "QTS_128_026_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 斤竹嶺",
+    "poem": [
+      "檀欒暎空曲，青翠漾漣漪。",
+      "暗入商山路，樵人不可知。"
+    ]
+  },
+  {
+    "uid": "QTS_128_027_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 鹿柴",
+    "poem": [
+      "空山不見人，但聞人語響。",
+      "返景入深林，復照青苔上。"
+    ]
+  },
+  {
+    "uid": "QTS_128_028_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 木蘭柴",
+    "poem": [
+      "秋山斂餘照，飛鳥逐前侶。",
+      "彩翠時分明，夕嵐無處所。"
+    ]
+  },
+  {
+    "uid": "QTS_128_029_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 茱萸沜",
+    "poem": [
+      "結實紅且綠，復如花更開。",
+      "山中儻留客，置此芙蓉杯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "芙蓉",
+        "variant": "茱萸",
+        "source": "一作「茱萸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_030_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 宮槐陌",
+    "poem": [
+      "仄逕蔭宮槐，幽陰多綠苔。",
+      "應門但迎埽，畏有山僧來。"
+    ]
+  },
+  {
+    "uid": "QTS_128_031_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 臨湖亭",
+    "poem": [
+      "輕舸迎上客，悠悠湖上來。",
+      "當軒對尊酒，四面芙蓉開。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "上",
+        "variant": "仙",
+        "source": "一作「仙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_032_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 南垞",
+    "poem": [
+      "輕舟南垞去，北垞淼難即。",
+      "隔浦望人家，遙遙不相識。"
+    ]
+  },
+  {
+    "uid": "QTS_128_033_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 欹湖",
+    "poem": [
+      "吹簫凌極浦，日暮送夫君。",
+      "湖上一回首，青山卷白雲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "首",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_034_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 柳浪",
+    "poem": [
+      "分行接綺樹，倒影入清漪。",
+      "不學御溝上，春風傷別離。"
+    ]
+  },
+  {
+    "uid": "QTS_128_035_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 欒家瀨",
+    "poem": [
+      "颯颯秋雨中，淺淺石溜瀉。",
+      "跳波自相濺，白鷺驚復下。"
+    ]
+  },
+  {
+    "uid": "QTS_128_036_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 金屑泉",
+    "poem": [
+      "日飲金屑泉，少當千餘歲。",
+      "翠鳳翊文螭，羽節朝玉帝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "翊",
+        "variant": "翔",
+        "source": "一作「翔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_037_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 白石灘",
+    "poem": [
+      "清淺白石灘，綠蒲向堪把。",
+      "家住水東西，浣紗明月下。"
+    ]
+  },
+  {
+    "uid": "QTS_128_038_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 北垞",
+    "poem": [
+      "北垞湖水北，雜樹暎朱闌。",
+      "逶迤南川水，明滅青林端。"
+    ]
+  },
+  {
+    "uid": "QTS_128_039_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 竹里館",
+    "poem": [
+      "獨坐幽篁裏，彈琴復長嘯。",
+      "深林人不知，明月來相照。"
+    ]
+  },
+  {
+    "uid": "QTS_128_040_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 辛夷塢",
+    "poem": [
+      "木末芙蓉花，山中發紅萼。",
+      "澗戶寂無人，紛紛開且落。"
+    ]
+  },
+  {
+    "uid": "QTS_128_041_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 漆園",
+    "poem": [
+      "古人非傲吏，自闕經世務。",
+      "偶寄一微官，婆娑數株樹。"
+    ]
+  },
+  {
+    "uid": "QTS_128_042_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "輞川集 椒園",
+    "poem": [
+      "桂尊迎帝子，杜若贈佳人。",
+      "椒漿奠瑤席，欲下雲中君。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "君",
+        "variant": "身",
+        "source": "一作「身」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_043_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "皇甫嶽雲溪雜題五首 鳥鳴澗",
+    "poem": [
+      "人閑桂花落，夜靜春山空。",
+      "月出驚山鳥，時鳴春澗中。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_128_043_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "皇甫嶽雲溪雜題五首 蓮花塢",
+    "poem": [
+      "日日采蓮去，洲長多暮歸。",
+      "弄篙莫濺水，畏濕紅蓮衣。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_128_043_03",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "皇甫嶽雲溪雜題五首 鸕鶿堰",
+    "poem": [
+      "乍向紅蓮沒，復出清蒲颺。",
+      "獨立何䙰褷，銜魚古查上。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_128_043_04",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "皇甫嶽雲溪雜題五首 上平田",
+    "poem": [
+      "朝耕上平田，暮耕上平田。",
+      "借問問津者，寧知沮溺賢。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_128_043_05",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "皇甫嶽雲溪雜題五首 萍池",
+    "poem": [
+      "春池深且廣，會待輕舟迴。",
+      "靡靡綠萍合，垂楊埽復開。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_128_044_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "荅裴迪輞口遇雨憶終南山之作",
+    "poem": [
+      "淼淼寒流廣，蒼蒼秋雨晦。",
+      "君問終南山，心知白雲外。"
+    ]
+  },
+  {
+    "uid": "QTS_128_045_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "山中寄諸弟妹",
+    "poem": [
+      "山中多法侶，禪誦自爲羣。",
+      "城郭遙相望，唯應見白雲。"
+    ]
+  },
+  {
+    "uid": "QTS_128_046_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "聞裴秀才迪吟詩因戲贈",
+    "poem": [
+      "猿吟一何苦，愁朝復悲夕。",
+      "莫作巫峽聲，腸斷秋江客。"
+    ]
+  },
+  {
+    "uid": "QTS_128_047_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "贈韋穆十八",
+    "poem": [
+      "與君青眼客，共有白雲心。",
+      "不相東山去，日令春草深。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_048_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送別",
+    "poem": [
+      "山中相送罷，日暮掩柴扉。",
+      "春草明年綠，王孫歸不歸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "明年",
+        "variant": "年年",
+        "source": "一作「年年」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_049_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "臨高臺送黎拾遺",
+    "poem": [
+      "相送臨高臺，川原杳何極。",
+      "日暮飛鳥還，行人去不息。"
+    ]
+  },
+  {
+    "uid": "QTS_128_050_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "別輞川別業",
+    "poem": [
+      "依遲動車馬，惆悵出松蘿。",
+      "忍別青山去，其如綠水何。"
+    ]
+  },
+  {
+    "uid": "QTS_128_051_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "崔九弟欲往南山馬上口號與別",
+    "poem": [
+      "城隅一分手，幾日還相見。",
+      "山中有桂花，莫待花如霰。"
+    ]
+  },
+  {
+    "uid": "QTS_128_052_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "題友人雲母障子",
+    "poem": [
+      "君家雲母障，時向野庭開。",
+      "自有山泉入，非因采畫來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "時",
+        "variant": "持",
+        "source": "一作「持」"
+      },
+      {
+        "line": 2,
+        "text": "因",
+        "variant": "關",
+        "source": "一作「關」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_053_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "紅牡丹",
+    "poem": [
+      "綠豔閑且靜，紅衣淺復深。",
+      "花心愁欲斷，春色豈知心。"
+    ]
+  },
+  {
+    "uid": "QTS_128_054_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "左掖梨花",
+    "poem": [
+      "閑灑階邊草，輕隨箔外風。",
+      "黃鶯弄不足，銜入未央宮。"
+    ]
+  },
+  {
+    "uid": "QTS_128_055_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "菩提寺禁口號又示裴迪",
+    "poem": [
+      "安得捨羅網，拂衣辭世喧。",
+      "悠然策藜杖，歸向桃花源。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "羅",
+        "variant": "塵",
+        "source": "一作「塵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_056_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "雜詩三首 其一",
+    "poem": [
+      "家住孟津河，門對孟津口。",
+      "常有江南船，寄書家中否。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_128_056_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "雜詩三首 其二",
+    "poem": [
+      "君自故鄉來，應知故鄉事。",
+      "來日綺窗前，寒梅着花未。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_128_056_03",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "雜詩三首 其三",
+    "poem": [
+      "已見寒梅發，復聞啼鳥聲。",
+      "心心視春草，畏向階前生。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_128_057_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "崔興宗寫真詠",
+    "poem": [
+      "畫君年少時，如今君已老。",
+      "今時新識人，知君舊時好。"
+    ]
+  },
+  {
+    "uid": "QTS_128_058_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "山茱萸",
+    "poem": [
+      "朱實山下開，清香寒更發。",
+      "幸與叢桂花，窗前向秋月。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "與",
+        "variant": "有",
+        "source": "一作「有」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_059_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "相思",
+    "poem": [
+      "紅豆生南國，春來發幾枝。",
+      "願君多采擷，此物最相思。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "秋",
+        "source": "一作「秋」"
+      },
+      {
+        "line": 1,
+        "text": "幾",
+        "variant": "故",
+        "source": "一作「故」"
+      },
+      {
+        "line": 2,
+        "text": "願",
+        "variant": "贈",
+        "source": "一作「贈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_060_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "書事",
+    "poem": [
+      "輕陰閣小雨，深院晝慵開。",
+      "坐看蒼苔色，欲上人衣來。"
+    ]
+  },
+  {
+    "uid": "QTS_128_061_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "哭孟浩然",
+    "poem": [
+      "故人不可見，漢水日東流。",
+      "借問襄陽老，江山空蔡州。"
+    ]
+  },
+  {
+    "uid": "QTS_128_062_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "闕題二首 其一",
+    "poem": [
+      "荊谿白石出，天寒紅葉稀。",
+      "山路元無雨，空翠濕人衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_128_062_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "闕題二首 其二",
+    "poem": [
+      "相看不忍發，慘淡暮潮平。",
+      "語罷更攜手，月明洲渚生。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_128_063_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其一",
+    "poem": [
+      "厭見千門萬戶，經過北里南鄰。",
+      "官府鳴珂有底，崆峒散髪何人。"
+    ],
+    "part_index": 1,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "厭見",
+        "variant": "出入",
+        "source": "一作「出入」"
+      },
+      {
+        "line": 2,
+        "text": "官府",
+        "variant": "蹀躞",
+        "source": "一作「蹀躞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_063_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其二",
+    "poem": [
+      "再見封侯萬戶，立談賜璧一雙。",
+      "詎勝耦耕南畝，何如高臥東窗。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_128_063_03",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其三",
+    "poem": [
+      "采菱渡頭風急，策杖林西日斜。",
+      "杏樹壇邊漁父，桃花源裏人家。"
+    ],
+    "part_index": 3,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "急",
+        "variant": "起",
+        "source": "一作「起」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_063_04",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其四",
+    "poem": [
+      "萋萋春草秋綠，落落長松夏寒。",
+      "牛羊自歸村巷，童稚不識衣冠。"
+    ],
+    "part_index": 4,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "綠",
+        "variant": "碧",
+        "source": "一作「碧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_063_05",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其五",
+    "poem": [
+      "山下孤煙遠村，天邊獨樹高原。",
+      "一瓢顏回陋巷，五柳先生對門。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_128_063_06",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其六",
+    "poem": [
+      "桃紅復含宿雨，柳綠更帶朝煙。",
+      "花落家童未埽，鶯啼山客猶眠。"
+    ],
+    "part_index": 6,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 2,
+        "text": "鶯",
+        "variant": "鳥",
+        "source": "一作「鳥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_063_07",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "田園樂七首 其七",
+    "poem": [
+      "酌酒會臨泉水，抱琴好倚長松。",
+      "南園露葵朝折，東谷黃粱夜舂。"
+    ],
+    "part_index": 7,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 2,
+        "text": "東谷",
+        "variant": "西舍",
+        "source": "一作「西舍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_064_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "少年行四首 其一",
+    "poem": [
+      "新豐美酒斗十千，咸陽遊俠多少年。",
+      "相逢意氣爲君飲，繫馬高樓垂柳邊。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_128_064_02",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "少年行四首 其二",
+    "poem": [
+      "出身仕漢羽林郎，初隨驃騎戰漁陽。",
+      "孰知不向邊庭苦，縱死猶聞俠骨香。"
+    ],
+    "part_index": 2,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 2,
+        "text": "苦",
+        "variant": "死",
+        "source": "一作「死」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_064_03",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "少年行四首 其三",
+    "poem": [
+      "一身能擘兩雕弧，虜騎千重只似無。",
+      "偏坐金鞍調白羽，紛紛射殺五單于。"
+    ],
+    "part_index": 3,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 1,
+        "text": "擘",
+        "variant": "臂",
+        "source": "一作「臂」"
+      },
+      {
+        "line": 1,
+        "text": "重",
+        "variant": "羣",
+        "source": "一作「羣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_064_04",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "少年行四首 其四",
+    "poem": [
+      "漢家君臣歡宴終，高議雲臺論戰功。",
+      "天子臨軒賜侯印，將軍佩出明光宮。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_128_065_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "贈裴旻將軍",
+    "poem": [
+      "腰間寶劒七星文，臂上琱弓百戰勳。",
+      "見說雲中擒黠虜，始知天上有將軍。"
+    ]
+  },
+  {
+    "uid": "QTS_128_066_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "九月九日憶山東兄弟",
+    "poem": [
+      "獨在異鄉為異客，每逢佳節倍思親。",
+      "遙知兄弟登高處，遍插茱萸少一人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "為",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_067_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送王尊師歸蜀中拜埽",
+    "poem": [
+      "大羅天上神仙客，濯錦江頭花柳春。",
+      "不爲碧雞稱使者，唯令白鶴報鄉人。"
+    ]
+  },
+  {
+    "uid": "QTS_128_068_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "渭城曲",
+    "poem": [
+      "渭城朝雨浥輕塵，客舍青青柳色新。",
+      "勸君更盡一杯酒，西出陽關無故人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "青青柳色新",
+        "variant": "依依楊柳春",
+        "source": "一作「依依楊柳春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_069_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "齊州送祖二",
+    "poem": [
+      "送君南浦淚如絲，君向東州使我悲。",
+      "爲報故人顦顇盡，如今不似洛陽時。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "州",
+        "variant": "周",
+        "source": "一作「周」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_070_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送韋評事",
+    "poem": [
+      "欲逐將軍取右賢，沙場走馬向居延。",
+      "遙知漢使蕭關外，愁見孤城落日邊。"
+    ]
+  },
+  {
+    "uid": "QTS_128_071_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "靈雲池送從弟",
+    "poem": [
+      "金杯緩酌清歌轉，畫舸輕移豔舞回。",
+      "自歎鶺鴒臨水別，不同鴻鴈向池來。"
+    ]
+  },
+  {
+    "uid": "QTS_128_072_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送沈子歸江東",
+    "poem": [
+      "楊柳渡頭行客稀，罟師盪槳向臨圻。",
+      "唯有相思似春色，江南江北送君歸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "君",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_073_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "與盧員外象過崔處士興宗林亭",
+    "poem": [
+      "綠樹重陰蓋四鄰，青苔日厚自無塵。",
+      "科頭箕踞長松下，白眼看他世上人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "重",
+        "variant": "垂",
+        "source": "一作「垂」"
+      },
+      {
+        "line": 2,
+        "text": "松",
+        "variant": "林",
+        "source": "一作「林」"
+      },
+      {
+        "line": 2,
+        "text": "他世上",
+        "variant": "君是甚",
+        "source": "一作「君是甚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_074_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "寒食汜上作",
+    "poem": [
+      "廣武城邊逢暮春，汶陽歸客淚沾巾。",
+      "落花寂寂啼山鳥，楊柳青青渡水人。"
+    ]
+  },
+  {
+    "uid": "QTS_128_075_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "戲題輞川別業",
+    "poem": [
+      "柳條拂地不須折，松樹披雲從更長。",
+      "藤花欲暗藏猱子，柏葉初齊養麝香。"
+    ]
+  },
+  {
+    "uid": "QTS_128_076_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "戲題盤石",
+    "poem": [
+      "可憐盤石臨泉水，復有垂楊拂酒杯。",
+      "若道春風不解意，何因吹送落花來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "臨",
+        "variant": "鄰",
+        "source": "一作「鄰」"
+      },
+      {
+        "line": 1,
+        "text": "拂",
+        "variant": "梢",
+        "source": "一作「梢」"
+      },
+      {
+        "line": 2,
+        "text": "何因",
+        "variant": "因何",
+        "source": "一作「因何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_128_077_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "寄河上段十六",
+    "poem": [
+      "與君相見即相親，聞道君家在孟津。",
+      "爲見行舟試借問，客中時有洛陽人。"
+    ]
+  },
+  {
+    "uid": "QTS_128_078_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "菩提寺禁裴迪來相看說逆賊等凝碧池上作音樂供奉人等舉聲便一時淚下私成口號誦示裴迪",
+    "poem": [
+      "萬戶傷心生野煙，百僚何日更朝天。",
+      "秋槐葉落空宮裏，凝碧池頭奏管弦。"
+    ]
+  },
+  {
+    "uid": "QTS_128_079_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "涼州賽神",
+    "poem": [
+      "涼州城外少行人，百尺峰頭望虜塵。",
+      "健兒擊鼓吹羌笛，共賽城東越騎神。"
+    ]
+  },
+  {
+    "uid": "QTS_128_080_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "劇嘲史寰",
+    "poem": [
+      "清風細雨濕梅花，驟馬先過碧玉家。",
+      "正值楚王宮裏至，門前初下七香車。"
+    ]
+  },
+  {
+    "uid": "QTS_128_081_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "歎白髪",
+    "poem": [
+      "宿昔朱顏成暮齒，須臾白髮變垂髫。",
+      "一生幾許傷心事，不向空門何處銷。"
+    ]
+  },
+  {
+    "uid": "QTS_128_082_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "伊州歌",
+    "poem": [
+      "清風明月苦相思，蕩子從戎十載餘。",
+      "征人去日慇懃囑，歸鴈來時數附書。"
+    ]
+  },
+  {
+    "uid": "QTS_128_083_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "送殷四葬",
+    "poem": [
+      "送君返葬石樓山，松栢蒼蒼賓馭還。",
+      "埋骨白雲長已矣，空餘流水向人間。"
+    ]
+  },
+  {
+    "uid": "QTS_128_084_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "疑夢",
+    "poem": [
+      "莫驚寵辱空憂喜，莫計恩讐浪苦辛。",
+      "黃帝孔丘何處問？安知不是夢中身。"
+    ]
+  },
+  {
+    "uid": "QTS_128_085_01",
+    "volume": 128,
+    "author": {
+      "canonical": "王維",
+      "recorded": "王維",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Wei",
+      "wikidata_id": "Q313605"
+    },
+    "title": "句",
+    "poem": [
+      "人家在仙掌，雲氣欲生衣。"
+    ],
+    "part_index": 1
+  }
+]

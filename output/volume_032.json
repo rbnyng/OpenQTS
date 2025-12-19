@@ -1,0 +1,700 @@
+[
+  {
+    "uid": "QTS_032_001_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "明堂樂章 肅和",
+    "poem": [
+      "象天御宇，乘時布政。",
+      "嚴配申虔，宗禋展敬。",
+      "罇罍盈列，樹羽交暎。",
+      "玉幣通誠，祚隆皇聖。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「季秋享上帝於明堂，降神用《豫和》。皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。送神用《豫和》。其《豫和》、《太和》、《壽和》、《凱安》五章，詞同《冬至圜丘》。」〉"
+  },
+  {
+    "uid": "QTS_032_002_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "明堂樂章 雍和",
+    "poem": [
+      "八牖晨披，五精朝奠。",
+      "霧凝璇篚，風清金縣。",
+      "神滌備全，明粢豐衍。",
+      "載絜彝俎，陳誠以薦。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "絜",
+        "variant": "結",
+        "source": "一作「結」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_003_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "明堂樂章 舒和",
+    "poem": [
+      "御扆合宮承寶曆，席圖重館奉明靈。",
+      "偃武修文九圍泰，沈烽靜柝八荒寧。"
+    ]
+  },
+  {
+    "uid": "QTS_032_004_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "雩祀樂章 肅和",
+    "poem": [
+      "朱鳥開辰，蒼龍啓暎。",
+      "大帝昭饗，羣生展敬。",
+      "禮備懷柔，功宣舞詠。",
+      "旬液應序，年祥葉慶。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「孟夏雩祀上帝於南郊，降神用《豫和》。皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。送神用《豫和》。其《豫和》、《太和》、《壽和》、《凱安》五章，詞同《冬至圜丘》。」〉"
+  },
+  {
+    "uid": "QTS_032_005_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "雩祀樂章 雍和",
+    "poem": [
+      "紺筵分彩，珤圖吐絢。",
+      "鳳管晨凝，雲歌曉囀。",
+      "肅事蘋藻，虔申桂奠。",
+      "百穀斯登，萬箱攸薦。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鳳",
+        "variant": "風",
+        "source": "一作「風」"
+      },
+      {
+        "line": 3,
+        "text": "蘋藻",
+        "variant": "蘭羞",
+        "source": "一作「蘭羞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_006_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "雩祀樂章 舒和",
+    "poem": [
+      "鳳曲登歌調令序，龍雩集舞泛祥風。",
+      "綵旞雲迴昭睿德，朱干電發表神功。"
+    ]
+  },
+  {
+    "uid": "QTS_032_007_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "享先農樂章 誠和",
+    "poem": [
+      "粒食伊始，農之所先。",
+      "古今攸賴，是曰人天。",
+      "耕斯帝籍，播厥公田。",
+      "式崇明祀，神其福焉。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「貞觀中《享先農樂》，迎神用《誠和》。皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。送神用《誠和》。其《太和》、《壽和》、《凱安》，詞同《冬至圜丘》。」〉"
+  },
+  {
+    "uid": "QTS_032_008_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "享先農樂章 肅和",
+    "poem": [
+      "罇彝既列，瑚簋方薦。",
+      "歌工載登，幣禮斯奠。",
+      "肅肅享祀，顒顒纓弁。",
+      "神之聽之，福流寰縣。"
+    ]
+  },
+  {
+    "uid": "QTS_032_009_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "享先農樂章 雍和",
+    "poem": [
+      "前夕視牲，質明奉俎。",
+      "沐芳整弁，其儀式序。",
+      "盛禮畢陳，嘉樂備舉。",
+      "歆我懿德，非馨稷黍。"
+    ]
+  },
+  {
+    "uid": "QTS_032_010_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "享先農樂章 舒和",
+    "poem": [
+      "羽籥低昂文綴已，干戚蹈厲武行初。",
+      "望歲祈農神所聽，延祥介福豈雲虛。"
+    ]
+  },
+  {
+    "uid": "QTS_032_011_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭神州樂章 肅和",
+    "poem": [
+      "大矣坤儀，至哉神縣。",
+      "包含日域，牢籠月竁。",
+      "露絜三清，風調六變。",
+      "皇祗屆止，式歆恭薦。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「貞觀中，祭神州於北郊。迎神用《順和》。皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。送神用《順和》。《順和》詞同《夏至方丘》。《太和》、《壽和》、《凱安》詞同《冬至圜丘》，並亮等作。」〉"
+  },
+  {
+    "uid": "QTS_032_012_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭神州樂章 雍和",
+    "poem": [
+      "泰圻嚴享，陰郊展敬。",
+      "禮以導神，樂以和性。",
+      "黝牲在列，黃琮俯暎。",
+      "九土既平，萬邦貽慶。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "邦",
+        "variant": "拜",
+        "source": "一作「拜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_013_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭神州樂章 舒和",
+    "poem": [
+      "坤道降祥和庶品，靈心載德厚羣生。",
+      "水土既調三極泰，文武畢備九區平。"
+    ]
+  },
+  {
+    "uid": "QTS_032_014_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭方丘樂章 順和",
+    "poem": [
+      "萬物資以化，交泰屬昇平。",
+      "易從業惟簡，得一道斯寧。",
+      "具儀光玉帛，送舞變咸英。",
+      "黍稷良非貴，明德信惟馨。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「貞觀中，夏至祭皇地祗於方丘。迎神用《順和》。皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。其《太和》、《壽和》、《凱安》三章，詞同《冬至圜丘》。」〉"
+  },
+  {
+    "uid": "QTS_032_015_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭方丘樂章 肅和",
+    "poem": [
+      "至矣坤德，皇哉地祗。",
+      "開元統紐，合大承規。",
+      "九宮肅列，六典相儀。",
+      "永言配命，長保無虧。"
+    ]
+  },
+  {
+    "uid": "QTS_032_016_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭方丘樂章 雍和",
+    "poem": [
+      "柔而能方，直而能敬。",
+      "厚載以德，大亨以正。",
+      "有滌斯牷，有馨斯盛。",
+      "介茲景福，祚我休慶。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "牷",
+        "variant": "牲",
+        "source": "一作「牲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_017_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭方丘樂章 舒和",
+    "poem": [
+      "玉幣牲牷分薦享，羽旄干鏚遰成容。",
+      "一德惟寧兩儀泰，三材保合四時邕。"
+    ]
+  },
+  {
+    "uid": "QTS_032_018_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "祭方丘樂章 順和",
+    "poem": [
+      "陰祗協贊，厚載方貞。",
+      "牲幣具舉，簫管備成。",
+      "其禮惟肅，其德惟明。",
+      "神之聽矣，式鑒虔誠。"
+    ]
+  },
+  {
+    "uid": "QTS_032_019_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "臨高臺",
+    "poem": [
+      "高臺暫俯臨，飛翼聳輕音。",
+      "浮光隨日度，漾影逐波深。",
+      "迴瞰周平野，開懷暢遠襟。",
+      "獨此三休上，還傷千歲心。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "歲",
+        "variant": "里",
+        "source": "一作「里」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_020_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "賦得蜀都",
+    "poem": [
+      "列宿光參井，分芒跨梁岷。",
+      "沈犀對江浦，駟馬入城闉。",
+      "英圖多霸跡，歷選有名臣。",
+      "連騎簪纓滿，含章詞賦新。",
+      "得上仙槎路，無待訪嚴遵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "參",
+        "variant": "輿",
+        "source": "一作「輿」"
+      },
+      {
+        "line": 1,
+        "text": "芒",
+        "variant": "土",
+        "source": "一作「土」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_021_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "奉和詠日午",
+    "poem": [
+      "曦車日亭午，浮箭未移暉。",
+      "日光無落照，樹影正中圍。",
+      "草萎看稍靡，葉燥望疑稀。",
+      "晝寢慙經笥，暫解入朝衣。"
+    ]
+  },
+  {
+    "uid": "QTS_032_022_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "奉和望月應魏王教",
+    "poem": [
+      "層軒登皎月，流照滿中天。",
+      "色共梁珠遠，光隨趙璧圓。",
+      "落影臨秋扇，虛輪入夜弦。",
+      "所欣東館裏，預奉西園篇。"
+    ]
+  },
+  {
+    "uid": "QTS_032_023_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "詠花燭",
+    "poem": [
+      "蘭逕香風滿，梅梁暖日斜。",
+      "言是東方騎，來尋南陌車。",
+      "靨星臨夜燭，眉月隱輕紗。",
+      "莫言春稍晚，自有鎮開花。"
+    ]
+  },
+  {
+    "uid": "QTS_032_024_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "在隴頭哭潘學士",
+    "poem": [
+      "隴底嗟長別，流襟一慟君。",
+      "何言幽咽所，更作死生分。",
+      "轉蓬飛不息，悲松斷更聞。",
+      "誰能駐征馬，回首望孤墳。"
+    ]
+  },
+  {
+    "uid": "QTS_032_025_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "奉和禁苑餞別應令",
+    "poem": [
+      "大藩初錫瑞，出牧邇皇京。",
+      "暫以綠車重，言承朱傳榮。",
+      "舒桃臨遠騎，垂柳映京營。",
+      "惠化宣千里，威風動百城。",
+      "禁篽芳嘉節，神襟餞送情。",
+      "金笳催別景，玉琯切離聲。",
+      "野花開更落，山鳥哢還驚。",
+      "微臣夙多幸，薄宦奉儲明。",
+      "釣臺慚作賦，伊水濫聞笙。",
+      "懷德良知久，酬恩識命輕。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "傳",
+        "variant": "邸",
+        "source": "一作「邸」"
+      },
+      {
+        "line": 5,
+        "text": "嘉",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 6,
+        "text": "琯",
+        "variant": "管",
+        "source": "一作「管」"
+      },
+      {
+        "line": 7,
+        "text": "更",
+        "variant": "且",
+        "source": "一作「且」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_026_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "和御史韋大夫喜霽之作",
+    "poem": [
+      "晴天度旅雁，斜影照殘虹。",
+      "野淨餘煙盡，山明遠色同。",
+      "沙平寒水落，葉脆晚枝空。",
+      "白簡光朝幰，彤騶出禁中。",
+      "息駕遊蘭坂，雕文折桂叢。",
+      "無因輕羽扇，徒自仰仁風。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "明",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 5,
+        "text": "坂",
+        "variant": "版",
+        "source": "一作「版」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_027_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "晚別樂記室彥",
+    "poem": [
+      "窮途屬歲晚，臨水忽分悲。",
+      "抱影同為客，傷情共此時。",
+      "霧色侵虛牖，霜氛冷薄帷。",
+      "舉袂慘將別，停杯悵不怡。",
+      "風巖征雁遠，雪暗去篷遲。",
+      "他鄉有岐路，遊子欲何之。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "共",
+        "variant": "去",
+        "source": "一作「去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_028_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "傷始平李少府正己",
+    "poem": [
+      "勞息本相循，悲歡理自均。",
+      "誰能免玄夜，惜爾正青春。",
+      "邁德惟家寶，生才諒國珍。",
+      "高文綴翡翠，茂學掩麒麟。",
+      "述作紛無已，言談妙入神。",
+      "斷腸雖累月，分手未盈旬。",
+      "輔嗣俄長往，顏生即短辰。",
+      "聲華滿昭代，形影委窮塵。",
+      "禪草迴中使，生芻引弔賓。",
+      "同遊秘府日，方駕直城闉。",
+      "並拜黃圖右，分曹清渭濱。",
+      "風期嵇呂好，存歿范張親。",
+      "虛座憐王述，遺篇慟景純。",
+      "精靈與毫翰，千祀壽何人。"
+    ],
+    "variants": [
+      {
+        "line": 13,
+        "text": "憐",
+        "variant": "懷",
+        "source": "一作「懷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_032_029_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "秋鴈",
+    "poem": [
+      "日暮霜風急，羽翮轉難任。",
+      "為有傳書意，翩翩入上林。"
+    ]
+  },
+  {
+    "uid": "QTS_032_030_01",
+    "volume": 32,
+    "author": {
+      "canonical": "褚亮",
+      "recorded": "褚亮",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Chu Liang",
+      "wikidata_id": "Q11318508"
+    },
+    "title": "句",
+    "poem": [
+      "神羊既不觸，夕鳥欲依人。"
+    ],
+    "part_index": 1
+  }
+]

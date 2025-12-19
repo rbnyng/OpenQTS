@@ -1,0 +1,1875 @@
+[
+  {
+    "uid": "QTS_523_001_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "懷鐘陵舊遊四首 其一",
+    "poem": [
+      "一謁征南最少年，虞卿雙璧截肪鮮。",
+      "歌謠千里春長暖，絲管高臺月正圓。",
+      "玉帳軍籌羅俊彥，絳帷環佩立神仙。",
+      "陸公餘德機雲在，如我酬恩合執鞭。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_523_001_02",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "懷鐘陵舊遊四首 其二",
+    "poem": [
+      "滕閣中春綺席開，柘枝蠻鼓殷晴雷。",
+      "垂樓萬幕青雲合，破浪千帆陣馬來。",
+      "未掘雙龍牛斗氣，高懸一榻棟樑材。",
+      "連巴控越知何事，珠翠沉檀處處堆。"
+    ],
+    "part_index": 2,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 4,
+        "text": "事",
+        "variant": "有",
+        "source": "一作「有」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_001_03",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "懷鐘陵舊遊四首 其三",
+    "poem": [
+      "十頃平湖堤柳合，岸秋蘭芷綠纖纖。",
+      "一聲明月採蓮女，四面朱樓卷畫簾。",
+      "白鷺煙分光的的，微漣風定翠湉湉。",
+      "斜輝更落西山影，千步虹橋氣象兼。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_523_001_04",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "懷鐘陵舊遊四首 其四",
+    "poem": [
+      "控壓平江十萬家，秋來江靜鏡新磨。",
+      "城頭晚鼓雷霆後，橋上遊人笑語多。",
+      "日落汀痕千里色，月當樓午一聲歌。",
+      "昔年行樂穠桃畔，醉與龍沙揀蜀羅。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_523_002_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "臺城曲二首 其一",
+    "poem": [
+      "整整復斜斜，隨旗簇晚沙。",
+      "門外韓擒虎，樓頭張麗華。",
+      "誰憐容足地，卻羨井中鼃。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_523_002_02",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "臺城曲二首 其二",
+    "poem": [
+      "王頒兵勢急，鼓下坐蠻奴。",
+      "瀲灩倪塘水，叉牙出骨須。",
+      "幹蘆一炬火，回首是平蕪。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_523_003_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "江上雨寄崔碣",
+    "poem": [
+      "春半平江雨，圓文破蜀羅。",
+      "聲眠篷底客，寒濕釣來蓑。",
+      "暗澹遮山遠，空濛著柳多。",
+      "此時懷舊恨，相望意如何。"
+    ]
+  },
+  {
+    "uid": "QTS_523_004_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "罷鐘陵幕吏十三年，來泊湓浦，感舊為詩",
+    "poem": [
+      "青梅雨中熟，檣倚酒旗邊。",
+      "故國殘春夢，孤舟一褐眠。",
+      "搖搖遠堤柳，暗暗十程煙。",
+      "南奏鐘陵道，無因似昔年。"
+    ]
+  },
+  {
+    "uid": "QTS_523_005_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "商山麻澗",
+    "poem": [
+      "雲光嵐彩四面合，柔柔垂柳十餘家。",
+      "雉飛鹿過芳草遠，牛巷雞塒春日斜。",
+      "秀眉老父對罇酒，蒨袖女兒簪野花。",
+      "征車自念塵土計，惆悵溪邊書細沙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "柔",
+        "variant": "桑",
+        "source": "一作「桑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_006_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "商山富水驛",
+    "poem": [
+      "益戇由來未覺賢，終須南去弔湘川。",
+      "當時物議朱雲小，後代聲華白日懸。",
+      "邪佞每思當面唾，清貧長欠一杯錢。",
+      "驛名不合輕移改，留警朝天者惕然。"
+    ],
+    "notes": [
+      {
+        "content": "驛本名與陽諫議同姓名，因此改為富水驛。",
+        "context": "商山富水驛",
+        "original_title": "商山富水驛〈驛本名與陽諫議同姓名，因此改為富水驛。〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_007_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "丹水",
+    "poem": [
+      "何事苦縈回，離腸不自裁。",
+      "恨身隨夢去，春態逐雲來。",
+      "沈定藍光徹，喧盤粉浪開。",
+      "翠巖三百尺，誰作子陵臺。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "身",
+        "variant": "聲",
+        "source": "一作「聲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_008_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題武關",
+    "poem": [
+      "碧溪留我武關東，一笑懷王跡自窮。",
+      "鄭袖嬌嬈酣似醉，屈原憔悴去如蓬。",
+      "山牆谷塹依然在，弱吐強吞盡已空。",
+      "今日聖神家四海，戍旗長卷夕陽中。"
+    ]
+  },
+  {
+    "uid": "QTS_523_009_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "除官赴闕商山道中絕句",
+    "poem": [
+      "水疊鳴珂樹如帳，長楊春殿九門珂。",
+      "我來惆悵不自決，欲去欲住終如何。"
+    ]
+  },
+  {
+    "uid": "QTS_523_010_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "漢江",
+    "poem": [
+      "溶溶漾漾白鷗飛，綠淨春深好染衣。",
+      "南去北來人自老，夕陽長送釣船歸。"
+    ]
+  },
+  {
+    "uid": "QTS_523_011_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "襄陽雪夜感懷",
+    "poem": [
+      "往事起獨念，飄然自不勝。",
+      "前灘急夜響，密雪映寒燈。",
+      "的的三年夢，迢迢一線縆。",
+      "明朝楚山上，莫上最高層。"
+    ]
+  },
+  {
+    "uid": "QTS_523_012_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "詠歌聖德，遠懷天寶，因題關亭長句四韻",
+    "poem": [
+      "聖敬文思業太平，海寰天下唱歌行。",
+      "秋來氣勢洪河壯，霜後精神泰華獰。",
+      "廣德者強朝萬國，用賢無敵是長城。",
+      "君王若悟治安論，安史何人敢弄兵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "獰",
+        "variant": "寧",
+        "source": "一作「寧」"
+      },
+      {
+        "line": 3,
+        "text": "者",
+        "variant": "有",
+        "source": "一作「有」"
+      },
+      {
+        "line": 4,
+        "text": "安論",
+        "variant": "皮諭",
+        "source": "一作「皮諭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_013_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "途中作",
+    "poem": [
+      "綠樹南陽道，千峰勢遠隨。",
+      "碧溪風澹態，芳樹雨餘姿。",
+      "野渡雲初暖，征人袖半垂。",
+      "殘花不足醉，行樂是何時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "澹",
+        "variant": "漫",
+        "source": "一作「漫」"
+      },
+      {
+        "line": 2,
+        "text": "餘",
+        "variant": "陰",
+        "source": "一作「陰」"
+      },
+      {
+        "line": 4,
+        "text": "足",
+        "variant": "一",
+        "source": "一作「一」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_014_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "重到襄陽，哭亡友韋壽朋",
+    "poem": [
+      "故人墳樹立秋風，伯道無兒跡更空。",
+      "重到笙歌分散地，隔江吹笛月明中。"
+    ],
+    "notes": [
+      {
+        "content": "一作「重宿襄州哭韋楚老拾遺」",
+        "context": "亡友韋壽朋",
+        "original_title": "重到襄陽，哭亡友韋壽朋〈一作「重宿襄州哭韋楚老拾遺」〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "立",
+        "variant": "五",
+        "source": "一作「五」"
+      },
+      {
+        "line": 2,
+        "text": "笛",
+        "variant": "曲",
+        "source": "一作「曲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_015_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "赤壁",
+    "poem": [
+      "折戟沈沙鐵未銷，自將磨洗認前朝。",
+      "東風不與周郎便，銅雀春深鎖二喬。"
+    ],
+    "notes": [
+      {
+        "content": "一作李商隱詩",
+        "context": "赤壁",
+        "original_title": "赤壁〈一作李商隱詩〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "未",
+        "variant": "半",
+        "source": "一作「半」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_016_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "雲夢澤",
+    "poem": [
+      "日旗龍旆想飄揚，一索功高縛楚王。",
+      "直是超然五湖客，未如終始郭汾陽。"
+    ]
+  },
+  {
+    "uid": "QTS_523_017_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "除官行至昭應，聞友人出官因寄",
+    "poem": [
+      "賤子來千里，明公去一麾。",
+      "可能休涕淚，豈獨感恩知。",
+      "草木窮秋後，山川落照時。",
+      "如何望故國，驅馬卻遲遲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "可",
+        "variant": "不",
+        "source": "一作「不」"
+      },
+      {
+        "line": 2,
+        "text": "休",
+        "variant": "揮",
+        "source": "一作「揮」"
+      },
+      {
+        "line": 3,
+        "text": "窮秋",
+        "variant": "秋風",
+        "source": "一作「秋風」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_018_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄浙東韓八評事",
+    "poem": [
+      "一笑五雲溪上舟，跳丸日月十經秋。",
+      "鬢衰酒減欲誰泥，跡辱魂慚好自尤。",
+      "夢寐幾回迷蛺蝶，文章應解伴牢愁。",
+      "無窮塵土無聊事，不得清言解不休。"
+    ]
+  },
+  {
+    "uid": "QTS_523_019_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "泊秦淮",
+    "poem": [
+      "煙籠寒水月籠沙，夜泊秦淮近酒家。",
+      "商女不知亡國恨，隔江猶唱後庭花。"
+    ]
+  },
+  {
+    "uid": "QTS_523_020_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "秋浦途中",
+    "poem": [
+      "蕭蕭山路窮秋雨，淅淅溪風一岸蒲。",
+      "為問寒沙新到雁，來時還下杜陵無。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "岸",
+        "variant": "片",
+        "source": "一作「片」"
+      },
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "狂",
+        "source": "一作「狂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_021_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題桃花夫人廟",
+    "poem": [
+      "細腰宮裏露桃新，脈脈無言度幾春。",
+      "至竟息亡緣底事，可憐金谷墜樓人。"
+    ],
+    "notes": [
+      {
+        "content": "即息夫人",
+        "context": "題桃花夫人",
+        "original_title": "題桃花夫人〈即息夫人〉廟"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_022_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "初春有感，寄歙州邢員外",
+    "poem": [
+      "雪漲前溪水，啼聲已繞灘。",
+      "梅衰未減態，春嫩不禁寒。",
+      "跡去夢一覺，年來事百般。",
+      "聞君亦多感，何處倚闌干。"
+    ]
+  },
+  {
+    "uid": "QTS_523_023_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "書懷寄中朝往還",
+    "poem": [
+      "平生自許少塵埃，為吏塵中勢自回。",
+      "朱紱久慚官借與，白題還嘆老將來。",
+      "須知世路難輕進，豈是君門不大開。",
+      "霄漢幾多同學伴，可憐頭角盡卿材。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "題",
+        "variant": "頭",
+        "source": "一作「頭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_024_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄崔鈞",
+    "poem": [
+      "緘書報子玉，為我謝平津。",
+      "自愧掃門士，誰為乞火人。",
+      "詞臣陪羽獵，戰將騁騏驎。",
+      "兩地差池恨，江汀醉送君。"
+    ]
+  },
+  {
+    "uid": "QTS_523_025_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "初春雨中舟次和州橫江裴使君見迎李趙二秀才同來因書四韻兼寄江南許渾先輩",
+    "poem": [
+      "芳草渡頭微雨時，萬株楊柳拂波垂。",
+      "蒲根水暖雁初浴，梅徑香寒蜂未知。",
+      "辭客倚風吟暗淡，使君回馬濕旌旗。",
+      "江南仲蔚多情調，悵望春陰幾首詩。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_026_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "和州絕句",
+    "poem": [
+      "江湖醉渡十年春，牛渚山邊六問津。",
+      "曆陽前事知何實，高位紛紛見陷人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "何",
+        "variant": "虛",
+        "source": "一作「虛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_027_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題烏江亭",
+    "poem": [
+      "勝敗兵家事不期，包羞忍恥是男兒。",
+      "江東子弟多才俊，捲土重來未可知。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "兵家",
+        "variant": "由來",
+        "source": "一作「由來」"
+      },
+      {
+        "line": 1,
+        "text": "事不",
+        "variant": "不可",
+        "source": "一作「不可」"
+      },
+      {
+        "line": 2,
+        "text": "才",
+        "variant": "豪",
+        "source": "一作「豪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_028_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題橫江館",
+    "poem": [
+      "孫家兄弟晉龍驤，馳騁功名業帝王。",
+      "至竟江山誰是主，苔磯空屬釣魚郎。"
+    ]
+  },
+  {
+    "uid": "QTS_523_029_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄澧州張舍人笛",
+    "poem": [
+      "髮勻肉好生春嶺，截玉鑽星寄使君。",
+      "檀的染時痕半月，落梅飄處響穿雲。",
+      "樓中威鳳傾冠聽，沙上驚鴻掠水分。",
+      "遙想紫泥封詔罷，夜深應隔禁牆聞。"
+    ]
+  },
+  {
+    "uid": "QTS_523_030_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄揚州韓綽判官",
+    "poem": [
+      "青山隱隱水迢迢，秋盡江南草木凋。",
+      "二十四橋明月夜，玉人何處教吹簫。"
+    ]
+  },
+  {
+    "uid": "QTS_523_031_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "送李群玉赴舉",
+    "poem": [
+      "故人別來面如雪，一榻拂雲秋影中。",
+      "玉白花紅三百首，五陵誰唱與春風。"
+    ]
+  },
+  {
+    "uid": "QTS_523_032_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "送薛種游湖南",
+    "poem": [
+      "賈傅松醪酒，秋來美更香。",
+      "憐君片雲思，一去繞瀟湘。"
+    ]
+  },
+  {
+    "uid": "QTS_523_033_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題壽安縣甘棠館御溝",
+    "poem": [
+      "一渠東注芳華苑，苑鏁池塘百歲空。",
+      "水殿半傾蟾口澀，為誰流下蓼花中。"
+    ]
+  },
+  {
+    "uid": "QTS_523_034_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "汴河懷古",
+    "poem": [
+      "錦纜龍舟隋煬帝，平臺複道漢梁王。",
+      "遊人閒起前朝念，折柳孤吟斷殺腸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "閒",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_035_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "汴河阻凍",
+    "poem": [
+      "千里長河初凍時，玉珂瑤佩響參差。",
+      "浮生卻似冰底水，日夜東流人不知。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "卻",
+        "variant": "一",
+        "source": "一作「一」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_036_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "酬張祜處士見寄長句四韻",
+    "poem": [
+      "七子論詩誰似公，曹劉須在指揮中。",
+      "薦衡昔日知文舉，乞火無人作蒯通。",
+      "北極樓臺長掛夢，西江波浪遠吞空。",
+      "可憐故國三千里，虛唱歌詞滿六宮。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "無",
+        "variant": "何",
+        "source": "一作「何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_037_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄宣州鄭諫議",
+    "poem": [
+      "大夫官重醉江東，瀟灑名儒振古風。",
+      "文石陛前辭聖主，碧雲天外作冥鴻。",
+      "五言寧謝顏光祿，百歲須齊衛武公。",
+      "再拜宜同丈人行，過庭交分有無同。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "同",
+        "variant": "為",
+        "source": "一作「為」"
+      },
+      {
+        "line": 4,
+        "text": "無",
+        "variant": "誰",
+        "source": "一作「誰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_038_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題元處士高亭",
+    "poem": [
+      "水接西江天外聲，小齋松影拂雲平。",
+      "何人教我吹長笛，與倚春風弄月明。"
+    ],
+    "notes": [
+      {
+        "content": "宣州",
+        "context": "元處士高亭",
+        "original_title": "題元處士高亭〈宣州〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "與",
+        "variant": "興",
+        "source": "一作「興」"
+      },
+      {
+        "line": 2,
+        "text": "春",
+        "variant": "秋",
+        "source": "一作「秋」，又作「清」。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_039_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "鄭瓘協律",
+    "poem": [
+      "廣文遺韻留樗散，雞犬圖書共一船。",
+      "自說江湖不歸事，阻風中酒過年年。"
+    ]
+  },
+  {
+    "uid": "QTS_523_040_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "和野人殷潛之題籌筆驛十四韻",
+    "poem": [
+      "三吳裂婺女，九錫獄孤兒。",
+      "霸主業未半，本朝心是誰。",
+      "永安宮受詔，籌筆驛沉思。",
+      "畫地乾坤在，濡毫勝負知。",
+      "艱難同草創，得失計毫釐。",
+      "寂默經千慮，分明渾一期。",
+      "川流縈智思，山聳助扶持。",
+      "慷慨匡時略，從容問罪師。",
+      "褒中秋鼓角，渭曲晚旌旗。",
+      "仗義懸無敵，鳴攻故有辭。",
+      "若非天奪去，豈復慮能支。",
+      "子夜星才落，鴻毛鼎便移。",
+      "郵亭世自換，白日事長垂。",
+      "何處躬耕者，猶題殄瘁詩。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "主",
+        "variant": "王",
+        "source": "一作「王」"
+      },
+      {
+        "line": 6,
+        "text": "渾",
+        "variant": "混",
+        "source": "一作「混」"
+      },
+      {
+        "line": 10,
+        "text": "故",
+        "variant": "固",
+        "source": "一作「固」"
+      },
+      {
+        "line": 11,
+        "text": "慮",
+        "variant": "虜",
+        "source": "一作「虜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_041_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "重題絕句一首",
+    "poem": [
+      "郵亭寄人世，人世寄郵亭。",
+      "何如自籌度，鴻路有冥冥。"
+    ]
+  },
+  {
+    "uid": "QTS_523_042_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "送陸洿郎中棄官東歸",
+    "poem": [
+      "少微星動照春雲，魏闕衡門路自分。",
+      "倏去忽來應有意，世間塵土謾疑君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "動",
+        "variant": "裏",
+        "source": "一作「裏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_043_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄瑉笛與宇文舍人",
+    "poem": [
+      "調高銀字聲還側，物比柯亭韻校奇。",
+      "寄與玉人天上去，桓將軍見不教吹。"
+    ]
+  },
+  {
+    "uid": "QTS_523_044_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄內兄和州崔員外十二韻",
+    "poem": [
+      "歷陽崔太守，何日不含情。",
+      "恩義同鐘李，塤篪實弟兄。",
+      "光塵能混合，擘畫最分明。",
+      "臺閣仁賢譽，閨門孝友聲。",
+      "西方像教毀，南海繡衣行。",
+      "金橐寧回顧，珠簟肯一棖。",
+      "只宜裁密詔，何自取專城。",
+      "進退無非道，徊翔必有名。",
+      "好風初婉軟，離思苦縈盈。",
+      "金馬舊遊貴，桐廬春水生。",
+      "雨侵寒牖夢，梅引凍醪傾。",
+      "共祝中興主，高歌唱太平。"
+    ]
+  },
+  {
+    "uid": "QTS_523_045_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "遣興",
+    "poem": [
+      "鏡弄白髭鬚，如何作老夫。",
+      "浮生長勿勿，兒小且嗚嗚。",
+      "忍過事堪喜，泰來憂勝無。",
+      "治平心徑熟，不遣有窮途。"
+    ]
+  },
+  {
+    "uid": "QTS_523_046_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "早秋",
+    "poem": [
+      "踈雨洗空曠，秋標驚意新。",
+      "大熱去酷吏，清風來故人。",
+      "尊酒酌未酌，晚花嚬不嚬。",
+      "銖秤與縷雪，誰覺老陳陳。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_047_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "秋思",
+    "poem": [
+      "熱去解鉗釱，飄蕭秋半時。",
+      "微雨池塘見，好風襟袖知。",
+      "發短梳未足，枕涼閑且欹。",
+      "平生分過此，何事不參差。"
+    ]
+  },
+  {
+    "uid": "QTS_523_048_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "途中一絕",
+    "poem": [
+      "鏡中絲髮悲來慣，衣上塵痕拂漸難。",
+      "惆悵江湖釣竿手，卻遮西日向長安。"
+    ]
+  },
+  {
+    "uid": "QTS_523_049_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "春盡途中",
+    "poem": [
+      "田園不事來遊宦，故國誰教爾別離。",
+      "獨倚關亭還把酒，一年春盡送春詩。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "詩",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_050_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題村舍",
+    "poem": [
+      "三樹稚桑春未到，扶床乳女午啼飢。",
+      "潛銷暗鑠歸何處，萬指侯家自不知。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "三",
+        "variant": "數",
+        "source": "一作「數」"
+      },
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "劘",
+        "source": "一作「劘」"
+      },
+      {
+        "line": 1,
+        "text": "乳",
+        "variant": "兒",
+        "source": "一作「兒」"
+      },
+      {
+        "line": 2,
+        "text": "指",
+        "variant": "戶",
+        "source": "一作「戶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_051_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "代人寄遠六言二首 其一",
+    "poem": [
+      "河橋酒旆風軟，候館梅花雪嬌。",
+      "宛陵樓上瞪目，我郎何處情饒。"
+    ],
+    "notes": [
+      {
+        "content": "一本作一首",
+        "context": "遠六言二首",
+        "original_title": "代人寄遠六言二首〈一本作一首〉"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "瞪目",
+        "variant": "春晚",
+        "source": "一作「春晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_051_02",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "代人寄遠六言二首 其二",
+    "poem": [
+      "繡領任垂蓬髻，丁香閒結春梢。",
+      "剩肯新年歸否，江南綠草迢迢。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_523_052_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "閨情",
+    "poem": [
+      "娟娟卻月眉，新鬢學鴉飛。",
+      "暗砌勻檀粉，晴窗畫夾衣。",
+      "袖紅垂寂寞，眉黛斂衣稀。",
+      "還向長陵去，今宵歸不歸。"
+    ]
+  },
+  {
+    "uid": "QTS_523_053_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "舊游",
+    "poem": [
+      "閒吟芍藥詩，惆望久嚬眉。",
+      "盼眄回眸遠，纖衫整髻遲。",
+      "重尋春晝夢，笑把淺花枝。",
+      "小市長陵住，非郎誰得知。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "衫",
+        "variant": "摻",
+        "source": "一作「摻」"
+      },
+      {
+        "line": 2,
+        "text": "髻",
+        "variant": "鬢",
+        "source": "一作「鬢」"
+      },
+      {
+        "line": 3,
+        "text": "笑",
+        "variant": "擬",
+        "source": "一作「擬」"
+      },
+      {
+        "line": 4,
+        "text": "誰",
+        "variant": "作",
+        "source": "一作「作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_054_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄遠",
+    "poem": [
+      "隻影隨驚鴈，單棲鏁畫籠。",
+      "向春羅袖薄，誰念舞臺風。"
+    ]
+  },
+  {
+    "uid": "QTS_523_055_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "簾",
+    "poem": [
+      "徒云逢剪削，豈謂見偏裝。",
+      "鳳節輕雕日，鸞花薄飾香。",
+      "問屏何屈曲，憐帳解周防。",
+      "下漬金階露，斜分碧瓦霜。",
+      "沉沉伴春夢，寂寂侍華堂。",
+      "誰見昭陽殿，真珠十二行。"
+    ]
+  },
+  {
+    "uid": "QTS_523_056_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄題甘露寺北軒",
+    "poem": [
+      "曾向蓬萊宮裏行，北軒闌檻最留情。",
+      "孤高堪弄桓伊笛，縹緲宜聞子晉笙。",
+      "天接海門秋水色，煙籠隋苑暮鐘聲。",
+      "他年會著荷衣去，不向山僧說姓名。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "向",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 3,
+        "text": "隋",
+        "variant": "鹿",
+        "source": "一作「鹿」"
+      },
+      {
+        "line": 4,
+        "text": "說",
+        "variant": "道",
+        "source": "一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_057_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題青雲館",
+    "poem": [
+      "虬蟠千仞劇羊腸，天府由來百二強。",
+      "四皓有芝輕漢祖，張儀無地與懷王。",
+      "雲連帳影蘿陰合，枕繞泉聲客夢涼。",
+      "深處會容高尚者，水苗三頃百株桑。"
+    ]
+  },
+  {
+    "uid": "QTS_523_058_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "正初奉酬歙州刺史邢群",
+    "poem": [
+      "翠巖千尺倚溪斜，曾得嚴光作釣家。",
+      "越嶂遠分丁字水，臘梅遲見二年花。",
+      "明時刀尺君須用，幽處田園我有涯。",
+      "一壑風煙陽羨里，解龜休去路非賒。"
+    ]
+  },
+  {
+    "uid": "QTS_523_059_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "江上偶見絕句",
+    "poem": [
+      "楚江寒食橘花時，野渡臨風駐彩旗。",
+      "草色連雲人去住，水紋如縠燕差池。"
+    ]
+  },
+  {
+    "uid": "QTS_523_060_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題木蘭廟",
+    "poem": [
+      "彎弓征戰作男兒，夢裏曾經與畫眉。",
+      "幾度思歸還把酒，拂雲堆上祝明妃。"
+    ]
+  },
+  {
+    "uid": "QTS_523_061_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "入商山",
+    "poem": [
+      "早入商山百里雲，藍溪橋下水聲分。",
+      "流水舊聲人舊耳，此回嗚咽不堪聞。"
+    ]
+  },
+  {
+    "uid": "QTS_523_062_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "偶題",
+    "poem": [
+      "甘羅昔作秦丞相，子政曾為漢輦郎。",
+      "千載更逢王侍讀，當時還道有文章。"
+    ]
+  },
+  {
+    "uid": "QTS_523_063_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "送盧秀才一絕",
+    "poem": [
+      "春瀨與煙遠，送君孤棹開。",
+      "潺湲如不改，愁更釣魚來。"
+    ]
+  },
+  {
+    "uid": "QTS_523_064_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "醉題",
+    "poem": [
+      "金鑷洗霜鬢，銀觥敵露桃。",
+      "醉頭扶不起，三丈日還高。"
+    ]
+  },
+  {
+    "uid": "QTS_523_065_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題商山四皓廟一絕",
+    "poem": [
+      "呂氏強梁嗣子柔，我於天性豈恩讎。",
+      "南軍不袒左邊袖，四老安劉是滅劉。"
+    ]
+  },
+  {
+    "uid": "QTS_523_066_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "送隱者一絕",
+    "poem": [
+      "無媒徑路草蕭蕭，自古雲林遠市朝。",
+      "公道世間唯白髮，貴人頭上不曾饒。"
+    ]
+  },
+  {
+    "uid": "QTS_523_067_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "題張處士山莊一絕",
+    "poem": [
+      "好鳥疑敲磬，風蟬認軋箏。",
+      "修篁與嘉樹，偏倚半岩生。"
+    ]
+  },
+  {
+    "uid": "QTS_523_068_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "有懷重送斛斯判官",
+    "poem": [
+      "蒼蒼煙月滿川亭，我有勞歌一為聽。",
+      "將取離魂隨白騎，三台星裏拜文星。"
+    ]
+  },
+  {
+    "uid": "QTS_523_069_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "贈別二首 其一",
+    "poem": [
+      "娉娉褭褭十三餘，豆蔻梢頭二月初。",
+      "春風十裏揚州路，卷上珠簾總不如。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "路",
+        "variant": "郭",
+        "source": "一作「郭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_069_02",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "贈別二首 其二",
+    "poem": [
+      "多情卻似總無情，唯覺尊前笑不成。",
+      "蠟燭有心還惜別，替人垂淚到天明。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "唯",
+        "variant": "但",
+        "source": "一作「但」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_070_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "寄遠",
+    "poem": [
+      "前山極遠碧雲合，清夜一聲白雪微。",
+      "欲寄相思千里月，溪邊殘照雨霏霏。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "極遠",
+        "variant": "遠極",
+        "source": "一作「遠極」"
+      },
+      {
+        "line": 2,
+        "text": "溪邊",
+        "variant": "傍溪",
+        "source": "一作「傍溪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_523_071_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "少年行",
+    "poem": [
+      "官為駿馬監，職帥羽林兒。",
+      "兩綬藏不見，落花何處期。",
+      "獵敲白玉鐙，怒袖紫金錘。",
+      "田竇長留醉，蘇辛曲讓岐。",
+      "豪持出塞節，笑別遠山眉。",
+      "捷報雲臺賀，公卿拜夀巵。"
+    ]
+  },
+  {
+    "uid": "QTS_523_072_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "盆池",
+    "poem": [
+      "鑿破蒼苔地，偷他一片天。",
+      "白雲生鏡裏，明月落堦前。"
+    ]
+  },
+  {
+    "uid": "QTS_523_073_01",
+    "volume": 523,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "有寄",
+    "poem": [
+      "雲闊煙深樹，江澄水浴秋。",
+      "美人何處在，明月萬山頭。"
+    ]
+  }
+]

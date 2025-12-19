@@ -1,0 +1,499 @@
+[
+  {
+    "uid": "QTS_103_001_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和聖制立春日侍宴內殿出剪綵花應制",
+    "poem": [
+      "剪綵迎初候，攀條故寫真。",
+      "花隨紅意發，葉就綠情新。",
+      "嫩色驚銜燕，輕香誤採人。",
+      "應爲熏風拂，能令芳樹春。"
+    ]
+  },
+  {
+    "uid": "QTS_103_002_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和人日清暉閣宴羣臣遇雪應制",
+    "poem": [
+      "出震乘東陸，憑高御北辰。",
+      "祥雲應早歲，瑞雪候初旬。",
+      "庭樹千花發，階蓂七葉新。",
+      "幸承今日宴，長奉萬年春。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "庭",
+        "variant": "宮",
+        "source": "一作「宮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_003_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和七夕兩儀殿會宴應制",
+    "poem": [
+      "青女三秋節，黃姑七日期。",
+      "星橋度玉珮，雲閣掩羅帷。",
+      "河氣通仙掖，天文入睿詞。",
+      "今宵望靈漢，應得見蛾眉。"
+    ]
+  },
+  {
+    "uid": "QTS_103_004_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和九日幸臨渭亭登高應制",
+    "poem": [
+      "秋豫凝仙覽，宸遊轉翠華。",
+      "呼鷹下鳥路，戲馬出龍沙。",
+      "紫菊宜新壽，丹萸辟舊邪。",
+      "須陪長久宴，歲歲奉吹花。"
+    ]
+  },
+  {
+    "uid": "QTS_103_005_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和九月九日登慈恩寺浮屠應制",
+    "poem": [
+      "出豫乘秋節，登高陟梵宮。",
+      "皇心滿塵界，佛跡現虛空。",
+      "日月宜長壽，人天得大通。",
+      "喜聞題寶偈，受記莫由同。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "秋",
+        "variant": "佳",
+        "source": "一作「佳」"
+      },
+      {
+        "line": 1,
+        "text": "登",
+        "variant": "憑",
+        "source": "一作「憑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_006_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "安樂公主移入新宅侍宴應制同用開字",
+    "poem": [
+      "雲物中京曉，天人外館開。",
+      "飛橋象河漢，懸牓學蓬萊。",
+      "北闕臨仙檻，南山送壽杯。",
+      "一窺輪奐畢，慚恧棟梁材。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "慚恧",
+        "variant": "更思",
+        "source": "一作「更思」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_007_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和送金城公主適西蕃應制",
+    "poem": [
+      "聖后經綸遠，謀臣計畫多。",
+      "受降追漢策，築館許戎和。",
+      "俗化烏孫壘，春生積石河。",
+      "六龍今出餞，雙鶴願爲歌。"
+    ]
+  },
+  {
+    "uid": "QTS_103_008_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和聖制登驪山高頂寓目應制",
+    "poem": [
+      "皇情遍九垓，御輦駐昭回。",
+      "路若隨天轉，人疑近日來。",
+      "河看大禹鑿，山見巨靈開。",
+      "願扈登封駕，常持薦壽杯。"
+    ]
+  },
+  {
+    "uid": "QTS_103_009_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和幸白鹿觀應制",
+    "poem": [
+      "雲驂驅半景，星蹕坐中天。",
+      "國誕玄宗聖，家尋碧落仙。",
+      "玉杯鸞薦壽，寶算鶴知年。",
+      "一覩光華旦，欣承道德篇。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "玄",
+        "variant": "元",
+        "source": "一作「元」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_010_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "哭僕射鄂公楊再思",
+    "poem": [
+      "兩揆光天秩，三朝奉帝熙。",
+      "何言集大鳥，忽此喪元龜。",
+      "坐歎公槐落，行聞宰樹悲。",
+      "壑舟今已去，寧有濟川期。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "悲",
+        "variant": "萎",
+        "source": "一作「萎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_011_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "人日侍讌大明宮應制",
+    "poem": [
+      "寶契無爲屬聖人，琱輿出幸玩芳辰。",
+      "平樓半入南山霧，飛閤旁臨東墅春。",
+      "夾路穠花千樹發，垂軒弱柳萬條新。",
+      "處處風光今日好，年年願奉屬車塵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "墅",
+        "variant": "野",
+        "source": "一作「野」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_012_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和初春幸太平公主南莊應制",
+    "poem": [
+      "主第巖扃駕鵲橋，天門閶闔降鸞鑣。",
+      "歷亂旌旗轉雲樹，參差臺榭入煙霄。",
+      "林間花雜平陽舞，谷裏鶯和弄玉簫。",
+      "已陪沁水追歡日，行奉茅山訪道朝。"
+    ]
+  },
+  {
+    "uid": "QTS_103_013_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和幸安樂公主山莊應制",
+    "poem": [
+      "六龍齊軫御朝曦，雙鷁維舟下綠池。",
+      "飛觀仰看雲外聳，浮橋直見海中移。",
+      "靈泉巧鑿天孫渚，孝筍能抽帝女枝。",
+      "幸願一生同草樹，年年歲歲樂於斯。"
+    ]
+  },
+  {
+    "uid": "QTS_103_014_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和幸大薦福寺",
+    "poem": [
+      "寶地龍飛後，金身佛現時。",
+      "千花開國界，萬善累皇基。",
+      "北闕承行幸，西園屬住持。",
+      "天衣拂舊石，王舍起新祠。",
+      "剎鳳迎琱輦，幡虹駐綵旗。",
+      "同沾小雨潤，竊仰大風詩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "寶",
+        "variant": "瑤",
+        "source": "一作「瑤」，一作「初」"
+      },
+      {
+        "line": 1,
+        "text": "金",
+        "variant": "今",
+        "source": "一作「今」"
+      },
+      {
+        "line": 2,
+        "text": "皇",
+        "variant": "重",
+        "source": "一作「重」"
+      },
+      {
+        "line": 6,
+        "text": "竊仰",
+        "variant": "仰詠",
+        "source": "一作「仰詠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_103_015_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和幸長安故城未央宮應制",
+    "poem": [
+      "夙駕移天蹕，憑軒覽漢都。",
+      "寒煙收紫禁，春色繞黃圖。",
+      "舊史遺陳跡，前王失霸符。",
+      "山河寸土盡，宮觀尺椽無。",
+      "崇高惟在德，壯麗豈爲謨。",
+      "茨室留皇鑒，熏歌盛有虞。"
+    ]
+  },
+  {
+    "uid": "QTS_103_016_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和幸韋嗣立山莊侍燕應制",
+    "poem": [
+      "賢族唯題里，儒門但署鄉。",
+      "何如表巖洞，宸翰發輝光。",
+      "地在茲山曲，家臨郃水陽。",
+      "六龍駐旌罕，四牡耀旂常。",
+      "北斗臨台座，東山入廟堂。",
+      "天高羽翼近，主聖股肱良。",
+      "野竹池亭氣，村花澗谷香。",
+      "縱然懷豹隱，空愧躡鵷行。"
+    ]
+  },
+  {
+    "uid": "QTS_103_017_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和元日賜羣臣栢葉應制",
+    "poem": [
+      "器乏雕梁器，材非構廈材。",
+      "但將千歲葉，常奉萬年杯。"
+    ]
+  },
+  {
+    "uid": "QTS_103_018_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "苑中人日遇雪應制",
+    "poem": [
+      "始見青雲干律呂，俄逢瑞雪應陽春。",
+      "今日迴看上林樹，梅花柳絮一時新。"
+    ]
+  },
+  {
+    "uid": "QTS_103_019_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "奉和聖制幸韋嗣立山莊應制",
+    "poem": [
+      "廊廟心存巖壑中，鑾輿矚在灞城東。",
+      "逍遙自在蒙莊子，漢主徒言河上公。"
+    ]
+  },
+  {
+    "uid": "QTS_103_020_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "秋朝木芙蓉",
+    "poem": [
+      "水面芙蓉秋已衰，繁條偏是著花遲。",
+      "平明露滴垂紅臉，似有朝愁暮落時。"
+    ]
+  },
+  {
+    "uid": "QTS_103_021_01",
+    "volume": 103,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "侍宴桃花園詠桃花應制",
+    "poem": [
+      "紅萼競燃春苑曙，粉茸新吐御筵開。",
+      "長年願奉西王母，近侍慚無東朔才。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "燃",
+        "variant": "妍",
+        "source": "一作「妍」"
+      },
+      {
+        "line": 1,
+        "text": "吐",
+        "variant": "向",
+        "source": "一作「向」"
+      },
+      {
+        "line": 2,
+        "text": "母",
+        "variant": "宴",
+        "source": "一作「宴」"
+      }
+    ]
+  }
+]

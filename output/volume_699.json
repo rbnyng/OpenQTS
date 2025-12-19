@@ -1,0 +1,416 @@
+[
+  {
+    "uid": "QTS_699_001_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "與東吳生相遇",
+    "poem": [
+      "十年身事各如萍，白首相逢淚滿纓。",
+      "老去不知花有態，亂來唯覺酒多情。",
+      "貧疑陋巷春偏少，貴想豪家月最明。",
+      "且對一尊開口笑，未衰應見泰階平。"
+    ],
+    "notes": [
+      {
+        "content": "及第後出關作。",
+        "context": "與東吳生相遇",
+        "original_title": "與東吳生相遇",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "事",
+        "variant": "世",
+        "source": "一作「世」"
+      },
+      {
+        "line": 4,
+        "text": "且",
+        "variant": "獨",
+        "source": "一作「獨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_002_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "庭前桃",
+    "poem": [
+      "曾向桃源爛漫遊，也同漁父泛僊舟。",
+      "皆言洞裏千株好，未勝庭前一樹幽。",
+      "帶露似垂湘女淚，無言如伴息媯愁。",
+      "五陵公子饒春恨，莫引香風上酒樓。"
+    ]
+  },
+  {
+    "uid": "QTS_699_003_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "丙辰年鄜州遇寒食城外醉吟五首 其一",
+    "poem": [
+      "滿街楊柳綠絲煙，畫出清明二月天。",
+      "好是隔簾花樹動，女郎撩亂送鞦韆。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_699_003_02",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "丙辰年鄜州遇寒食城外醉吟五首 其二",
+    "poem": [
+      "雕陰寒食足遊人，金鳳羅衣濕麝薰。",
+      "腸斷入城芳草路，淡紅香白一羣羣。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_699_003_03",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "丙辰年鄜州遇寒食城外醉吟五首 其三",
+    "poem": [
+      "開元坡下日初斜，拜掃歸來走鈿車。",
+      "可惜數株紅艷好，不知今夜落誰家。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_699_003_04",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "丙辰年鄜州遇寒食城外醉吟五首 其四",
+    "poem": [
+      "馬驕風疾玉鞭長，過去唯留一陣香。",
+      "閒客不須燒破眼，好花皆屬富家郎。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_699_003_05",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "丙辰年鄜州遇寒食城外醉吟五首 其五",
+    "poem": [
+      "雨絲煙柳欲清明，金屋人閒煖鳳笙。",
+      "永日迢迢無一事，隔街聞築氣毬聲。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "盡",
+        "source": "一作「盡」"
+      },
+      {
+        "line": 2,
+        "text": "築",
+        "variant": "蹴",
+        "source": "一作「蹴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_004_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "宜君縣比卜居不遂，留題王秀才別墅二首 其一",
+    "poem": [
+      "本期同此臥林丘，榾柮爐前擁布裘。",
+      "何事卻騎羸馬去，白雲紅樹不相留。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_699_004_02",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "宜君縣比卜居不遂，留題王秀才別墅二首 其二",
+    "poem": [
+      "明月嚴霜撲皂貂，羨君高臥正逍遙。",
+      "門前積雪深三尺，火滿紅爐酒滿瓢。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_699_005_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "鄜州留別張員外",
+    "poem": [
+      "江南相送君山下，塞北相逢朔漠中。",
+      "三楚故人皆是夢，十年陳事只如風。",
+      "莫言身世他時異，且喜琴尊數日同。",
+      "惆悵卻愁明日別，馬嘶山店雨濛濛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "朔漠",
+        "variant": "相幕",
+        "source": "一作「相幕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_006_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "病中聞相府夜宴戲贈集賢盧學士",
+    "poem": [
+      "滿筵紅蠟照香鈿，一夜歌鐘欲沸天。",
+      "花裏亂飛金錯落，月中爭認繡連乾。",
+      "尊前莫話詩三百，醉後寧辭酒十千。",
+      "無那兩三新進士，風流長得飲徒憐。"
+    ]
+  },
+  {
+    "uid": "QTS_699_007_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "出關",
+    "poem": [
+      "馬嘶煙岸柳陰斜，東去關山路轉賒。",
+      "到處因循緣嗜酒，一生惆悵為判花。",
+      "危時祗合身無著，白日那堪事有涯。",
+      "正是灞陵春酬綠，仲宣何事獨辭家。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "東去",
+        "variant": "回首",
+        "source": "一作「回首」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_008_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "過樊川舊居",
+    "poem": [
+      "卻到樊川訪舊遊，夕陽衰草杜陵秋。",
+      "應劉去後苔生閣，稽阮歸來雪滿頭。",
+      "能說亂離惟有燕，解偷閒暇不如鷗。",
+      "千桑萬海無人見，橫笛一聲空淚流。"
+    ],
+    "notes": [
+      {
+        "content": "時在華州，駕前奉使入蜀作。",
+        "context": "過樊川舊居",
+        "original_title": "過樊川舊居",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_009_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "長安舊里",
+    "poem": [
+      "滿目牆匡春草深，傷時傷事更傷心。",
+      "車輪馬跡今何在？十二玉樓無處尋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "匡",
+        "variant": "垣",
+        "source": "一作「垣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_699_010_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "過渼陂懷舊",
+    "poem": [
+      "辛勤曾寄玉峰前，一別雲溪二十年。",
+      "三徑荒涼迷竹樹，四鄰凋謝變桑田。",
+      "渼陂可是當時事，紫閣空餘舊日煙。",
+      "多少亂離無處問，夕陽吟罷涕潸然。"
+    ]
+  },
+  {
+    "uid": "QTS_699_011_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "汧陽間",
+    "poem": [
+      "汧水悠悠去似絣，遠山如畫翠眉橫。",
+      "僧尋野渡歸吳嶽，雁帶斜陽入渭城。",
+      "邊靜不收蕃帳馬，地貧惟賣隴山鸚。",
+      "牧童何處吹羌笛？一曲梅花出塞聲。"
+    ]
+  },
+  {
+    "uid": "QTS_699_012_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "焦崖閣",
+    "poem": [
+      "李白曾歌蜀道難，長聞白日上青天。",
+      "今朝夜過焦崖閣，始信星河在馬前。"
+    ]
+  },
+  {
+    "uid": "QTS_699_013_01",
+    "volume": 699,
+    "author": {
+      "canonical": "韋莊",
+      "recorded": "韋莊",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wei Zhuang",
+      "wikidata_id": "Q1291502"
+    },
+    "title": "雞公幘",
+    "poem": [
+      "石狀雖如幘，山形可類雞。",
+      "向風疑欲鬬，帶雨似聞啼。",
+      "蔓織青籠合，松長翠羽低。",
+      "不鳴非有意，為怕客奔齊。"
+    ],
+    "notes": [
+      {
+        "content": "去襃城縣二十里。",
+        "context": "雞公幘",
+        "original_title": "雞公幘",
+        "type": "footnote"
+      }
+    ]
+  }
+]

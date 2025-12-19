@@ -1,0 +1,176 @@
+[
+  {
+    "uid": "QTS_308_001_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張志和",
+      "recorded": "張志和",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhihe",
+      "wikidata_id": "Q8070439"
+    },
+    "title": "太寥歌",
+    "poem": [
+      "化元靈哉，碧虛清哉，紅霞明哉。",
+      "冥哉茫哉，惟化之工無疆哉。"
+    ]
+  },
+  {
+    "uid": "QTS_308_002_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張志和",
+      "recorded": "張志和",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhihe",
+      "wikidata_id": "Q8070439"
+    },
+    "title": "空洞歌",
+    "poem": [
+      "無自而然，自然之元；無造而化，造化之端。",
+      "廓然愨然，其形團圞。",
+      "反爾之視，絕爾之思，可以觀。"
+    ]
+  },
+  {
+    "uid": "QTS_308_003_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張志和",
+      "recorded": "張志和",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhihe",
+      "wikidata_id": "Q8070439"
+    },
+    "title": "漁父歌",
+    "poem": [
+      "西塞山前白鷺飛，桃花流水鱖魚肥。",
+      "青箬笠，綠蓑衣，斜風細雨不須歸。",
+      "釣台漁父褐為裘，兩兩三三舴艋舟。",
+      "能縱棹，慣乘流，長江白浪不曾憂。",
+      "霅溪灣裏釣漁翁，舴艋為家西複東。",
+      "江上雪，浦邊風，笑著荷衣不歎窮。",
+      "松江蟹舍主人歡，菰飯蓴羹亦共餐。",
+      "楓葉落，荻花幹，醉宿漁舟不覺寒。",
+      "青草湖中月正圓，巴陵漁父棹歌連。",
+      "釣車子，橛頭船，樂在風波不用仙。"
+    ]
+  },
+  {
+    "uid": "QTS_308_004_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張志和",
+      "recorded": "張志和",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhihe",
+      "wikidata_id": "Q8070439"
+    },
+    "title": "上巳日憶江南禊事",
+    "poem": [
+      "黃河西繞郡城流，上巳應無祓禊遊。",
+      "為憶淥江春水色，更隨宵夢向吳洲。"
+    ]
+  },
+  {
+    "uid": "QTS_308_005_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張志和",
+      "recorded": "張志和",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhihe",
+      "wikidata_id": "Q8070439"
+    },
+    "title": "漁父",
+    "poem": [
+      "八月九月蘆花飛，南溪老人重釣歸。",
+      "秋山入簾翠滴滴，野艇倚檻雲依依。",
+      "卻把漁竿尋小徑，閑梳鶴發對斜暉。",
+      "翻嫌四皓曾多事，出為儲皇定是非。"
+    ]
+  },
+  {
+    "uid": "QTS_308_006_01",
+    "volume": 308,
+    "author": {
+      "canonical": "張松齡",
+      "recorded": "張松齡",
+      "gender": "male",
+      "english_name": "Zhang Songling",
+      "wikidata_id": "Q16260650"
+    },
+    "title": "和答弟志和漁父歌",
+    "poem": [
+      "樂是風波釣是閑，草堂松徑已勝攀。",
+      "太湖水，洞庭山，狂風浪起且須還。"
+    ]
+  },
+  {
+    "uid": "QTS_308_007_01",
+    "volume": 308,
+    "author": {
+      "canonical": "陸羽",
+      "recorded": "陸羽",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Yu",
+      "wikidata_id": "Q948270"
+    },
+    "title": "歌",
+    "poem": [
+      "不羨黃金罍，不羨白玉杯；不羨朝入省，不羨暮入台；",
+      "惟羨西江水，曾向金陵城下來。"
+    ],
+    "notes": [
+      {
+        "content": "太和中複州有一老僧雲是陸弟子，常諷此歌",
+        "context": "歌",
+        "original_title": "歌（太和中複州有一老僧雲是陸弟子，常諷此歌）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_308_008_01",
+    "volume": 308,
+    "author": {
+      "canonical": "陸羽",
+      "recorded": "陸羽",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Yu",
+      "wikidata_id": "Q948270"
+    },
+    "title": "會稽東小山",
+    "poem": [
+      "月色寒潮入剡溪，青猿叫斷綠林西。",
+      "昔人已逐東流去，空見年年江草齊。"
+    ]
+  },
+  {
+    "uid": "QTS_308_009_01",
+    "volume": 308,
+    "author": {
+      "canonical": "陸羽",
+      "recorded": "陸羽",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Yu",
+      "wikidata_id": "Q948270"
+    },
+    "title": "句",
+    "poem": [
+      "辟疆舊林間，怪石紛相向。",
+      "（玩月辟疆園，見《紀事》）",
+      "絕澗方險尋，亂岩亦危造。",
+      "（見《海錄碎事》）",
+      "瀉從千仞石，寄逐九江船。",
+      "（題康王穀泉，見《統志》）"
+    ]
+  }
+]

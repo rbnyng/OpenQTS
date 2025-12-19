@@ -1,0 +1,310 @@
+[
+  {
+    "uid": "QTS_312_001_01",
+    "volume": 312,
+    "author": {
+      "canonical": "劉迥",
+      "recorded": "劉迥",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Jiong",
+      "wikidata_id": "Q28410584"
+    },
+    "title": "爛柯山四首：最高頂",
+    "poem": [
+      "白雲引策杖，苔徑誰往還。",
+      "漸見松樹偃，時聞鳥聲閑。",
+      "豁然喧氛盡，獨對萬重山。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_001_02",
+    "volume": 312,
+    "author": {
+      "canonical": "劉迥",
+      "recorded": "劉迥",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Jiong",
+      "wikidata_id": "Q28410584"
+    },
+    "title": "爛柯山四首：石橋",
+    "poem": [
+      "石橋架絕壑，蒼翠橫鳥道。",
+      "憑檻雲腳下，頹陽日猶蚤。",
+      "霓裳倘一遇，千載長不老。"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_001_03",
+    "volume": 312,
+    "author": {
+      "canonical": "劉迥",
+      "recorded": "劉迥",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Jiong",
+      "wikidata_id": "Q28410584"
+    },
+    "title": "爛柯山四首：仙人棋",
+    "poem": [
+      "靈境偶一尋，洞天碧雲上。",
+      "爛柯有遺跡，羽客何由訪。",
+      "日暮悵欲還，晴煙滿千嶂。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_001_04",
+    "volume": 312,
+    "author": {
+      "canonical": "劉迥",
+      "recorded": "劉迥",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Jiong",
+      "wikidata_id": "Q28410584"
+    },
+    "title": "爛柯山四首：石室二禪師",
+    "poem": [
+      "繩床宴坐久，石窟絕行跡。",
+      "能在人代中，遂將人代隔。",
+      "白雲風颺飛，非欲待歸客。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_002_01",
+    "volume": 312,
+    "author": {
+      "canonical": "李幼卿",
+      "recorded": "李幼卿",
+      "gender": "male"
+    },
+    "title": "前年春與獨孤常州兄花時為別倐已三年矣今鶯花又爾覩物增懐因之抒情聊以奉寄",
+    "poem": [
+      "近日霜毛一番新，別時芳草兩回春。",
+      "不堪花落花開處，況是江南江北人。",
+      "薄宦龍鍾心懶慢，故山寥落水奫淪。",
+      "緣君愛我疵瑕少，願竊仁風寄老身。"
+    ],
+    "notes": [
+      {
+        "content": "時䝉溪幽居在義興益增懐遡",
+        "context": "情聊以奉寄",
+        "original_title": "前年春與獨孤常州兄花時為別倐已三年矣今鶯花又爾覩物增懐因之抒情聊以奉寄〈時䝉溪幽居在義興益增懐遡〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_312_003_01",
+    "volume": 312,
+    "author": {
+      "canonical": "李幼卿",
+      "recorded": "李幼卿",
+      "gender": "male"
+    },
+    "title": "游爛柯山四首 其一",
+    "poem": [
+      "拂霧理孤策，薄霄眺層岑。",
+      "迥升煙霧外，豁見天地心。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_003_02",
+    "volume": 312,
+    "author": {
+      "canonical": "李幼卿",
+      "recorded": "李幼卿",
+      "gender": "male"
+    },
+    "title": "游爛柯山四首 其二",
+    "poem": [
+      "物象不可及，遲回空詠吟。",
+      "巨石何崔嵬，橫橋架山頂。"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_003_03",
+    "volume": 312,
+    "author": {
+      "canonical": "李幼卿",
+      "recorded": "李幼卿",
+      "gender": "male"
+    },
+    "title": "游爛柯山四首 其三",
+    "poem": [
+      "傍通日月過，仰望虹霓迥。",
+      "聖者開津梁，誰能度茲嶺。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_003_04",
+    "volume": 312,
+    "author": {
+      "canonical": "李幼卿",
+      "recorded": "李幼卿",
+      "gender": "male"
+    },
+    "title": "游爛柯山四首 其四",
+    "poem": [
+      "二仙自圍棋，偶與樵夫會。",
+      "仙家異人代，俄頃千年外。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_004_01",
+    "volume": 312,
+    "author": {
+      "canonical": "李深",
+      "recorded": "李深",
+      "gender": "male",
+      "wikidata_id": "Q45646874"
+    },
+    "title": "游爛柯山四首 其一",
+    "poem": [
+      "尋源路不迷，絕頂與雲齊。",
+      "坐引群峰小，平看萬木低。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_004_02",
+    "volume": 312,
+    "author": {
+      "canonical": "李深",
+      "recorded": "李深",
+      "gender": "male",
+      "wikidata_id": "Q45646874"
+    },
+    "title": "游爛柯山四首 其二",
+    "poem": [
+      "雙林春色上，正有子規啼。",
+      "嵌空橫洞天，磅礴倚崖巘。"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_004_03",
+    "volume": 312,
+    "author": {
+      "canonical": "李深",
+      "recorded": "李深",
+      "gender": "male",
+      "wikidata_id": "Q45646874"
+    },
+    "title": "游爛柯山四首 其三",
+    "poem": [
+      "宛如虹勢出，可賞不可轉。",
+      "真興得津梁，抽簪永遊衍。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_004_04",
+    "volume": 312,
+    "author": {
+      "canonical": "李深",
+      "recorded": "李深",
+      "gender": "male",
+      "wikidata_id": "Q45646874"
+    },
+    "title": "游爛柯山四首 其四",
+    "poem": [
+      "羽客無姓名，仙棋但聞見。",
+      "行看負薪客，坐使桑田變。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_312_005_01",
+    "volume": 312,
+    "author": {
+      "canonical": "羊滔",
+      "recorded": "羊滔"
+    },
+    "title": "游爛柯山",
+    "poem": [
+      "步登春岩裏，更上最遠山。",
+      "聊見宇宙闊，遂令身世閑。",
+      "清輝賞不盡，高駕何時還。",
+      "石樑聳千盡，高盼出林□。",
+      "亙壑躡丹虹，排雲弄清影。",
+      "路期訪道客，游衍空井井。",
+      "採薪窮冥搜，深路轉清映。",
+      "安知洞天裏，偶坐得棋聖。",
+      "至今追靈跡，可用陶靜性。",
+      "沙門何處人，攜手俱滅跡。",
+      "深入不動境，乃知真圓寂。",
+      "有時歸羅浮，白日見飛錫。"
+    ]
+  },
+  {
+    "uid": "QTS_312_006_01",
+    "volume": 312,
+    "author": {
+      "canonical": "薛戎",
+      "recorded": "薛戎",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xue Rong",
+      "wikidata_id": "Q45631810"
+    },
+    "title": "游爛柯山",
+    "poem": [
+      "登岩已寂曆，絕頂更岧嶢。",
+      "響像如天近，窺臨與世遙。",
+      "悠然暢心目，萬慮一時銷。",
+      "聖遊本無跡，留此示津梁。",
+      "架險知何適，遺名但不亡。",
+      "只今成佛宇，化度果難量。",
+      "二仙行自適，日月徒遷徙。",
+      "不語寄手談，無心引樵子。",
+      "蒙分一丸藥，相偶窮年祀。",
+      "仙山習禪處，了知通李釋。",
+      "昔作異時人，今成相對寂。",
+      "便是不二門，自生瞻仰意。"
+    ]
+  },
+  {
+    "uid": "QTS_312_007_01",
+    "volume": 312,
+    "author": {
+      "canonical": "謝勮",
+      "recorded": "謝勮"
+    },
+    "title": "游爛柯山",
+    "poem": [
+      "獨淩清景出，下視眾山中。",
+      "雲日遙相對，川原無不通。",
+      "自致高標末，何心待馭風。",
+      "宛演橫半規，穹崇翠微上。",
+      "雲扃掩苔石，千古無人賞。",
+      "寧知後賢心，登此共來往。",
+      "仙弈示樵夫，能言忘歸路。",
+      "因看斧柯爛，孫子發已素。",
+      "孰雲遺跡久，舉意如旦暮。",
+      "仙僧會真要，應物常淵默。",
+      "惟將無住理，轉與信人說。",
+      "月影清江中，可觀不可得。"
+    ]
+  }
+]

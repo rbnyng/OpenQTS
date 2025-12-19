@@ -1,0 +1,1002 @@
+[
+  {
+    "uid": "QTS_119_001_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "從軍行",
+    "poem": [
+      "塞北胡霜下，營州索兵救。",
+      "夜裏偷道行，將軍馬亦瘦。",
+      "刀光照塞月，陣色明如晝。",
+      "傳聞賊滿山，已共前鋒鬬。"
+    ]
+  },
+  {
+    "uid": "QTS_119_002_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "雜詩",
+    "poem": [
+      "逢著平樂兒，論交鞍馬前。",
+      "與酤一斗酒，恰用十千錢。",
+      "後余在關內，作事多迍邅。",
+      "何肯相救援，徒聞寶劒篇。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "與酤",
+        "variant": "興酣",
+        "source": "一作「興酣」"
+      },
+      {
+        "line": 4,
+        "text": "何肯相救援",
+        "variant": "何處肯相救",
+        "source": "一作「何處肯相救」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_003_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "古意",
+    "poem": [
+      "紅荷楚水曲，彪炳爍晨霞。",
+      "未得兩回摘，秋風吹卻花。",
+      "時芳不待妾，玉珮無處誇。",
+      "悔不盛年時，嫁與青樓家。"
+    ]
+  },
+  {
+    "uid": "QTS_119_004_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "宿法華寺",
+    "poem": [
+      "松雨時復滴，寺門清且涼。",
+      "此心竟誰證，回憩支公牀。",
+      "壁畫感靈跡，龕經傳異香。",
+      "獨遊寄象外，忽忽歸南昌。"
+    ]
+  },
+  {
+    "uid": "QTS_119_005_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "題豫章館",
+    "poem": [
+      "楊柳映春江，江南轉佳麗。",
+      "吳門綠波裏，越國青山際。",
+      "遊宦常往來，津亭暫臨憩。",
+      "驛前蒼石沒，浦外湖沙細。",
+      "向晚宴且久，孤舟冏然逝。",
+      "雲留西北客，氣歇東南帝。",
+      "獨有萋萋心，誰知怨芳歲。"
+    ]
+  },
+  {
+    "uid": "QTS_119_006_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "石頭灘作",
+    "poem": [
+      "悵矣秋風時，余臨石頭瀨。",
+      "因高見遠境，盡此數州內。",
+      "羽山數點青，海岸雜光碎。",
+      "離離樹木少，漭漭湖波大。",
+      "日暮千里帆，南飛落天外。",
+      "須臾遂入夜，楚色有微靄。",
+      "尋遠跡已窮，遺榮事多昧。",
+      "一身猶未理，安得濟時代。",
+      "且泛朝夕潮，荷衣蕙爲帶。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遠境",
+        "variant": "超遠",
+        "source": "一作「超遠」"
+      },
+      {
+        "line": 2,
+        "text": "盡此數州內",
+        "variant": "望盡此州內",
+        "source": "一作「望盡此州內」"
+      },
+      {
+        "line": 3,
+        "text": "數",
+        "variant": "一",
+        "source": "一作「一」"
+      },
+      {
+        "line": 3,
+        "text": "光",
+        "variant": "花",
+        "source": "一作「花」"
+      },
+      {
+        "line": 4,
+        "text": "漭漭湖波",
+        "variant": "淼淼波潮",
+        "source": "一作「淼淼波潮」"
+      },
+      {
+        "line": 7,
+        "text": "跡",
+        "variant": "路",
+        "source": "一作「路」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_007_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "漂母岸",
+    "poem": [
+      "泗水入淮處，南邊古岸存。",
+      "秦時有漂母，於此飯王孫。",
+      "王孫初未遇，寄食何足論。",
+      "後爲楚王來，黃金答母恩。",
+      "事跡遺在此，空傷千載魂。",
+      "茫茫水中渚，上有一孤墩。",
+      "遙望不可到，蒼蒼煙樹昏。",
+      "幾年崩冢色，每日落潮痕。",
+      "古地多陻圮，時哉不敢言。",
+      "向夕淚霑裳，遂宿蘆洲村。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "飯",
+        "variant": "饋",
+        "source": "一作「饋」"
+      },
+      {
+        "line": 3,
+        "text": "何",
+        "variant": "多",
+        "source": "一作「多」"
+      },
+      {
+        "line": 4,
+        "text": "黃金",
+        "variant": "誓欲",
+        "source": "一作「誓欲」"
+      },
+      {
+        "line": 6,
+        "text": "茫茫水中渚，上有一孤墩",
+        "variant": "寒洲漲未解，荒隴草空繁",
+        "source": "一作「寒洲漲未解，荒隴草空繁」"
+      },
+      {
+        "line": 8,
+        "text": "每",
+        "variant": "暮",
+        "source": "一作「暮」"
+      },
+      {
+        "line": 10,
+        "text": "遂",
+        "variant": "只",
+        "source": "一作「只」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_008_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "對酒吟",
+    "poem": [
+      "行行日將夕，荒村古冢無人跡。",
+      "蒙籠荊棘一鳥吟，屢唱提壺沽酒喫。",
+      "古人不達酒不足，遺恨精靈傳此曲。",
+      "寄言世上諸少年，平生且盡杯中醁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "冢",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 2,
+        "text": "吟",
+        "variant": "飛",
+        "source": "一作「飛」"
+      },
+      {
+        "line": 2,
+        "text": "唱",
+        "variant": "勸",
+        "source": "一作「勸」"
+      },
+      {
+        "line": 4,
+        "text": "世上",
+        "variant": "當代",
+        "source": "一作「當代」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_009_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "奉和華清宮觀行香應制",
+    "poem": [
+      "天子蘂珠宮，樓臺碧落通。",
+      "豫遊皆汗漫，齋處即崆峒。",
+      "雲物三光裏，君臣一氣中。",
+      "道言何所說，寶曆自無窮。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蘂",
+        "variant": "藻",
+        "source": "一作「藻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_010_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "七夕",
+    "poem": [
+      "太守仙潢族，含情七夕多。",
+      "扇風生玉漏，置水寫銀河。",
+      "閣下陳書籍，閨中曝綺羅。",
+      "遙思漢武帝，青鳥幾時過。"
+    ]
+  },
+  {
+    "uid": "QTS_119_011_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "宿范浦",
+    "poem": [
+      "月暗潮又落，西陵渡暫停。",
+      "村煙和海霧，舟火亂江星。",
+      "路轉定山遶，塘連范浦橫。",
+      "鴟夷近何去，空山臨滄溟。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遶",
+        "variant": "遠",
+        "source": "一作「遠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_012_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "奉和聖制上巳祓禊應制",
+    "poem": [
+      "元巳秦中節，吾君灞上遊。",
+      "鳴鑾通禁苑，別館遶芳洲。",
+      "鵷鷺千官列，魚龍百戲浮。",
+      "桃花春欲盡，穀雨夜來收。",
+      "慶向堯樽祝，歡從楚棹謳。",
+      "逸詩何足對，窅作掩東周。"
+    ]
+  },
+  {
+    "uid": "QTS_119_013_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "九日侍宴應制",
+    "poem": [
+      "運偶千年聖，時傳九日神。",
+      "堯樽列鐘鼓，漢闕闢鉤陳。",
+      "金籙三清降，瓊筵五老巡。",
+      "始驚蘭佩出，復詠柏梁新。",
+      "雲鴈樓前晚，霜花酒裏春。",
+      "歡娛無限極，書劒太平人。"
+    ]
+  },
+  {
+    "uid": "QTS_119_014_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "杭州北郭戴氏荷池送侯愉",
+    "poem": [
+      "秋近萬物肅，況當臨水時。",
+      "折花贈歸客，離緒斷荷絲。",
+      "誰謂江國永，故人感在茲。",
+      "道存過北郭，情極望東菑。",
+      "喬木故園意，鳴蟬窮巷悲。",
+      "扁舟竟何待，中路每遲遲。"
+    ]
+  },
+  {
+    "uid": "QTS_119_015_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "怨詞二首 其一",
+    "poem": [
+      "妾有羅衣裳，秦王在時作。",
+      "爲舞春風多，秋來不堪著。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_119_015_02",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "怨詞二首 其二",
+    "poem": [
+      "樓頭桃李疎，池上芙蓉落。",
+      "織錦猶未成，蛩聲入羅幕。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "頭",
+        "variant": "前",
+        "source": "一作「前」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_016_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "古意二首 其一",
+    "poem": [
+      "玉籠薰繡裳，著罷眠洞房。",
+      "不能春風裏，吹卻蘭麝香。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_119_016_02",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "古意二首 其二",
+    "poem": [
+      "種棘遮蘼蕪，畏人來采殺。",
+      "比至狂夫還，看看幾花發。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "采",
+        "variant": "摘",
+        "source": "一作「摘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_017_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "襄陽曲二首 其一",
+    "poem": [
+      "蕙草嬌紅萼，時光舞碧雞。",
+      "城中美年少，相見白銅鞮。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_119_017_02",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "襄陽曲二首 其二",
+    "poem": [
+      "少年襄陽地，來往襄陽城。",
+      "城中輕薄子，知妾解秦箏。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_119_018_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "魏宮詞",
+    "poem": [
+      "朝日照紅妝，擬上銅雀臺。",
+      "畫眉猶未了，魏帝使人催。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "照",
+        "variant": "點",
+        "source": "一作「點」"
+      },
+      {
+        "line": 2,
+        "text": "了",
+        "variant": "竟",
+        "source": "一作「竟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_019_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "長信草",
+    "poem": [
+      "長信宮中草，年年愁處生。",
+      "故侵珠履跡，不使玉階行。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "故",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_020_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "長樂少年行",
+    "poem": [
+      "遺卻珊瑚鞭，白馬驕不行。",
+      "章臺折楊柳，春日路傍情。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "草",
+        "source": "一作「草」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_021_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "湖南曲",
+    "poem": [
+      "湖南送君去，湖北送君歸。",
+      "湖裏鴛鴦鳥，雙雙他自飛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "送",
+        "variant": "與",
+        "source": "一作「與」"
+      },
+      {
+        "line": 1,
+        "text": "去",
+        "variant": "別",
+        "source": "一作「別」"
+      },
+      {
+        "line": 1,
+        "text": "送",
+        "variant": "憶",
+        "source": "一作「憶」"
+      },
+      {
+        "line": 2,
+        "text": "鳥",
+        "variant": "起",
+        "source": "一作「起」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_022_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "中流曲",
+    "poem": [
+      "歸時日尚早，更欲向芳洲。",
+      "渡口水流急，迴船不自由。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "時",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_023_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "王孫遊",
+    "poem": [
+      "自與王孫別，頻看黃鳥飛。",
+      "應由春草誤，著處不成歸。"
+    ]
+  },
+  {
+    "uid": "QTS_119_024_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "采蓮曲",
+    "poem": [
+      "玉漵花爭發，金塘水亂流。",
+      "相逢畏相失，並著采蓮舟。"
+    ]
+  },
+  {
+    "uid": "QTS_119_025_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "子夜冬歌",
+    "poem": [
+      "寂寥抱冬心，裁羅又褧褧。",
+      "夜久頻挑燈，霜寒剪刀冷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "又",
+        "variant": "文",
+        "source": "一作「文」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_026_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "麗人曲",
+    "poem": [
+      "紅顏稱絕代，欲並真無侶。",
+      "獨有鏡中人，由來自相許。"
+    ]
+  },
+  {
+    "uid": "QTS_119_027_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "小長干曲",
+    "poem": [
+      "月暗送潮風，相尋路不通。",
+      "菱歌唱不徹，知在此塘中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "潮",
+        "variant": "湖",
+        "source": "一作「湖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_028_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "王昭君",
+    "poem": [
+      "漢使南還盡，胡中妾獨存。",
+      "紫臺綿望絕，秋草不堪論。"
+    ]
+  },
+  {
+    "uid": "QTS_119_029_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "秦女卷衣",
+    "poem": [
+      "雖入秦帝宮，不上秦帝牀。",
+      "夜夜玉窗裏，與他卷衣裳。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "衣",
+        "variant": "羅",
+        "source": "一作「羅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_030_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "今別離",
+    "poem": [
+      "送別未能旋，相望連水口。",
+      "船行欲映洲，幾度急搖手。"
+    ]
+  },
+  {
+    "uid": "QTS_119_031_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "衞豔詞",
+    "poem": [
+      "淇上桑葉青，青樓含白日。",
+      "比時遙望君，車馬城中出。"
+    ]
+  },
+  {
+    "uid": "QTS_119_032_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "渭水西別李崙",
+    "poem": [
+      "隴右長亭堠，山陰古塞秋。",
+      "不知嗚咽水，何事向西流。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "右",
+        "variant": "外",
+        "source": "一作「外」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_033_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "古意",
+    "poem": [
+      "淨掃黃金階，飛霜皎如雪。",
+      "下簾彈箜篌，不忍見秋月。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "皎",
+        "variant": "厚",
+        "source": "一作「厚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_034_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "送韓十四被魯王推遞往濟南府",
+    "poem": [
+      "西候情何極，南冠怨有餘。",
+      "梁王雖好事，不察獄中書。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "事",
+        "variant": "士",
+        "source": "一作「士」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_035_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "白紵辭二首 其一",
+    "poem": [
+      "洛陽梨花落如霰，河陽桃葉生復齊。",
+      "坐惜玉樓春欲盡，紅綿粉絮裛妝啼。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "落",
+        "variant": "白",
+        "source": "一作「白」"
+      },
+      {
+        "line": 2,
+        "text": "惜",
+        "variant": "怨",
+        "source": "一作「怨」，又作「恐」"
+      },
+      {
+        "line": 2,
+        "text": "玉",
+        "variant": "舞",
+        "source": "一作「舞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_119_035_02",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "白紵辭二首 其二",
+    "poem": [
+      "董賢女弟在椒風，窈窕繁華貴後宮。",
+      "璧帶金釭皆翡翠，一朝零落變成空。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_119_036_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "九日",
+    "poem": [
+      "江邊楓落菊花黃，少長登高一望鄉。",
+      "九日陶家雖載酒，三年楚客已霑裳。"
+    ]
+  },
+  {
+    "uid": "QTS_119_037_01",
+    "volume": 119,
+    "author": {
+      "canonical": "崔國輔",
+      "recorded": "崔國輔",
+      "gender": "male",
+      "english_name": "Cui Guofu",
+      "wikidata_id": "Q18908517"
+    },
+    "title": "王昭君",
+    "poem": [
+      "一回望月一回悲，望月月移人不移。",
+      "何時得見漢朝使，爲妾傳書斬畫師。"
+    ]
+  }
+]

@@ -1,0 +1,1663 @@
+[
+  {
+    "uid": "QTS_629_001_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "和襲美友人許惠酒以詩徵之",
+    "poem": [
+      "凍醪初漉嫩如春，輕蟻漂漂雜蘂塵。",
+      "得伴方平同一醉，明朝應作蔡經身。"
+    ]
+  },
+  {
+    "uid": "QTS_629_002_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "聞圓載上人挾儒書洎釋典歸日本國，更作一絕以送",
+    "poem": [
+      "九流三藏一時傾，萬軸光凌渤澥聲。",
+      "從此遺編東去後，卻應荒外有諸生。"
+    ]
+  },
+  {
+    "uid": "QTS_629_003_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "閒吟",
+    "poem": [
+      "閒吟料得三更盡，始把孤燈背竹窓。",
+      "一夜西風高浪起，不教歸夢過寒江。"
+    ]
+  },
+  {
+    "uid": "QTS_629_004_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "秘色越器",
+    "poem": [
+      "九秋風露越窯開，奪得千峰翠色來。",
+      "好向中宵盛沆瀣，共嵇中散鬬遺杯。"
+    ]
+  },
+  {
+    "uid": "QTS_629_005_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "景陽宮井",
+    "poem": [
+      "古堞煙埋宮井樹，陳主吳姬墮泉處。",
+      "舜沒蒼梧萬里雲，卻不聞將二妃去。"
+    ]
+  },
+  {
+    "uid": "QTS_629_006_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "江南二首 其一",
+    "poem": [
+      "便風船尾香秔熟，細雨層頭赤鯉跳。",
+      "待得江餐閒望足，日斜方動木蘭橈。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "足",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_006_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "江南二首 其二",
+    "poem": [
+      "村邊紫豆花垂次，岸上紅梨葉戰初。",
+      "莫怪煙中重回首，酒家青紵一行書。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "家",
+        "variant": "旗",
+        "source": "一作「旗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_007_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "溪思雨中",
+    "poem": [
+      "雨映前山萬絇絲，㯭聲衝破似鳴機。",
+      "無端織得愁成叚，堪作騷人酒病衣。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "絇",
+        "variant": "句",
+        "source": "一作「句」"
+      },
+      {
+        "line": 1,
+        "text": "破",
+        "variant": "碎",
+        "source": "一作「碎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_008_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "江城夜泊",
+    "poem": [
+      "漏移寒箭丁丁急，月掛虛弓靄靄明。",
+      "此夜離魂堪射斷，更須江笛兩三聲。"
+    ]
+  },
+  {
+    "uid": "QTS_629_009_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "宮人斜",
+    "poem": [
+      "草著愁煙似不春，晚鶯哀怨問行人。",
+      "須知一種埋香骨，猶勝昭君作虜塵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "著",
+        "variant": "樹",
+        "source": "一作「樹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_010_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "送棊客",
+    "poem": [
+      "滿目山川似勢棊，況當秋雁正斜飛。",
+      "金門若召羊玄保，賭取江東太守歸。"
+    ]
+  },
+  {
+    "uid": "QTS_629_011_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "漢宮詞",
+    "poem": [
+      "招靈閣上霓旌絕，柏梁臺中珠翠稠。",
+      "一身三十六宮夜，露滴玉盤青桂秋。"
+    ]
+  },
+  {
+    "uid": "QTS_629_012_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "上清",
+    "poem": [
+      "玉林風露寂寥清，仙妃對月閒吹笙。",
+      "新篁冷澀曲未盡，細拂雲枝棲鳳驚。"
+    ]
+  },
+  {
+    "uid": "QTS_629_013_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "秋荷",
+    "poem": [
+      "蒲茸承露有佳色，茭葉束煙如效顰。",
+      "盈盈一水不得渡，冷翠遺香愁向人。"
+    ]
+  },
+  {
+    "uid": "QTS_629_014_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "有別二首 其一",
+    "poem": [
+      "且將絲⿰繫蘭舟，醉下煙汀減去愁。",
+      "江上有樓君莫上，落花隨浪正東流。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "浪",
+        "variant": "水",
+        "source": "一作「水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_014_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "有別二首 其二",
+    "poem": [
+      "池上已看鶯舌默，雲間應即雁翰開。",
+      "唯愁別後當風立，萬樹將秋入恨來。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_015_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "病中曉思",
+    "poem": [
+      "月墮霜西竹井寒，轆轤絲凍下缾難。",
+      "幽人病久渾成渴，愁見龍書一鼎乾。"
+    ]
+  },
+  {
+    "uid": "QTS_629_016_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "送友人之湖上",
+    "poem": [
+      "故人溪上有漁舟，竿倚風蘋夜不收。",
+      "欲寄一函聊問訊，洪喬寧作置書郵。"
+    ]
+  },
+  {
+    "uid": "QTS_629_017_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "寒日逢僧",
+    "poem": [
+      "瘦脛高褰梵屧輕，野塘風勁錫環鳴。",
+      "如何不向深山裏，坐擁閒雲過一生。"
+    ]
+  },
+  {
+    "uid": "QTS_629_018_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "冬柳",
+    "poem": [
+      "柳汀斜對野人窓，零落衰條傍曉江。",
+      "正是霜風飄斷處，寒鷗驚起一雙雙。"
+    ]
+  },
+  {
+    "uid": "QTS_629_019_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "寄友人",
+    "poem": [
+      "敬亭寒夜溪聲裏，同聽先生講太玄。",
+      "上得雲梯不回首，釣竿猶在五湖邊。"
+    ]
+  },
+  {
+    "uid": "QTS_629_020_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "島樹",
+    "poem": [
+      "波濤漱苦盤根淺，風雨飄多著葉遲。",
+      "迥出孤煙殘照裏，鷺鶿相對立高枝。"
+    ]
+  },
+  {
+    "uid": "QTS_629_021_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "頭陀僧",
+    "poem": [
+      "萬峰圍繞一峰深，向此長修苦行心。",
+      "自掃雪中歸鹿跡，天明恐被獵人尋。"
+    ]
+  },
+  {
+    "uid": "QTS_629_022_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "晚渡",
+    "poem": [
+      "半波風雨半波晴，漁曲飄秋野調清。",
+      "各樣蓮船逗村去，笠簷蓑袂有殘聲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "風",
+        "variant": "飛",
+        "source": "一作「飛」"
+      },
+      {
+        "line": 2,
+        "text": "殘",
+        "variant": "餘",
+        "source": "一作「餘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_023_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "贈老僧二首 其一",
+    "poem": [
+      "枯貌自同霜裏木，餘生唯指佛前燈。",
+      "少時寫得坐禪影，今見問人何處僧。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_023_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "贈老僧二首 其二",
+    "poem": [
+      "自有家山供衲線，不離溪曲取庵茅。",
+      "舊曾聞說林中鳥，定後長來頂上巢。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_024_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "憶山泉",
+    "poem": [
+      "一夜寒聲來夢裏，平明著屐到聲邊。",
+      "心期盛夏同過此，脫卻荷衣石上眠。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "同",
+        "variant": "重",
+        "source": "一作「重」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_025_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "白芙蓉",
+    "poem": [
+      "澹然相對卻成勞，月染風裁箇箇高。",
+      "似說玉皇親謫墮，至今猶著水霜袍。"
+    ]
+  },
+  {
+    "uid": "QTS_629_026_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "嚴光釣臺",
+    "poem": [
+      "片帆竿外揖清風，石立雲孤萬古中。",
+      "不是狂奴為故態，仲華爭得黑頭公。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "立",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_027_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "讀",
+    "poem": [
+      "蓬顆何時與恨平，蜀江衣帶蜀山輕。",
+      "尋聞騎士梟黃祖，自是無人祭禰衡。"
+    ],
+    "notes": [
+      {
+        "content": "陳拾遺集",
+        "context": "讀",
+        "original_title": "讀《陳拾遺集》"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_028_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "吳宮懷古",
+    "poem": [
+      "香逕長洲盡棘叢，奢雲豔雨秖悲風。",
+      "吳王事事須亡國，未必西施勝六宮。"
+    ]
+  },
+  {
+    "uid": "QTS_629_029_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "送琴客之建康",
+    "poem": [
+      "蕙風杉露共泠泠，三峽寒泉漱玉清。",
+      "君到南朝訪遺事，柳家雙鎖舊知名。"
+    ]
+  },
+  {
+    "uid": "QTS_629_030_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "閨怨",
+    "poem": [
+      "白袷行人又遠遊，日斜空上映花樓。",
+      "愁絲墮絮相逢著，絆惹春風卒未休。"
+    ]
+  },
+  {
+    "uid": "QTS_629_031_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "丁香",
+    "poem": [
+      "江上悠悠人不問，十年雲外醉中身。",
+      "殷勤解卻丁香結，縱放繁枝散誕春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "縱",
+        "variant": "從",
+        "source": "一作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_032_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "種蒲",
+    "poem": [
+      "杜若溪邊手自移，旋抽煙劔碧參差。",
+      "何時織得孤帆去，懸向秋風訪所思。"
+    ]
+  },
+  {
+    "uid": "QTS_629_033_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "范蠡",
+    "poem": [
+      "平吳專越禍胎深，豈是功成有去心。",
+      "句踐不知嫌鳥喙，歸來猶自鑄良金。"
+    ]
+  },
+  {
+    "uid": "QTS_629_034_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "山僧二首 其一",
+    "poem": [
+      "山蘚幾重生草履，澗泉長自滿銅缾。",
+      "時將如意敲眠虎，遣向林間坐聽經。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "澗",
+        "variant": "洞",
+        "source": "一作「洞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_034_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "山僧二首 其二",
+    "poem": [
+      "一夏不離蒼島上，秋來頻話石城南。",
+      "思歸瀑布聲前坐，卻把松枝拂舊庵。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_035_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "上雲樂",
+    "poem": [
+      "青絲作筰桂為船，白兔擣藥蝦蟆丸。",
+      "便浮天漢泊星渚，回首笑君承露盤。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "筰",
+        "variant": "笮",
+        "source": "一作「笮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_036_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：眠",
+    "poem": [
+      "一簟臨窓薤葉秋，小簾風蕩半離鉤。",
+      "魂清雨急夢難到，身在五湖波上頭。"
+    ],
+    "part_index": 1,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_629_036_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：行",
+    "poem": [
+      "尋人直到月塢北，覓鶴便過雲峰西。",
+      "只今猶有疎野調，但繞莓苔風雨畦。"
+    ],
+    "part_index": 2,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_629_036_03",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：倚",
+    "poem": [
+      "橘下凝情香染巾，竹邊留思露搖身。",
+      "背煙垂首盡日立，憶得山中無事人。"
+    ],
+    "part_index": 3,
+    "total_parts": 6,
+    "variants": [
+      {
+        "line": 2,
+        "text": "首",
+        "variant": "手",
+        "source": "一作「手」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_036_04",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：吟",
+    "poem": [
+      "憶山搖膝石上晚，懷古掉頭溪畔涼。",
+      "有時得句一聲發，驚起鷺鶿和夕陽。"
+    ],
+    "part_index": 4,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_629_036_05",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：食",
+    "poem": [
+      "日午空齋帶睡痕，水蔬山藥薦盤飱。",
+      "林烏信我無機事，長到而今下石盆。"
+    ],
+    "part_index": 5,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_629_036_06",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新秋雜題六首：坐",
+    "poem": [
+      "偶避蟬聲來隙地，忽隨鴻影入遼天。",
+      "閒僧不會寂寥意，道學西方人坐禪。"
+    ],
+    "part_index": 6,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_629_037_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "新沙",
+    "poem": [
+      "渤澥聲中漲小堤，官家知後海鷗知。",
+      "蓬萊有路教人到，應亦年年稅紫芝。"
+    ]
+  },
+  {
+    "uid": "QTS_629_038_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "鄴宮詞二首 其一",
+    "poem": [
+      "魏武平生不好香，楓膠蕙炷潔宮房。",
+      "可知遺令非前事，卻有餘薰在繡囊。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_038_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "鄴宮詞二首 其二",
+    "poem": [
+      "花飛蝶駭不愁人，水殿雲廊別置春。",
+      "曉日靚妝千騎女，白櫻桃下紫綸巾。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_039_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "古別離",
+    "poem": [
+      "仙人左手把長箭，欲射日烏烏不棲。",
+      "何事離情畏明發，一心唯恨汝南雞。"
+    ]
+  },
+  {
+    "uid": "QTS_629_040_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "高道士",
+    "poem": [
+      "峩睂道士風骨峻，手把玉皇書一通。",
+      "東遊借得琴高鯉，騎入蓬萊清淺中。"
+    ]
+  },
+  {
+    "uid": "QTS_629_041_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "蔬食",
+    "poem": [
+      "孔融不要留殘膾，庾悅無端恡子鵝。",
+      "香稻熟來秋菜嫩，伴僧餐了聽雲和。"
+    ]
+  },
+  {
+    "uid": "QTS_629_042_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "寄遠",
+    "poem": [
+      "縹梨花謝鶯口喫，黃犢少年人未歸。",
+      "畫扇紅弦相掩映，獨看斜月下簾衣。"
+    ]
+  },
+  {
+    "uid": "QTS_629_043_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "山中僧",
+    "poem": [
+      "手關一室翠微裏，日暮白雲棲半間。",
+      "白雲朝出天際去，若比老僧猶未閒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "關",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 2,
+        "text": "猶",
+        "variant": "雲",
+        "source": "一作「雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_044_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "洞宮秋夕",
+    "poem": [
+      "濃霜打葉落地聲，南溪石泉細泠泠。",
+      "洞宮寂寞人不去，坐見月生雲母屏。"
+    ]
+  },
+  {
+    "uid": "QTS_629_045_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "連昌宮詞二首：門",
+    "poem": [
+      "金鋪零落獸鐶空，斜揜雙扉細草中。",
+      "日暮鳥歸宮樹綠，不聞鴉軋閉春風。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "歸",
+        "variant": "啼",
+        "source": "一作「啼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_045_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "連昌宮詞二首：階",
+    "poem": [
+      "草沒苔封疊翠斜，墜紅千葉擁殘霞。",
+      "年年直為秋霖苦，滴陷青珉隱起花。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_046_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "懷宛陵舊遊",
+    "poem": [
+      "陵陽佳地昔年游，謝脁青山李白樓。",
+      "唯有日斜溪上思，酒旗風影落春流。"
+    ]
+  },
+  {
+    "uid": "QTS_629_047_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "松石曉景圖",
+    "poem": [
+      "霜骨雲根慘澹愁，宿煙封著未全收。",
+      "將歸與說文通後，寫得松江岸上秋。"
+    ]
+  },
+  {
+    "uid": "QTS_629_048_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "釣車",
+    "poem": [
+      "小輪輕線妙無雙，曾伴幽人酒一缸。",
+      "洛客見詩如有問，輾煙衝雨過桐江。"
+    ]
+  },
+  {
+    "uid": "QTS_629_049_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "漉酒巾",
+    "poem": [
+      "靖節高風不可攀，此巾猶墜凍醪間。",
+      "偏宜雪夜山中戴，認取時情與醉顏。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "墜",
+        "variant": "墮",
+        "source": "一作「墮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_050_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "華陽巾",
+    "poem": [
+      "蓮花峰下得佳名，雲褐相兼上鶴翎。",
+      "須是古壇秋霽後，靜焚香炷禮寒星。"
+    ]
+  },
+  {
+    "uid": "QTS_629_051_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "方響",
+    "poem": [
+      "擊霜寒玉亂丁丁，花底秋風拂坐生。",
+      "王母閒看漢天子，滿猗蘭殿佩環聲。"
+    ]
+  },
+  {
+    "uid": "QTS_629_052_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "白鷺",
+    "poem": [
+      "雪然飛下立蒼苔，應伴江鷗拒我來。",
+      "見欲扁舟搖盪去，倩君先作水雲媒。"
+    ]
+  },
+  {
+    "uid": "QTS_629_053_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "溪行",
+    "poem": [
+      "晚天寒雨上灘時，他已揚舲我尚遲。",
+      "自是檣低帆幅少，溪風終不兩般吹。"
+    ]
+  },
+  {
+    "uid": "QTS_629_054_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "太湖叟",
+    "poem": [
+      "細槳輕船賣石歸，酒痕狼藉徧苔衣。",
+      "攻車戰艦繁如織，不肯回頭問是非。"
+    ]
+  },
+  {
+    "uid": "QTS_629_055_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "荅友人",
+    "poem": [
+      "荊卿雄骨化為塵，燕市應無共飲人。",
+      "能脫鷫鸘來換酒，五湖賒與一年春。"
+    ]
+  },
+  {
+    "uid": "QTS_629_056_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "偶作",
+    "poem": [
+      "酒信巧為繰病緒，花音長作嫁愁媒。",
+      "也知愁病堪迴避，爭奈流鶯喚起來。"
+    ]
+  },
+  {
+    "uid": "QTS_629_057_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "春思二首 其一",
+    "poem": [
+      "竹外麥煙愁漠漠，短翅啼禽飛魄魄。",
+      "此時憶著千里人，獨坐支頤看花落。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_057_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "春思二首 其二",
+    "poem": [
+      "江南酒熟清明天，高高綠旆當風懸。",
+      "誰家無事少年子，滿面落花猶醉眠。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_629_058_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "訪僧不遇",
+    "poem": [
+      "櫂倚東林欲問禪，遠公飛錫未應還。",
+      "蒙莊弟子相看笑，何事空門亦有關。"
+    ]
+  },
+  {
+    "uid": "QTS_629_059_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "謝山泉",
+    "poem": [
+      "決決春泉出洞霞，石壜封寄野人家。",
+      "草堂盡日留僧坐，自向前溪摘茗芽。"
+    ]
+  },
+  {
+    "uid": "QTS_629_060_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "洞宮夕",
+    "poem": [
+      "月午山空桂花落，華陽道士雲衣薄。",
+      "石壇香散步虛聲，杉雲清泠滴棲鶴。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "月午山空桂花",
+        "variant": "中天月冷霜華",
+        "source": "一作「中天月冷霜華」"
+      },
+      {
+        "line": 2,
+        "text": "香",
+        "variant": "風",
+        "source": "一作「風」"
+      },
+      {
+        "line": 2,
+        "text": "雲",
+        "variant": "露",
+        "source": "一作「露」"
+      },
+      {
+        "line": 2,
+        "text": "清泠",
+        "variant": "泠泠",
+        "source": "一作「泠泠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_061_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "峽客行",
+    "poem": [
+      "萬仞峰排千劔束，孤舟夜繫峰頭宿。",
+      "蠻溪雪壞蜀江傾，灩澦朝來大如屋。"
+    ]
+  },
+  {
+    "uid": "QTS_629_062_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "江邊",
+    "poem": [
+      "江邊日晚潮煙上，樹裏鴉鴉桔槹響。",
+      "無因得似灌園翁，十畝春蔬一藜杖。"
+    ]
+  },
+  {
+    "uid": "QTS_629_063_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "簾",
+    "poem": [
+      "枕映疎容晚向欹，秋煙脈脈雨微微。",
+      "逆風障燕尋常事，不學人前當妓衣。"
+    ]
+  },
+  {
+    "uid": "QTS_629_064_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：玉龍子",
+    "poem": [
+      "何代奇工碾玉英，細髯纖角盡雕成。",
+      "煙乾霧悄君心苦，風雨長隨一擲聲。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_02",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：照夜白",
+    "poem": [
+      "雪虯輕駿步如飛，一練騰光透月旗。",
+      "應笑穆王拋萬乘，踏風鞭露向瑤池。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_03",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：舞馬",
+    "poem": [
+      "月窟龍孫四百蹄，驕驤輕步應金鞞。",
+      "曲終似要君王寵，回望紅樓不敢嘶。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_04",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：雜伎",
+    "poem": [
+      "拜象馴犀角觝豪，星丸霜劔出花高。",
+      "六宮爭近乘輿望，珠翠三千擁赭袍。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_05",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：雪衣女",
+    "poem": [
+      "嫩紅鉤曲雪花攢，月殿棲時片影殘。",
+      "自說夜來春夢惡，學持金偈玉欄干。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_06",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：繡嶺宮",
+    "poem": [
+      "繡嶺花殘翠倚空，碧窓瑤砌舊行宮。",
+      "閒乘小駟濃陰下，時舉金鞭半袖風。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_064_07",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元雜題七首：湯泉",
+    "poem": [
+      "暖殿流湯數十間，玉渠香細浪回環。",
+      "上皇初解雲衣浴，珠櫂時敲瑟瑟山。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_629_065_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "題杜秀才水亭",
+    "poem": [
+      "曉和風露立晴煙，只恐腥魂涴洞天。",
+      "雲肆有龍君若買，便敲初日鑄金錢。"
+    ],
+    "notes": [
+      {
+        "content": "一本題上有「荊溪早景」四字。",
+        "context": "題杜秀才水亭",
+        "original_title": "題杜秀才水亭",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_629_066_01",
+    "volume": 629,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "翠碧",
+    "poem": [
+      "紅襟翠翰兩參差，徑拂煙華上細枝。",
+      "春水漸生魚易得，莫辭風雨坐多時。"
+    ]
+  }
+]

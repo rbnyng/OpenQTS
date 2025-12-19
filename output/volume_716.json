@@ -1,0 +1,1777 @@
+[
+  {
+    "uid": "QTS_716_001_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "長安春日",
+    "poem": [
+      "浩浩看花晨，六街揚遠塵。",
+      "塵中一丈日，誰是晏眠人。",
+      "御柳舞著水，野鶯啼破春。",
+      "徒云多失意，猶自惜離秦。"
+    ],
+    "preface": "曹松字夢徴，舒州人。學賈島為詩，久困名場，至天復初，杜德祥主文，放鬆及王希羽、劉象、柯崇、鄭希顔等及第，年皆七十餘，時號「五老榜」，授秘書省。《正字集》三卷，今編詩二卷。",
+    "variants": [
+      {
+        "line": 3,
+        "text": "舞",
+        "variant": "垂",
+        "source": "一作「垂」"
+      },
+      {
+        "line": 4,
+        "text": "多失意",
+        "variant": "還楚計",
+        "source": "一作「還楚計」，又作「還楚客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_002_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "慈恩寺貽楚霄上人",
+    "poem": [
+      "在秦生楚思，波浪接禪關。",
+      "塔礙高林鳥，窗開白日山。",
+      "樹陰移草上，岸色透庭間。",
+      "入內談經徹，空攜講疏還。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "開",
+        "variant": "藏",
+        "source": "一作「藏」"
+      },
+      {
+        "line": 3,
+        "text": "庭",
+        "variant": "林",
+        "source": "一作「林」"
+      },
+      {
+        "line": 4,
+        "text": "入",
+        "variant": "樓",
+        "source": "一作「樓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_003_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "崇義里言懷",
+    "poem": [
+      "馬蹄京洛岐，復此少閒時。",
+      "老積滄洲夢，秋乖白閣期。",
+      "平生五字句，一夕滿頭絲。",
+      "把向侯門去，侯門未可知。"
+    ]
+  },
+  {
+    "uid": "QTS_716_004_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "僧院松",
+    "poem": [
+      "此木韻彌全，秋霄學瑟弦。",
+      "空知百餘尺，未定幾多年。",
+      "古甲磨雲拆，孤根捉地堅。",
+      "何當拋一幹，作蓋道場前。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "捉",
+        "variant": "把",
+        "source": "一作「把」"
+      },
+      {
+        "line": 4,
+        "text": "拋",
+        "variant": "拖",
+        "source": "一作「拖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_005_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "貽世",
+    "poem": [
+      "富者非義取，樸風爭肯還。",
+      "紅塵不待曉，白首有誰閒。",
+      "淺度四溟水，平看諸國山。",
+      "只消年作刼，俱到總無間。"
+    ]
+  },
+  {
+    "uid": "QTS_716_006_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "南遊",
+    "poem": [
+      "直到南箕下，方諳漲海頭。",
+      "君恩過銅柱，戎節限交州。",
+      "犀占花陰臥，波沖瘴色流。",
+      "遠夷非不樂，自是北人愁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "道",
+        "source": "一作「道」"
+      },
+      {
+        "line": 4,
+        "text": "非",
+        "variant": "君",
+        "source": "一作「君」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_007_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送胡中丞使日東",
+    "poem": [
+      "辭天理玉簪，指日使雞林。",
+      "猶有中華戀，方同積浪深。",
+      "張帆度鯨口，銜命見臣心。",
+      "渥澤遐宣後，歸期抵萬金。"
+    ]
+  },
+  {
+    "uid": "QTS_716_008_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "哭陳陶處士",
+    "poem": [
+      "園裏先生塚，鳥啼春更傷。",
+      "空餘八封樹，尚對一茅堂。",
+      "白日埋杜甫，皇天無耒陽。",
+      "如何稽古力，報答甚茫茫。"
+    ]
+  },
+  {
+    "uid": "QTS_716_009_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "言懷",
+    "poem": [
+      "冥心坐似癡，寢食亦如遺。",
+      "為覓出人句，秖求當路知。",
+      "豈能窮到老，未信達無時。",
+      "此道須天付，三光幸不私。"
+    ]
+  },
+  {
+    "uid": "QTS_716_010_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "月",
+    "poem": [
+      "寥寥天地內，夜魄爽何輕。",
+      "頻見此輪滿，即應華髮生。",
+      "不圓爭得破，纔正又須傾。",
+      "人事還如此，因知倚伏情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "內",
+        "variant": "外",
+        "source": "一作「外」"
+      },
+      {
+        "line": 4,
+        "text": "如此",
+        "variant": "相似",
+        "source": "一作「相似」"
+      },
+      {
+        "line": 4,
+        "text": "知",
+        "variant": "何",
+        "source": "一作「何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_011_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "答匡山僧贈榔栗杖",
+    "poem": [
+      "栗杖出匡頂，百中無一枝。",
+      "雖因野僧得，猶畏嶽神知。",
+      "畫月冷光在，指雲秋片移。",
+      "宜留引蹇步，他日訪峨嵋。"
+    ]
+  },
+  {
+    "uid": "QTS_716_012_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "商山夜聞泉",
+    "poem": [
+      "瀉月聲不斷，坐來心益閒。",
+      "無人知落處，萬木冷空山。",
+      "遠憶雲容外，幽疑石縫間。",
+      "那辭通曙聽，明日度藍關。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_013_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "書懷",
+    "poem": [
+      "默默守吾道，望榮來替愁。",
+      "吟詩應有罪，當路卻如讐。",
+      "陸海儻難溺，九霄爭便休。",
+      "敢言名譽出，天未白吾頭。"
+    ]
+  },
+  {
+    "uid": "QTS_716_014_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "道中",
+    "poem": [
+      "出門嗟世路，何日樸風歸。",
+      "是處太行險，□□應解飛。",
+      "主人厚薄禮，客子新故衣。",
+      "所以澆浮態，多令行者違。"
+    ]
+  },
+  {
+    "uid": "QTS_716_015_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "夏雲",
+    "poem": [
+      "勢能成岳仞，頃刻長崔嵬。",
+      "暝鳥飛不到，野風吹得開。",
+      "一天分萬態，立地看忘回。",
+      "欲結暑宵雨，先聞江上雷。"
+    ]
+  },
+  {
+    "uid": "QTS_716_016_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "塞上行",
+    "poem": [
+      "上將擁黃鬚，安西逐指呼。",
+      "離鄉俱少壯，到磧減肌膚。",
+      "風雪夜防塞，腥膻朝繫胡。",
+      "為君樂戰死，誰喜作征夫？"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "君",
+        "variant": "軍",
+        "source": "一作「軍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_017_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "晨起",
+    "poem": [
+      "曉色教不睡，捲簾清氣中。",
+      "林殘數枝月，發冷一梳風。",
+      "竝鳥含鐘語，欹荷隔霧空。",
+      "莫疑營白日，道路本無窮。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "含",
+        "variant": "聞",
+        "source": "一作「聞」"
+      },
+      {
+        "line": 4,
+        "text": "疑",
+        "variant": "徒",
+        "source": "一作「徒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_018_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "感世",
+    "poem": [
+      "觸目盡如幻，幻中能幾時？",
+      "愁來舍行樂，事去莫吞悲。",
+      "白髮不由己，黃金留待誰？",
+      "耕煙得銘誌，翻為古人思。"
+    ]
+  },
+  {
+    "uid": "QTS_716_019_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "觀",
+    "poem": [
+      "落筆勝縮地，展圖當晏寧。",
+      "中華屬貴分，遠裔占何星。",
+      "分寸辨諸岳，斗升觀四溟。",
+      "長疑未到處，一一似曾經。"
+    ],
+    "notes": [
+      {
+        "content": "華夷圖",
+        "context": "觀",
+        "original_title": "觀《華夷圖》"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_020_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "山中寒夜呈進士許棠",
+    "poem": [
+      "山寒草堂暖，寂夜有良朋。",
+      "讀《易》分高燭，煎茶取折氷。",
+      "庭垂河半形，窗露月微棱。",
+      "俱入論心地，爭無俗者憎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "寒",
+        "variant": "中",
+        "source": "一作「中」"
+      },
+      {
+        "line": 4,
+        "text": "論",
+        "variant": "詩",
+        "source": "一作「詩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_021_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "滕王閣春日晚眺",
+    "poem": [
+      "淩春帝子閣，偶眺日移西。",
+      "浪勢平花塢，帆陰上柳堤。",
+      "凝嵐藏宿翼，疊鼓碎歸蹄。",
+      "只此長吟詠，因高思不迷。"
+    ]
+  },
+  {
+    "uid": "QTS_716_022_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "鐘陵野步",
+    "poem": [
+      "岡扉聊自啟，信步出波邊。",
+      "野火風吹闊，春氷鶴啄穿。",
+      "渚檣齊驛樹，山鳥入公田。",
+      "未創孤雲勢，空思白閣年。"
+    ]
+  },
+  {
+    "uid": "QTS_716_023_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "哭胡處士",
+    "poem": [
+      "故人江閣在，重到事悠悠。",
+      "無爾向潭上，為吾傾甕頭。",
+      "空餘赤楓葉，墮落釣魚舟。",
+      "疑是沖虛去，不為天地囚。"
+    ]
+  },
+  {
+    "uid": "QTS_716_024_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "青龍寺贈雲顥法師",
+    "poem": [
+      "紫檀衣且香，春殿日尤長。",
+      "此地開新講，何山鎖舊房。",
+      "僧名喧北闕，師印續南方。",
+      "莫惜青蓮喻，秦人聽未忘。"
+    ]
+  },
+  {
+    "uid": "QTS_716_025_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "薦福寺贈應制白公",
+    "poem": [
+      "才子紫檀衣，明君寵顧時。",
+      "講昇高座懶，書答重臣遲。",
+      "瓶勢傾圓頂，刀聲落碎髭。",
+      "還聞穿內去，隨駕進新詩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "子",
+        "variant": "著",
+        "source": "一作「著」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_026_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "觀山寺僧穿井",
+    "poem": [
+      "雲僧鑿山井，寒碧在中庭。",
+      "況是分嵓眼，同來下石瓶。",
+      "旁痕終變蘚，圓影即澄星。",
+      "異夜天龍蟄，應聞說葉經。"
+    ]
+  },
+  {
+    "uid": "QTS_716_027_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送德光禪師",
+    "poem": [
+      "天涯緣事了，又造石霜微。",
+      "不以千峰險，唯將獨影歸。",
+      "有為嫌假佛，無境是真機。",
+      "到後流沙錫，何時更有飛。"
+    ],
+    "notes": [
+      {
+        "content": "重禮石霜長者。",
+        "context": "送德光禪師",
+        "original_title": "送德光禪師",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_028_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "贈南陵李主簿",
+    "poem": [
+      "外邑官同隱，寧勞短吏趨。",
+      "看雲情自足，愛酒逸應無。",
+      "簟席彈碁子，衣裳惹印朱。",
+      "仍聞陂水近，亦擬掉菰蒲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "吏",
+        "variant": "使",
+        "source": "一作「使」"
+      },
+      {
+        "line": 3,
+        "text": "彈",
+        "variant": "遺",
+        "source": "一作「遺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_029_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "慈恩寺東樓",
+    "poem": [
+      "寺樓涼出竹，非與曲江賒。",
+      "野火流穿苑，秦山疊入巴。",
+      "風梢離眾葉，岸角積虛沙。",
+      "此地鐘聲近，令人思未涯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "火",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 3,
+        "text": "梢",
+        "variant": "容",
+        "source": "一作「容」"
+      },
+      {
+        "line": 4,
+        "text": "未",
+        "variant": "海",
+        "source": "一作「海」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_030_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "古塚",
+    "poem": [
+      "代遠已難問，纍纍次古城。",
+      "民田侵不盡，客路踏還平。",
+      "作穴蛇分蟄，依岡鹿繞行。",
+      "唯應風雨夕，鬼火出林明。"
+    ]
+  },
+  {
+    "uid": "QTS_716_031_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "訪山友",
+    "poem": [
+      "一逕通高屋，重雲翳兩原。",
+      "山寒初宿頂，泉落未知根。",
+      "急雨洗荒壁，驚風開靜門。",
+      "聽君吟廢夜，苦卻建溪猿。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "建",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_032_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "林下書懷寄建州李頻員外",
+    "poem": [
+      "一從諸事嬾，海上跡宜沉。",
+      "吾道不當路，鄙人甘入林。",
+      "雲垂方覓鶴，月濕始收琴。",
+      "水石南州好，誰陪刻骨吟。"
+    ]
+  },
+  {
+    "uid": "QTS_716_033_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "猿",
+    "poem": [
+      "曾宿三巴路，今來不願聽。",
+      "雲根啼片白，峰頂擲尖青。",
+      "護果憎禽啄，棲霜覷葉零。",
+      "唯應臥嵐客，憐爾傍喦扃。"
+    ]
+  },
+  {
+    "uid": "QTS_716_034_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "秋日送方干遊上元",
+    "poem": [
+      "天高淮泗白，料子趨修程。",
+      "汲水疑山動，揚帆覺岸行。",
+      "雲離京口樹，鴈入石頭城。",
+      "後夜分遙念，諸峰霜露生。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "離",
+        "variant": "迷",
+        "source": "一作「迷」"
+      },
+      {
+        "line": 3,
+        "text": "鴈",
+        "variant": "岸",
+        "source": "一作「岸」"
+      },
+      {
+        "line": 4,
+        "text": "霜露",
+        "variant": "月霧",
+        "source": "一作「月霧」，一作「霧露」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_035_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "哭李頻員外",
+    "poem": [
+      "出麾臨建水，下世在公堂。",
+      "苦集休開篋，清資罷轉郎。",
+      "瘴中無子奠，嶺外一妻孀。",
+      "定是浮香骨，東歸就故鄉。"
+    ],
+    "notes": [
+      {
+        "content": "時在建川。",
+        "context": "哭李頻員外",
+        "original_title": "哭李頻員外",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "定",
+        "variant": "恐",
+        "source": "一作「恐」"
+      },
+      {
+        "line": 4,
+        "text": "香",
+        "variant": "吟",
+        "source": "一作「吟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_036_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "山中言事",
+    "poem": [
+      "嵐靄潤窗櫺，吟詩得冷症。",
+      "教餐有效藥，多愧獨行僧。",
+      "雲濕煎茶火，冰封汲井繩。",
+      "片扉深著掩，經國自無能。"
+    ]
+  },
+  {
+    "uid": "QTS_716_037_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送左協律京西從事",
+    "poem": [
+      "辟書來幾日，遂喜就嘉招。",
+      "猶向風沙淺，非於甸服遙。",
+      "時平無探騎，秋靜見盤鵰。",
+      "若遣關中使，煩君問寂寥。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "遂喜",
+        "variant": "遂意",
+        "source": "一作「遂意」"
+      },
+      {
+        "line": 2,
+        "text": "於",
+        "variant": "干",
+        "source": "一作「干」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_038_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "望九華寄池陽太守",
+    "poem": [
+      "造華峰峰異，宜教岳德謙。",
+      "靈蹤載籍古，怪刃刺雲尖。",
+      "盤蹙陵陽壯，孤標建鄴瞻。",
+      "霽餘堪洗目，青出謝家簷。"
+    ]
+  },
+  {
+    "uid": "QTS_716_039_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "上廣州支使王拾遺",
+    "poem": [
+      "明時應不諫，天幕稱仙才。",
+      "聘入關中去，人從帝側來。",
+      "詩窗盛島嶼，檄盾照風雷。",
+      "幾度陪旄節，營巡海色迴。"
+    ]
+  },
+  {
+    "uid": "QTS_716_040_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "題僧松禪",
+    "poem": [
+      "空山澗畔枯松樹，禪老堂頭甲乙身。",
+      "傳是昔朝僧種著，下頭應有茯苓神。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "禪老堂頭甲乙身",
+        "variant": "老對禪堂鱗甲身",
+        "source": "一作「老對禪堂鱗甲身」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_041_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "贈華陰李明府",
+    "poem": [
+      "佩墨縣兼清，約關西近城。",
+      "三峰豈不重，厚地戴猶輕。",
+      "雪筱欹難直，風泉噴易橫。",
+      "須知高枕外，長是勸民耕。"
+    ]
+  },
+  {
+    "uid": "QTS_716_042_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送人庭鶴",
+    "poem": [
+      "度歲休籠閉，身輕好羽儀。",
+      "白雲□是伴，滄海得因誰。",
+      "唳起遺殘食，盤餘在逈枝。",
+      "條風頻雨去，只恐更相隨。"
+    ]
+  },
+  {
+    "uid": "QTS_716_043_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "信州聞通寺題僧砌下泉",
+    "poem": [
+      "細聲從嶠足，幽淡浸香墀。",
+      "此境未開日，何人初見時。",
+      "耗痕延黑蘚，淨罅吐微澌。",
+      "應有喬梢鶴，下來當飲之。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "足",
+        "variant": "落",
+        "source": "一作「落」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_044_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "山中",
+    "poem": [
+      "此地似商嶺，雲霞空徃還。",
+      "衰條難定鳥，缺月易依山。",
+      "野色耕不盡，溪容釣自閒。",
+      "分因多臥退，百計少相關。"
+    ]
+  },
+  {
+    "uid": "QTS_716_045_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "寄崇聖寺僧",
+    "poem": [
+      "不醉長安酒，冥心只似師。",
+      "望山吟過日，伴鶴立多時。",
+      "溝遠流聲細，林寒綠色遲。",
+      "庵西蘿月夕，重約語空期。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "長安",
+        "variant": "秦中",
+        "source": "一作「秦中」"
+      },
+      {
+        "line": 4,
+        "text": "約語",
+        "variant": "得話",
+        "source": "一作「得話」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_046_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "金陵道中寄",
+    "poem": [
+      "忍苦待知音，無時省廢吟。",
+      "始為分路客，莫問向隅心。",
+      "嶠翠藏幽瀑，枝風下曉禽。",
+      "憶君秋欲盡，馬上秣陵砧。"
+    ]
+  },
+  {
+    "uid": "QTS_716_047_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "都門送許棠東歸",
+    "poem": [
+      "舊客東歸遠，長安詩少朋。",
+      "去愁分磧鴈，行計逐鄉僧。",
+      "華岳無時雪，黃河漫處氷。",
+      "知辭國門路，片席認西陵。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "黃",
+        "variant": "伊",
+        "source": "一作「伊」"
+      },
+      {
+        "line": 4,
+        "text": "西",
+        "variant": "巴",
+        "source": "一作「巴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_048_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送進士喻坦之遊太原",
+    "poem": [
+      "北鄙征難盡，詩愁滿去程。",
+      "廢巢侵燒色，荒塚入鋤聲。",
+      "逗野河流濁，離雲磧日明。",
+      "并州戎壘地，角動引風生。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "燒",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 2,
+        "text": "荒",
+        "variant": "孤",
+        "source": "一作「孤」"
+      },
+      {
+        "line": 3,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      },
+      {
+        "line": 4,
+        "text": "戎",
+        "variant": "戍",
+        "source": "一作「戍」"
+      },
+      {
+        "line": 4,
+        "text": "地",
+        "variant": "暮",
+        "source": "一作「暮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_049_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "九江暮春書事",
+    "poem": [
+      "楊柳城初鏁，輪蹄息去蹤。",
+      "春流無舊岸，夜色失諸峰。",
+      "影動漁邊火，聲遲話後鐘。",
+      "明朝迴去雁，誰向北郊逢？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "城",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 1,
+        "text": "輪蹄息去蹤",
+        "variant": "歸愁不記重",
+        "source": "一作「歸愁不記重」"
+      },
+      {
+        "line": 3,
+        "text": "話",
+        "variant": "語",
+        "source": "一作「語」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_050_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "再到洪州望西山",
+    "poem": [
+      "洪州向西顧，不忍暫忘君。",
+      "記得瀑泉落，省同幽鳥聞。",
+      "一回經雨雹，長有剩風雲。",
+      "未定卻棲息，前頭江海分。"
+    ],
+    "notes": [
+      {
+        "content": "松常棲此山。",
+        "context": "再到洪州望西山",
+        "original_title": "再到洪州望西山",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_051_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "與胡汾坐月期貫休上人不至",
+    "poem": [
+      "掃庭秋漏滴，接話貴忘眠。",
+      "靜夜人相語，低枝鳥暗遷。",
+      "星圍南極定，月照斷河連。",
+      "後會花宮子，應開石上禪。"
+    ]
+  },
+  {
+    "uid": "QTS_716_052_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "贈胡處士",
+    "poem": [
+      "年光離岳色，帶疾臥南原。",
+      "白日與無事，俗人嗔閉門。",
+      "樵魚臨片水，野鹿入荒園。",
+      "莫問榮華事，清霜點髮根。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "片",
+        "variant": "岸",
+        "source": "一作「岸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_053_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "鈆山寫懷",
+    "poem": [
+      "天涯兵火後，風景畏臨門。",
+      "骨肉到時節，團圓因夢魂。",
+      "池塘營水眼，嶺嶠結花根。",
+      "耳縱聽歌吹，中心不可論。"
+    ]
+  },
+  {
+    "uid": "QTS_716_054_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "書翠巖寺壁",
+    "poem": [
+      "何年話尊宿，瞻禮此堂中。",
+      "入郭非無路，歸林自學空。",
+      "濺瓶雲嶠水，逆磬雪川風。",
+      "時說南廬事，知師用意同。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "逆",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_055_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "江西題東湖",
+    "poem": [
+      "鑿出江湖思，涼多□□間。",
+      "無風觸微浪，半日□秋山。",
+      "客袖沙光滿，船窗荻影閒。",
+      "時人見黃綬，應笑狎鷗還。"
+    ]
+  },
+  {
+    "uid": "QTS_716_056_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "題湖南嶽麓寺",
+    "poem": [
+      "海雲山上寺，每到每開襟。",
+      "萬木長不住，細泉聽更深。",
+      "蜩沾高雨斷，鳥遇夕嵐沈。",
+      "此地良宵月，秋懷隔楚砧。"
+    ]
+  },
+  {
+    "uid": "QTS_716_057_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "贈衡山麋明府",
+    "poem": [
+      "為縣瀟湘水，門前樹配苔。",
+      "晚吟公籍少，春醉積林開。",
+      "滌硯松香起，擎茶岳影來。",
+      "任官當此境，更莫夢天台。"
+    ]
+  },
+  {
+    "uid": "QTS_716_058_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "塞上",
+    "poem": [
+      "邊寒來所闊，今日復明朝。",
+      "河凌堅通馬，胡雲缺見鵰。",
+      "砂中程獨泣，鄉外隱誰招。",
+      "迴首若經嵗，靈州生柳條。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "所",
+        "variant": "處",
+        "source": "一作「處」"
+      },
+      {
+        "line": 2,
+        "text": "凌",
+        "variant": "聲",
+        "source": "一作「聲」"
+      },
+      {
+        "line": 2,
+        "text": "胡",
+        "variant": "朝",
+        "source": "一作「朝」"
+      },
+      {
+        "line": 4,
+        "text": "若",
+        "variant": "苦",
+        "source": "一作「苦」"
+      },
+      {
+        "line": 4,
+        "text": "生",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_059_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "送邵安石及第歸連州覲省",
+    "poem": [
+      "及第兼歸覲，宜忘涉驛勞。",
+      "青雲重慶少，白日一飛高。",
+      "轉楚聞啼狖，臨湘見疊濤。",
+      "海陽沈飲罷，何地佐旌旄？"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "重",
+        "variant": "具",
+        "source": "一作「具」"
+      },
+      {
+        "line": 4,
+        "text": "海",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 4,
+        "text": "罷",
+        "variant": "徧",
+        "source": "一作「徧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_060_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "邊上送友人歸甯",
+    "poem": [
+      "鄉路穿京過，寧心去少同。",
+      "日斜尋闊磧，春盡逐歸鴻。",
+      "獨樹河聲外，凝笳塞色中。",
+      "憐君到此處，卻背老萊風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "過",
+        "variant": "口",
+        "source": "一作「口」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_061_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "除夜",
+    "poem": [
+      "殘臘即又盡，東風應漸聞。",
+      "一宵猶幾許，兩歲欲平分。",
+      "燎暗傾時斗，春通綻處芬。",
+      "明朝遙捧酒，先合祝堯君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "殘臘即又盡",
+        "variant": "舊厯不足卷",
+        "source": "一作「舊厯不足卷」"
+      },
+      {
+        "line": 1,
+        "text": "應漸",
+        "variant": "還坐",
+        "source": "一作「還坐」"
+      },
+      {
+        "line": 2,
+        "text": "許",
+        "variant": "刻",
+        "source": "一作「刻」"
+      },
+      {
+        "line": 3,
+        "text": "燎暗",
+        "variant": "臘盡",
+        "source": "一作「臘盡」"
+      },
+      {
+        "line": 3,
+        "text": "芬",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 4,
+        "text": "捧",
+        "variant": "把",
+        "source": "一作「把」"
+      },
+      {
+        "line": 4,
+        "text": "堯",
+        "variant": "吾",
+        "source": "一作「吾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_062_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "題甘露寺",
+    "poem": [
+      "香門接巨壘，畫角間清鐘。",
+      "北固一何峭，西僧多此逢。",
+      "天垂無際海，雲白久晴峯。",
+      "旦暮然燈外，濤頭振蟄龍。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "門",
+        "variant": "禪",
+        "source": "一作「禪」"
+      },
+      {
+        "line": 1,
+        "text": "壘",
+        "variant": "壑",
+        "source": "一作「壑」"
+      },
+      {
+        "line": 2,
+        "text": "此",
+        "variant": "未",
+        "source": "一作「未」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_063_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "貽住山僧",
+    "poem": [
+      "罷講巡巖塢，無窮得野情。",
+      "臘高猶伴鹿，夏滿不歸城。",
+      "雲朵緣崖發，峯陰截水清。",
+      "自然雙洗耳，唯任白毫生。"
+    ]
+  },
+  {
+    "uid": "QTS_716_064_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "題鶴鳴泉",
+    "poem": [
+      "仙鶴曾鳴處，泉兼半井苔。",
+      "直峯拋影入，片月瀉光來。",
+      "瀲灧侵顏冷，深沉慰眼開。",
+      "何因值舟頂，滿汲石瓶迴。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "舟",
+        "variant": "丹",
+        "source": "一作「丹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_716_065_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "弔賈島二首 其一",
+    "poem": [
+      "先生不折桂，謫去抱何冤。",
+      "已葬離燕骨，難招入劔魂。",
+      "旅墳低卻草，稚子哭勝猿。",
+      "冥寞如搜句，宜邀賀監論。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_716_065_02",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "弔賈島二首 其二",
+    "poem": [
+      "青旆低寒水，清笳出曉風。",
+      "鳥為傷賈傅，馬立葬滕公。",
+      "松柏青山上，城池白日中。",
+      "一朝今古隔，惟有月明同。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_716_066_01",
+    "volume": 716,
+    "author": {
+      "canonical": "曹松",
+      "recorded": "曹松",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Ts'ao Sung",
+      "wikidata_id": "Q11091148"
+    },
+    "title": "憶江西並悼亡友",
+    "poem": [
+      "前心奈兵阻，悔作豫章分。",
+      "芳草未歸日，故人多是墳。",
+      "帆行出岫雨，馬踐過江雲。",
+      "此地一罇酒，當時皆以文。"
+    ]
+  }
+]

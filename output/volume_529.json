@@ -1,0 +1,1244 @@
+[
+  {
+    "uid": "QTS_529_001_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "經馬鎮西宅",
+    "poem": [
+      "將軍久已沒，行客自興哀。",
+      "功業山長在，繁華水不回。",
+      "亂藤侵廢井，荒菊上叢臺。",
+      "借問此中事，幾家歌舞來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "久已沒",
+        "variant": "沒已久",
+        "source": "一作「沒已久」"
+      },
+      {
+        "line": 3,
+        "text": "亂",
+        "variant": "芹",
+        "source": "一作「芹」"
+      },
+      {
+        "line": 3,
+        "text": "叢",
+        "variant": "崩",
+        "source": "一作「崩」"
+      },
+      {
+        "line": 4,
+        "text": "借問此中事，幾家歌舞來。",
+        "variant": "惟見軍中卒，朝朝戲馬來。",
+        "source": "一作「惟見軍中卒，朝朝戲馬來。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_002_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "重遊鬱林寺道玄上人院",
+    "poem": [
+      "藤杖叩松關，春溪斸藥還。",
+      "雨晴巢燕急，波暖浴鷗閒。",
+      "倚檻花臨水，回舟月照山。",
+      "憶歸師莫笑，書劍在人間。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "溪",
+        "variant": "梁",
+        "source": "一作「梁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_003_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "泛溪",
+    "poem": [
+      "疑與武陵通，青溪碧嶂中。",
+      "水寒深見石，松晚靜聞風。",
+      "遁跡驅雞吏，冥心失馬翁。",
+      "才應畢婚嫁，還此息微躬。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "還",
+        "variant": "從",
+        "source": "一作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_004_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送樓煩李別駕",
+    "poem": [
+      "琴清詩思勞，更欲學龍韜。",
+      "王粲暫停筆，呂虔初佩刀。",
+      "夜吟關月靜，秋望塞雲高。",
+      "去去從軍樂，雕飛代馬豪。"
+    ]
+  },
+  {
+    "uid": "QTS_529_005_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "聞兩河用兵因貽友人",
+    "poem": [
+      "故人日已遠，身事與誰論。",
+      "性拙難趨世，心孤易感恩。",
+      "秋悲憐宋玉，夜舞笑劉琨。",
+      "徒有干時策，青山尚掩門。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "秋悲",
+        "variant": "晨兩",
+        "source": "一作「晨兩」"
+      },
+      {
+        "line": 4,
+        "text": "徒有干時策，青山尚掩門。",
+        "variant": "從此歸山去，無因更出門。",
+        "source": "一作「從此歸山去，無因更出門。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_006_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "獻白尹",
+    "poem": [
+      "醉舞任生涯，褐寬烏帽斜。",
+      "庾公先在郡，疏傅早還家。",
+      "林晚鳥爭樹，園春蜂護花。",
+      "高吟應更逸，嵩洛舊煙霞。"
+    ],
+    "notes": [
+      {
+        "content": "即白樂天也。",
+        "context": "獻白尹",
+        "original_title": "獻白尹〈即白樂天也。〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "蜂",
+        "variant": "蝶",
+        "source": "一作「蝶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_007_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "茅山贈梁尊師",
+    "poem": [
+      "雲屋何年客，青山白日長。",
+      "種花春掃雪，看籙夜焚香。",
+      "上象壺中闊，平生夢裏忙。",
+      "幸承仙籍後，乞取大還方。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "取",
+        "variant": "與",
+        "source": "一作「與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_008_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "聞薛先輩陪大夫看早梅因寄",
+    "poem": [
+      "澗梅寒正發，莫信笛中吹。",
+      "素豔雪凝樹，清香風滿枝。",
+      "折驚山鳥散，攜任野蜂隨。",
+      "今日從公醉，何人倒接䍦。"
+    ]
+  },
+  {
+    "uid": "QTS_529_009_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送前緱氏韋明府南遊",
+    "poem": [
+      "酒闌橫劍歌，日暮望關河。",
+      "道直去官早，家貧為客多。",
+      "山昏函穀雨，木落洞庭波。",
+      "莫盡遠遊興，故園荒薜蘿。"
+    ]
+  },
+  {
+    "uid": "QTS_529_010_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "看雪",
+    "poem": [
+      "松亞竹珊珊，心知萬井歡。",
+      "山明迷舊徑，溪滿漲新瀾。",
+      "客醉瑤台曙，兵防玉塞寒。",
+      "紅樓知有酒，誰肯學袁安。"
+    ]
+  },
+  {
+    "uid": "QTS_529_011_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "贈僧",
+    "poem": [
+      "心法本無住，流沙歸復來。",
+      "錫隨山鳥動，經附海船回。",
+      "洗足柳遮寺，坐禪花委苔。",
+      "唯將一童子，又欲上天台。"
+    ],
+    "notes": [
+      {
+        "content": "一作趙嘏詩",
+        "context": "贈僧",
+        "original_title": "贈僧〈一作趙嘏詩〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_012_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "趨慈和寺移宴",
+    "poem": [
+      "高寺移清宴，漁舟繫綠蘿。",
+      "潮平秋水闊，雲斂暮山多。",
+      "廣檻停簫鼓，繁弦散綺羅。",
+      "西樓半牀月，莫問夜如何。"
+    ]
+  },
+  {
+    "uid": "QTS_529_013_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "留贈偃師主人",
+    "poem": [
+      "孤城漏未殘，徒侶拂征鞍。",
+      "洛北去遊遠，淮南歸夢闌。",
+      "曉燈回壁暗，晴雪捲簾寒。",
+      "強盡主人酒，出門行路難。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遊",
+        "variant": "愁",
+        "source": "一作「愁」"
+      },
+      {
+        "line": 4,
+        "text": "強",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_014_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送南陵李少府",
+    "poem": [
+      "高人亦未閒，來往楚雲間。",
+      "劍在心應壯，書窮鬢已斑。",
+      "落帆秋水寺，驅馬夕陽山。",
+      "明日南昌尉，空齋又掩關。"
+    ],
+    "notes": [
+      {
+        "content": "一作「送李公自淮南之南昌」",
+        "context": "南陵李少府",
+        "original_title": "送南陵李少府〈一作「送李公自淮南之南昌」〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_015_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "別韋處士",
+    "poem": [
+      "南北斷蓬飛，別多相見稀。",
+      "更傷今日酒，未換昔年衣。",
+      "舊友幾人在，故鄉何處歸。",
+      "秦原向西路，雲晚雪霏霏。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "人",
+        "variant": "多",
+        "source": "一作「多」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_016_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "九日登樟亭驛樓",
+    "poem": [
+      "鱸鱠與蓴羹，西風片席輕。",
+      "潮回孤島晚，雲斂眾山晴。",
+      "丹羽下高閣，黃花垂古城。",
+      "因秋倍多感，鄉樹接咸京。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "片",
+        "variant": "掛",
+        "source": "一作「掛」"
+      },
+      {
+        "line": 2,
+        "text": "晚",
+        "variant": "遠",
+        "source": "一作「遠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_017_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "再遊越中，傷朱餘慶協律好直上人",
+    "poem": [
+      "昔年湖上客，留訪雪山翁。",
+      "王氏船猶在，蕭家寺已空。",
+      "月高花有露，煙合水無風。",
+      "處處多遺韻，何曾入剡中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "留",
+        "variant": "曾",
+        "source": "一作「曾」"
+      },
+      {
+        "line": 4,
+        "text": "曾",
+        "variant": "情",
+        "source": "一作「情」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_018_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "京口津亭送張、崔二侍御",
+    "poem": [
+      "愛樹滿西津，津亭墮淚頻。",
+      "素車應度洛，珠履更歸秦。",
+      "水接三湘暮，山通五嶺春。",
+      "傷離與懷舊，明日白頭人。"
+    ]
+  },
+  {
+    "uid": "QTS_529_019_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "江樓夜別",
+    "poem": [
+      "離別奈情何，江樓凝豔歌。",
+      "蕙蘭秋露重，蘆葦夜風多。",
+      "深怨寄清瑟，遠愁生翠蛾。",
+      "酒酣相顧起，明月棹寒波。"
+    ]
+  },
+  {
+    "uid": "QTS_529_020_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送惟素上人歸新安",
+    "poem": [
+      "山空葉復落，一徑下新安。",
+      "風急渡溪晚，雪晴歸寺寒。",
+      "尋雲策藤杖，向日倚蒲團。",
+      "甯憶西遊客，勞勞歌路難。"
+    ]
+  },
+  {
+    "uid": "QTS_529_021_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "霅上宴別",
+    "poem": [
+      "山斷水茫茫，洛人西路長。",
+      "笙歌留遠棹，風雨寄華堂。",
+      "紅壁耿秋燭，翠簾凝曉香。",
+      "誰堪從此去，雲樹滿陵陽。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "人",
+        "variant": "濱",
+        "source": "一作「濱」"
+      },
+      {
+        "line": 2,
+        "text": "寄",
+        "variant": "醉",
+        "source": "一作「醉」"
+      },
+      {
+        "line": 3,
+        "text": "簾",
+        "variant": "簷",
+        "source": "一作「簷」"
+      },
+      {
+        "line": 4,
+        "text": "誰堪",
+        "variant": "何言",
+        "source": "一作「何言」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_022_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "下第別友人楊至之",
+    "poem": [
+      "花落水潺潺，十年離舊山。",
+      "夜愁添白髮，春淚減朱顏。",
+      "孤劍北遊塞，遠書東出關。",
+      "逢君話心曲，一醉灞陵間。"
+    ]
+  },
+  {
+    "uid": "QTS_529_023_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "尋戴處士",
+    "poem": [
+      "車馬長安道，誰知大隱心。",
+      "蠻僧留古鏡，蜀客寄新琴。",
+      "曬藥竹齋暖，搗茶松院深。",
+      "思君一相訪，殘雪似山陰。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "院",
+        "variant": "逕",
+        "source": "一作「逕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_024_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "放猿",
+    "poem": [
+      "殷勤解金鎖，昨夜雨淒淒。",
+      "山淺憶巫峽，水寒思建溪。",
+      "遠尋紅樹宿，深向白雲啼。",
+      "好覓來時路，煙蘿莫共迷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "昨",
+        "variant": "別",
+        "source": "一作「別」"
+      },
+      {
+        "line": 3,
+        "text": "遠尋",
+        "variant": "好依",
+        "source": "一作「好依」"
+      },
+      {
+        "line": 3,
+        "text": "向",
+        "variant": "入",
+        "source": "一作「入」"
+      },
+      {
+        "line": 4,
+        "text": "好覓來時路",
+        "variant": "好去長江路",
+        "source": "一作「好去長江路」，一作「便覓南歸路」"
+      },
+      {
+        "line": 4,
+        "text": "共",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_025_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "將離郊園留示弟姪",
+    "poem": [
+      "身賤與心違，秋風生旅衣。",
+      "久貧辭國遠，多病在家稀。",
+      "山暝客初散，樹涼人未歸。",
+      "西都萬餘里，明旦別柴扉。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "柴",
+        "variant": "荊",
+        "source": "一作「荊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_026_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "夜歸丁卯橋村舍",
+    "poem": [
+      "月涼風靜夜，歸客泊巖前。",
+      "橋響犬遙吠，庭空人散眠。",
+      "紫蒲低水檻，紅葉半江船。",
+      "自有還家計，南湖二頃田。"
+    ]
+  },
+  {
+    "uid": "QTS_529_027_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "題青山館",
+    "poem": [
+      "昔人詩酒地，芳草思王孫。",
+      "白水半塘岸，青山橫郭門。",
+      "懸巖碑已折，盤石井猶存。",
+      "無處繼行樂，野花空一尊。"
+    ],
+    "notes": [
+      {
+        "content": "即謝公館",
+        "context": "題青山館",
+        "original_title": "題青山館〈即謝公館〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_028_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "秋日眾哲館對竹",
+    "poem": [
+      "蕭蕭淩雪霜，濃翠異三湘。",
+      "疎影月移壁，寒聲風滿堂。",
+      "捲簾秋更早，高枕夜偏長。",
+      "忽憶秦溪路，萬竿今正涼。"
+    ],
+    "notes": [
+      {
+        "content": "一作「題渚塘館竹」",
+        "context": "眾哲館對竹",
+        "original_title": "秋日眾哲館對竹〈一作「題渚塘館竹」〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "秦溪",
+        "variant": "南遊",
+        "source": "一作「南遊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_029_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "春日題韋曲野老村舍二首 其一",
+    "poem": [
+      "遶屋遍桑麻，村南第一家。",
+      "林繁樹勢直，溪轉水紋斜。",
+      "竹院晝看筍，藥欄春賣花。",
+      "故園歸未得，到此是天涯。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "遍",
+        "variant": "樹",
+        "source": "一作「樹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_029_02",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "春日題韋曲野老村舍二首 其二",
+    "poem": [
+      "北嶺枕南塘，數家村落長。",
+      "鶯啼幼婦嬾，蠶出小姑忙。",
+      "煙草近溝濕，風花臨路香。",
+      "自憐非楚客，春望亦心傷。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "北",
+        "variant": "背",
+        "source": "一作「背」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_030_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "崇聖寺別楊至之",
+    "poem": [
+      "蕭寺暫相逢，離憂滿病容。",
+      "寒齋秋少燕，陰壁夜多蛩。",
+      "樹暗水千里，山深雲萬重。",
+      "懷君在書信，莫過雁回峰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_031_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "途經李翰林墓",
+    "poem": [
+      "氣逸何人識，才高舉世疑。",
+      "禰生狂善賦，陶令醉能詩。",
+      "碧水鱸魚思，青山鵩鳥悲。",
+      "至今孤塚在，荊棘楚江湄。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "善",
+        "variant": "解",
+        "source": "一作「解」"
+      },
+      {
+        "line": 2,
+        "text": "詩",
+        "variant": "吟",
+        "source": "一作「吟」"
+      },
+      {
+        "line": 3,
+        "text": "思",
+        "variant": "怨",
+        "source": "一作「怨」"
+      },
+      {
+        "line": 4,
+        "text": "至今孤",
+        "variant": "不堪遺",
+        "source": "一作「不堪遺」"
+      },
+      {
+        "line": 4,
+        "text": "在",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_032_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "嚴陵釣臺貽行侶",
+    "poem": [
+      "故人天下定，垂釣碧巖幽。",
+      "舊跡隨臺古，高名寄水流。",
+      "鳥喧群木晚，蟬急眾山秋。",
+      "更待新安月，憑君暫駐舟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "垂釣碧巖幽",
+        "variant": "歸釣獨悠悠",
+        "source": "一作「歸釣獨悠悠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_033_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "南樓春望",
+    "poem": [
+      "南樓春一望，雲水共昏昏。",
+      "野店歸山路，危橋帶郭村。",
+      "晴煙和草色，夜雨長溪痕。",
+      "下岸誰家住，殘陽半掩門。"
+    ]
+  },
+  {
+    "uid": "QTS_529_034_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送無夢道人先歸甘露寺",
+    "poem": [
+      "飄飄隨晚浪，杯影入鷗羣。",
+      "岸凍千船雪，巖陰一寺雲。",
+      "夜燈江北見，寒磬水西聞。",
+      "鶴嶺煙霞在，歸期不羨君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "飄",
+        "variant": "颻",
+        "source": "一作「颻」"
+      },
+      {
+        "line": 2,
+        "text": "岸",
+        "variant": "萍",
+        "source": "一作「萍」"
+      },
+      {
+        "line": 3,
+        "text": "水",
+        "variant": "浦",
+        "source": "一作「浦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_035_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "閒居孟夏即事",
+    "poem": [
+      "綠樹蔭青苔，柴門臨水開。",
+      "簟涼初熟麥，枕膩乍經梅。",
+      "魚躍海風起，鼉鳴江雨來。",
+      "佳人竟何處，日夕上樓臺。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "臨",
+        "variant": "向",
+        "source": "一作「向」"
+      },
+      {
+        "line": 2,
+        "text": "膩",
+        "variant": "潤",
+        "source": "一作「潤」"
+      },
+      {
+        "line": 3,
+        "text": "風",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 4,
+        "text": "佳人竟何處",
+        "variant": "坐期今已晚",
+        "source": "一作「坐期今已晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_036_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "題灞西駱隱士",
+    "poem": [
+      "磻溪連灞水，商嶺接秦山。",
+      "青漢不回駕，白雲長掩關。",
+      "雀喧知鶴靜，鳧戲識鷗閒。",
+      "卻笑南昌尉，悠悠城市間。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "長",
+        "variant": "空",
+        "source": "一作「空」"
+      },
+      {
+        "line": 3,
+        "text": "識",
+        "variant": "覺",
+        "source": "一作「覺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_037_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "溪亭二首 其一",
+    "poem": [
+      "溪亭四面山，橫柳半溪灣。",
+      "蟬響螳螂急，魚深翡翠閒。",
+      "水寒留客醉，月上與僧還。",
+      "猶戀蕭蕭竹，西齋未掩關。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_529_037_02",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "溪亭二首 其二",
+    "poem": [
+      "暖枕眠溪柳，僧齋昨夜期。",
+      "茶香秋夢後，松韻晚吟時。",
+      "共戲魚翻藻，爭棲鳥墜枝。",
+      "重陽應一醉，栽菊助東籬。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_529_038_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "秋日赴闕題潼關驛樓",
+    "poem": [
+      "紅葉晚蕭蕭，長亭酒一瓢。",
+      "殘雲歸太華，疎雨過中條。",
+      "樹色隨山迥，河聲入海遙。",
+      "帝鄉明日到，猶自夢漁樵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "紅葉晚蕭蕭",
+        "variant": "南北斷蓬飄",
+        "source": "一作「南北斷蓬飄」"
+      },
+      {
+        "line": 2,
+        "text": "過",
+        "variant": "落",
+        "source": "一作「落」"
+      },
+      {
+        "line": 3,
+        "text": "山",
+        "variant": "關",
+        "source": "一作「關」"
+      },
+      {
+        "line": 3,
+        "text": "海",
+        "variant": "塞",
+        "source": "一作「塞」"
+      },
+      {
+        "line": 4,
+        "text": "帝鄉明日到，猶自夢漁樵。",
+        "variant": "勞歌此分手，風急馬蕭蕭。",
+        "source": "一作「勞歌此分手，風急馬蕭蕭。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_039_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "吳門送客早發",
+    "poem": [
+      "吳歌咽深思，楚客怨歸程。",
+      "寺曉樓臺迥，江秋管吹清。",
+      "早潮低水檻，殘月下山城。",
+      "惆悵回舟日，湘南春草生。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "樓臺迥",
+        "variant": "鐘聲遠",
+        "source": "一作「鐘聲遠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_529_040_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "送太昱禪師",
+    "poem": [
+      "禪床深竹裏，心與徑山期。",
+      "結社多高客，登壇盡小師。",
+      "早秋歸寺遠，新雨上灘遲。",
+      "別後江雲碧，南齋一首詩。"
+    ]
+  },
+  {
+    "uid": "QTS_529_041_01",
+    "volume": 529,
+    "author": {
+      "canonical": "許渾",
+      "recorded": "許渾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Xu Hun",
+      "wikidata_id": "Q4382404"
+    },
+    "title": "旅懷",
+    "poem": [
+      "征車何軋軋，南北極天涯。",
+      "孤枕易為客，遠書難到家。",
+      "鄉連雲外樹，城閉月中花。",
+      "猶有扁舟思，前年別若耶。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "車",
+        "variant": "輪",
+        "source": "一作「輪」"
+      },
+      {
+        "line": 4,
+        "text": "思",
+        "variant": "興",
+        "source": "一作「興」"
+      }
+    ]
+  }
+]

@@ -1,0 +1,676 @@
+[
+  {
+    "uid": "QTS_877_001_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "中宗引諺",
+    "poem": [
+      "冬至長於歲。"
+    ],
+    "notes": [
+      {
+        "type": "title_note",
+        "content": "詩四十三首",
+        "context": "無名氏"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_877_002_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "賈言忠引諺",
+    "poem": [
+      "軍無媒，中道回。"
+    ]
+  },
+  {
+    "uid": "QTS_877_003_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李績引諺別張文瓘",
+    "poem": [
+      "千里相送，終於一別。"
+    ]
+  },
+  {
+    "uid": "QTS_877_004_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "路勵行引諺",
+    "poem": [
+      "一人在朝，百人緩帶。"
+    ]
+  },
+  {
+    "uid": "QTS_877_005_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "郝南容引諺",
+    "poem": [
+      "三公後，出死狗。"
+    ]
+  },
+  {
+    "uid": "QTS_877_006_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "員莊諺",
+    "poem": [
+      "上有天堂，下有員莊。"
+    ]
+  },
+  {
+    "uid": "QTS_877_007_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "婁師德引諺",
+    "poem": [
+      "卒客無卒主人。"
+    ]
+  },
+  {
+    "uid": "QTS_877_008_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "台中諺",
+    "poem": [
+      "免巡未推，只得自知。"
+    ]
+  },
+  {
+    "uid": "QTS_877_009_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "宋守敬引諺",
+    "poem": [
+      "雙陸無休勢。"
+    ]
+  },
+  {
+    "uid": "QTS_877_010_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "雒穀諺",
+    "poem": [
+      "謥洞入黃泉。"
+    ]
+  },
+  {
+    "uid": "QTS_877_011_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "三門諺",
+    "poem": [
+      "古無門匠墓。"
+    ]
+  },
+  {
+    "uid": "QTS_877_012_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "張果引諺",
+    "poem": [
+      "娶婦得公主，平地生公府。"
+    ]
+  },
+  {
+    "uid": "QTS_877_013_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "哥舒翰引諺",
+    "poem": [
+      "狐向窟嗥不祥。"
+    ]
+  },
+  {
+    "uid": "QTS_877_014_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "代宗引諺",
+    "poem": [
+      "不癡不聾，不作阿家阿翁。"
+    ]
+  },
+  {
+    "uid": "QTS_877_015_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "鬼門關諺",
+    "poem": [
+      "鬼門關，十人去，九不還。"
+    ]
+  },
+  {
+    "uid": "QTS_877_016_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "河北諺",
+    "poem": [
+      "山東一條葛，無事莫撩撥。"
+    ]
+  },
+  {
+    "uid": "QTS_877_017_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李振引諺",
+    "poem": [
+      "百歲奴事三歲主。"
+    ]
+  },
+  {
+    "uid": "QTS_877_018_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "王彥章引諺",
+    "poem": [
+      "人死留名，豹死留皮。"
+    ]
+  },
+  {
+    "uid": "QTS_877_019_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "引諺",
+    "poem": [
+      "小舅小叔，相追相逐。"
+    ],
+    "notes": [
+      {
+        "content": "孫光憲北夢瑣言",
+        "context": "",
+        "original_title": "《孫光憲北夢瑣言》引諺"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_877_020_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "諺",
+    "poem": [
+      "棗子塞鼻孔，懸棲閣卻種。",
+      "蟬鳴蛁蟟喚，黍種糕糜斷。"
+    ]
+  },
+  {
+    "uid": "QTS_877_021_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "寧茵事諺",
+    "poem": [
+      "鵓鳩樹上鳴，意在麻子地。"
+    ]
+  },
+  {
+    "uid": "QTS_877_022_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "鸕鷀諺",
+    "poem": [
+      "鸕鷀不打腳下塘。"
+    ]
+  },
+  {
+    "uid": "QTS_877_023_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "鹽鐵諺",
+    "poem": [
+      "揚一益二。"
+    ]
+  },
+  {
+    "uid": "QTS_877_024_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "馮翊諺",
+    "poem": [
+      "苦泉羊，洛水漿。"
+    ]
+  },
+  {
+    "uid": "QTS_877_025_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "丹徒諺",
+    "poem": [
+      "生東吳，死丹徒。"
+    ]
+  },
+  {
+    "uid": "QTS_877_026_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "湖州裏諺",
+    "poem": [
+      "放爾生，放爾命，放爾湖州做百姓。"
+    ]
+  },
+  {
+    "uid": "QTS_877_027_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "益陽諺",
+    "poem": [
+      "長沙益陽，一時相卬。"
+    ]
+  },
+  {
+    "uid": "QTS_877_028_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "昭潭諺",
+    "poem": [
+      "昭潭無底橘州浮。"
+    ]
+  },
+  {
+    "uid": "QTS_877_029_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "江右四郡諺",
+    "poem": [
+      "筠袁贛吉，腦後插筆。"
+    ]
+  },
+  {
+    "uid": "QTS_877_030_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "徐聞諺",
+    "poem": [
+      "欲拔貧，詣徐聞。"
+    ]
+  },
+  {
+    "uid": "QTS_877_031_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "隴西諺",
+    "poem": [
+      "郎驅女驅，十馬九駒。",
+      "安陽大角，十牛九犢。"
+    ]
+  },
+  {
+    "uid": "QTS_877_032_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "荊棺峽諺",
+    "poem": [
+      "九子不葬父，一女打荊棺。"
+    ]
+  },
+  {
+    "uid": "QTS_877_033_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "南中諺",
+    "poem": [
+      "秋收稻，夏收頭。"
+    ]
+  },
+  {
+    "uid": "QTS_877_034_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "事狐神諺",
+    "poem": [
+      "無狐魅，不成村。"
+    ]
+  },
+  {
+    "uid": "QTS_877_035_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李哲家怪引諺",
+    "poem": [
+      "一雞死，一雞鳴。"
+    ]
+  },
+  {
+    "uid": "QTS_877_036_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "俗諺",
+    "poem": [
+      "白日無談人，談人則害生。",
+      "昏夜無說鬼，說鬼則怪至。"
+    ]
+  },
+  {
+    "uid": "QTS_877_037_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "李白名許雲封謎",
+    "poem": [
+      "樹下彼何人，不語真吾好。",
+      "語若及日中，煙霏謝成寶。"
+    ]
+  },
+  {
+    "uid": "QTS_877_038_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "許氏碑陰謎",
+    "poem": [
+      "談馬礪畢，王田數七。"
+    ]
+  },
+  {
+    "uid": "QTS_877_039_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "大明寺壁語",
+    "poem": [
+      "一人堂堂，二曜同光。",
+      "泉深尺一，點去冰傍。",
+      "二人相連，不欠一邊。",
+      "三梁四柱列火然，除卻雙勾兩日全。"
+    ]
+  },
+  {
+    "uid": "QTS_877_040_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "曹著與客謎",
+    "poem": [
+      "一物坐也坐，臥也坐，行也坐。",
+      "一物坐也臥，",
+      "立也臥，",
+      "行也臥，",
+      "走也臥，",
+      "臥也臥"
+    ]
+  },
+  {
+    "uid": "QTS_877_041_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "客題青龍寺門",
+    "poem": [
+      "龕龍去東海，時日隱西斜。",
+      "敬文今不在，碎石入流沙。"
+    ]
+  },
+  {
+    "uid": "QTS_877_042_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "陶穀題南唐官舍壁",
+    "poem": [
+      "西川狗，百姓眼。",
+      "馬包兒，禦廚飯。"
+    ]
+  },
+  {
+    "uid": "QTS_877_043_01",
+    "volume": 877,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "謝小娥夢盜姓名",
+    "poem": [
+      "車中猴，門東草。",
+      "禾中走，一日夫。"
+    ]
+  }
+]

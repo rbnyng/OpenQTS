@@ -1,0 +1,2184 @@
+[
+  {
+    "uid": "QTS_638_001_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "宴邊將",
+    "poem": [
+      "一曲梁州金石清，邊風蕭颯動江城。",
+      "座中有老沙場客，橫笛休吹塞上聲。"
+    ]
+  },
+  {
+    "uid": "QTS_638_002_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "郢州即事",
+    "poem": [
+      "孤城臨遠水，千里見寒山。",
+      "白雪無人唱，滄洲盡日閑。",
+      "鳥歸殘燒外，帆出斷雲間。",
+      "此地秋風起，應隨計吏還。"
+    ]
+  },
+  {
+    "uid": "QTS_638_003_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送賓貢金夷吾奉使歸本國",
+    "poem": [
+      "渡海頓仙籍，還家備漢儀。",
+      "孤舟無岸泊，萬里有星隨。",
+      "積水浮魂夢，流年半別離。",
+      "東風未回日，音信杳難期。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "期",
+        "variant": "知",
+        "source": "一作「知」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_004_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "華山",
+    "poem": [
+      "誰將倚天劍，削出倚天峰。",
+      "眾水背流急，他山相向重。",
+      "樹黏青靄合，崖夾白雲濃。",
+      "一夜盆傾雨，前湫起毒龍。"
+    ]
+  },
+  {
+    "uid": "QTS_638_005_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "滕王閣",
+    "poem": [
+      "昔人登覽處，遺閣大江隅。",
+      "疊浪有時有，閒雲無日無。",
+      "早涼先燕去，返照後帆孤。",
+      "未得營歸計，菱歌滿舊湖。"
+    ],
+    "notes": [
+      {
+        "content": "一本下有「寫望」二字。",
+        "context": "滕王閣",
+        "original_title": "滕王閣〈一本下有「寫望」二字。〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "昔人登覽處，遺閣大江隅。",
+        "variant": "創來人世殊，幾度繞汀蘆。",
+        "source": "一作「創來人世殊，幾度繞汀蘆。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_006_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "寄處士梁燭",
+    "poem": [
+      "賢哉君子風，諷與古人同。",
+      "採藥楚雲裏，移家湘水東。",
+      "星霜秋野闊，雨雹夜山空。",
+      "早晚相招隱，深耕老此中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "諷",
+        "variant": "誦",
+        "source": "一作「誦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_007_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送許棠下第遊蜀",
+    "poem": [
+      "天下猿多處，西南是蜀關。",
+      "馬登青壁瘦，人宿翠微閒。",
+      "帶雨逢殘日，因江見斷山。",
+      "行歌風月好，莫老錦城間。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "宿",
+        "variant": "度",
+        "source": "一作「度」"
+      },
+      {
+        "line": 3,
+        "text": "日",
+        "variant": "火",
+        "source": "一作「火」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_008_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題終南山白鶴觀",
+    "poem": [
+      "上徹練丹峰，求玄意未窮。",
+      "古壇青草合，往事白雲空。",
+      "仙境日月外，帝鄉煙霧中。",
+      "人間足煩暑，欲去戀松風。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鄉",
+        "variant": "城",
+        "source": "一作「城」"
+      },
+      {
+        "line": 4,
+        "text": "松",
+        "variant": "清",
+        "source": "一作「清」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_009_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈邊將",
+    "poem": [
+      "將軍誇膽氣，功在殺人多。",
+      "對酒擎鐘飲，臨風拔劍歌。",
+      "翻師平碎葉，掠地取交河。",
+      "應笑孔門客，年年羨四科。"
+    ]
+  },
+  {
+    "uid": "QTS_638_010_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "弔建州李員外",
+    "poem": [
+      "銘旌歸故里，猿鳥亦淒然。",
+      "已葬桐江月，空迴建水船。",
+      "客傳為郡日，僧說讀書年。",
+      "恐有吟魂在，深山古木邊。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "日",
+        "variant": "政",
+        "source": "一作「政」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_011_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送許棠及第歸宣州",
+    "poem": [
+      "雅調一生吟，誰為晚達心。",
+      "傍人賀及第，獨自卻沾襟。",
+      "宴別喧天樂，家歸礙日岑。",
+      "青門許攀送，故里接雲林。"
+    ]
+  },
+  {
+    "uid": "QTS_638_012_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送龐百篇之任青陽縣尉",
+    "poem": [
+      "都堂公試日，詞翰獨超群。",
+      "品秩台庭與，篇章聖主聞。",
+      "鄉連三楚樹，縣封九華雲。",
+      "多少青門客，臨岐共羨君。"
+    ]
+  },
+  {
+    "uid": "QTS_638_013_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "曲江春",
+    "poem": [
+      "尋春與送春，多繞曲江濱。",
+      "一片鳧鷖水，千秋輦轂塵。",
+      "岸涼隨眾木，波影逐遊人。",
+      "自是遊人老，年年管吹新。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "逐",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_014_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "秦原春望",
+    "poem": [
+      "無窮名利塵，軒蓋逐年新。",
+      "北闕東堂路，千山萬水人。",
+      "雲離僧榻曙，燕遠鳳樓春。",
+      "荏苒文明代，難歸釣艇身。"
+    ]
+  },
+  {
+    "uid": "QTS_638_015_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "遊華山雲際寺",
+    "poem": [
+      "少華中峰寺，高秋眾景歸。",
+      "地連秦塞起，河隔晉山微。",
+      "晚木蟬相應，涼天鴈並飛。",
+      "殷勤記巖石，秪恐再來稀。"
+    ]
+  },
+  {
+    "uid": "QTS_638_016_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送碁待詔朴球歸新羅",
+    "poem": [
+      "海東誰敵手，歸去道應孤。",
+      "闕下傳新勢，船中覆舊圖。",
+      "窮荒回日月，積水載寰區。",
+      "故國多年別，桑田復在無。"
+    ]
+  },
+  {
+    "uid": "QTS_638_017_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送鄭谷先輩赴汝州辟命",
+    "poem": [
+      "看花興未休，已散曲江遊。",
+      "載筆離秦甸，從軍過洛州。",
+      "嵩雲將雨去，汝水背城流。",
+      "應念依門客，蒿萊滿徑秋。"
+    ]
+  },
+  {
+    "uid": "QTS_638_018_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈敬亭清越上人",
+    "poem": [
+      "海上獨隨緣，歸來二十年。",
+      "久閒時得句，漸老不離禪。",
+      "砌木欹臨水，窗峰直倚天。",
+      "猶期向雲裏，別掃石床眠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "海上獨隨緣",
+        "variant": "海畔與窮邊",
+        "source": "一作「海畔與窮邊」"
+      },
+      {
+        "line": 3,
+        "text": "峰",
+        "variant": "蓬",
+        "source": "一作「蓬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_019_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題靈山寺",
+    "poem": [
+      "樹涼清島寺，虛閣敞禪扉。",
+      "四面閒雲入，中流獨鳥歸。",
+      "湖平幽徑近，船泊夜燈微。",
+      "一宿秋風裏，煙波隔擣衣。"
+    ]
+  },
+  {
+    "uid": "QTS_638_020_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "弔棲白上人",
+    "poem": [
+      "今古遰相送，幾時無逝波。",
+      "篇章名不朽，寂滅理如何。",
+      "內殿留真影，閒房落貝多。",
+      "從茲高塔寺，惆悵懶經過。"
+    ]
+  },
+  {
+    "uid": "QTS_638_021_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "北山書事",
+    "poem": [
+      "黃河一曲山，天半鎖重關。",
+      "聖日雄藩靜，秋風老將閒。",
+      "車輿穿谷口，市井響雲間。",
+      "大野無飛鳥，元戎校獵還。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "穿",
+        "variant": "寄",
+        "source": "一作「寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_022_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "長安書事",
+    "poem": [
+      "出送鄉人盡，滄洲未得還。",
+      "秋風五陵樹，晴日六街山。",
+      "有景終年住，無機是處閒。",
+      "何當向雲外，免老別離間。"
+    ]
+  },
+  {
+    "uid": "QTS_638_023_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送鄭侍御赴汴州辟命",
+    "poem": [
+      "官從諫署清，暫去佐戎旌。",
+      "朝客多相戀，吟僧欲伴行。",
+      "河冰天際白，嶽雪眼前明。",
+      "即見東風起，梁園聽早鶯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "戀",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_024_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "弔造微上人",
+    "poem": [
+      "至人隨化往，遺路自堪傷。",
+      "白塔收真骨，青山閉影堂。",
+      "鐘殘含細韻，煙滅有餘香。",
+      "松上齋烏在，遲遲立夕陽。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "煙",
+        "variant": "印",
+        "source": "一作「印」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_025_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "經隱巖舊居",
+    "poem": [
+      "夜久村落靜，徘徊楊柳津。",
+      "青山猶有路，明月已無人。",
+      "夢寐空前事，星霜倦此身。",
+      "嘗期結茅處，來往躡遺塵。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "空",
+        "variant": "生",
+        "source": "一作「生」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_026_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "再題敬亭清越上人山房",
+    "poem": [
+      "重來訪惠休，已是十年遊。",
+      "向水千松老，空山一磬秋。",
+      "石窗清吹入，河漢夜光流。",
+      "久別多新作，長吟洗俗愁。"
+    ]
+  },
+  {
+    "uid": "QTS_638_027_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "浮汴東歸",
+    "poem": [
+      "日暖泗濱西，無窮岸草齊。",
+      "薄煙衰草樹，微月迥城雞。",
+      "水近滄浪急，山隨綠野低。",
+      "羞將舊名姓，還向舊遊題。"
+    ]
+  },
+  {
+    "uid": "QTS_638_028_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "雨中宿僧院",
+    "poem": [
+      "千燈有宿因，長老許相親。",
+      "夜永樓臺雨，更深江海人。",
+      "勞生無了日，妄念起微塵。",
+      "不是真如理，何門靜此身。"
+    ]
+  },
+  {
+    "uid": "QTS_638_029_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "江行至沙浦",
+    "poem": [
+      "煙霞接杳冥，旅泊寄回汀。",
+      "夜雨雷電歇，春江蛟蜃腥。",
+      "城侵潮影白，嶠截鳥行青。",
+      "遍欲探泉石，南須過洞庭。"
+    ]
+  },
+  {
+    "uid": "QTS_638_030_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人歸江南",
+    "poem": [
+      "辛勤同失意，迢遰獨還家。",
+      "落日江邊笛，殘春島上花。",
+      "親安誠可喜，道在亦何嗟。",
+      "誰伴高吟處，晴天望九華。"
+    ]
+  },
+  {
+    "uid": "QTS_638_031_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "劉補闕自九華山拜官因以寄獻",
+    "poem": [
+      "冥鴻久不群，徵拜動天文。",
+      "地主迎過郡，山僧送出雲。",
+      "登車殘月在，宿館亂流分。",
+      "若更思林下，還須共致君。"
+    ]
+  },
+  {
+    "uid": "QTS_638_032_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "岳陽即事",
+    "poem": [
+      "遠色岳陽樓，湘帆數片愁。",
+      "竹風山上路，沙月水中洲。",
+      "力學桑田廢，思歸鬢髮秋。",
+      "功名如不立，豈易狎汀鷗。"
+    ]
+  },
+  {
+    "uid": "QTS_638_033_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題興善寺僧道深院",
+    "poem": [
+      "江峰峰頂人，受法老西秦。",
+      "法本無前業，禪非為後身。",
+      "院栽他國樹，堂展祖師真。",
+      "甚願依宗旨，求閑未有因。"
+    ]
+  },
+  {
+    "uid": "QTS_638_034_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送龍門令劉滄",
+    "poem": [
+      "去宰龍門縣，應思變化年。",
+      "還將魯儒政，又與晉人傳。",
+      "峭壁開中古，長河落半天。",
+      "幾鄉因勸勉，耕稼滿雲煙。"
+    ]
+  },
+  {
+    "uid": "QTS_638_035_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人往宜春",
+    "poem": [
+      "落花兼柳絮，無處不紛紛。",
+      "遠道空歸去，流鶯獨自聞。",
+      "野橋喧磑水，山郭入樓雲。",
+      "故里南陵曲，秋期更送君。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "陵",
+        "variant": "陔",
+        "source": "一作「陔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_036_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "書邊事",
+    "poem": [
+      "調角斷清秋，征人倚戍樓。",
+      "春風對青塚，白日落梁州。",
+      "大漢無兵阻，窮邊有客遊。",
+      "蕃情似此水，長願向南流。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "漢",
+        "variant": "漠",
+        "source": "一作「漠」"
+      },
+      {
+        "line": 4,
+        "text": "似",
+        "variant": "如",
+        "source": "一作「如」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_037_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送僧雅覺歸東海",
+    "poem": [
+      "山川心地內，一念即千重。",
+      "老別關中寺，禪歸海外峰。",
+      "鳥行來有路，帆影去無蹤。",
+      "幾夜波濤息，先聞本國鐘。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "禪",
+        "variant": "秋",
+        "source": "一作「秋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_038_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "和薛監察題興善寺古松",
+    "poem": [
+      "種在法王城，前朝古寺名。",
+      "瘦根盤地遠，香吹入雲清。",
+      "鶴動池台影，僧禪雨雪聲。",
+      "看來人旋老，因此歎浮生。"
+    ]
+  },
+  {
+    "uid": "QTS_638_039_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "聽琴",
+    "poem": [
+      "清月轉瑤軫，弄中湘水寒。",
+      "能令坐來客，不語自相看。",
+      "靜恐鬼神出，急疑風雨殘。",
+      "幾時歸嶺嶠，更過洞庭彈。"
+    ]
+  },
+  {
+    "uid": "QTS_638_040_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人游蜀",
+    "poem": [
+      "此心知者稀，欲別倍相依。",
+      "無食擬同去，有家還未歸。",
+      "巴山開國遠，劍道入天微。",
+      "必恐臨邛客，疑君學賦非。"
+    ]
+  },
+  {
+    "uid": "QTS_638_041_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "聞仰山禪師往曹溪因贈",
+    "poem": [
+      "曹溪松下路，猨鳥重相親。",
+      "四海求玄理，千峰繞定身。",
+      "異花天上墮，靈草雪中春。",
+      "自惜經行處，焚香禮舊真。"
+    ]
+  },
+  {
+    "uid": "QTS_638_042_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "藍溪夜坐",
+    "poem": [
+      "藍水警塵夢，夜吟開草堂。",
+      "月臨山靄薄，松滴露花香。",
+      "詩外真風遠，人間靜興長。",
+      "明朝訪禪侶，更上翠微房。"
+    ]
+  },
+  {
+    "uid": "QTS_638_043_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題鄭侍禦藍田別業",
+    "poem": [
+      "秋山清若水，吟客靜於僧。",
+      "小徑通商嶺，高窗見杜陵。",
+      "雲霞朝入鏡，猿鳥夜窺燈。",
+      "許作前峰侶，終來寄上層。"
+    ]
+  },
+  {
+    "uid": "QTS_638_044_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人進士許棠",
+    "poem": [
+      "離鄉積歲年，歸路遠依然。",
+      "夜火山頭市，春江樹杪船。",
+      "干戈愁鬢改，瘴癘喜家全。",
+      "何處營甘旨，潮濤浸薄田。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「進士」二字。",
+        "context": "人進士許棠",
+        "original_title": "送友人進士許棠〈一本無「進士」二字。〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "家",
+        "variant": "身",
+        "source": "一作「身」"
+      },
+      {
+        "line": 4,
+        "text": "潮",
+        "variant": "波",
+        "source": "一作「波」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_045_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "秘省伴直",
+    "poem": [
+      "喬枝聚暝禽，疊閣鎖遙岑。",
+      "待月當秋直，看書廢夜吟。",
+      "殘薪留火細，古井下瓶深。",
+      "縱欲抄前史，貧難遂此心。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "下",
+        "variant": "汲",
+        "source": "一作「汲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_046_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "宿昭應",
+    "poem": [
+      "夜憶開元寺，淒涼里巷間。",
+      "薄煙通魏闕，明月照驪山。",
+      "半壁空宮閉，連天白道閒。",
+      "清晨更回首，獨向灞陵還。"
+    ]
+  },
+  {
+    "uid": "QTS_638_047_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送陸處士",
+    "poem": [
+      "樽前放浩歌，便起泛煙波。",
+      "舟楫故人少，江湖明月多。",
+      "孤峰經宿上，僻寺共雲過。",
+      "若向仙巖住，還應著薜蘿。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "起",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_048_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送韓處士歸少室山",
+    "poem": [
+      "江外歷千岑，還歸少室吟。",
+      "地閒緱嶺月，窗迥洛城砧。",
+      "石竇垂寒乳，松枝長別琴。",
+      "他年瀑泉下，亦擬置家林。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "寒",
+        "variant": "新",
+        "source": "一作「新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_049_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈初上人",
+    "poem": [
+      "竹色覆禪棲，幽禽遶院啼。",
+      "空門無去住，行客自東西。",
+      "井氣春來歇，庭枝雪後低。",
+      "相看念山水，盡日話曹溪。"
+    ]
+  },
+  {
+    "uid": "QTS_638_050_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送新羅僧",
+    "poem": [
+      "東來此學禪，多病念佛緣。",
+      "把錫離巖寺，收經上海船。",
+      "落帆敲石火，宿島汲瓶泉。",
+      "永向扶桑老，知無再少年。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "落",
+        "variant": "捲",
+        "source": "一作「捲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_051_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題山僧院",
+    "poem": [
+      "谿路曾來日，年多與舊同。",
+      "地寒松影裏，僧老磬聲中。",
+      "遠水清風落，閒雲別院通。",
+      "心源若無礙，何必更論空。"
+    ]
+  },
+  {
+    "uid": "QTS_638_052_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "書梅福殿壁二首 其一",
+    "poem": [
+      "梅真從羽化，萬古是須臾。",
+      "此地名空在，西山雲亦孤。",
+      "井痕平野水，壇級上春蕪。",
+      "縱有雙飛鶴，年多松已枯。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_638_052_02",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "書梅福殿壁二首 其二",
+    "poem": [
+      "一自白雲去，千秋壇月明。",
+      "我來思往事，誰更得長生。",
+      "雅韻磬鐘遠，真風樓殿清。",
+      "今來為尉者，天下有仙名。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_638_053_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "荊楚道中",
+    "poem": [
+      "前程曾未到，岐路擬何為。",
+      "返照行人急，荒郊去鳥遲。",
+      "春宵多旅夢，夏閏遠秋期。",
+      "處處牽愁緒，無窮是柳絲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "擬何",
+        "variant": "已奚",
+        "source": "一作「已奚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_054_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送南陵尉李頻",
+    "poem": [
+      "重作東南尉，生涯尚似僧。",
+      "客程淮館月，鄉思海船燈。",
+      "晚霧看春轂，晴天見朗陵。",
+      "不應三考足，先授詔書徵。"
+    ]
+  },
+  {
+    "uid": "QTS_638_055_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "將歸江淮書",
+    "poem": [
+      "東風搖眾木，即有看花期。",
+      "紫陌頻來日，滄洲獨去時。",
+      "郡因兵役苦，家為海翻移。",
+      "未老多如此，那堪鬢不衰。"
+    ]
+  },
+  {
+    "uid": "QTS_638_056_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "沿漢東歸",
+    "poem": [
+      "北去窮秦塞，南歸遶漢川。",
+      "深山逢古跡，遠道見新年。",
+      "絕壁雲銜寺，空江雪灑船。",
+      "縈回還此景，多坐夜燈前。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "燈",
+        "variant": "煙",
+        "source": "一作「煙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_057_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送蜀客",
+    "poem": [
+      "劔閣緣空去，西南轉幾州。",
+      "丹霄行客語，明月杜鵑愁。",
+      "露帶山花落，雲隨野水流。",
+      "相如曾醉地，莫滯少年遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "南轉",
+        "variant": "過第",
+        "source": "一作「過第」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_058_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "塞上",
+    "poem": [
+      "勒兵遼水邊，風急卷旌旃。",
+      "絕塞寒無樹，平沙勢盡天。",
+      "雪晴迴探騎，月落控鳴弦。",
+      "永定山河誓，南歸改漢年。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "寒",
+        "variant": "陰",
+        "source": "一作「陰」"
+      },
+      {
+        "line": 2,
+        "text": "樹",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 2,
+        "text": "勢盡",
+        "variant": "去蓋",
+        "source": "一作「去蓋」"
+      },
+      {
+        "line": 3,
+        "text": "雪晴迴探騎，月落控鳴弦。永定山河誓，南歸改漢年。",
+        "variant": "下營看斗建，傳號信狼煙。聖代垂青史，當書破虜年。",
+        "source": "一作「下營看斗建，傳號信狼煙。聖代垂青史，當書破虜年。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_059_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人歸袁州",
+    "poem": [
+      "袁中猨鳥清，曾向此中行。",
+      "才子登科去，諸侯掃榻迎。",
+      "山藏明月浦，樹遶白雲城。",
+      "遠想安親後，秋風夢不驚。"
+    ]
+  },
+  {
+    "uid": "QTS_638_060_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈別李山人",
+    "poem": [
+      "分合老西秦，年年夢白蘋。",
+      "曾為洞庭客，還送洞庭人。",
+      "語別惜殘夜，思歸愁見春。",
+      "遙知泊舟處，沙月自相親。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "分",
+        "variant": "未",
+        "source": "一作「未」"
+      },
+      {
+        "line": 4,
+        "text": "遙知泊舟處，沙月自相親。",
+        "variant": "滄浪濯纓處，應念滿衣塵。",
+        "source": "一作「滄浪濯纓處，應念滿衣塵。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_061_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "思宜春寄友人",
+    "poem": [
+      "勝遊雖來年，魂夢亦依然。",
+      "瀑水喧秋思，孤燈動夜船。",
+      "斷虹全嶺雨，斜月半溪煙。",
+      "舊日吟詩侶，何人更不眠。"
+    ]
+  },
+  {
+    "uid": "QTS_638_062_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "江行夜雨",
+    "poem": [
+      "江風木落天，遊子感流年。",
+      "萬里波連蜀，三更雨到船。",
+      "夢殘燈影外，愁積葦叢邊。",
+      "不及樵漁客，全家住島田。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "不及樵漁客，全家住島田。",
+        "variant": "不是貪名利，家無負郭田。",
+        "source": "一作「不是貪名利，家無負郭田。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_063_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈仰大師",
+    "poem": [
+      "仰山因久住，天下仰山名。",
+      "井邑身雖到，林泉性本清。",
+      "野雲居處盡，江月定中明。",
+      "髣髴曾相識，今來隔幾生。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "野",
+        "variant": "嶺",
+        "source": "一作「嶺」"
+      },
+      {
+        "line": 3,
+        "text": "居",
+        "variant": "看",
+        "source": "一作「看」"
+      },
+      {
+        "line": 3,
+        "text": "中",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_064_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "江南逢洛下友人",
+    "poem": [
+      "洛下吟詩侶，南遊只有君。",
+      "波濤歸路見，蟋蟀在船聞。",
+      "曉月江城出，晴霞島樹分。",
+      "無窮懷古意，豈獨繞湘雲。"
+    ]
+  },
+  {
+    "uid": "QTS_638_065_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "東湖贈僧子蘭",
+    "poem": [
+      "名利了無時，何人暫訪師。",
+      "道情閒外見，心地語來知。",
+      "竹落穿窗葉，松寒蔭井枝。",
+      "匡山許同社，願卜掛帆期。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "穿窗",
+        "variant": "忽穿",
+        "source": "一作「忽穿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_066_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "隱巖陪鄭少師夜坐",
+    "poem": [
+      "幸喜陪騶馭，頻來向此宵。",
+      "硯磨清澗石，廚爨白雲樵。",
+      "竹外村煙細，燈中禁漏遙。",
+      "衣冠與文理，靜語對前朝。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "語",
+        "variant": "話",
+        "source": "一作「話」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_067_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送三傳赴長城尉",
+    "poem": [
+      "登科精魯史，為尉及良時。",
+      "高論窮諸國，長才並幾司。",
+      "地傾流水疾，山疊過雲遲。",
+      "暇日琴書畔，何人對手棋。"
+    ]
+  },
+  {
+    "uid": "QTS_638_068_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送李道士歸南嶽",
+    "poem": [
+      "千峰隔湘水，迢遰掛帆歸。",
+      "掃月眠蒼壁，和雲著褐衣。",
+      "洞虛懸溜滴，徑狹長松圍。",
+      "只恐相尋日，人間舊識稀。"
+    ]
+  },
+  {
+    "uid": "QTS_638_069_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "延福里秋懷",
+    "poem": [
+      "終年九陌行，要路跡皆生。",
+      "苦學猶難至，甘貧豈有成。",
+      "病攜秋卷重，閑著暑衣輕。",
+      "一別林泉久，中宵御水聲。"
+    ]
+  },
+  {
+    "uid": "QTS_638_070_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題玄哲禪師影堂",
+    "poem": [
+      "吾師視化身，一念即遺塵。",
+      "巖谷藏虛塔，江湖散學人。",
+      "雲迷禪處石，院掩寫來真。",
+      "寂寞焚香後，閒階細草生。"
+    ]
+  },
+  {
+    "uid": "QTS_638_071_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "登慈恩寺塔",
+    "poem": [
+      "窗戶幾層風，清涼碧落中。",
+      "世人來往別，煙景古今同。",
+      "列岫橫秦斷，長河極塞空。",
+      "斜陽越鄉思，天末見歸鴻。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "幾",
+        "variant": "響",
+        "source": "一作「響」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_072_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人東歸",
+    "poem": [
+      "遠涉期秋卷，將行不廢吟。",
+      "故鄉芳草路，來往別離心。",
+      "掛席春風盡，開齋夏景深。",
+      "子規誰共聽，江月上清岑。"
+    ]
+  },
+  {
+    "uid": "QTS_638_073_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送僧鸞歸蜀寧親",
+    "poem": [
+      "歌詩精外學，天子是知音。",
+      "坐夏宮鐘近，寧親劍閣深。",
+      "高名徹西國，舊跡寄東林。",
+      "自此棲禪者，因師滿蜀吟。"
+    ]
+  },
+  {
+    "uid": "QTS_638_074_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送人歸江南",
+    "poem": [
+      "貧歸無定程，水宿與山行。",
+      "未有安親計，難為去國情。",
+      "島煙孤寺磬，江月遠船箏。",
+      "思苦秋回日，多應吟更清。"
+    ]
+  },
+  {
+    "uid": "QTS_638_075_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "將離江上作",
+    "poem": [
+      "白衣歸樹下，青草戀江邊。",
+      "三楚足深隱，五陵多少年。",
+      "寂寥聞蜀魄，清絕怨湘弦。",
+      "岐路在何處，西行心渺然。"
+    ]
+  },
+  {
+    "uid": "QTS_638_076_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "別李參軍",
+    "poem": [
+      "王孫遊不遇，況我五湖人。",
+      "野店難投宿，漁家獨問津。",
+      "嶺分中夜月，江隔兩鄉春。",
+      "靜想青雲路，還應寄此身。"
+    ]
+  },
+  {
+    "uid": "QTS_638_077_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送睦州張參軍",
+    "poem": [
+      "重祿輕身日，清資近故鄉。",
+      "因知送君後，轉自惜年芳。",
+      "遠水分林影，層峰起鳥行。",
+      "扁舟此中去，溪月有餘光。"
+    ]
+  },
+  {
+    "uid": "QTS_638_078_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "贈棋僧侶",
+    "poem": [
+      "機謀時未有，多向弈棋銷。",
+      "已與山僧敵，無令海客饒。",
+      "靜驅雲陣起，疏點雁行遙。",
+      "夜雨如相憶，松窗更見招。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "起",
+        "variant": "出",
+        "source": "一作「出」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_079_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題湖上友人居",
+    "poem": [
+      "豈得戀樵漁，全家湖畔居。",
+      "遠無潮客信，閑寄嶽僧書。",
+      "野白梅繁後，山明雨散初。",
+      "逍遙向雲水，莫與宦情疏。"
+    ]
+  },
+  {
+    "uid": "QTS_638_080_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人歸宣州",
+    "poem": [
+      "失計復離愁，君歸我獨遊。",
+      "亂花藏道發，春水遶鄉流。",
+      "暝火叢橋市，晴山疊郡樓。",
+      "無為謝公戀，吟過曉蟬秋。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_081_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題古觀",
+    "poem": [
+      "急景遰衰老，此經誰養真。",
+      "松留千載鶴，碑隔六朝人。",
+      "洞水流花早，壺天閉雪春。",
+      "其如為名利，歸踏五陵塵。"
+    ]
+  },
+  {
+    "uid": "QTS_638_082_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人及第歸江南",
+    "poem": [
+      "豈易及歸榮，辛勤致此名。",
+      "登車思往事，回首勉諸生。",
+      "路遶山光曉，帆通海氣清。",
+      "秋期卻閒坐，林下聽江聲。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "曉",
+        "variant": "曙",
+        "source": "一作「曙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_083_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送朴充侍御歸海東",
+    "poem": [
+      "天涯離二紀，闕下歷三朝。",
+      "漲海雖然闊，歸帆不覺遙。",
+      "驚波時失侶，舉火夜相招。",
+      "來往尋遺事，秦皇有斷橋。"
+    ]
+  },
+  {
+    "uid": "QTS_638_084_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "弔前水部賈員外",
+    "poem": [
+      "籠中江海禽，日夕有歸心。",
+      "魏闕長謠久，吳山獨往深。",
+      "別時群木落，終處亂猨吟。",
+      "李白墳前路，溪僧送入林。"
+    ]
+  },
+  {
+    "uid": "QTS_638_085_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題小松",
+    "poem": [
+      "松子落何年，纖枝長水邊。",
+      "斫開深澗雪，移出遠林煙。",
+      "帶月棲幽鳥，兼花灌冷泉。",
+      "微風動清韻，閒聽罷琴眠。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "深",
+        "variant": "新",
+        "source": "一作「新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_086_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "寄中嶽顓頊先生",
+    "poem": [
+      "先生顓頊後，得道自何人。",
+      "松柏卑於壽，兒孫老卻身。",
+      "夜窗峰頂曙，寒澗洞中春。",
+      "戀此逍遙境，雲間不可親。"
+    ]
+  },
+  {
+    "uid": "QTS_638_087_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送沈先輩尉昭應",
+    "poem": [
+      "餘才不廢詩，佐邑喜閒司。",
+      "丹陛終須去，青山未可期。",
+      "葉凋溫谷晚，雲出古宮遲。",
+      "若草東封疏，君王到有時。"
+    ]
+  },
+  {
+    "uid": "QTS_638_088_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "送友人遊湖南",
+    "poem": [
+      "所投非舊知，亦似有前期。",
+      "路向長江上，帆揚細雨時。",
+      "春生南嶽早，日轉大荒遲。",
+      "盡採瀟湘句，重來會近期。"
+    ]
+  },
+  {
+    "uid": "QTS_638_089_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "江上送友人南遊",
+    "poem": [
+      "何處積鄉愁，天涯聚亂流。",
+      "岸長群岫晚，湖闊片帆秋。",
+      "買酒過漁舍，分燈與釣舟。",
+      "瀟湘見來鴈，應念獨邊遊。"
+    ]
+  },
+  {
+    "uid": "QTS_638_090_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "江南別友人",
+    "poem": [
+      "勞生故白頭，頭白未應休。",
+      "闕下難孤立，天涯尚旅遊。",
+      "聽猨吟島寺，待月上江樓。",
+      "醉別醒惆悵，雲帆滿亂流。"
+    ]
+  },
+  {
+    "uid": "QTS_638_091_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "商山道中",
+    "poem": [
+      "春去計秋期，長安在夢思。",
+      "多逢山好處，少值客行時。",
+      "雲起爭峰勢，花交隱澗枝。",
+      "停驂一惆悵，應秪嶺猨知。"
+    ]
+  },
+  {
+    "uid": "QTS_638_092_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "吳江旅次",
+    "poem": [
+      "行人愁落日，去鳥倦遙林。",
+      "曠野鳴流水，空山響暮砧。",
+      "旅途歸計晚，鄉樹別年深。",
+      "寂寞逢村酒，漁家一醉吟。"
+    ]
+  },
+  {
+    "uid": "QTS_638_093_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "寄南中友人",
+    "poem": [
+      "相夢如相見，相思去後頻。",
+      "舊時行處斷，華髮別來新。",
+      "浪動三湘月，煙藏五嶺春。",
+      "又無歸北客，書札寄何人。"
+    ]
+  },
+  {
+    "uid": "QTS_638_094_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "寄績溪陳明府",
+    "poem": [
+      "古邑猨聲裏，空城只半存。",
+      "岸移無舊路，沙漲別成村。",
+      "鼓角喧京口，江山盡汝濆。",
+      "六朝興廢地，行子一銷魂。"
+    ]
+  },
+  {
+    "uid": "QTS_638_095_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "試月中桂",
+    "poem": [
+      "與月轉洪蒙，扶疎萬古同。",
+      "根非生下土，葉不墜秋風。",
+      "每以圓時足，還隨缺處空。",
+      "影高群木外，香滿一輪中。",
+      "未種丹霄日，應虛玉兔宮。",
+      "何當因羽化，細得問玄功。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "以",
+        "variant": "向",
+        "source": "一作「向」"
+      },
+      {
+        "line": 5,
+        "text": "玉",
+        "variant": "白",
+        "source": "一作「白」"
+      },
+      {
+        "line": 6,
+        "text": "何當因",
+        "variant": "如何當",
+        "source": "一作「如何當」"
+      },
+      {
+        "line": 6,
+        "text": "玄",
+        "variant": "神",
+        "source": "一作「神」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_638_096_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "遊歙州興唐寺",
+    "poem": [
+      "山橋通絕境，到此憶天台。",
+      "竹裏尋幽徑，雲邊上古台。",
+      "鳥歸殘照出，鐘斷細泉來。",
+      "為愛澄溪月，因成隔宿迴。"
+    ]
+  },
+  {
+    "uid": "QTS_638_097_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題詮律師院",
+    "poem": [
+      "院涼松雨聲，相對有山情。",
+      "未許溪邊老，猶思嶽頂行。",
+      "紗燈留火細，石井灌瓶清。",
+      "欲問吾師外，何人得此生。"
+    ]
+  },
+  {
+    "uid": "QTS_638_098_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "金山寺空上人院",
+    "poem": [
+      "已老金山頂，無心上石橋。",
+      "講移三楚遍，梵譯五天遙。",
+      "板閣禪秋月，銅瓶汲夜潮。",
+      "自慚昏醉客，來坐亦通宵。"
+    ]
+  },
+  {
+    "uid": "QTS_638_099_01",
+    "volume": 638,
+    "author": {
+      "canonical": "張喬",
+      "recorded": "張喬",
+      "gender": "male",
+      "english_name": "Zhang Qiao",
+      "wikidata_id": "Q11487601"
+    },
+    "title": "題廣信寺",
+    "poem": [
+      "亭北敞靈溪，林梢與檻齊。",
+      "野雲來影遠，沙鳥去行低。",
+      "晚渡明村火，晴山響郡鼙。",
+      "思鄉值搖落，賴不有猨啼。"
+    ]
+  }
+]

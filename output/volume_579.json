@@ -1,0 +1,674 @@
+[
+  {
+    "uid": "QTS_579_001_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "車駕西遊因而有作",
+    "poem": [
+      "宣曲長楊瑞氣凝，上林狐兔待秋鷹。",
+      "誰將詞賦陪雕輦，寂寞相如臥茂林。"
+    ]
+  },
+  {
+    "uid": "QTS_579_002_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "傷溫德彝",
+    "poem": [
+      "昔年戎虜犯榆關，一敗龍城匹馬還。",
+      "侯印不聞封李廣，他人丘壟似天山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "敗",
+        "variant": "破",
+        "source": "一作「破」"
+      },
+      {
+        "line": 2,
+        "text": "他",
+        "variant": "別",
+        "source": "一作「別」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_003_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "贈少年",
+    "poem": [
+      "江海相逢客恨多，秋風葉下洞庭波。",
+      "酒酣夜別淮陰市，月照高樓一曲歌。"
+    ]
+  },
+  {
+    "uid": "QTS_579_004_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "贈鄭徵君家匡山首春與丞相贊皇公遊止",
+    "poem": [
+      "一拋蘭櫂逐燕鴻，曾向江湖識謝公。",
+      "每到朱門還悵望，故山多在畫屏中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "燕",
+        "variant": "徵",
+        "source": "一作「徵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_005_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "夏中病痁作",
+    "poem": [
+      "山鬼揚威正氣愁，便辭珍簟襲狐裘。",
+      "西窗一夕悲人事，團扇無情不待秋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "團",
+        "variant": "圓",
+        "source": "一作「圓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_006_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "題友人居",
+    "poem": [
+      "盡日松堂看畫圖，綺疏岑寂似清都。",
+      "若教煙水無鷗鳥，張翰何由到五湖。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "岑寂",
+        "variant": "寂寞",
+        "source": "一作「寂寞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_007_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "題李相公勅賜錦屏風",
+    "poem": [
+      "豐沛曾為社稷臣，賜書名畫墨猶新。",
+      "幾人同保山河誓，猶自棲棲九陌塵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "猶",
+        "variant": "獨",
+        "source": "一作「獨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_008_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "蔡中郎墳",
+    "poem": [
+      "古墳零落野花春，聞說中郎有後身。",
+      "今日愛才非昔日，莫拋心力作詞人。"
+    ]
+  },
+  {
+    "uid": "QTS_579_009_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "元處士池上",
+    "poem": [
+      "蓼穗菱叢思蟪蛄，水螢江鳥滿煙蒲。",
+      "愁紅一片風前落，池上秋波似五湖。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "菱",
+        "variant": "茭",
+        "source": "一作「茭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_010_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "華陰韋氏林亭",
+    "poem": [
+      "自有林亭不得閒，陌塵宮樹是非間。",
+      "終南長在茅簷外，別向人間看華山。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "在",
+        "variant": "秪",
+        "source": "一作「秪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_011_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "寄裴生乞釣鉤",
+    "poem": [
+      "一隨菱櫂謁王侯，深愧移文負釣舟。",
+      "今日太湖風色好，卻將詩句乞魚鉤。"
+    ]
+  },
+  {
+    "uid": "QTS_579_012_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "長安春晚二首 其一",
+    "poem": [
+      "曲江春半日遲遲，正是王孫悵望時。",
+      "杏花落盡不歸去，江上東風吹柳絲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_579_012_02",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "長安春晚二首 其二",
+    "poem": [
+      "四方無事太平年，萬象鮮明禁火前。",
+      "九重細雨惹春色，輕染龍池楊柳煙。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_579_013_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "三月十八日雪中作",
+    "poem": [
+      "芍藥薔薇語早梅，不知誰是艷陽才。",
+      "今朝領得春風意，不復饒君雪裏開。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "春",
+        "variant": "東",
+        "source": "一作「東」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_014_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "咸陽值雨",
+    "poem": [
+      "咸陽橋上雨如懸，萬點空濛隔釣船。",
+      "還似洞庭春水色，晚雲將入岳陽天。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "還",
+        "variant": "絕",
+        "source": "一作「絕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_015_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "彈箏人",
+    "poem": [
+      "天寶年中事玉皇，曾將新曲教寧王。",
+      "鈿蟬金雁今零落，一曲伊州淚萬行。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "中",
+        "variant": "間",
+        "source": "一作「間」"
+      },
+      {
+        "line": 2,
+        "text": "雁",
+        "variant": "鳳",
+        "source": "一作「鳳」"
+      },
+      {
+        "line": 2,
+        "text": "今",
+        "variant": "皆",
+        "source": "一作「皆」，一作「俱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_016_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "瑤瑟怨",
+    "poem": [
+      "冰簟銀床夢不成，碧天如水夜雲輕。",
+      "雁聲遠過瀟湘去，十二樓中月自明。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遠",
+        "variant": "還",
+        "source": "一作「還」"
+      },
+      {
+        "line": 2,
+        "text": "過",
+        "variant": "向",
+        "source": "一作「向」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_017_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "題端正樹",
+    "poem": [
+      "路傍佳樹碧雲愁，曾侍金輿幸驛樓。",
+      "草木榮枯似人事，綠陰寂寞漢陵秋。"
+    ]
+  },
+  {
+    "uid": "QTS_579_018_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "渭上題三首 其一",
+    "poem": [
+      "呂公榮達子陵歸，萬古煙波繞釣磯。",
+      "橋上一通名利跡，至今江鳥背人飛。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_579_018_02",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "渭上題三首 其二",
+    "poem": [
+      "目極雲霄思浩然，風帆一片水連天。",
+      "輕橈便是東歸路，不肯忘機作釣船。"
+    ],
+    "part_index": 2,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 2,
+        "text": "路",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_018_03",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "渭上題三首 其三",
+    "poem": [
+      "煙水何曾息世機，暫時相向亦依依。",
+      "所嗟白首磻谿叟，一下漁舟更不歸。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_579_019_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "經故翰林袁學士居",
+    "poem": [
+      "劔逐驚波玉委塵，謝安門下更何人。",
+      "西州城外花千樹，儘是羊曇醉後春。"
+    ]
+  },
+  {
+    "uid": "QTS_579_020_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "題城南杜邠公林亭",
+    "poem": [
+      "卓氏壚前金線柳，隋家堤畔錦帆風。",
+      "貪為兩地分霖雨，不見池蓮照水紅。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "分",
+        "variant": "行",
+        "source": "一作「行」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_021_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "夜看牡丹",
+    "poem": [
+      "高低深淺一闌紅，把火殷勤遶露叢。",
+      "希逸近來成嬾病，不能容易向春風。"
+    ]
+  },
+  {
+    "uid": "QTS_579_022_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "宿城南亡友別墅",
+    "poem": [
+      "水流花落歎浮生，又伴遊人宿杜城。",
+      "還似昔年殘夢裏，透簾斜月獨聞鶯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "斜",
+        "variant": "新",
+        "source": "一作「新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_023_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "過分水嶺",
+    "poem": [
+      "溪水無情似有情，入山三日得同行。",
+      "嶺頭便是分頭處，惜別潺湲一夜聲。"
+    ]
+  },
+  {
+    "uid": "QTS_579_024_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "鄠杜郊居",
+    "poem": [
+      "槿籬芳援近樵家，壠麥青青一逕斜。",
+      "寂寞遊人寒食後，夜來風雨送梨花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "援",
+        "variant": "杜",
+        "source": "一作「杜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_025_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "題河中紫極宮",
+    "poem": [
+      "昔年曾伴玉真遊，每到仙宮即是秋。",
+      "曼倩不歸花落盡，滿叢煙露月當樓。"
+    ]
+  },
+  {
+    "uid": "QTS_579_026_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "四皓",
+    "poem": [
+      "商於甪里便成功，一寸沉機萬古同。",
+      "但得戚姬甘定分，不應真有紫芝翁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "甪里",
+        "variant": "六百",
+        "source": "一作「六百」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_579_027_01",
+    "volume": 579,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "贈張煉師",
+    "poem": [
+      "丹溪藥盡變金骨，清洛月寒吹玉笙。",
+      "他日隱居無訪處，碧桃花發水縱橫。"
+    ]
+  }
+]

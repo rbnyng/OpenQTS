@@ -1,0 +1,1862 @@
+[
+  {
+    "uid": "QTS_795_001_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李日知",
+      "recorded": "李日知",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Rizhi",
+      "wikidata_id": "Q11096756"
+    },
+    "title": "侍宴",
+    "poem": [
+      "所願暫知居者樂，無使時稱主者勞。"
+    ]
+  },
+  {
+    "uid": "QTS_795_002_01",
+    "volume": 795,
+    "author": {
+      "canonical": "趙仁奬",
+      "recorded": "趙仁奬"
+    },
+    "title": "贈上蔡令潘好禮拜御史",
+    "poem": [
+      "令乘驄馬去，丞脫繡衣來。"
+    ]
+  },
+  {
+    "uid": "QTS_795_003_01",
+    "volume": 795,
+    "author": {
+      "canonical": "郭廷謂",
+      "recorded": "郭廷謂",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Guo Tingwei",
+      "wikidata_id": "Q45565104"
+    },
+    "title": "哭陳子昂",
+    "poem": [
+      "魂逐東流水，墳依獨坐山。"
+    ]
+  },
+  {
+    "uid": "QTS_795_004_01",
+    "volume": 795,
+    "author": {
+      "canonical": "韋青",
+      "recorded": "韋青"
+    },
+    "title": "句",
+    "poem": [
+      "三代掌綸誥，一身能唱歌。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_005_01",
+    "volume": 795,
+    "author": {
+      "canonical": "尉遲匡",
+      "recorded": "尉遲匡"
+    },
+    "title": "暮行潼關",
+    "poem": [
+      "明月飛出海，黃河流上天。"
+    ]
+  },
+  {
+    "uid": "QTS_795_006_01",
+    "volume": 795,
+    "author": {
+      "canonical": "尉遲匡",
+      "recorded": "尉遲匡"
+    },
+    "title": "觀內人樓上踏歌",
+    "poem": [
+      "芙蓉初出水，桃李忽無言。"
+    ]
+  },
+  {
+    "uid": "QTS_795_007_01",
+    "volume": 795,
+    "author": {
+      "canonical": "尉遲匡",
+      "recorded": "尉遲匡"
+    },
+    "title": "塞上曲",
+    "poem": [
+      "夜夜月為青塚鏡，年年雪作黑山花。"
+    ]
+  },
+  {
+    "uid": "QTS_795_008_01",
+    "volume": 795,
+    "author": {
+      "canonical": "何涓",
+      "recorded": "何涓"
+    },
+    "title": "句",
+    "poem": [
+      "雁影數行秋半逢，漁歌一聲夜深發。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_009_01",
+    "volume": 795,
+    "author": {
+      "canonical": "杜偉",
+      "recorded": "杜偉"
+    },
+    "title": "涇川琴溪題句",
+    "poem": [
+      "忽覩邢武辭，泠其金石備。"
+    ]
+  },
+  {
+    "uid": "QTS_795_010_01",
+    "volume": 795,
+    "author": {
+      "canonical": "申堂構",
+      "recorded": "申堂構",
+      "gender": "male",
+      "english_name": "Shen Tanggou",
+      "wikidata_id": "Q18905717"
+    },
+    "title": "句",
+    "poem": [
+      "霜添柏樹冷，氣拂桂林寒。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_011_01",
+    "volume": 795,
+    "author": {
+      "canonical": "周願",
+      "recorded": "周願",
+      "gender": "male",
+      "english_name": "Zhou Yuan",
+      "wikidata_id": "Q18907085"
+    },
+    "title": "竟陵述懷",
+    "poem": [
+      "八十年前棠樹陰，竟陵太守公先人。"
+    ]
+  },
+  {
+    "uid": "QTS_795_012_01",
+    "volume": 795,
+    "author": {
+      "canonical": "第五琦",
+      "recorded": "第五琦",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Diwu Qi",
+      "wikidata_id": "Q5284757"
+    },
+    "title": "送丘郎中",
+    "poem": [
+      "陰天聞斷雁，夜浦送歸人。"
+    ]
+  },
+  {
+    "uid": "QTS_795_013_01",
+    "volume": 795,
+    "author": {
+      "canonical": "顏允南",
+      "recorded": "顏允南",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Yunnan",
+      "wikidata_id": "Q45421610"
+    },
+    "title": "侍宴",
+    "poem": [
+      "誰言百人會，兄弟也霑陪。"
+    ]
+  },
+  {
+    "uid": "QTS_795_014_01",
+    "volume": 795,
+    "author": {
+      "canonical": "季廣琛",
+      "recorded": "季廣琛"
+    },
+    "title": "贈詩",
+    "poem": [
+      "刻舟尋已化，彈鋏未酬恩。"
+    ]
+  },
+  {
+    "uid": "QTS_795_015_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳蛻",
+      "recorded": "陳蛻"
+    },
+    "title": "詠華清宮",
+    "poem": [
+      "夢裏換春秋。"
+    ]
+  },
+  {
+    "uid": "QTS_795_016_01",
+    "volume": 795,
+    "author": {
+      "canonical": "衛準",
+      "recorded": "衛準"
+    },
+    "title": "句",
+    "poem": [
+      "莫言閑話是閑話，往往事從閑話來。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_017_01",
+    "volume": 795,
+    "author": {
+      "canonical": "衛準",
+      "recorded": "衛準"
+    },
+    "title": "句",
+    "poem": [
+      "何必剃頭為弟子，無家便是出家人。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_018_01",
+    "volume": 795,
+    "author": {
+      "canonical": "杜鴻漸",
+      "recorded": "杜鴻漸",
+      "gender": "male",
+      "wikidata_id": "Q88744038"
+    },
+    "title": "句",
+    "poem": [
+      "常願追禪理，安能挹化源。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_019_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李摯",
+      "recorded": "李摯"
+    },
+    "title": "句",
+    "poem": [
+      "因緣三紀異，契分四般同。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_020_01",
+    "volume": 795,
+    "author": {
+      "canonical": "韋綬",
+      "recorded": "韋綬"
+    },
+    "title": "句",
+    "poem": [
+      "在室愧屋漏。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_021_01",
+    "volume": 795,
+    "author": {
+      "canonical": "馮戡",
+      "recorded": "馮戡"
+    },
+    "title": "贈柳棠及第",
+    "poem": [
+      "桃花浪裏成龍去，竹葉山頭退鷁飛。"
+    ]
+  },
+  {
+    "uid": "QTS_795_022_01",
+    "volume": 795,
+    "author": {
+      "canonical": "韓泰",
+      "recorded": "韓泰"
+    },
+    "title": "句",
+    "poem": [
+      "庾嶺東邊吏隱州，溪山竹樹亦清幽。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_023_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧並",
+      "recorded": "盧並"
+    },
+    "title": "等慈寺北巖",
+    "poem": [
+      "地靈無俗草，巖靜有僊禽。"
+    ]
+  },
+  {
+    "uid": "QTS_795_024_01",
+    "volume": 795,
+    "author": {
+      "canonical": "繆島雲",
+      "recorded": "繆島雲"
+    },
+    "title": "廬山瀑布",
+    "poem": [
+      "白鳥遠行樹，玉虹孤飲潭。"
+    ]
+  },
+  {
+    "uid": "QTS_795_025_01",
+    "volume": 795,
+    "author": {
+      "canonical": "繆島雲",
+      "recorded": "繆島雲"
+    },
+    "title": "句",
+    "poem": [
+      "四五片霞生絕壁，兩三行雁過疏鬆。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_026_01",
+    "volume": 795,
+    "author": {
+      "canonical": "繆島雲",
+      "recorded": "繆島雲"
+    },
+    "title": "句",
+    "poem": [
+      "拋芥子降顛狒狒，折楊枝灑醉猩猩。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_027_01",
+    "volume": 795,
+    "author": {
+      "canonical": "劉敬之",
+      "recorded": "劉敬之"
+    },
+    "title": "責甥雍陶",
+    "poem": [
+      "山近衡陽雖少雁，水連巴蜀豈無魚。"
+    ]
+  },
+  {
+    "uid": "QTS_795_028_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李濤",
+      "recorded": "李濤",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Tao",
+      "wikidata_id": "Q11097334"
+    },
+    "title": "句",
+    "poem": [
+      "水聲長在耳，山色不離門。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_029_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李濤",
+      "recorded": "李濤",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Tao",
+      "wikidata_id": "Q11097334"
+    },
+    "title": "句",
+    "poem": [
+      "掃地樹留影，拂床琴有聲。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_030_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李濤",
+      "recorded": "李濤",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Tao",
+      "wikidata_id": "Q11097334"
+    },
+    "title": "句",
+    "poem": [
+      "落日長安道，秋槐滿地花。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_031_01",
+    "volume": 795,
+    "author": {
+      "canonical": "高元裕",
+      "recorded": "高元裕",
+      "gender": "male",
+      "wikidata_id": "Q30018106"
+    },
+    "title": "贈知貢舉陳商",
+    "poem": [
+      "中丞為國拔賢才，寒俊欣逢藻鑑開。"
+    ]
+  },
+  {
+    "uid": "QTS_795_032_01",
+    "volume": 795,
+    "author": {
+      "canonical": "韋澳",
+      "recorded": "韋澳",
+      "gender": "male",
+      "english_name": "Wei Ao",
+      "wikidata_id": "Q10566046"
+    },
+    "title": "句",
+    "poem": [
+      "莫將韋監同殷監，錯認容身是保身。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_033_01",
+    "volume": 795,
+    "author": {
+      "canonical": "王龜",
+      "recorded": "王龜",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wang Gui",
+      "wikidata_id": "Q18905625"
+    },
+    "title": "句",
+    "poem": [
+      "珠箔卷繁星，金樽瀉月明。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_034_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李郁",
+      "recorded": "李郁"
+    },
+    "title": "弔歐陽秬",
+    "poem": [
+      "身死為修劉稹表，名高因讓陸洿書。"
+    ]
+  },
+  {
+    "uid": "QTS_795_035_01",
+    "volume": 795,
+    "author": {
+      "canonical": "詹雄",
+      "recorded": "詹雄"
+    },
+    "title": "洛陽古城",
+    "poem": [
+      "塵飛遺恨盡，花落古宮平。"
+    ]
+  },
+  {
+    "uid": "QTS_795_036_01",
+    "volume": 795,
+    "author": {
+      "canonical": "詹雄",
+      "recorded": "詹雄"
+    },
+    "title": "銅雀臺",
+    "poem": [
+      "紅粉笙歌人代遠，月明陵樹水東流。"
+    ]
+  },
+  {
+    "uid": "QTS_795_037_01",
+    "volume": 795,
+    "author": {
+      "canonical": "任濤",
+      "recorded": "任濤"
+    },
+    "title": "句",
+    "poem": [
+      "露團沙鶴起，人臥釣船流。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_038_01",
+    "volume": 795,
+    "author": {
+      "canonical": "劇燕",
+      "recorded": "劇燕"
+    },
+    "title": "贈王重榮",
+    "poem": [
+      "祇向國門安四海，不離鄉井拜三公。"
+    ]
+  },
+  {
+    "uid": "QTS_795_039_01",
+    "volume": 795,
+    "author": {
+      "canonical": "王璘",
+      "recorded": "王璘"
+    },
+    "title": "贈李群玉",
+    "poem": [
+      "芍藥花開菩薩面，棕閭葉散野人頭。"
+    ]
+  },
+  {
+    "uid": "QTS_795_040_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李蔚",
+      "recorded": "李蔚",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Wei",
+      "wikidata_id": "Q6539129"
+    },
+    "title": "贈薛陽陶",
+    "poem": [
+      "虛心纖質雁銜餘，鳳吹龍吟定不如。"
+    ]
+  },
+  {
+    "uid": "QTS_795_041_01",
+    "volume": 795,
+    "author": {
+      "canonical": "王枳",
+      "recorded": "王枳"
+    },
+    "title": "進貢陽羨茶",
+    "poem": [
+      "今朝拜貢盈襟淚，不進新芽是進心。"
+    ]
+  },
+  {
+    "uid": "QTS_795_042_01",
+    "volume": 795,
+    "author": {
+      "canonical": "鄭賨",
+      "recorded": "鄭賨"
+    },
+    "title": "題經藏",
+    "poem": [
+      "萬縕千牌次碧牙，縹牋金字間明霞。"
+    ]
+  },
+  {
+    "uid": "QTS_795_043_01",
+    "volume": 795,
+    "author": {
+      "canonical": "張塋",
+      "recorded": "張塋"
+    },
+    "title": "句",
+    "poem": [
+      "一箭不中鵠，五湖歸釣魚。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_044_01",
+    "volume": 795,
+    "author": {
+      "canonical": "吳靄",
+      "recorded": "吳靄"
+    },
+    "title": "詠野燒",
+    "poem": [
+      "煙隨紅燄斷，化作白雲飛。"
+    ]
+  },
+  {
+    "uid": "QTS_795_045_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳詠",
+      "recorded": "陳詠"
+    },
+    "title": "句",
+    "poem": [
+      "隔岸水牛浮鼻渡，傍溪沙鳥點頭行。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_046_01",
+    "volume": 795,
+    "author": {
+      "canonical": "蔣密",
+      "recorded": "蔣密"
+    },
+    "title": "詠桑",
+    "poem": [
+      "綺羅因片葉，桃李謾同時。"
+    ]
+  },
+  {
+    "uid": "QTS_795_047_01",
+    "volume": 795,
+    "author": {
+      "canonical": "符蒙",
+      "recorded": "符蒙"
+    },
+    "title": "題壁畫杯渡道人",
+    "poem": [
+      "都緣心似水，故以缽為舟。"
+    ]
+  },
+  {
+    "uid": "QTS_795_048_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李景遂",
+      "recorded": "李景遂",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Jingsui",
+      "wikidata_id": "Q11096902"
+    },
+    "title": "赴潤州鎮賜餞",
+    "poem": [
+      "路指丹陽分虎節，心存雙闕戀龍顏。"
+    ]
+  },
+  {
+    "uid": "QTS_795_049_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李弘茂",
+      "recorded": "李弘茂",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Hongmao",
+      "wikidata_id": "Q16260156"
+    },
+    "title": "詠雪",
+    "poem": [
+      "甜於泉水茶須信，狂似楊花蝶未知。"
+    ]
+  },
+  {
+    "uid": "QTS_795_050_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李弘茂",
+      "recorded": "李弘茂",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Hongmao",
+      "wikidata_id": "Q16260156"
+    },
+    "title": "病中",
+    "poem": [
+      "半窗月在猶煎藥，幾夜燈閒不照書。"
+    ]
+  },
+  {
+    "uid": "QTS_795_051_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李平",
+      "recorded": "李平",
+      "gender": "male",
+      "wikidata_id": "Q18236210"
+    },
+    "title": "閑書",
+    "poem": [
+      "至人無夢夢不到，天道惡盈盈有餘。"
+    ]
+  },
+  {
+    "uid": "QTS_795_052_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李平",
+      "recorded": "李平",
+      "gender": "male",
+      "wikidata_id": "Q18236210"
+    },
+    "title": "讀武帝內傳",
+    "poem": [
+      "龍髯已斷嬪嬙老，豹尾不來岐路長。"
+    ]
+  },
+  {
+    "uid": "QTS_795_053_01",
+    "volume": 795,
+    "author": {
+      "canonical": "胡元龜",
+      "recorded": "胡元龜"
+    },
+    "title": "題屏畫戲珠龍",
+    "poem": [
+      "翻身騰白浪，探爪擢明珠。"
+    ]
+  },
+  {
+    "uid": "QTS_795_054_01",
+    "volume": 795,
+    "author": {
+      "canonical": "蔣鈞",
+      "recorded": "蔣鈞"
+    },
+    "title": "寄柳宣",
+    "poem": [
+      "因備夢書過竹寺，學耕秋粟繞茆原。"
+    ]
+  },
+  {
+    "uid": "QTS_795_055_01",
+    "volume": 795,
+    "author": {
+      "canonical": "蔣鈞",
+      "recorded": "蔣鈞"
+    },
+    "title": "答戎昱芭蕉詩",
+    "poem": [
+      "芭蕉葉上無愁雨，自是多情聽斷腸。"
+    ]
+  },
+  {
+    "uid": "QTS_795_056_01",
+    "volume": 795,
+    "author": {
+      "canonical": "史虛白",
+      "recorded": "史虛白"
+    },
+    "title": "詠漁父",
+    "poem": [
+      "風雨揭卻屋，全家醉不知。"
+    ]
+  },
+  {
+    "uid": "QTS_795_057_01",
+    "volume": 795,
+    "author": {
+      "canonical": "夏寶松",
+      "recorded": "夏寶松"
+    },
+    "title": "宿江城",
+    "poem": [
+      "孤猿叫落中巖月，野客吟殘半夜燈。",
+      "雁飛南浦砧初斷，鐘初動月滿西樓酒半醒。",
+      "曉來羸駟依前去，目斷遙山數點青。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鐘初動",
+        "variant": "{{{2}}}",
+        "source": "一作「{{{2}}}」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_795_058_01",
+    "volume": 795,
+    "author": {
+      "canonical": "趙慶",
+      "recorded": "趙慶"
+    },
+    "title": "贈邵拙",
+    "poem": [
+      "邁古文章金鸑鷟，出群行止玉麒麟。"
+    ]
+  },
+  {
+    "uid": "QTS_795_059_01",
+    "volume": 795,
+    "author": {
+      "canonical": "潘天錫",
+      "recorded": "潘天錫"
+    },
+    "title": "游古觀",
+    "poem": [
+      "風便磬聲遠，日斜樓影長。"
+    ]
+  },
+  {
+    "uid": "QTS_795_060_01",
+    "volume": 795,
+    "author": {
+      "canonical": "朱勰",
+      "recorded": "朱勰"
+    },
+    "title": "句",
+    "poem": [
+      "好是晚來香雨裏，擔簦親送綺羅人。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_061_01",
+    "volume": 795,
+    "author": {
+      "canonical": "齊鎬",
+      "recorded": "齊鎬"
+    },
+    "title": "詠窅娘",
+    "poem": [
+      "蓮中花更好，雲裏月常新。"
+    ]
+  },
+  {
+    "uid": "QTS_795_062_01",
+    "volume": 795,
+    "author": {
+      "canonical": "黃可",
+      "recorded": "黃可"
+    },
+    "title": "獻高侍郎",
+    "poem": [
+      "天下傳將舞馬賦，門前迎得跨驢賓。"
+    ]
+  },
+  {
+    "uid": "QTS_795_063_01",
+    "volume": 795,
+    "author": {
+      "canonical": "高元矩",
+      "recorded": "高元矩"
+    },
+    "title": "贈宣城宰",
+    "poem": [
+      "硯貯寒泉碧，庭堆敗葉紅。"
+    ]
+  },
+  {
+    "uid": "QTS_795_064_01",
+    "volume": 795,
+    "author": {
+      "canonical": "高元矩",
+      "recorded": "高元矩"
+    },
+    "title": "贈徐學士",
+    "poem": [
+      "燕掠琴弦穿靜院，吏收詩草下閑庭。"
+    ]
+  },
+  {
+    "uid": "QTS_795_065_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "蟬",
+    "poem": [
+      "年年聞爾者，未有不傷情。"
+    ]
+  },
+  {
+    "uid": "QTS_795_066_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "句",
+    "poem": [
+      "出得風塵者，合知岐路人。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_067_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "句",
+    "poem": [
+      "拂榻燈未來，開門月先入。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_068_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "句",
+    "poem": [
+      "忽生雲是匣，高以月為臺。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_069_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "畫虎",
+    "poem": [
+      "入夜雖無傷物意，向明還有動人心。"
+    ]
+  },
+  {
+    "uid": "QTS_795_070_01",
+    "volume": 795,
+    "author": {
+      "canonical": "趙休",
+      "recorded": "趙休"
+    },
+    "title": "侍宴",
+    "poem": [
+      "金莖來白露，玉宇起清風。"
+    ]
+  },
+  {
+    "uid": "QTS_795_071_01",
+    "volume": 795,
+    "author": {
+      "canonical": "庸仁傑",
+      "recorded": "庸仁傑"
+    },
+    "title": "贈池陽守陳德誠",
+    "poem": [
+      "紅斾渡江霞蘸水，青蛇出匣雪侵衣。"
+    ]
+  },
+  {
+    "uid": "QTS_795_072_01",
+    "volume": 795,
+    "author": {
+      "canonical": "庸仁傑",
+      "recorded": "庸仁傑"
+    },
+    "title": "昇元閣",
+    "poem": [
+      "雲散便凝千里望，日斜長占半城陰。"
+    ]
+  },
+  {
+    "uid": "QTS_795_073_01",
+    "volume": 795,
+    "author": {
+      "canonical": "庸仁傑",
+      "recorded": "庸仁傑"
+    },
+    "title": "贈嘉禾峯僧",
+    "poem": [
+      "祇住此山寧有意，向來求佛本無心。"
+    ]
+  },
+  {
+    "uid": "QTS_795_074_01",
+    "volume": 795,
+    "author": {
+      "canonical": "邵拙",
+      "recorded": "邵拙"
+    },
+    "title": "句",
+    "poem": [
+      "萬國不得雨，孤雲猶在山。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_075_01",
+    "volume": 795,
+    "author": {
+      "canonical": "毛炳",
+      "recorded": "毛炳",
+      "gender": "male",
+      "english_name": "Mao Bing",
+      "wikidata_id": "Q45453308"
+    },
+    "title": "題齋壁",
+    "poem": [
+      "先生不在此，千載祇空山。"
+    ]
+  },
+  {
+    "uid": "QTS_795_076_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳德誠",
+      "recorded": "陳德誠"
+    },
+    "title": "句",
+    "poem": [
+      "建水舊傳劉夜坐，螺川新有夏江城。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_077_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳甫",
+      "recorded": "陳甫"
+    },
+    "title": "漳江感懷",
+    "poem": [
+      "一雨洗殘暑，萬家生早涼。"
+    ]
+  },
+  {
+    "uid": "QTS_795_078_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳甫",
+      "recorded": "陳甫"
+    },
+    "title": "村居",
+    "poem": [
+      "暮鳥歸巢急，寒牛下隴遲。"
+    ]
+  },
+  {
+    "uid": "QTS_795_079_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳甫",
+      "recorded": "陳甫"
+    },
+    "title": "句",
+    "poem": [
+      "算吟千百首，方得兩三聯。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_080_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳甫",
+      "recorded": "陳甫"
+    },
+    "title": "贈黃巖",
+    "poem": [
+      "清時不作登龍客，綠鬢閑梳傍草堂。"
+    ]
+  },
+  {
+    "uid": "QTS_795_081_01",
+    "volume": 795,
+    "author": {
+      "canonical": "徐融",
+      "recorded": "徐融"
+    },
+    "title": "夜宿金山",
+    "poem": [
+      "淮船分蟻喙，江市聚蠅聲。"
+    ]
+  },
+  {
+    "uid": "QTS_795_082_01",
+    "volume": 795,
+    "author": {
+      "canonical": "高若拙",
+      "recorded": "高若拙",
+      "gender": "male",
+      "wikidata_id": "Q16078309"
+    },
+    "title": "中秋不見月",
+    "poem": [
+      "人間不見月，天外自分明。"
+    ]
+  },
+  {
+    "uid": "QTS_795_083_01",
+    "volume": 795,
+    "author": {
+      "canonical": "皮光業",
+      "recorded": "皮光業",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pi Guangye",
+      "wikidata_id": "Q17152105"
+    },
+    "title": "句",
+    "poem": [
+      "燒平樵路出，潮落海山高。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_084_01",
+    "volume": 795,
+    "author": {
+      "canonical": "皮光業",
+      "recorded": "皮光業",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pi Guangye",
+      "wikidata_id": "Q17152105"
+    },
+    "title": "句",
+    "poem": [
+      "行人折柳輕和絮，飛燕銜泥帶落花。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_085_01",
+    "volume": 795,
+    "author": {
+      "canonical": "屠瓌智",
+      "recorded": "屠瓌智"
+    },
+    "title": "詠志",
+    "poem": [
+      "輕身都是義，殉主始為忠。"
+    ]
+  },
+  {
+    "uid": "QTS_795_086_01",
+    "volume": 795,
+    "author": {
+      "canonical": "元德昭",
+      "recorded": "元德昭",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Yuan Dezhao",
+      "wikidata_id": "Q28059391"
+    },
+    "title": "句",
+    "poem": [
+      "滿堂羅綺兼朱紫，四代兒孫奉老翁。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_087_01",
+    "volume": 795,
+    "author": {
+      "canonical": "林無隱",
+      "recorded": "林無隱"
+    },
+    "title": "句",
+    "poem": [
+      "雪消二月江湖闊，花發千山道路香。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_088_01",
+    "volume": 795,
+    "author": {
+      "canonical": "楊義方",
+      "recorded": "楊義方"
+    },
+    "title": "春日",
+    "poem": [
+      "海邊紅日半離水，天外暖風輕到花。"
+    ]
+  },
+  {
+    "uid": "QTS_795_089_01",
+    "volume": 795,
+    "author": {
+      "canonical": "楊義方",
+      "recorded": "楊義方"
+    },
+    "title": "贈王樞密處回",
+    "poem": [
+      "兩聲鞭自禁門出，一簇人從天上來。"
+    ]
+  },
+  {
+    "uid": "QTS_795_090_01",
+    "volume": 795,
+    "author": {
+      "canonical": "王廷珪",
+      "recorded": "王廷珪"
+    },
+    "title": "浣花溪",
+    "poem": [
+      "十字水中分島嶼，數重花外見樓臺。"
+    ]
+  },
+  {
+    "uid": "QTS_795_091_01",
+    "volume": 795,
+    "author": {
+      "canonical": "歐陽彬",
+      "recorded": "歐陽彬",
+      "gender": "male",
+      "wikidata_id": "Q18907045"
+    },
+    "title": "句",
+    "poem": [
+      "無錢將乞樊知客，名紙生毛不為通。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_092_01",
+    "volume": 795,
+    "author": {
+      "canonical": "歐陽彬",
+      "recorded": "歐陽彬",
+      "gender": "male",
+      "wikidata_id": "Q18907045"
+    },
+    "title": "田父詩",
+    "poem": [
+      "桑柘殘陽裏，兒孫落葉中。"
+    ]
+  },
+  {
+    "uid": "QTS_795_093_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李堯夫",
+      "recorded": "李堯夫"
+    },
+    "title": "大內盆池",
+    "poem": [
+      "向外疑無地，其中別有天。"
+    ]
+  },
+  {
+    "uid": "QTS_795_094_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李堯夫",
+      "recorded": "李堯夫"
+    },
+    "title": "贈滕郎中",
+    "poem": [
+      "方外共推為道友，關中獨自占詩家。"
+    ]
+  },
+  {
+    "uid": "QTS_795_095_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李堯夫",
+      "recorded": "李堯夫"
+    },
+    "title": "句",
+    "poem": [
+      "炎暑鬱蒸無處避，涼風消息幾時來。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_096_01",
+    "volume": 795,
+    "author": {
+      "canonical": "石文德",
+      "recorded": "石文德",
+      "period": "Late Tang"
+    },
+    "title": "挽馬希範夫人",
+    "poem": [
+      "月沈湘浦冷，花謝漢宮秋。"
+    ]
+  },
+  {
+    "uid": "QTS_795_097_01",
+    "volume": 795,
+    "author": {
+      "canonical": "戴偃",
+      "recorded": "戴偃"
+    },
+    "title": "漁父篇",
+    "poem": [
+      "須把咽喉吞世界，蓋因奢侈致危亡。"
+    ]
+  },
+  {
+    "uid": "QTS_795_098_01",
+    "volume": 795,
+    "author": {
+      "canonical": "戴偃",
+      "recorded": "戴偃"
+    },
+    "title": "漁父篇",
+    "poem": [
+      "若須拋卻便拋卻，莫待風高更亦深。"
+    ]
+  },
+  {
+    "uid": "QTS_795_099_01",
+    "volume": 795,
+    "author": {
+      "canonical": "張迥",
+      "recorded": "張迥"
+    },
+    "title": "句",
+    "poem": [
+      "夜長燈影滅，天遠鶴聲孤。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_100_01",
+    "volume": 795,
+    "author": {
+      "canonical": "鍾元章",
+      "recorded": "鍾元章"
+    },
+    "title": "射",
+    "poem": [
+      "金筈離弦三尺電，星髇破的一聲雷。"
+    ]
+  },
+  {
+    "uid": "QTS_795_101_01",
+    "volume": 795,
+    "author": {
+      "canonical": "楊鳧",
+      "recorded": "楊鳧"
+    },
+    "title": "山中即事",
+    "poem": [
+      "背日流泉生凍早，逆風歸鳥入巢遲。"
+    ]
+  },
+  {
+    "uid": "QTS_795_102_01",
+    "volume": 795,
+    "author": {
+      "canonical": "王俊",
+      "recorded": "王俊"
+    },
+    "title": "桂林逍遙樓",
+    "poem": [
+      "勝日登樓望，山川一半春。"
+    ]
+  },
+  {
+    "uid": "QTS_795_103_01",
+    "volume": 795,
+    "author": {
+      "canonical": "薛沆",
+      "recorded": "薛沆"
+    },
+    "title": "題藏舟浦花",
+    "poem": [
+      "也知別有風光主，花蕾枝枝似去年。"
+    ]
+  },
+  {
+    "uid": "QTS_795_104_01",
+    "volume": 795,
+    "author": {
+      "canonical": "張顗",
+      "recorded": "張顗"
+    },
+    "title": "贈懷光",
+    "poem": [
+      "金殿聖人看縱筆，玉堂詞客盡裁詩。"
+    ]
+  },
+  {
+    "uid": "QTS_795_105_01",
+    "volume": 795,
+    "author": {
+      "canonical": "張林",
+      "recorded": "張林"
+    },
+    "title": "句",
+    "poem": [
+      "菱葉乍翻人採後，芰荷初沒舸行時。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_106_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧休",
+      "recorded": "盧休"
+    },
+    "title": "寒月",
+    "poem": [
+      "春寒酒力遲，冉冉生微紅。"
+    ]
+  },
+  {
+    "uid": "QTS_795_107_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧休",
+      "recorded": "盧休"
+    },
+    "title": "句",
+    "poem": [
+      "自然草木性，誰祝元化功。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_108_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧休",
+      "recorded": "盧休"
+    },
+    "title": "句",
+    "poem": [
+      "湓浦風生破膽愁。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_109_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧休",
+      "recorded": "盧休"
+    },
+    "title": "句",
+    "poem": [
+      "血染劍花明帳幕，三千車馬出漁陽。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_110_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧休",
+      "recorded": "盧休"
+    },
+    "title": "句",
+    "poem": [
+      "入門堪笑復堪憐，三徑苔荒一釣船。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_111_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳嶠",
+      "recorded": "陳嶠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Chen Qiao",
+      "wikidata_id": "Q45375039"
+    },
+    "title": "句",
+    "poem": [
+      "小橋風月年年事，爭奈潘郎去，何。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_112_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李範",
+      "recorded": "李範"
+    },
+    "title": "秋日江干遠望",
+    "poem": [
+      "清猿啼遠木，白鳥下前灘。"
+    ]
+  },
+  {
+    "uid": "QTS_795_113_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李範",
+      "recorded": "李範"
+    },
+    "title": "經王山人舊居",
+    "poem": [
+      "鶴歸秋漢遠，人去草堂空。"
+    ]
+  },
+  {
+    "uid": "QTS_795_114_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李範",
+      "recorded": "李範"
+    },
+    "title": "道傍樹",
+    "poem": [
+      "雖當南北路，不礙往來人。"
+    ]
+  },
+  {
+    "uid": "QTS_795_115_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李範",
+      "recorded": "李範"
+    },
+    "title": "江寺閑書",
+    "poem": [
+      "釣叟無機沙鳥睡，禪師入定白牛閑。"
+    ]
+  },
+  {
+    "uid": "QTS_795_116_01",
+    "volume": 795,
+    "author": {
+      "canonical": "李範",
+      "recorded": "李範"
+    },
+    "title": "暮秋懷故人",
+    "poem": [
+      "天涯故友無來信，窗外拒霜空落花。"
+    ]
+  },
+  {
+    "uid": "QTS_795_117_01",
+    "volume": 795,
+    "author": {
+      "canonical": "卞震",
+      "recorded": "卞震"
+    },
+    "title": "即事",
+    "poem": [
+      "雨壁長秋菌，風枝落病蟬。"
+    ]
+  },
+  {
+    "uid": "QTS_795_118_01",
+    "volume": 795,
+    "author": {
+      "canonical": "卞震",
+      "recorded": "卞震"
+    },
+    "title": "句",
+    "poem": [
+      "老笻支瘦影，寒木憑吟身。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_119_01",
+    "volume": 795,
+    "author": {
+      "canonical": "卞震",
+      "recorded": "卞震"
+    },
+    "title": "春日偶題",
+    "poem": [
+      "詩債到春無處避，離愁因醉暫時無。"
+    ]
+  },
+  {
+    "uid": "QTS_795_120_01",
+    "volume": 795,
+    "author": {
+      "canonical": "卞震",
+      "recorded": "卞震"
+    },
+    "title": "即事",
+    "poem": [
+      "茶香解睡磨鐺煮，山色牽懷著屐登。"
+    ]
+  },
+  {
+    "uid": "QTS_795_121_01",
+    "volume": 795,
+    "author": {
+      "canonical": "林楚才",
+      "recorded": "林楚才"
+    },
+    "title": "贈致仕黃某",
+    "poem": [
+      "身閑不恨辭官早，詩好常甘得句遲。"
+    ]
+  },
+  {
+    "uid": "QTS_795_122_01",
+    "volume": 795,
+    "author": {
+      "canonical": "孟不疑",
+      "recorded": "孟不疑"
+    },
+    "title": "句",
+    "poem": [
+      "白日故鄉遠，青山佳句中。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_123_01",
+    "volume": 795,
+    "author": {
+      "canonical": "龐季子",
+      "recorded": "龐季子"
+    },
+    "title": "句",
+    "poem": [
+      "暝雲生易滿，秋草長難高。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_124_01",
+    "volume": 795,
+    "author": {
+      "canonical": "郭思",
+      "recorded": "郭思"
+    },
+    "title": "白石鎮古城",
+    "poem": [
+      "落星一石幾千年，門外何人扣漢川。"
+    ]
+  },
+  {
+    "uid": "QTS_795_125_01",
+    "volume": 795,
+    "author": {
+      "canonical": "盧載",
+      "recorded": "盧載",
+      "gender": "male",
+      "wikidata_id": "Q18905965"
+    },
+    "title": "祝融峰",
+    "poem": [
+      "五千里地望皆見，七十二峰中最高。"
+    ]
+  },
+  {
+    "uid": "QTS_795_126_01",
+    "volume": 795,
+    "author": {
+      "canonical": "鄭翺",
+      "recorded": "鄭翺"
+    },
+    "title": "下第東歸",
+    "poem": [
+      "花燒落第眼，雨破到家程。"
+    ]
+  },
+  {
+    "uid": "QTS_795_127_01",
+    "volume": 795,
+    "author": {
+      "canonical": "鄭說",
+      "recorded": "鄭說"
+    },
+    "title": "贈溫州大雲寺僧鴻楚",
+    "poem": [
+      "架上紫衣閑不著，案頭金字坐長看。"
+    ]
+  },
+  {
+    "uid": "QTS_795_128_01",
+    "volume": 795,
+    "author": {
+      "canonical": "史瑜",
+      "recorded": "史瑜"
+    },
+    "title": "青泥山",
+    "poem": [
+      "溪從沮水流嶓冢，嶺接青泥入劍天。"
+    ]
+  },
+  {
+    "uid": "QTS_795_129_01",
+    "volume": 795,
+    "author": {
+      "canonical": "賀公",
+      "recorded": "賀公",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "但存方寸地，留與子孫耕。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_130_01",
+    "volume": 795,
+    "author": {
+      "canonical": "米都知",
+      "recorded": "米都知"
+    },
+    "title": "句",
+    "poem": [
+      "小旗村店酒，微雨野塘花。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_131_01",
+    "volume": 795,
+    "author": {
+      "canonical": "陳秀才",
+      "recorded": "陳秀才",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "地偏雲自起，日暮山更深。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_132_01",
+    "volume": 795,
+    "author": {
+      "canonical": "崔李二生",
+      "recorded": "崔李二生"
+    },
+    "title": "崔生詩",
+    "poem": [
+      "恰似傳花人飲散，空拋床下最繁枝。"
+    ]
+  },
+  {
+    "uid": "QTS_795_133_01",
+    "volume": 795,
+    "author": {
+      "canonical": "崔李二生",
+      "recorded": "崔李二生"
+    },
+    "title": "李生詩",
+    "poem": [
+      "艷魄香魂如有在，還應羞見墮樓人。"
+    ]
+  },
+  {
+    "uid": "QTS_795_134_01",
+    "volume": 795,
+    "author": {
+      "canonical": "范氏子",
+      "recorded": "范氏子"
+    },
+    "title": "贈隱者",
+    "poem": [
+      "掃葉隨風便，澆花趁日陰。"
+    ]
+  },
+  {
+    "uid": "QTS_795_135_01",
+    "volume": 795,
+    "author": {
+      "canonical": "范氏子",
+      "recorded": "范氏子"
+    },
+    "title": "夏日",
+    "poem": [
+      "閑雲生不雨，病葉落非秋。"
+    ]
+  },
+  {
+    "uid": "QTS_795_136_01",
+    "volume": 795,
+    "author": {
+      "canonical": "臨川小吏",
+      "recorded": "臨川小吏"
+    },
+    "title": "牡丹",
+    "poem": [
+      "三月不辭千日醉，一生能得幾回看。"
+    ]
+  },
+  {
+    "uid": "QTS_795_137_01",
+    "volume": 795,
+    "author": {
+      "canonical": "韓熙載客",
+      "recorded": "韓熙載客"
+    },
+    "title": "句",
+    "poem": [
+      "最是五更留不住，向人枕畔著衣裳。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_795_138_01",
+    "volume": 795,
+    "author": {
+      "canonical": "段義宗",
+      "recorded": "段義宗",
+      "gender": "male",
+      "english_name": "Duan Yizong",
+      "wikidata_id": "Q10369247"
+    },
+    "title": "思鄉",
+    "poem": [
+      "懸心秋夜月，萬里照鄉關。"
+    ]
+  },
+  {
+    "uid": "QTS_795_139_01",
+    "volume": 795,
+    "author": {
+      "canonical": "段義宗",
+      "recorded": "段義宗",
+      "gender": "male",
+      "english_name": "Duan Yizong",
+      "wikidata_id": "Q10369247"
+    },
+    "title": "題三學院經樓",
+    "poem": [
+      "玉排複道珊瑚殿，金錯危椆翡翠樓。"
+    ]
+  },
+  {
+    "uid": "QTS_795_140_01",
+    "volume": 795,
+    "author": {
+      "canonical": "段義宗",
+      "recorded": "段義宗",
+      "gender": "male",
+      "english_name": "Duan Yizong",
+      "wikidata_id": "Q10369247"
+    },
+    "title": "大慈寺芍藥",
+    "poem": [
+      "此花不與眾花同，為感高僧護法功。"
+    ]
+  }
+]

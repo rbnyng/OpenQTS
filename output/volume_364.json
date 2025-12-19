@@ -1,0 +1,1124 @@
+[
+  {
+    "uid": "QTS_364_001_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "荊州歌二首 其一",
+    "poem": [
+      "渚宮楊柳暗，麥城朝雉飛。",
+      "可憐踏青伴，乘暖著輕衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_001_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "荊州歌二首 其二",
+    "poem": [
+      "今日好南風，商旅相催發。",
+      "沙頭檣竿上，始見春江闊。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_002_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "紀南歌",
+    "poem": [
+      "風煙紀南城，塵土荊門路。",
+      "天寒多獵騎，走上樊姬墓。"
+    ]
+  },
+  {
+    "uid": "QTS_364_003_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "視刀環歌",
+    "poem": [
+      "常恨言語淺，不如人意深。",
+      "今朝兩相視，脈脈萬重心。"
+    ]
+  },
+  {
+    "uid": "QTS_364_004_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "三閣辭四首 其一",
+    "poem": [
+      "貴人三閣上，日晏未梳頭。",
+      "不應有恨事，嬌甚卻成愁。"
+    ],
+    "notes": [
+      {
+        "content": "吳聲",
+        "context": "三閣辭四首",
+        "original_title": "三閣辭四首〈吳聲〉"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_364_004_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "三閣辭四首 其二",
+    "poem": [
+      "珠箔曲瓊鉤，仔細見揚州。",
+      "北兵那得度，浪話判悠悠。"
+    ],
+    "part_index": 2,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 1,
+        "text": "仔",
+        "variant": "子",
+        "source": "一作「子」"
+      },
+      {
+        "line": 2,
+        "text": "話判",
+        "variant": "語聲",
+        "source": "一作「語聲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_004_03",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "三閣辭四首 其三",
+    "poem": [
+      "沉香帖閣柱，金縷畫門楣。",
+      "回首降幡下，已見黍離離。"
+    ],
+    "part_index": 3,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 1,
+        "text": "門",
+        "variant": "閣",
+        "source": "一作「閣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_004_04",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "三閣辭四首 其四",
+    "poem": [
+      "三人出眢井，一身登檻車。",
+      "朱門漫臨水，不可見鱸魚。"
+    ],
+    "part_index": 4,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 2,
+        "text": "可",
+        "variant": "得",
+        "source": "一作「得」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_005_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "紇那曲二首 其一",
+    "poem": [
+      "楊柳鬱青青，竹枝無限情。",
+      "周郎一回顧，聽唱紇那聲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "周",
+        "variant": "同",
+        "source": "一作「同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_005_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "紇那曲二首 其二",
+    "poem": [
+      "踏曲興無窮，調同詞不同。",
+      "願郎千萬壽，長作主人翁。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_006_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "淮陰行五首 其一",
+    "poem": [
+      "簇簇淮陰市，竹樓緣岸上。",
+      "好日起檣竿，烏飛驚五兩。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_364_006_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "淮陰行五首 其二",
+    "poem": [
+      "今日轉船頭，金烏指西北。",
+      "煙波與春草，千里同一色。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_364_006_03",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "淮陰行五首 其三",
+    "poem": [
+      "船頭大銅鐶，摩挲光陣陣。",
+      "早早使風來，沙頭一眼認。"
+    ],
+    "part_index": 3,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "早",
+        "variant": "晚",
+        "source": "一作「晚」"
+      },
+      {
+        "line": 2,
+        "text": "使風",
+        "variant": "便風",
+        "source": "一作「便風」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_006_04",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "淮陰行五首 其四",
+    "poem": [
+      "何物令儂羨，羨郎船尾燕。",
+      "銜泥趁檣竿，宿食長相見。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_364_006_05",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "淮陰行五首 其五",
+    "poem": [
+      "隔浦望行船，頭昂尾幰幰。",
+      "無奈晚來時，清淮春浪軟。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "晚來",
+        "variant": "挑菜",
+        "source": "一作「挑菜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_007_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "渾侍中宅牡丹",
+    "poem": [
+      "徑尺千餘朵，人間有此花。",
+      "今朝見顏色，更不向諸家。"
+    ]
+  },
+  {
+    "uid": "QTS_364_008_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "詠紅柿子",
+    "poem": [
+      "曉連星影出，晚帶日光懸。",
+      "本因遺采掇，翻自保天年。"
+    ]
+  },
+  {
+    "uid": "QTS_364_009_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "呂八見寄郡內書懷，因而戲和",
+    "poem": [
+      "文苑振金聲，循良冠百城。",
+      "不知今史氏，何處列君名。"
+    ]
+  },
+  {
+    "uid": "QTS_364_010_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "秋風引",
+    "poem": [
+      "何處秋風至，蕭蕭送雁群。",
+      "朝來入庭樹，孤客最先聞。"
+    ]
+  },
+  {
+    "uid": "QTS_364_011_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "柳花詞三首 其一",
+    "poem": [
+      "開從綠條上，散逐香風遠。",
+      "故取花落時，悠揚占春晚。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_364_011_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "柳花詞三首 其二",
+    "poem": [
+      "輕飛不假風，輕落不委地。",
+      "撩亂舞晴空，發人無限思。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_364_011_03",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "柳花詞三首 其三",
+    "poem": [
+      "晴天闇闇雪，來送青春暮。",
+      "無意似多情，千家萬家去。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_364_012_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "路傍曲",
+    "poem": [
+      "南山宿雨晴，春入鳳凰城。",
+      "處處聞弦管，無非送酒聲。"
+    ]
+  },
+  {
+    "uid": "QTS_364_013_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "君山懷古",
+    "poem": [
+      "屬車八十一，此地阻長風。",
+      "千載威靈盡，赭山寒水中。"
+    ]
+  },
+  {
+    "uid": "QTS_364_014_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "庭竹",
+    "poem": [
+      "露滌鉛粉節，風搖青玉枝。",
+      "依依似君子，無地不相宜。"
+    ]
+  },
+  {
+    "uid": "QTS_364_015_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "唐郎中宅與諸公同飲酒看牡丹",
+    "poem": [
+      "今日花前飲，甘心醉數杯。",
+      "但愁花有語，不為老人開。"
+    ]
+  },
+  {
+    "uid": "QTS_364_016_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "題壽安甘棠館二首 其一",
+    "poem": [
+      "公館似仙家，池清竹徑斜。",
+      "山禽忽驚起，沖落半岩花。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_016_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "題壽安甘棠館二首 其二",
+    "poem": [
+      "門前洛陽道，門裏桃花路。",
+      "塵土與煙霞，其間十餘步。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_017_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "古詞二首 其一",
+    "poem": [
+      "軒後初冠冕，前旒為蔽明。",
+      "安知從複道，然後見人情。"
+    ],
+    "notes": [
+      {
+        "content": "一作諷古",
+        "context": "古詞二首",
+        "original_title": "古詞二首〈一作諷古〉"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_017_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "古詞二首 其二",
+    "poem": [
+      "簿領乃俗士，清談信古風。",
+      "吾觀蘇令綽，朱墨一何工。"
+    ],
+    "notes": [
+      {
+        "content": "一作諷古",
+        "context": "古詞二首",
+        "original_title": "古詞二首〈一作諷古〉"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_018_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "寓興二首 其一",
+    "poem": [
+      "常談即至理，安事非常情。",
+      "寄語何平叔，無為輕老生。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_018_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "寓興二首 其二",
+    "poem": [
+      "世途多禮數，鵬鷃各逍遙。",
+      "何事陶彭澤，拋官為折腰。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_019_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "詠史二首 其一",
+    "poem": [
+      "驃騎非無勢，少卿終不去。",
+      "世道劇頹波，我心如砥柱。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_019_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "詠史二首 其二",
+    "poem": [
+      "賈生明王道，衛綰工車戲。",
+      "同遇漢文時，何人居貴位。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_020_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "經檀道濟故壘",
+    "poem": [
+      "萬里長城壞，荒營野草秋。",
+      "秣陵多士女，猶唱白符鳩。"
+    ]
+  },
+  {
+    "uid": "QTS_364_021_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "傷段右丞",
+    "poem": [
+      "江海多豪氣，朝廷有直聲。",
+      "何言馬蹄下，一旦是佳城。"
+    ],
+    "notes": [
+      {
+        "content": "江湖舊遊，南宮交代",
+        "context": "傷段右丞",
+        "original_title": "傷段右丞〈江湖舊遊，南宮交代〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_022_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "傷獨孤舍人",
+    "poem": [
+      "昔別矜年少，今悲喪國華。",
+      "遠來同社燕，不見早梅花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "矜",
+        "variant": "公",
+        "source": "一作「公」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_364_023_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "再傷龐尹",
+    "poem": [
+      "京兆歸何處，章台空暮塵。",
+      "可憐鸞鏡下，哭殺畫眉人。"
+    ]
+  },
+  {
+    "uid": "QTS_364_024_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "敬酬微公見寄二首 其一",
+    "poem": [
+      "淒涼沃州僧，憔悴柴桑宰。",
+      "別來二十年，唯餘兩心在。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_024_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "敬酬微公見寄二首 其二",
+    "poem": [
+      "越江千里鏡，越嶺四時雪。",
+      "中有逍遙人，夜深觀水月。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_025_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "鄂渚留別李二十一表臣大夫",
+    "poem": [
+      "高檣起行色，促柱動離聲。",
+      "欲問江深淺，應如遠別情。"
+    ]
+  },
+  {
+    "uid": "QTS_364_026_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "答表臣贈別二首 其一",
+    "poem": [
+      "昔為瑤池侶，飛舞集蓬萊。",
+      "今作江漢別，風雪一徘徊。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_026_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "答表臣贈別二首 其二",
+    "poem": [
+      "嘶馬立未還，行舟路將轉。",
+      "江頭暝色深，揮袖依稀見。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_027_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "始發鄂渚寄表臣二首 其一",
+    "poem": [
+      "祖帳管弦絕，客帆西風生。",
+      "回車已不見，猶聽馬嘶聲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_027_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "始發鄂渚寄表臣二首 其二",
+    "poem": [
+      "曉發柳林戍，遙城聞五鼓。",
+      "憶與故人眠，此時猶晤語。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_028_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "出鄂州界懷錶臣二首 其一",
+    "poem": [
+      "離席一揮杯，別愁今尚醉。",
+      "遲遲有情處，卻恨江帆駛。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_028_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "出鄂州界懷錶臣二首 其二",
+    "poem": [
+      "夢覺疑連榻，舟行忽千里。",
+      "不見黃鶴樓，寒沙雪相似。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_029_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "和游房公舊竹亭聞琴絕句",
+    "poem": [
+      "尚有竹間路，永無綦下塵。",
+      "一聞流水曲，重憶餐霞人。"
+    ]
+  },
+  {
+    "uid": "QTS_364_030_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "西州李尚書知愚與元武昌有舊，遠示二篇，吟之泫然，因以繼和二首 其一",
+    "poem": [
+      "如何贈琴日，已是絕弦時。",
+      "無複雙金報，空餘掛劍悲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_030_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "西州李尚書知愚與元武昌有舊，遠示二篇，吟之泫然，因以繼和二首 其二",
+    "poem": [
+      "寶匣從此閑，朱弦誰複調。",
+      "只應隨玉樹，同向土中銷。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_031_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "別蘇州二首 其一",
+    "poem": [
+      "三載為吳郡，臨岐祖帳開。",
+      "雖非謝桀黠，且為一裴回。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_031_02",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "別蘇州二首 其二",
+    "poem": [
+      "流水閶門外，秋風吹柳條。",
+      "從來送客處，今日自魂銷。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_364_032_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "罷和州游建康",
+    "poem": [
+      "秋水清無力，寒山暮多思。",
+      "官閑不計程，遍上南朝寺。"
+    ]
+  },
+  {
+    "uid": "QTS_364_033_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "九日登高",
+    "poem": [
+      "世路山河險，君門煙霧深。",
+      "年年上高處，未省不傷心。"
+    ]
+  },
+  {
+    "uid": "QTS_364_034_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "答柳子厚",
+    "poem": [
+      "年方伯玉早，恨比四愁多。",
+      "會待休車騎，相隨出罻羅。"
+    ]
+  },
+  {
+    "uid": "QTS_364_035_01",
+    "volume": 364,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "館娃宮在舊郡西南硯石山，前瞰姑蘇臺，傍有采香徑。梁天監中置佛寺曰「靈巖」，即故宮也，信為絕境，因賦二章",
+    "poem": [
+      "宮館貯嬌娃，當時意大誇。",
+      "豔傾吳國盡，笑入楚王家。",
+      "月殿移椒壁，天花代舜華。",
+      "唯餘采香徑，一帶繞山斜。"
+    ]
+  }
+]

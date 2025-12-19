@@ -1,0 +1,2598 @@
+[
+  {
+    "uid": "QTS_238_001_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送集賢崔八叔承恩括圖書",
+    "poem": [
+      "雨露滿儒服，天心知子虛。",
+      "還勞五經笥，更訪百家書。",
+      "贈別傾文苑，光華比使車。",
+      "晚雲隨客散，寒樹出關疎。",
+      "相見應朝夕，歸期在玉除。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_002_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送張五員外東歸楚州",
+    "poem": [
+      "纓佩不爲美，人羣寧免辭。",
+      "杳然黃鵠去，未負白雲期。",
+      "此別清興盡，高秋臨水時。",
+      "好山枉帆僻，浪跡到家遲。",
+      "他日詔書下，梁鴻安可追。"
+    ]
+  },
+  {
+    "uid": "QTS_238_003_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "閑居寄包何",
+    "poem": [
+      "去名即棲遁，何必歸滄浪。",
+      "種藥幽不淺，杜門喧自忘。",
+      "林眠多曉夢，鴉散驚初陽。",
+      "片雪幽雲至，迴風鄰果香。",
+      "佳期碧天末，惆悵紫蘭芳。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "芳",
+        "variant": "房",
+        "source": "一作「房」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_004_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "津梁寺尋李侍御",
+    "poem": [
+      "禪林絕過客，柱史正焚香。",
+      "馴鴿不猜隼，慈雲能護霜。",
+      "驄聲隔暗竹，吏事散空廊。",
+      "霄漢期鴛鷺，狐狸避憲章。",
+      "遶堦春色至，屈草待君芳。"
+    ]
+  },
+  {
+    "uid": "QTS_238_005_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "山園秋晚寄杜黃裳少府",
+    "poem": [
+      "惆悵佳期阻，園林秋景閑。",
+      "終朝碧雲外，唯見暮禽還。",
+      "泉石思攜手，煙霞不閉關。",
+      "杖藜仍把菊，對卷也看山。",
+      "望望離心起，非君誰解顏。"
+    ]
+  },
+  {
+    "uid": "QTS_238_006_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "東溪杜野人致酒",
+    "poem": [
+      "萬重雲樹下，數畝子平居。",
+      "野院羅泉石，荊扉背里閭。",
+      "早冬耕鑿暇，弋雁復烹魚。",
+      "靜掃寒花徑，唯邀傲吏車。",
+      "晚來留客好，小雪下山初。"
+    ]
+  },
+  {
+    "uid": "QTS_238_007_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "憶山中寄舊友",
+    "poem": [
+      "數歲白雲裏，與君同採薇。",
+      "樹深煙不散，溪靜鷺忘飛。",
+      "更憶東巖趣，殘陽破翠微。",
+      "脫巾花下醉，洗藥月前歸。",
+      "風景今還好，如何與世違。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "與世",
+        "variant": "此興",
+        "source": "一作「此興」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_008_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "東臯早春寄郎四校書",
+    "poem": [
+      "祿微賴學稼，歲起歸衡茅。",
+      "窮達戀明主，耕桑亦近郊。",
+      "夜來霽山雪，陽氣動林梢。",
+      "蘭蕙暖初吐，春鳩鳴欲巢。",
+      "蓬萊時入夢，知子憶貧交。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "達",
+        "variant": "途",
+        "source": "一作「途」"
+      },
+      {
+        "line": 2,
+        "text": "亦",
+        "variant": "跡",
+        "source": "一作「跡」"
+      },
+      {
+        "line": 4,
+        "text": "蘭",
+        "variant": "萌",
+        "source": "一作「萌」"
+      },
+      {
+        "line": 4,
+        "text": "欲",
+        "variant": "始",
+        "source": "一作「始」"
+      },
+      {
+        "line": 5,
+        "text": "憶貧",
+        "variant": "與平",
+        "source": "一作「與平」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_009_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "玉山東溪題李叟屋壁",
+    "poem": [
+      "霞景已斜照，煙溪方暝投。",
+      "山家歸路僻，轍跡亂泉流。",
+      "野老採薇暇，蝸廬招客幽。",
+      "麏麚突荒院，鸕鵲步閑疇。",
+      "偶此愜真性，令人輕宦遊。"
+    ]
+  },
+  {
+    "uid": "QTS_238_010_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "溫泉宮禮見",
+    "poem": [
+      "新豐佳氣滿，聖主在溫泉。",
+      "雲曖龍行處，山明日馭前。",
+      "順風求至道，側席問遺賢。",
+      "靈雪瑤墀降，晨霞綵仗懸。",
+      "滄溟不讓水，疵賤也朝天。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "曖",
+        "variant": "暖",
+        "source": "一作「暖」"
+      },
+      {
+        "line": 4,
+        "text": "仗",
+        "variant": "旆",
+        "source": "一作「旆」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_011_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "遊襄陽泉石晚歸",
+    "poem": [
+      "遊目隨山勝，迴橈愛浦長。",
+      "往來幽不淺，昏旦興難忘。",
+      "木末看歸翼，蓮西失夕陽。",
+      "人聲指閭井，野趣惜林塘。",
+      "稍近垂楊路，菱舟擁岸香。"
+    ]
+  },
+  {
+    "uid": "QTS_238_012_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "夏日陪史郎中宴杜郎中果園",
+    "poem": [
+      "何事重逢迎，春醪晚更清。",
+      "林端花自老，池上月初明。",
+      "路入仙郎次，烏連柱史名。",
+      "竹陰疎柰院，山翠傍蕪城。",
+      "引滿不辭醉，風來待曙更。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "院",
+        "variant": "苑",
+        "source": "一作「苑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_013_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "南溪春耕",
+    "poem": [
+      "荷蓑趣南逕，戴勝鳴條枚。",
+      "溪雨有餘潤，土膏寧厭開。",
+      "溝塍落花盡，耒耜度雲迴。",
+      "誰道耦耕倦，仍兼勝賞催。",
+      "日長農有暇，悔不帶經來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "趣",
+        "variant": "趨",
+        "source": "一作「趨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_014_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "省試湘靈鼓瑟",
+    "poem": [
+      "善鼓雲和瑟，常聞帝子靈。",
+      "馮夷空自舞，楚客不堪聽。",
+      "苦調淒金石，清音入杳冥。",
+      "蒼梧來怨慕，白芷動芳馨。",
+      "流水傳瀟浦，悲風過洞庭。",
+      "曲終人不見，江上數峰青。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鼓",
+        "variant": "拊",
+        "source": "一作「拊」"
+      },
+      {
+        "line": 2,
+        "text": "空",
+        "variant": "徒",
+        "source": "一作「徒」"
+      },
+      {
+        "line": 4,
+        "text": "來",
+        "variant": "成",
+        "source": "一作「成」"
+      },
+      {
+        "line": 5,
+        "text": "瀟",
+        "variant": "湘",
+        "source": "一作「湘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_015_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "觀法駕自鳳翔迴",
+    "poem": [
+      "欃槍一掃滅，閶闔九重開。",
+      "海晏鯨鯢盡，天旋日月來。",
+      "聖情蘇品物，龍御闢雲雷。",
+      "曉漏移仙仗，朝陽出帝臺。",
+      "周慚散馬出，禹讓濬川迴。",
+      "欲識封人願，南山舉酒杯。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "御",
+        "variant": "馭",
+        "source": "一作「馭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_016_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "題玉山村叟屋壁",
+    "poem": [
+      "谷口好泉石，居人能陸沈。",
+      "牛羊下山小，煙火隔雲深。",
+      "一逕入溪色，數家連竹陰。",
+      "藏虹辭晚雨，驚隼落殘禽。",
+      "涉趣皆流目，將歸羨在林。",
+      "卻思黃綬事，辜負紫芝心。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 2,
+        "text": "小",
+        "variant": "去",
+        "source": "一作「去」"
+      },
+      {
+        "line": 2,
+        "text": "火",
+        "variant": "雨",
+        "source": "一作「雨」"
+      },
+      {
+        "line": 2,
+        "text": "雲",
+        "variant": "林",
+        "source": "一作「林」"
+      },
+      {
+        "line": 5,
+        "text": "流",
+        "variant": "留",
+        "source": "一作「留」"
+      },
+      {
+        "line": 5,
+        "text": "羨",
+        "variant": "必",
+        "source": "一作「必」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_017_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "縣中池竹言懷",
+    "poem": [
+      "官小志已足，時清免負薪。",
+      "卑棲且得地，榮耀不關身。",
+      "自愛賞心處，叢篁流水濱。",
+      "荷香度高枕，山色滿南鄰。",
+      "道在即爲樂，機忘寧厭貧。",
+      "卻愁丹鳳詔，來訪漆園人。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "山",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_018_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "山園棲隱",
+    "poem": [
+      "守靜信推分，灌園樂在茲。",
+      "且忘堯舜力，寧顧尚書期。",
+      "晚景采蘭暇，空林散帙時。",
+      "卷荷藏露滴，黃口觸蟲絲。",
+      "三徑與囂遠，一瓢常自怡。",
+      "情人半雲外，風月詎相思。"
+    ]
+  },
+  {
+    "uid": "QTS_238_019_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送王諫議任東都居守",
+    "poem": [
+      "車徒鳳掖東，去去洛陽宮。",
+      "暫以青蒲隔，還看紫禁同。",
+      "經過乘雨露，瀟灑出鴛鴻。",
+      "官署名臺下，雲山舊苑中。",
+      "暮天雙闕靜，秋月九重空。",
+      "且喜成周地，詩人播國風。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "重",
+        "variant": "門",
+        "source": "一作「門」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_020_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送鄭書記",
+    "poem": [
+      "決勝無遺策，辭天便起纓。",
+      "出身唯殉死，報國且能兵。",
+      "受命麒膦殿，參謀驃騎營。",
+      "短簫催別酒，斜日駐前旌。",
+      "義勇千夫敵，風沙萬里行。",
+      "幾年丹闕下，侯印錫書生。"
+    ]
+  },
+  {
+    "uid": "QTS_238_021_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送族姪赴任",
+    "poem": [
+      "林下不成興，仲容微祿牽。",
+      "客程千里遠，別念一帆懸。",
+      "欲歡卑棲去，其如勝趣偏。",
+      "雲山深郡郭，花木淨潮田。",
+      "坐嘯帷應下，離居月復圓。",
+      "此時知小阮，相憶綠尊前。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "一",
+        "variant": "片",
+        "source": "一作「片」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_022_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "長安落第作",
+    "poem": [
+      "始願今如此，前途復若何。",
+      "無媒獻詞賦，生事日蹉跎。",
+      "不遇張華識，空悲甯戚歌。",
+      "故山歸夢遠，新歲客愁多。",
+      "刷羽思喬木，登龍恨失波。",
+      "散才非世用，回音謝雲蘿。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "蘿",
+        "variant": "羅",
+        "source": "一作「羅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_023_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "酬長孫繹藍溪寄杏",
+    "poem": [
+      "愛君藍水上，種杏近成田。",
+      "拂逕清陰合，臨流彩實懸。",
+      "清香和宿雨，佳色出晴煙。",
+      "懿此傾筐贈，想知懷橘年。",
+      "芳馨來滿袖，瓊玖願詶篇。",
+      "把玩情何極，雲林若眼前。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "想",
+        "variant": "相",
+        "source": "一作「相」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_024_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "藥堂秋暮",
+    "poem": [
+      "隱來未得道，歲去媿雲松。",
+      "茅屋空山暮，荷衣白露濃。",
+      "唯憐石苔色，不染世人蹤。",
+      "潭靜宜孤鶴，山深絕遠鐘。",
+      "有時丹竈上，數點綵霞重。",
+      "勉事壺公術，仙期待赤龍。"
+    ]
+  },
+  {
+    "uid": "QTS_238_025_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "哭常徴君",
+    "poem": [
+      "萬化一朝盡，窮泉悲此君。",
+      "如何丹竈術，能誤紫芝焚。",
+      "不遂蒼生望，空留封禪文。",
+      "遠年隨逝水，真氣盡浮雲。",
+      "山閉龍蛇蟄，林寒麋鹿羣。",
+      "傷心載酒地，仙菊爲誰薰。"
+    ]
+  },
+  {
+    "uid": "QTS_238_026_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送鮑中丞赴太原軍營",
+    "poem": [
+      "年壯才仍美，時來道易行。",
+      "寵兼三獨任，威肅貳師營。",
+      "將略過南仲，天心寄北京。",
+      "雲旂臨塞色，龍笛出關聲。",
+      "漢月隨霜去，邊塵計日清。",
+      "漸知王事好，文武用書生。"
+    ]
+  },
+  {
+    "uid": "QTS_238_027_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉送劉相公江淮催轉運",
+    "poem": [
+      "國用資戎事，臣勞爲主憂。",
+      "將徴任土貢，更發濟川舟。",
+      "擁傳星還去，過池鳳不留。",
+      "唯高飲水節，稍淺別家愁。",
+      "落葉淮邊雨，孤山海上秋。",
+      "遙知謝公興，微月上江樓。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "水",
+        "variant": "冰",
+        "source": "一作「冰」"
+      },
+      {
+        "line": 6,
+        "text": "上",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_028_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送李秀才落第遊荊楚",
+    "poem": [
+      "翠羽雖成夢，遷鶯尚後羣。",
+      "名逃郄詵策，興發謝玄文。",
+      "昏旦扁舟去，江山幾路分。",
+      "上潮吞海日，歸雁出湖雲。",
+      "詩思應須苦，猨聲莫厭聞。",
+      "離居見新月，那得不思君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雖",
+        "variant": "難",
+        "source": "一作「難」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_029_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉陪郭常侍宴滻川山池",
+    "poem": [
+      "掖垣攜愛客，勝地賞年光。",
+      "向竹過賓館，尋山到妓堂。",
+      "歌聲掩金谷，舞態出平陽。",
+      "地滿簪裾影，花添蘭麝香。",
+      "鶯啼春未老，酒冷日猶長。",
+      "安石風流事，須歸問省郎。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "問",
+        "variant": "騎",
+        "source": "一作「騎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_030_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "寇中送張司馬歸洛",
+    "poem": [
+      "戎狄寇周日，衣冠適洛年。",
+      "客亭新驛騎，歸路舊人煙。",
+      "吾道將東矣，秋風更颯然。",
+      "雲愁百戰地，樹隔兩鄉天。",
+      "旅思蓬飄陌，驚魂雁怯弦。",
+      "今朝一尊酒，莫惜醉離筵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "歸",
+        "variant": "關",
+        "source": "一作「關」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_031_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉和宣城張太守南亭秋夕懷友",
+    "poem": [
+      "池館蟪蛄聲，梧桐秋露晴。",
+      "月臨朱戟靜，河近畫樓明。",
+      "捲幔浮涼入，聞鐘永夜清。",
+      "片雲懸曙斗，數雁過秋城。",
+      "羽扇揚風暇，瑤琴悵別情。",
+      "江山飛麗藻，謝朓讓前名。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "悵",
+        "variant": "寄",
+        "source": "一作「寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_032_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "過山人所居因寄諸遺補",
+    "poem": [
+      "空谷春雲滿，愚公晦跡深。",
+      "一隨玄豹隱，幾換綠蘿陰。",
+      "絕徑人稀道，芳蓀我獨尋。",
+      "廚煙住峭壁，酒氣出重林。",
+      "蝴蝶晴還舞，黃鸝晚暫吟。",
+      "所思青瑣客，瑤草寄幽心。"
+    ]
+  },
+  {
+    "uid": "QTS_238_033_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "過鳴臯隱者",
+    "poem": [
+      "磻石老紅鮮，徴君臥幾年。",
+      "飛泉出林下，一徑過崖巔。",
+      "雞犬逐人靜，雲霞宜地偏。",
+      "終朝數峰勝，不遠一壺前。",
+      "仲月霽春雨，香風生藥田。",
+      "丹溪不可別，瓊草色芊芊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鮮",
+        "variant": "蘚",
+        "source": "一作「蘚」"
+      },
+      {
+        "line": 2,
+        "text": "飛",
+        "variant": "百",
+        "source": "一作「百」"
+      },
+      {
+        "line": 2,
+        "text": "過",
+        "variant": "窮",
+        "source": "一作「窮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_034_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送楊錥歸隱",
+    "poem": [
+      "悔作掃門事，還吟招隱詩。",
+      "今年芳草色，不失故山期。",
+      "遙想白雲裏，采苓春日遲。",
+      "溪花藏石徑，巖翠帶茅茨。",
+      "九轉莫飛去，三迴良在茲。",
+      "還嗤茂陵客，貧病老明時。"
+    ]
+  },
+  {
+    "uid": "QTS_238_035_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "酬劉起居臥病見寄",
+    "poem": [
+      "承顏看彩服，不覺別丹墀。",
+      "味道能忘病，過庭更學詩。",
+      "繚垣多畫戟，遠岫入書帷。",
+      "竹靜攜琴處，林香讓果時。",
+      "聲同叨眷早，交澹在年衰。",
+      "更枉兼金贈，難爲繼組詞。"
+    ]
+  },
+  {
+    "uid": "QTS_238_036_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "陪南省諸公宴殿中李監宅",
+    "poem": [
+      "將門高勝霍，相子寵過韋。",
+      "宦貴攀龍後，心傾待士時。",
+      "壺觴開雅宴，鴛鷺眷相隨。",
+      "舞退燕姬曲，歌徴謝朓詩。",
+      "晚鐘過竹靜，醉客出花遲。",
+      "莫惜留餘興，良辰不可追。"
+    ]
+  },
+  {
+    "uid": "QTS_238_037_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "山齋讀書寄時校書杜叟",
+    "poem": [
+      "日愛蘅茅下，閑觀山海圖。",
+      "幽人自守樸，窮谷也名愚。",
+      "倒嶺和溪雨，新泉到戶樞。",
+      "叢蘭齊稚子，蟠木老潛夫。",
+      "憶戴差過剡，遊仙慣入壺。",
+      "濠梁時一訪，莊叟亦吾徒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "茅",
+        "variant": "芳",
+        "source": "一作「芳」"
+      },
+      {
+        "line": 3,
+        "text": "倒",
+        "variant": "隔",
+        "source": "一作「隔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_038_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "晚歸藍田舊居",
+    "poem": [
+      "雲卷東臯下，歸來省故蹊。",
+      "泉移憐石在，林長覺原低。",
+      "舊里情難盡，前山賞未迷。",
+      "引藤看古木，嘗酒咒春雞。",
+      "興與時髦背，年將野老齊。",
+      "才微甘引退，應得遂霞棲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "長",
+        "variant": "近",
+        "source": "一作「近」"
+      },
+      {
+        "line": 5,
+        "text": "興",
+        "variant": "性",
+        "source": "一作「性」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_039_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "寄袁州李嘉祐員外",
+    "poem": [
+      "誰謂江山阻，心親夢想偏。",
+      "容輝常在目，離別任經年。",
+      "郡國通流水，雲霞共遠天。",
+      "行春鶯幾囀，遲客月頻圓。",
+      "雁有歸鄉羽，人無訪戴船。",
+      "願徴黃霸入，相見玉堦前。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "歸",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_040_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "禁闈玩雪寄薛左丞",
+    "poem": [
+      "玄雲低禁苑，飛雪滿神州。",
+      "虛白生臺榭，寒光入冕旒。",
+      "粉凝宮壁靜，乳結洞門幽。",
+      "細繞迴風轉，輕隨落羽浮。",
+      "怒濤堆砌石，新月孕簾鉤。",
+      "爲報詩人道，豐年頌聖猷。"
+    ]
+  },
+  {
+    "uid": "QTS_238_041_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "春暮過石龜谷題溫處士林園",
+    "poem": [
+      "隱几無名老，何年此陸沈。",
+      "丘園自得性，婚嫁不嬰心。",
+      "歲計因山薄，霞棲在谷深。",
+      "設罝連草色，曬藥背松陰。",
+      "觸興雲生岫，隨耕鳥下林。",
+      "搘頤笑來客，頭上有朝簪。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "隱几",
+        "variant": "垂白",
+        "source": "一作「垂白」"
+      },
+      {
+        "line": 1,
+        "text": "老",
+        "variant": "者",
+        "source": "一作「者」"
+      },
+      {
+        "line": 2,
+        "text": "自",
+        "variant": "應",
+        "source": "一作「應」"
+      },
+      {
+        "line": 2,
+        "text": "嬰",
+        "variant": "關",
+        "source": "一作「關」"
+      },
+      {
+        "line": 4,
+        "text": "罝",
+        "variant": "盧",
+        "source": "一作「盧」"
+      },
+      {
+        "line": 4,
+        "text": "曬",
+        "variant": "曝",
+        "source": "一作「曝」"
+      },
+      {
+        "line": 4,
+        "text": "背",
+        "variant": "避",
+        "source": "一作「避」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_042_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "宿畢侍御宅",
+    "poem": [
+      "交情頻更好，子有古人風。",
+      "晤語清霜裏，平生苦節同。",
+      "心惟二仲合，室乃一瓢空。",
+      "落葉寄秋菊，愁雲低夜鴻。",
+      "薄寒燈影外，殘漏雨聲中。",
+      "明發南昌去，迴看御史驄。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "寄",
+        "variant": "繞",
+        "source": "一作「繞」"
+      },
+      {
+        "line": 4,
+        "text": "菊",
+        "variant": "竹",
+        "source": "一作「竹」"
+      },
+      {
+        "line": 4,
+        "text": "愁雲低夜鴻",
+        "variant": "叢蘭思暗蟲",
+        "source": "一作「叢蘭思暗蟲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_043_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "中書遇雨",
+    "poem": [
+      "濟旱惟宸慮，爲霖即上台。",
+      "雲銜七曜起，雨拂九門來。",
+      "綸閣飛絲度，龍渠激霤迴。",
+      "色翻池上藻，香裛鼎前杯。",
+      "湘燕皆舒翼，沙鱗豈曝腮。",
+      "尺波應萬假，虞海載沿洄。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "萬",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_044_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "適楚次徐城",
+    "poem": [
+      "去家隨旅雁，幾日到南荊。",
+      "行邁改鄉邑，苦辛淹晦明。",
+      "畏途在淫雨，未暮息趨程。",
+      "窮木對秋館，寒鵶愁古城。",
+      "迷津坐爲客，對酒默含情。",
+      "感激念知己，匣中孤劒鳴。"
+    ]
+  },
+  {
+    "uid": "QTS_238_045_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "經李蒙潁陽舊居",
+    "poem": [
+      "同心而早世，天道亦何論。",
+      "獨有山陽宅，平生永不諼。",
+      "青溪引白鳥，流涕弔芳蓀。",
+      "蔓草入空室，叢篁深毀垣。",
+      "舊遊還在眼，神理更忘言。",
+      "唯見東山月，人亡不去門。"
+    ]
+  },
+  {
+    "uid": "QTS_238_046_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "贈漢陽隱者",
+    "poem": [
+      "當年不出世，知子餐霞人。",
+      "樂道復安土，遺榮長隱身。",
+      "蘅茅古林曲，秔稻清江濱。",
+      "桂棹爲漁暇，荷衣禦暑新。",
+      "欵顏行在役，幽興惜今晨。",
+      "分手天涯去，再來芳杜春。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "行在",
+        "variant": "在行",
+        "source": "一作「在行」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_047_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "巨魚縱大壑",
+    "poem": [
+      "巨魚縱大壑，遂性似乘時。",
+      "奮躍風生鬣，騰凌浪鼓鰭。",
+      "龍攄回地軸，鯤化想天池。",
+      "方快吞舟意，尤殊在藻嬉。",
+      "傾危嗟幕燕，隱晦誚泥龜。",
+      "喻士逢明主，才猷得所施。"
+    ]
+  },
+  {
+    "uid": "QTS_238_048_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送李九歸河北",
+    "poem": [
+      "文武資人望，謀猷簡聖情。",
+      "南州初臥鼓，東土復維城。",
+      "寄重分符去，威仍出閫行。",
+      "鬥牛移八座，日月送雙旌。",
+      "別戀瞻天起，仁風應物生。",
+      "佇聞收組練，鏘玉會承明。"
+    ]
+  },
+  {
+    "uid": "QTS_238_049_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送丁著作佐台郡",
+    "poem": [
+      "多年金馬客，名遂動歸輪。",
+      "佐郡紫書下，過門朱綬新。",
+      "揚舲望海嶽，入境背風塵。",
+      "水驛偏乘月，梅園別受春。",
+      "帶經臨府吏，鱠鯉待鄉人。",
+      "始見美高士，逍遙在搢紳。"
+    ]
+  },
+  {
+    "uid": "QTS_238_050_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送王使君赴太原行營",
+    "poem": [
+      "太白明無象，皇威未戢戈。",
+      "諸侯持節鉞，千里控山河。",
+      "漢驛雙旌度，胡沙七騎過。",
+      "驚蓬連雁起，牧馬入雲多。",
+      "不賣盧龍塞，能消瀚海波。",
+      "須傳出師頌，莫奏式微歌。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "蓬",
+        "variant": "烽",
+        "source": "一作「烽」"
+      },
+      {
+        "line": 6,
+        "text": "頌",
+        "variant": "表",
+        "source": "一作「表」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_051_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送王使君移鎮淮南",
+    "poem": [
+      "共許徐方牧，能臨河內人。",
+      "郡移棠轉茂，車至鹿還馴。",
+      "吏事嘉師旅，鴛行惜搢紳。",
+      "別心傾祖席，愁望盡征輪。",
+      "紫誥徴黃晚，蒼生借寇頻。",
+      "願言青瑣拜，早及上林春。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "誥",
+        "variant": "詔",
+        "source": "一作「詔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_052_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "李四勸爲尉氏尉李七勉爲開封尉",
+    "poem": [
+      "美政惟兄弟，時人數俊賢。",
+      "皇枝雙玉樹，吏道二梅仙。",
+      "自理堯唐俗，唯將禮讓傳。",
+      "采蘭花萼聚，就日雁行聯。",
+      "黃綬俄三載，青雲未九遷。",
+      "廟堂爲宰制，幾日試龍泉。"
+    ]
+  },
+  {
+    "uid": "QTS_238_053_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "春夜宴任六昆季宅",
+    "poem": [
+      "際晚綠煙起，入門芳樹深。",
+      "不才叨下客，喜宴齒諸簪。",
+      "夜月仍攜妓，清風更在林。",
+      "彩毫揮露色，銀燭動花陰。",
+      "自接通家好，應知待士心。",
+      "向隅逢故識，茲夕願披襟。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "應",
+        "variant": "因",
+        "source": "一作「因」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_054_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "閑居酬張起居見贈",
+    "poem": [
+      "在林非避世，守拙自離羣。",
+      "弱羽謝風水，窮愁依典墳。",
+      "良知不遐棄，新詠獨相聞。",
+      "能使幽興苦，坐忘清景曛。",
+      "前山帶喬木，暮鳥聯歸雲。",
+      "向夕野人思，難忘騎省文。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "水",
+        "variant": "木",
+        "source": "一作「木」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_055_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉和王相公秋日戲贈元校書",
+    "poem": [
+      "才妙心仍遠，名疏跡可追。",
+      "清秋聞禮暇，新雨到山時。",
+      "勝事唯愁盡，幽尋不厭遲。",
+      "弄雲憐鶴去，隔水許僧期。",
+      "賢相敦高躅，雕龍憶所思。",
+      "芙蓉洗清露，願此謝公詩。"
+    ]
+  },
+  {
+    "uid": "QTS_238_056_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "過楊駙馬亭子",
+    "poem": [
+      "衣冠在漢庭，臺榭接天成。",
+      "彩鳳翻簫曲，祥鱣入館名。",
+      "歌鐘芳月曙，林嶂碧雲生。",
+      "亂水歸潭淨，高花映竹明。",
+      "退朝追宴樂，開閤醉簪纓。",
+      "長袖留嘉客，棲烏下禁城。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "庭",
+        "variant": "京",
+        "source": "一作「京」"
+      },
+      {
+        "line": 5,
+        "text": "開閤",
+        "variant": "沈轄",
+        "source": "一作「沈轄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_057_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "山下別杜少府",
+    "poem": [
+      "把手意難盡，前山日漸低。",
+      "情人那忍別，宿鳥尚同棲。",
+      "寸晷戀言笑，佳期欲阻暌。",
+      "離雲愁出岫，去水咽分溪。",
+      "莊叟幾虛說，楊朱空自迷。",
+      "傷心獨歸路，秋草更萋萋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "宿",
+        "variant": "夕",
+        "source": "一作「夕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_058_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "晚出青門望終南別業",
+    "poem": [
+      "能清謝朓思，暫下承明廬。",
+      "遠山新水下，寒臯微雨餘。",
+      "更憐歸鳥去，宛到臥龍居。",
+      "笑指叢林上，閑雲自卷舒。",
+      "寧心鳴鳳日，卻意釣璜初。",
+      "處貴有餘興，伊周位不如。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "清",
+        "variant": "捐",
+        "source": "一作「捐」"
+      },
+      {
+        "line": 1,
+        "text": "思",
+        "variant": "府",
+        "source": "一作「府」"
+      },
+      {
+        "line": 2,
+        "text": "山新水",
+        "variant": "水斷山",
+        "source": "一作「水斷山」"
+      },
+      {
+        "line": 4,
+        "text": "叢",
+        "variant": "家",
+        "source": "一作「家」"
+      },
+      {
+        "line": 5,
+        "text": "心鳴鳳",
+        "variant": "知鳳鳴",
+        "source": "一作「知鳳鳴」"
+      },
+      {
+        "line": 5,
+        "text": "意",
+        "variant": "憶",
+        "source": "一作「憶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_059_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送嚴士良侍奉詹事南遊",
+    "poem": [
+      "疏傅獨知止，曾參善愛親。",
+      "江山侍行邁，長幼出囂塵。",
+      "握手想千古，此心能幾人。",
+      "風光滿長陌，草色傍征輪。",
+      "日夕望荊楚，鶯鳴芳杜新。",
+      "漁煙月下淺，花嶼水中春。",
+      "點翰遙相憶，含情向白蘋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "囂",
+        "variant": "風",
+        "source": "一作「風」"
+      },
+      {
+        "line": 4,
+        "text": "陌",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 6,
+        "text": "漁",
+        "variant": "汀",
+        "source": "一作「汀」"
+      },
+      {
+        "line": 6,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 6,
+        "text": "嶼",
+        "variant": "島",
+        "source": "一作「島」"
+      },
+      {
+        "line": 7,
+        "text": "遙",
+        "variant": "時",
+        "source": "一作「時」"
+      },
+      {
+        "line": 7,
+        "text": "向",
+        "variant": "寄",
+        "source": "一作「寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_060_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "題祕書王迪城北池亭",
+    "poem": [
+      "子喬來魏闕，明主賜衣簪。",
+      "從宦辭人事，同塵即道心。",
+      "還追大隱跡，寄此鳳城陰。",
+      "昨夜新煙雨，池臺清且深。",
+      "伏泉通粉壁，迸筍出花林。",
+      "晚沐常多暇，春醪時獨斟。",
+      "西南漢宮月，復對綠窗琴。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "春",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 7,
+        "text": "琴",
+        "variant": "吟",
+        "source": "一作「吟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_061_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "過王舍人宅",
+    "poem": [
+      "入門花柳暗，知是近臣居。",
+      "大隱心何遠，高風物自疎。",
+      "翛然靜者事，宛得上皇餘。",
+      "雞犬偷仙藥，兒童授道書。",
+      "清吟送客後，微月上城初。",
+      "彩筆有新詠，文星垂太虛。",
+      "承恩金殿宿，應薦馬相如。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "授",
+        "variant": "受",
+        "source": "一作「受」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_062_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "過瑞龍觀道士",
+    "poem": [
+      "不知誰氏子，鍊魄家洞天。",
+      "鶴待成丹日，人尋種杏田。",
+      "靈山含道氣，物性皆自然。",
+      "白鹿顧瑞草，驪龍蟠玉泉。",
+      "得茲象外趣，便割區中緣。",
+      "石竇采雲母，霞堂陪列仙。",
+      "主人善止客，柯爛忘歸年。"
+    ]
+  },
+  {
+    "uid": "QTS_238_063_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送沈仲",
+    "poem": [
+      "天樸非外假，至人常晏如。",
+      "心期邈霄漢，詞律響瓊琚。",
+      "舉酒常歎息，無人達子虛。",
+      "夜光失隋掌，驥騄伏鹽車。",
+      "考室晉山下，歸田秦歲初。",
+      "寒雲隨路合，落照下城餘。",
+      "千里還同術，無勞怨索居。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "至",
+        "variant": "志",
+        "source": "一作「志」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_064_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "和韋侍御寓直對雨",
+    "poem": [
+      "名貫四科首，班宜二妙齊。",
+      "如何厭白簡，未得步金閨。",
+      "寓直晦秋雨，吟餘聞遠雞。",
+      "漏聲過旦冷，雲色向窗低。",
+      "誰謂霄漢近，翻嗟心事暌。",
+      "蘭滋人未握，霜曉鶚還棲。",
+      "佇見田郎字，親勞御筆題。"
+    ]
+  },
+  {
+    "uid": "QTS_238_065_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉和聖制登朝元閣",
+    "poem": [
+      "六合紆玄覽，重軒啟上清。",
+      "石林飛棟出，霞頂泰階平。",
+      "拂曙鑾輿上，晞陽瑞雪晴。",
+      "翠微迴日馭，丹巘駐天行。",
+      "御氣升銀漢，垂衣俯錦城。",
+      "山通玉苑迥，河抱紫關明。",
+      "感物乾文動，凝神道化成。",
+      "周王陟喬嶽，列辟讓英聲。"
+    ]
+  },
+  {
+    "uid": "QTS_238_066_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉和杜相公移長興宅奉呈元相公",
+    "poem": [
+      "守貴常思儉，平津此意深。",
+      "能卑丞相宅，何謝故人心。",
+      "種蕙初抽帶，移篁不改陰。",
+      "院梅朝助鼎，池鳳夕歸林。",
+      "覺路經中得，滄州夢裡尋。",
+      "道高仍濟代，恩重豈投簪。",
+      "報國誰知己，推賢共作霖。",
+      "興來文雅振，清韻擲雙金。"
+    ]
+  },
+  {
+    "uid": "QTS_238_067_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送任先生任唐山丞",
+    "poem": [
+      "再命果良願，幾年勤說詩。",
+      "上公頻握髮，才子共垂帷。",
+      "琢玉成良器，出門偏愴離。",
+      "腰章佐墨綬，耀錦到茅茨。",
+      "樹老見家日，潮平歸縣時。",
+      "衣催蓮女織，頌聽海人詞。",
+      "鴻鵠志應在，荃蘭香未衰。",
+      "金門定回音，雲路有佳期。"
+    ]
+  },
+  {
+    "uid": "QTS_238_068_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送外甥懷素上人歸鄉侍奉",
+    "poem": [
+      "釋子吾家寶，神清慧有餘。",
+      "能翻梵王字，妙盡伯英書。",
+      "遠鶴無前侶，孤雲寄太虛。",
+      "狂來輕世界，醉裡得真如。",
+      "飛錫離鄉久，寧親喜臘初。",
+      "故池殘雪滿，寒柳霽煙疏。",
+      "壽酒還嘗藥，晨餐不薦魚。",
+      "遙知禪誦外，健筆賦閒居。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "鄉",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 5,
+        "text": "喜",
+        "variant": "是",
+        "source": "一作「是」"
+      },
+      {
+        "line": 6,
+        "text": "滿",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_069_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送張中丞赴桂州",
+    "poem": [
+      "出守求人瘼，推賢動聖情。",
+      "紫臺初下詔，皁蓋始專城。",
+      "寵借飛霜簡，威加卻月營。",
+      "雲衢降五馬，林木引雙旌。",
+      "夙仰敦詩禮，嘗聞偃甲兵。",
+      "戍樓雲外靜，訟閣竹間清。",
+      "化佇還珠美，心將片玉貞。",
+      "寇恂朝望重，計日謁承明。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "林木",
+        "variant": "桂水",
+        "source": "一作「桂水」，一作「秋水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_070_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送王相公赴范陽",
+    "poem": [
+      "翊聖銜恩重，頻年按節行。",
+      "安危皆報國，文武不緣名。",
+      "受脤乃調鼎，為霖更洗兵。",
+      "幕開丞相閣，旗總貳師營。",
+      "料敵知無戰，安邊示有徵。",
+      "代雲橫馬首，燕雁拂笳聲。",
+      "去鎮關河靜，歸看日月明。",
+      "欲知瞻戀切，遲暮一書生。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "示",
+        "variant": "自",
+        "source": "一作「自」"
+      },
+      {
+        "line": 8,
+        "text": "戀",
+        "variant": "望",
+        "source": "一作「望」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_071_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送蔣尚書居守東都",
+    "poem": [
+      "鳳輦幸秦久，周人徯帝情。",
+      "若非君敏德，誰鎮洛陽城。",
+      "前席命才彥，舉朝推令名。",
+      "綸言動北斗，職事守東京。",
+      "鄭履下天去，蘧輪滿路聲。",
+      "出關秋樹直，對闕遠山明。",
+      "肅肅保釐處，水流宮苑清。",
+      "長安日西笑，朝夕袞衣迎。"
+    ]
+  },
+  {
+    "uid": "QTS_238_072_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送李兵曹赴河中",
+    "poem": [
+      "能荷鐘鼎業，不矜紈綺榮。",
+      "侯門三事後，儒服一書生。",
+      "昔志學文史，立身為士英。",
+      "驪珠難隱耀，皋鶴會長鳴。",
+      "休命且隨牒，候時常振纓。",
+      "寒蟬思關柳，匹馬向蒲城。",
+      "秋日黯將暮，黃河如欲清。",
+      "黎人思坐嘯，知子樹佳聲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "耀",
+        "variant": "曜",
+        "source": "一作「曜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_073_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "罷官後酬元校書見贈",
+    "poem": [
+      "心期悵已阻，交道復何如。",
+      "自我辭丹闕，惟君到故廬。",
+      "忘機貧負米，憶戴出無車。",
+      "鄰犬吠初服，家人愁斗儲。",
+      "秋堂入閒夜，雲月思離居。",
+      "窮巷聞砧冷，荒枝應鵲疏。",
+      "宦名隨落葉，生事感枯魚。",
+      "臨水仍揮手，知音未棄余。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "忘機貧負米，憶戴出無車",
+        "variant": "未忘金馬詔，猶負茂陵書",
+        "source": "一作「未忘金馬詔，猶負茂陵書」"
+      },
+      {
+        "line": 6,
+        "text": "應",
+        "variant": "映",
+        "source": "一作「映」"
+      },
+      {
+        "line": 8,
+        "text": "臨",
+        "variant": "流",
+        "source": "一作「流」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_074_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "同鄔戴關中旅寓",
+    "poem": [
+      "文士皆求遇，今人誰至公。",
+      "靈臺一寄宿，楊柳再春風。",
+      "更惜忘形友，頻年失志同。",
+      "羽毛齊燕雀，心事阻鴛鴻。",
+      "留滯慚歸養，飛鳴恨觸籠。",
+      "橘懷鄉夢裡，書去客愁中。",
+      "殘雪迷歸雁，韶光棄斷蓬。",
+      "吞悲問唐舉，何路出屯蒙。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "毛",
+        "variant": "衣",
+        "source": "一作「衣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_075_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "新豐主人",
+    "poem": [
+      "明代少知己，夜光頻暗投。",
+      "迍邅終薄命，動息盡窮愁。",
+      "自欲歸飛鷁，當為不繫舟。",
+      "雙垂素絲淚，幾弊皁貂裘。",
+      "暮鳥棲幽樹，孤雲出舊丘。",
+      "蛩悲衣褐夕，雨暗轉蓬秋。",
+      "客裡馮諼劍，歌中甯戚牛。",
+      "主人能縱酒，一醉且忘憂。"
+    ]
+  },
+  {
+    "uid": "QTS_238_076_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "夕遊覆釜山道士觀因登玄元廟",
+    "poem": [
+      "冥搜過物表，洞府次溪傍。",
+      "已入瀛洲遠，誰言仙路長。",
+      "孤煙出深竹，道侶正焚香。",
+      "鳴磬愛山靜，步虛宜夜涼。",
+      "仍同象帝廟，更上紫霞岡。",
+      "霽月懸琪樹，明星映碧堂。",
+      "傾思丹灶術，願采玉芝芳。",
+      "儻把浮丘袂，乘雲別舊鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_238_077_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "陪郭常侍令公東亭宴集",
+    "poem": [
+      "盛業山河列，重名劍履榮。",
+      "珥貂為相子，開閤引時英。",
+      "美景池臺色，佳期宴賞情。",
+      "詞人載筆至，仙妓出花迎。",
+      "暗竹朱輪轉，迴塘玉佩鳴。",
+      "舞衫招戲蝶，歌扇隔啼鶯。",
+      "飲德心皆醉，披雲興轉清。",
+      "不愁懽樂盡，積慶在和羹。"
+    ]
+  },
+  {
+    "uid": "QTS_238_078_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "太子李舍人城東別業與二三文友逃暑",
+    "poem": [
+      "下馬失炎暑，重門深綠篁。",
+      "宮臣禮嘉客，林表開蘭堂。",
+      "茲夕興難盡，澄罍照墨場。",
+      "鮮風吹印綬，密坐皆馨香。",
+      "美景惜文會，清吟遲羽觴。",
+      "東林晚來好，目極趣何長。",
+      "鳥道掛疏雨，人家殘夕陽。",
+      "城隅擁歸騎，留醉戀瓊芳。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "夕",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 6,
+        "text": "目極",
+        "variant": "極目",
+        "source": "一作「極目」"
+      },
+      {
+        "line": 8,
+        "text": "醉",
+        "variant": "酌",
+        "source": "一作「酌」"
+      },
+      {
+        "line": 8,
+        "text": "瓊",
+        "variant": "群",
+        "source": "一作「群」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_079_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "柏崖老人號無名先生男削髮女黃冠自以雲泉獨樂命予賦詩",
+    "poem": [
+      "古也憂婚嫁，君能樂性腸。",
+      "長男棲月宇，少女炫霓裳。",
+      "問爾餐霞處，春山芝桂旁。",
+      "鶴前飛九轉，壺裡駐三光。",
+      "與我開龍嶠，披雲靜藥堂。",
+      "胡麻兼藻綠，石髓隔花香。",
+      "帝力言何有，椿年喜漸長。",
+      "窅然高象外，寧不傲羲皇。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "性腸",
+        "variant": "道場",
+        "source": "一作「道場」"
+      },
+      {
+        "line": 2,
+        "text": "炫",
+        "variant": "袨",
+        "source": "一作「袨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_080_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "贈李十六",
+    "poem": [
+      "半面喜投分，數年欽盛名。",
+      "常思夢顏色，誰憶訪柴荊。",
+      "忽聽款扉響，欣然倒屣迎。",
+      "蓬蒿駐騶馭，雞犬傍簪纓。",
+      "酌水即嘉宴，新知甚故情。",
+      "僕夫視日色，棲鳥催車聲。",
+      "自爾宴言後，至今門館清。",
+      "何當更乘興，林下已苔生。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "憶",
+        "variant": "意",
+        "source": "一作「意」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_081_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "裴僕射東亭",
+    "poem": [
+      "鳳扆任匡濟，雲溪難退還。",
+      "致君超列辟，得道在榮班。",
+      "朱戟繚垣下，高齋芳樹間。",
+      "隔花開遠水，廢卷愛晴山。",
+      "晚沐值清興，知音同解顏。",
+      "藉蘭開賜酒，留客下重關。",
+      "仙犬逐人靜，朝車映竹閒。",
+      "則知真隱逸，未必謝區寰。",
+      "軒後三朝顧，赤松何足攀。"
+    ]
+  },
+  {
+    "uid": "QTS_238_082_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "中書王舍人輞川舊居",
+    "poem": [
+      "幾年家絕壑，滿徑種芳蘭。",
+      "帶石買松貴，通溪漲水寬。",
+      "誦經連谷響，吹律減雲寒。",
+      "誰謂桃源裡，天書問考槃。",
+      "一從解蕙帶，三入偶蟬冠。",
+      "今夕復何夕，歸休尋舊歡。",
+      "片雲隔蒼翠，春雨半林湍。",
+      "藤長穿松蓋，花繁壓藥欄。",
+      "景深青眼下，興絕綵毫端。",
+      "笑向同來客，登龍此地難。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "雲",
+        "variant": "霞",
+        "source": "一作「霞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_238_083_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "送襄陽盧判官奏開河事",
+    "poem": [
+      "千里趨魏闕，一言簡聖聰。",
+      "河流引關外，國用贍秦中。",
+      "有詔許其策，隨山興此功。",
+      "連雲積石阻，計日安波通。",
+      "飛櫂轉年穀，利人勝歲豐。",
+      "言歸漢陽路，拜手蓬萊宮。",
+      "紫殿賜衣出，青門酣酌同。",
+      "晚陽過微雨，秋水見新鴻。",
+      "坐惜去車遠，愁看離館空。",
+      "因思郢川守，南楚滿清風。"
+    ]
+  },
+  {
+    "uid": "QTS_238_084_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉送戶部李郎中充晉國副節度出塞",
+    "poem": [
+      "德佐調梅用，忠輸擊虜年。",
+      "子房推廟略，漢主託兵權。",
+      "受命榮中禁，分麾鎮左賢。",
+      "風生黑山道，星下紫微天。",
+      "始願文經國，俄看武定邊。",
+      "鬼方堯日遠，幕府代雲連。",
+      "汗馬將行矣，盧龍已肅然。",
+      "關防驅使節，花月眷離筵。",
+      "自忝知音遇，而今感義偏。",
+      "淚聞橫吹落，心逐去旌懸。",
+      "帝念夔能政，時須說濟川。",
+      "勞還應即爾，朝暮玉墀前。"
+    ]
+  },
+  {
+    "uid": "QTS_238_085_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "奉和中書常舍人晚秋集賢院即事寄徐薛二侍御",
+    "poem": [
+      "文星垂太虛，辭伯綜群書。",
+      "彩筆下鴛掖，褒衣來石渠。",
+      "典墳探奧旨，造化睹權輿。",
+      "述聖魯宣父，通經漢仲舒。",
+      "窗明宜縹帶，地肅近丹除。",
+      "清晝刪詩暇，高秋作賦初。",
+      "露盤侵漢聳，宮柳度鴉疏。",
+      "靜對連雲閣，晴聞過闕車。",
+      "舊僚雲出矣，晚歲復何如。",
+      "海嶠瞻歸路，江城夢直廬。",
+      "含毫思兩鳳，望遠寄雙魚。",
+      "定笑巴歌拙，還參麗曲餘。"
+    ]
+  },
+  {
+    "uid": "QTS_238_086_01",
+    "volume": 238,
+    "author": {
+      "canonical": "錢起",
+      "recorded": "錢起",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Qian Qi",
+      "wikidata_id": "Q1133548"
+    },
+    "title": "和范郎中宿直中書曉翫清池贈南省同僚兩垣遺補",
+    "poem": [
+      "青瑣留才子，春池靜禁林。",
+      "自矜仙島勝，宛在掖垣深。",
+      "引派彤庭裡，含虛玉砌陰。",
+      "漲來知聖澤，清處見天心。",
+      "蘭氣飄紅岸，文星動碧潯。",
+      "鳳棲長近日，虯臥欲為霖。",
+      "席寵雖高位，流謙乃素襟。",
+      "焚香春漏盡，假寐曉鶯吟。",
+      "丹地宜清泚，朝陽復照臨。",
+      "司言兼逸趣，鼓興接知音。",
+      "六義驚摛藻，三臺響擲金。",
+      "為憐風水外，落羽此漂沈。"
+    ],
+    "variants": [
+      {
+        "line": 8,
+        "text": "春",
+        "variant": "殘",
+        "source": "一作「殘」"
+      },
+      {
+        "line": 9,
+        "text": "泚",
+        "variant": "切",
+        "source": "一作「切」"
+      },
+      {
+        "line": 10,
+        "text": "接",
+        "variant": "屬",
+        "source": "一作「屬」"
+      },
+      {
+        "line": 11,
+        "text": "驚",
+        "variant": "先",
+        "source": "一作「先」"
+      },
+      {
+        "line": 11,
+        "text": "響",
+        "variant": "嚮",
+        "source": "一作「嚮」"
+      },
+      {
+        "line": 12,
+        "text": "落",
+        "variant": "鱗",
+        "source": "一作「鱗」"
+      },
+      {
+        "line": 12,
+        "text": "此",
+        "variant": "失",
+        "source": "一作「失」"
+      },
+      {
+        "line": 12,
+        "text": "漂",
+        "variant": "飛",
+        "source": "一作「飛」"
+      }
+    ]
+  }
+]

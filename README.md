@@ -167,7 +167,7 @@ You do not need to run the code to use the data. We provide compiled releases of
 
 ### Download the Dataset
 
-*(Coming soon)*
+[Here](https://github.com/rbnyng/OpenQTS/tree/main/output)
 
 ### Usage Example
 

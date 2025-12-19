@@ -1,0 +1,361 @@
+[
+  {
+    "uid": "QTS_295_001_01",
+    "volume": 295,
+    "author": {
+      "canonical": "苗發",
+      "recorded": "苗發",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Miao Fa",
+      "wikidata_id": "Q15900873"
+    },
+    "title": "送司空曙之蘇州",
+    "poem": [
+      "盤門吳舊地，蟬盡草秋時。",
+      "歸國人皆久，移家君獨遲。",
+      "廣陵經水宿，建鄴有僧期。",
+      "若到西霞寺，應看江總碑。"
+    ]
+  },
+  {
+    "uid": "QTS_295_002_01",
+    "volume": 295,
+    "author": {
+      "canonical": "苗發",
+      "recorded": "苗發",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Miao Fa",
+      "wikidata_id": "Q15900873"
+    },
+    "title": "送孫德諭罷官往黔州",
+    "poem": [
+      "中歲分符典石城，兩朝趨陛謁承明。",
+      "闕下昨承歸老疏，天南今切去鄉情。",
+      "親知握手三秋別，几杖扶身萬里行。",
+      "伯道暮年無嗣子，欲將家事託門生。"
+    ],
+    "notes": [
+      {
+        "content": "孫父曾牧此州，因寄家也",
+        "context": "罷官往黔州",
+        "original_title": "送孫德諭罷官往黔州〈孫父曾牧此州，因寄家也〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "秋",
+        "variant": "回",
+        "source": "一作「回」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_295_003_01",
+    "volume": 295,
+    "author": {
+      "canonical": "吉中孚",
+      "recorded": "吉中孚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Ji Zhongfu",
+      "wikidata_id": "Q10916998"
+    },
+    "title": "送歸中丞使新羅冊立弔祭",
+    "poem": [
+      "官稱漢獨坐，身是魯諸生。",
+      "絕域通王制，窮天向水程。",
+      "島中分萬象，日處轉雙旌。",
+      "氣積魚龍窟，濤翻水浪聲。",
+      "路長經歲去，海盡向山行。",
+      "復道殊方禮，人瞻漢使榮。"
+    ]
+  },
+  {
+    "uid": "QTS_295_004_01",
+    "volume": 295,
+    "author": {
+      "canonical": "夏侯審",
+      "recorded": "夏侯審",
+      "gender": "male",
+      "english_name": "Xiahou Shen",
+      "wikidata_id": "Q22100437"
+    },
+    "title": "詠被中繡鞵",
+    "poem": [
+      "雲裏蟾鉤落鳳窩，玉郎沈醉也摩挲。",
+      "陳王當日風流減，只向波間見襪羅。"
+    ]
+  },
+  {
+    "uid": "QTS_295_005_01",
+    "volume": 295,
+    "author": {
+      "canonical": "王烈",
+      "recorded": "王烈"
+    },
+    "title": "行路難",
+    "poem": [
+      "行客滿長路，路長良足哀。",
+      "白日持角弓，射人而取財。",
+      "千金誰家子，紛紛死黃埃？",
+      "見者不敢言，言者不得回。",
+      "家人各望歸，豈知長不來？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "長",
+        "variant": "難",
+        "source": "一作「難」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_295_006_01",
+    "volume": 295,
+    "author": {
+      "canonical": "王烈",
+      "recorded": "王烈"
+    },
+    "title": "雪",
+    "poem": [
+      "雪飛當夢蝶，風度幾驚人。",
+      "半夜一窗曉，平明千樹春。",
+      "花園應失路，白屋忽爲鄰。",
+      "散入仙廚裏，還如雲母塵。"
+    ]
+  },
+  {
+    "uid": "QTS_295_007_01",
+    "volume": 295,
+    "author": {
+      "canonical": "王烈",
+      "recorded": "王烈"
+    },
+    "title": "酬崔峝",
+    "poem": [
+      "狥世甘長往，逢時忝一官。",
+      "欲朝青瑣去，羞向白雲看。",
+      "榮寵無心易，艱危抗節難。",
+      "思君寫懷抱，非敢和幽蘭。"
+    ]
+  },
+  {
+    "uid": "QTS_295_008_01",
+    "volume": 295,
+    "author": {
+      "canonical": "王烈",
+      "recorded": "王烈"
+    },
+    "title": "塞上曲二首 其一",
+    "poem": [
+      "紅顏歲歲老金微，砂磧年年臥鐵衣。",
+      "白草城中春不入，黃花戍上鴈長飛。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_295_008_02",
+    "volume": 295,
+    "author": {
+      "canonical": "王烈",
+      "recorded": "王烈"
+    },
+    "title": "塞上曲二首 其二",
+    "poem": [
+      "孤城夕對戍樓閒，迴合青冥萬仞山。",
+      "明鏡不須生白髮，風沙自解老紅顏。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_295_009_01",
+    "volume": 295,
+    "author": {
+      "canonical": "衛象",
+      "recorded": "衛象"
+    },
+    "title": "傷李端",
+    "poem": [
+      "才子浮生促，泉臺此路賒。",
+      "官卑楊執戟，年少賈長沙。",
+      "人去門棲鵩，災成酒誤虵。",
+      "唯餘封禪草，留在茂陵家。"
+    ]
+  },
+  {
+    "uid": "QTS_295_010_01",
+    "volume": 295,
+    "author": {
+      "canonical": "衛象",
+      "recorded": "衛象"
+    },
+    "title": "古詞",
+    "poem": [
+      "鵲血琱弓溼未乾，鸊鵜新淬劍光寒。",
+      "遼東老將鬢成雪，猶向旄頭夜夜看。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "琱",
+        "variant": "調",
+        "source": "一作「調」"
+      },
+      {
+        "line": 1,
+        "text": "淬",
+        "variant": "染",
+        "source": "一作「染」"
+      },
+      {
+        "line": 1,
+        "text": "光",
+        "variant": "花",
+        "source": "一作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_295_011_01",
+    "volume": 295,
+    "author": {
+      "canonical": "崔季卿",
+      "recorded": "崔季卿",
+      "gender": "male"
+    },
+    "title": "晴江秋望",
+    "poem": [
+      "八月長江萬里晴，千帆一道帶風輕。",
+      "盡日不分天水色，洞庭南是岳陽城。"
+    ]
+  },
+  {
+    "uid": "QTS_295_012_01",
+    "volume": 295,
+    "author": {
+      "canonical": "何兆",
+      "recorded": "何兆"
+    },
+    "title": "贈兄",
+    "poem": [
+      "洛陽紙價因兄貴，蜀地紅牋爲弟貧。",
+      "南北東西九千里，除兄與弟更無人。"
+    ]
+  },
+  {
+    "uid": "QTS_295_013_01",
+    "volume": 295,
+    "author": {
+      "canonical": "何兆",
+      "recorded": "何兆"
+    },
+    "title": "玉蘂花",
+    "poem": [
+      "羽車潛下玉龜山，塵世何緣覩蕣顏。",
+      "爲有多情天上雪，好風吹上綠雲鬟。"
+    ]
+  },
+  {
+    "uid": "QTS_295_014_01",
+    "volume": 295,
+    "author": {
+      "canonical": "何兆",
+      "recorded": "何兆"
+    },
+    "title": "句",
+    "poem": [
+      "芙蓉十二池心漏，薝葡三千灌頂香。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_295_015_01",
+    "volume": 295,
+    "author": {
+      "canonical": "奚賈",
+      "recorded": "奚賈"
+    },
+    "title": "嚴陵灘下寄常建",
+    "poem": [
+      "日入溪水靜，尋真此亦難。",
+      "乃知滄洲人，道成仍釣竿。",
+      "漾檝乘微月，振衣生早寒。",
+      "紛吾成獨往，自速耽考槃。",
+      "已息漢陰誚，且同濠上觀。",
+      "曠然心無崖，誰問容膝安。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "道成仍",
+        "variant": "成道因",
+        "source": "一作「成道因」"
+      },
+      {
+        "line": 2,
+        "text": "乘",
+        "variant": "坐",
+        "source": "一作「坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_295_016_01",
+    "volume": 295,
+    "author": {
+      "canonical": "奚賈",
+      "recorded": "奚賈"
+    },
+    "title": "謁李尊師",
+    "poem": [
+      "萬物返常性，惟道貴自然。",
+      "先生容其微，隱几爲列仙。",
+      "鍊魄閉瓊戶，養毛飛洞天。",
+      "將知逍遙久，得道無歲年。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "容",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_295_017_01",
+    "volume": 295,
+    "author": {
+      "canonical": "奚賈",
+      "recorded": "奚賈"
+    },
+    "title": "尋許山人亭子",
+    "poem": [
+      "桃源若遠近，漁子櫂輕舟。",
+      "川路行難盡，人家到漸幽。",
+      "山禽拂席起，溪水入庭流。",
+      "君是何年隱，如今成白頭。"
+    ]
+  },
+  {
+    "uid": "QTS_295_018_01",
+    "volume": 295,
+    "author": {
+      "canonical": "奚賈",
+      "recorded": "奚賈"
+    },
+    "title": "句 其一",
+    "poem": [
+      "眠澗花自落，步林鳥不飛。",
+      "谿谷何蕭條，日入人獨行。",
+      "落日下平楚，孤煙生洞庭。"
+    ],
+    "part_index": 1
+  }
+]

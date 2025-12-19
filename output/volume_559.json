@@ -1,0 +1,1486 @@
+[
+  {
+    "uid": "QTS_559_001_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "春日旅舍書懷",
+    "poem": [
+      "出去歸來旅食人，麻衣長帶幾坊塵。",
+      "開門草色朝無客，落案燈花夜一身。",
+      "貧舍臥多消永日，故園鶯老憶殘春。",
+      "蹉跎冠蓋誰相念，二十年中盡苦辛。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鶯",
+        "variant": "陰",
+        "source": "一作「陰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_002_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "秋日將離滑台酬所知二首 其一",
+    "poem": [
+      "身起中宵骨亦驚，一分年少已無成。",
+      "松吹竹簟朝眠冷，雨濕蔬餐宿疾生。",
+      "僮汲野泉兼土味，馬磨霜樹作秋聲。",
+      "相知莫話詩心苦，未似前賢取得名。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_002_02",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "秋日將離滑台酬所知二首 其二",
+    "poem": [
+      "燈澀秋光靜不眠，葉聲身影客窗前。",
+      "閑園露濕鳴蛩夜，急雨風吹落木天。",
+      "城見遠山應北嶽，野多空地本南燕。",
+      "明朝欲別忘形處，愁把離杯聽管弦。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "身",
+        "variant": "峰",
+        "source": "一作「峰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_003_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "下第後夷門乘舟至永城驛題",
+    "poem": [
+      "秋賦春還計盡違，自知身是拙求知。",
+      "唯思曠海為休處，忽喜孤舟似去時。",
+      "連浦一城兼汴宋，夾堤千柳雜唐隋。",
+      "從來此恨皆前達，敢負吾君作楚辭。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "為",
+        "variant": "無",
+        "source": "一作「無」"
+      },
+      {
+        "line": 2,
+        "text": "處",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 2,
+        "text": "忽",
+        "variant": "卻",
+        "source": "一作「卻」"
+      },
+      {
+        "line": 3,
+        "text": "浦",
+        "variant": "夜",
+        "source": "一作「夜」"
+      },
+      {
+        "line": 3,
+        "text": "城",
+        "variant": "程",
+        "source": "一作「程」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_004_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "秋夜旅舍寓懷",
+    "poem": [
+      "庭鎖荒蕪獨夜吟，西風吹動故山心。",
+      "三秋木落半年客，滿地月明何處砧。",
+      "漁唱亂沿汀鷺合，雁聲寒咽隴雲深。",
+      "平生只有松堪對，露浥霜欺不受侵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "山",
+        "variant": "人",
+        "source": "一作「人」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_005_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "洛下寓懷",
+    "poem": [
+      "胡為遭遇孰為官，朝野君親各自歡。",
+      "敢向官途爭虎首，尚嫌身累愛豬肝。",
+      "冰霜谷口晨樵遠，星火爐邊夜坐寒。",
+      "唯有報恩心未剖，退居猶欲佩芄蘭。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "官",
+        "variant": "宦",
+        "source": "一作「宦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_006_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "題平湖",
+    "poem": [
+      "平湖湖畔雨晴新，南北東西不隔塵。",
+      "映野煙波浮動日，損花風雨寂寥春。",
+      "山無俗路藏高士，岸泊仙舟憶主人。",
+      "那得載來都未保，此心離此甚情親。"
+    ]
+  },
+  {
+    "uid": "QTS_559_007_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "平陽寓懷",
+    "poem": [
+      "晉國風流阻洳川，家家弦管路岐邊。",
+      "曾為郡職隨分竹，亦作歌詞乞採蓮。",
+      "北榭遠峰閑即望，西湖殘景醉常眠。",
+      "牆花此日休迴避，不是當時惡少年。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "阻",
+        "variant": "沮",
+        "source": "一作「沮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_008_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "留題汾上舊居",
+    "poem": [
+      "鄉園一別五年歸，迴首人間總禍機。",
+      "尚勝鄰翁常寂寞，敢嫌裘馬未輕肥。",
+      "塵顏不見應消落，庭樹曾栽已合圍。",
+      "難說累牽還卻去，可憐榆柳尚依依。"
+    ]
+  },
+  {
+    "uid": "QTS_559_009_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "懷汾上舊居",
+    "poem": [
+      "素汾千載傍吾家，常憶衡門對浣紗。",
+      "好事喜逢投宿客，刈田因得自生瓜。",
+      "山頭鼓笛陰沉廟，陌上薪蒸突兀車。",
+      "投暗作珠何所用，被人專擬害靈蛇。"
+    ]
+  },
+  {
+    "uid": "QTS_559_010_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送同儒大德歸柏梯寺",
+    "poem": [
+      "柏梯還擬謝微官，遙擬千峰送法蘭。",
+      "行徑未曾青石斷，拂牀終有白雲殘。",
+      "京塵濯後三衣潔，山舍禪初萬象安。",
+      "薇蕨縱多師莫踏，我心猶欲盡圖看。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "盡",
+        "variant": "畫",
+        "source": "一作「畫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_011_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "春日使府寓懷二首 其一",
+    "poem": [
+      "一想流年百事驚，已拋漁父戴塵纓。",
+      "青春背我堂堂去，白髮欺人故故生。",
+      "道困古來應有分，詩傳身後亦何榮。",
+      "誰憐合負清朝力，獨把風騷破鄭聲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 4,
+        "text": "憐",
+        "variant": "言",
+        "source": "一作「言」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_011_02",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "春日使府寓懷二首 其二",
+    "poem": [
+      "平生無解亦無操，永日書生坐獨勞。",
+      "唯覺宦情如水薄，不知人事有山高。",
+      "孤心好直迍猶強，病發慵梳癢更搔。",
+      "何事故溪歸未得，幾拋清淺泛紅桃。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_012_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "許州題德星亭",
+    "poem": [
+      "瀵水南流東有堤，堤邊亭是武陵溪。",
+      "槎松配石堪僧坐，蕊杏含春欲鳥啼。",
+      "高樹月生滄海外，遠郊山在夕陽西。",
+      "頻來不似軍從事，只戴紗巾曳杖藜。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "瀵",
+        "variant": "漢",
+        "source": "一作「漢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_013_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送人歸上黨",
+    "poem": [
+      "燕臺基壞穴狐蛇，計拙因循歲月賒。",
+      "兵革未銷王在鎬，桑蠶臨熟客還家。",
+      "霏微對岸漳邊雨，堆阜鄰壃薊北沙。",
+      "若到長平戰場地，為求遺鏃辟魔邪。"
+    ],
+    "notes": [
+      {
+        "content": "時路寇初平",
+        "context": "送人歸上黨",
+        "original_title": "送人歸上黨〈時路寇初平〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_014_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "春日重遊平湖",
+    "poem": [
+      "湖上春風發管弦，須臨三十此離筵。",
+      "離人忽有重來日，游女初非舊少年。",
+      "官職已辜疲瘵望，詩名空被後生傳。",
+      "啼鶯莫惜蹉跎恨，閒事聽吟一兩篇。"
+    ]
+  },
+  {
+    "uid": "QTS_559_015_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "并州",
+    "poem": [
+      "少年流落在并州，裘脫文君取次遊。",
+      "攜挈共過芳草渡，登臨齊憑綠楊樓。",
+      "庭前蛺蝶春方好，牀上樗蒲宿未收。",
+      "坊號偃松人在否，餅爐南畔曲西頭。"
+    ]
+  },
+  {
+    "uid": "QTS_559_016_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "相國隴西公南征，能以留務獨宿府城作",
+    "poem": [
+      "吾君賢相事南征，獨宿軍廚負請纓。",
+      "燈室臥孤如怨別，月階簪草似臨行。",
+      "高墉撼鐸思巴棧，老木嗥風念野營。",
+      "殊憶好僧招不及，夜來倉卒鎖嚴城。"
+    ]
+  },
+  {
+    "uid": "QTS_559_017_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "早春書事",
+    "poem": [
+      "百蠻降伏委三秦，錦裏風回歲已新。",
+      "渠濫水泉花巷濕，日銷冰雪柳營春。",
+      "何年道勝蘇羣物，盡室天涯是旅人。",
+      "焚卻蜀書宜不讀，武侯無可律余身。"
+    ]
+  },
+  {
+    "uid": "QTS_559_018_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "春日書懷",
+    "poem": [
+      "伯牙琴絕豈求知，往往情牽自有詩。",
+      "壟月正當寒食夜，春陰初過海棠時。",
+      "耽書未必酬良相，斷酒唯堪作老師。",
+      "多病不任衣更薄，東風臺上莫相吹。"
+    ]
+  },
+  {
+    "uid": "QTS_559_019_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "投杜舍人",
+    "poem": [
+      "牀上新詩詔草和，欄邊清酒落花多。",
+      "閒消白日舍人宿，夢覺紫薇山鳥過。",
+      "春刻幾分添禁漏，夏桐初葉滿庭柯。",
+      "風騷委地苦無主，此事聖君終若何。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "桐",
+        "variant": "陰",
+        "source": "一作「陰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_020_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "獻僕射相公",
+    "poem": [
+      "清如冰雪重如山，百辟嚴趨禮絕攀。",
+      "強虜外聞應喪膽，平人相見盡開顏。",
+      "朝廷有道青春好，門館無私白日閒。",
+      "致卻垂衣更何事，幾多詩句詠關關。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雪",
+        "variant": "玉",
+        "source": "一作「玉」"
+      },
+      {
+        "line": 2,
+        "text": "應喪",
+        "variant": "須破",
+        "source": "一作「須破」"
+      },
+      {
+        "line": 4,
+        "text": "詠",
+        "variant": "定",
+        "source": "一作「定」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_021_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "上鹽鐵尚書",
+    "poem": [
+      "南宮環雉隔囂塵，況值清齋宿大臣。",
+      "城絕鼓鐘更點後，雨涼煙樹月華新。",
+      "簷前漱曉穹蒼碧，庭下眠秋沆瀣津。",
+      "聞說務閒心更靜，此時憂國合求人。"
+    ],
+    "notes": [
+      {
+        "content": "時太廟宿齋",
+        "context": "上鹽鐵尚書",
+        "original_title": "上鹽鐵尚書〈時太廟宿齋〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_022_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "漢南春望",
+    "poem": [
+      "獨尋春色上高臺，三月皇州駕未回。",
+      "幾處松筠燒後死，誰家桃李亂中開。",
+      "奸邪用法原非法，唱和求才不是才。",
+      "自古浮雲蔽白日，洗天風雨幾時來。"
+    ]
+  },
+  {
+    "uid": "QTS_559_023_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "晚春",
+    "poem": [
+      "惡憐風景極交親，每恨年年作瘦人。",
+      "臥晚不曾拋好夜，情多唯欲哭殘春。",
+      "陰成杏葉才通日，雨著楊花已汙塵。",
+      "無限後期知有在，只愁煩作總戎身。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "煩",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_024_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "將赴鎮過太康縣有題",
+    "poem": [
+      "纔入東郊便太康，自聽何暮豈龔黃。",
+      "晴村透日桑榆影，曉露濕秋禾黍香。",
+      "十萬旌旗移巨鎮，幾多輗軏負孤莊。",
+      "時人慾識征東將，看取欃槍落太荒。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "幾多",
+        "variant": "二三",
+        "source": "一作「二三」"
+      },
+      {
+        "line": 4,
+        "text": "太",
+        "variant": "大",
+        "source": "一作「大」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_025_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "彭門解嘲二首 其一",
+    "poem": [
+      "嗚嗚吹角貳師營，落日身閑笑傲行。",
+      "盡覺文章尊萬事，卻嫌官職剩雙旌。",
+      "終休未擬降低屈，忽遇還須致太平。",
+      "頻上水樓誰會我，泗濱浮磬是同聲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_025_02",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "彭門解嘲二首 其二",
+    "poem": [
+      "傷禽棲後意猶驚，偶向黐竿脫此生。",
+      "身外不思簪組事，耳中唯要管弦聲。",
+      "耽吟乍可妨時務，淺飲無因致宿酲。",
+      "秦客莫嘲瓜戍遠，水風瀟灑是彭城。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_026_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "清河泛舟",
+    "poem": [
+      "都人層立似山丘，坐嘯將軍擁棹游。",
+      "繞郭煙波浮泗水，一船絲竹載涼州。",
+      "城中睹望皆丹雘，旗裏驚飛盡白鷗。",
+      "儒將不須誇郄縠，未聞詩句解風流。"
+    ]
+  },
+  {
+    "uid": "QTS_559_027_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "新竹",
+    "poem": [
+      "柳營茅土倦粗材，因向山家乞翠栽。",
+      "清露便教終夜滴，好風疑是故園來。",
+      "欄邊匠去朱猶濕，溉後蟲浮穴暗開。",
+      "他日會應威鳳至，莫辭公府受塵埃。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "教",
+        "variant": "從",
+        "source": "一作「從」"
+      },
+      {
+        "line": 2,
+        "text": "是",
+        "variant": "自",
+        "source": "一作「自」"
+      },
+      {
+        "line": 3,
+        "text": "溉",
+        "variant": "培",
+        "source": "一作「培」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_028_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "晚春",
+    "poem": [
+      "征東留滯一年年，又向軍前遇火前。",
+      "畫出鷁舟宜祓禊，鏤成雞卵有鞦韆。",
+      "澄明煙水孤城立，狼藉風花落日眠。",
+      "賴指清和櫻筍熟，不然愁殺暮春天。"
+    ]
+  },
+  {
+    "uid": "QTS_559_029_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "題彭祖樓",
+    "poem": [
+      "新晴天狀濕融融，徐國灘聲上下洪。",
+      "極目澄鮮無限景，入懷輕好可憐風。",
+      "身防潦倒師彭祖，妓擁登臨愧謝公。",
+      "誰致此樓潛惠我，萬家殘照在河東。"
+    ]
+  },
+  {
+    "uid": "QTS_559_030_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "漢廟祈雨回陽春亭有懷",
+    "poem": [
+      "南榮軒檻接城闉，適罷祈農此訪春。",
+      "九九已從南至盡，芊芊初傍北籬新。",
+      "池中水是前秋雨，陌上風驚自古塵。",
+      "欲召羅敷傾一盞，乘閑言語不容人。"
+    ]
+  },
+  {
+    "uid": "QTS_559_031_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送李倍秀才",
+    "poem": [
+      "南朝才子尚途窮，畢竟應須問葉公。",
+      "書劍伴身離泗上，雪風吹面立船中。",
+      "家園棗熟歸圭竇，會府槐疎試射弓。",
+      "相顧日偏留不得，夜深聊欲一桮同。"
+    ]
+  },
+  {
+    "uid": "QTS_559_032_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "重遊德星亭感事",
+    "poem": [
+      "潁水川中枕水臺，當時離別此重來。",
+      "舟沉土岸生新草，詩映紗籠有薄埃。",
+      "事繫興亡人少到，地當今古我遲迴。",
+      "殘陽照樹明於旭，猶向池邊把酒杯。"
+    ]
+  },
+  {
+    "uid": "QTS_559_033_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "許州題觀察判官廳",
+    "poem": [
+      "三載從戎類繫匏，重遊全許尚分茅。",
+      "劉郎別後無遺履，丁令歸來有舊巢。",
+      "冬暖井梧多未落，夜寒窗竹自相敲。",
+      "纖腰弟子知千恨，笑與揚雄作解嘲。"
+    ]
+  },
+  {
+    "uid": "QTS_559_034_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "閒題",
+    "poem": [
+      "八年藩翰似僑居，只此誰知報玉除。",
+      "舊將已成三僕射，老身猶是六尚書。",
+      "時丁厚讟終無咎，道致中興尚有餘。",
+      "為問春風誰是主，空催弱柳擬何如。"
+    ]
+  },
+  {
+    "uid": "QTS_559_035_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送福建李大夫",
+    "poem": [
+      "洛州良牧帥甌閩，曾是西垣作諫臣。",
+      "紅旆已勝前尹正，尺書猶帶舊絲綸。",
+      "秋來海有幽都雁，船到城添外國人。",
+      "行過小藩應大笑，只知誇近不知貧。"
+    ]
+  },
+  {
+    "uid": "QTS_559_036_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送李倍巡官歸永樂舊居",
+    "poem": [
+      "羨君歸去五峰前，往往星河實見仙。",
+      "麥壠夏枯成廢地，棗枝秋赤近高天。",
+      "山泉飲犢流多變，村酒經蠶味可憐。",
+      "曾約道門終老住，步虛聲裏寄閒眠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "去",
+        "variant": "處",
+        "source": "一作「處」"
+      },
+      {
+        "line": 4,
+        "text": "老",
+        "variant": "卻",
+        "source": "一作「卻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_037_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "贈歌者",
+    "poem": [
+      "一字新聲一顆珠，轉喉疑是擊珊瑚。",
+      "聽時坐部音中有，唱後櫻花葉裏無。",
+      "漢浦蔑聞虛解佩，臨邛焉用枉當壚。",
+      "誰人得向青樓宿，便是仙郎不是夫。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "夫",
+        "variant": "虛",
+        "source": "一作「虛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_038_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "舞者",
+    "poem": [
+      "綠毛釵動小相思，一唱南軒日午時。",
+      "慢靸輕裾行欲近，待調諸曲起來遲。",
+      "筵停匕箸無非聽，吻帶宮商儘是詞。",
+      "為問傾城年幾許，更勝瓊樹是瓊枝。"
+    ]
+  },
+  {
+    "uid": "QTS_559_039_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "天際識歸舟",
+    "poem": [
+      "斜日滿江樓，天涯照背流。",
+      "同人在何處，遠目認孤舟。",
+      "帆省當時席，歌聲舊日謳。",
+      "人浮津濟晚，棹倚泬寥秋。",
+      "晴闊忻全見，歸遲怪久遊。",
+      "離居意無限，貪此望難休。"
+    ]
+  },
+  {
+    "uid": "QTS_559_040_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "和曹侍御除夜有懷",
+    "poem": [
+      "有病無媒客，多慵亦太疏。",
+      "自憐成叔夜，誰與薦相如。",
+      "嗜退思年老，諳空笑歲除。",
+      "跡閒過寺宿，頭暖近階梳。",
+      "春立窮冬後，陽生舊物初。",
+      "葉多庭不掃，根在徑新鋤。",
+      "田事終歸彼，心情倦老於。",
+      "斫材須見像，藏劍豈為魚。",
+      "效淺慚尹祿，恩多負辟書。",
+      "酬知必擬共，勿使浪躊躇。"
+    ]
+  },
+  {
+    "uid": "QTS_559_041_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "華清宮和杜舍人",
+    "poem": [
+      "五十年天子，離宮仰峻牆。",
+      "登封時正泰，御宇日何長。",
+      "上位先名實，中興事憲章。",
+      "起戎輕甲冑，餘地復河湟。",
+      "道降玄元祖，儒封孔子王。",
+      "因緣百司署，聚會一人湯。",
+      "渭水波搖綠，秦山草半黃。",
+      "馬馴金勒細，鷹健玉鈴鏘。",
+      "下箭朱方滿，鳴鞭皓腕攘。",
+      "畋思獲呂望，諫只避周昌。",
+      "兔跡貪前逐，梟心不早防。",
+      "幾添鸚鵡勸，先賜荔枝嘗。",
+      "月鎖千門靜，天吹一笛涼。",
+      "細音搖羽佩，輕步宛霓裳。",
+      "禍亂基潛結，昇平意遽忘。",
+      "衣冠趨劔閣，鼙鼓動漁陽。",
+      "外戚心殊迫，中原事可量。",
+      "血埋妃子豔，刃斷祿兒腸。",
+      "近侍煙塵隔，前蹤輦路荒。",
+      "益知迷寵佞，遺恨喪賢良。",
+      "北闕尊明主，南宮遜上皇。",
+      "禁清餘鳳吹，池冷睡龍光。",
+      "祝壽山猶在，流年水共傷。",
+      "杜鵑魂厭蜀，蝴蝶夢悲莊。",
+      "雀卵遺雕栱，蟲絲罥畫梁。",
+      "紫苔侵壁潤，紅樹閉門芳。",
+      "守吏齊鴛瓦，耕民得翠璫。",
+      "登年昔酺樂，講武舊兵場。",
+      "暮草深巖翠，幽花墜徑香。",
+      "不堪垂白叟，行折御溝楊。"
+    ],
+    "notes": [
+      {
+        "content": "一作張祜詩，一作趙嘏颯。",
+        "context": "宮和杜舍人",
+        "original_title": "華清宮和杜舍人〈一作張祜詩，一作趙嘏颯。〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "仰峻",
+        "variant": "舊粉",
+        "source": "一作「舊粉」"
+      },
+      {
+        "line": 2,
+        "text": "何",
+        "variant": "初",
+        "source": "一作「初」"
+      },
+      {
+        "line": 4,
+        "text": "起",
+        "variant": "舉",
+        "source": "一作「舉」"
+      },
+      {
+        "line": 4,
+        "text": "復",
+        "variant": "取",
+        "source": "一作「取」"
+      },
+      {
+        "line": 7,
+        "text": "山",
+        "variant": "郊",
+        "source": "一作「郊」"
+      },
+      {
+        "line": 8,
+        "text": "馬馴金勒細，鷹健玉鈴鏘。",
+        "variant": "馬頭開夜照，鷹眼利星芒。",
+        "source": "一作「馬頭開夜照，鷹眼利星芒。」"
+      },
+      {
+        "line": 12,
+        "text": "先",
+        "variant": "頻",
+        "source": "一作「頻」"
+      },
+      {
+        "line": 13,
+        "text": "吹",
+        "variant": "高",
+        "source": "一作「高」"
+      },
+      {
+        "line": 15,
+        "text": "基",
+        "variant": "根",
+        "source": "一作「根」"
+      },
+      {
+        "line": 18,
+        "text": "血",
+        "variant": "雪",
+        "source": "一作「雪」"
+      },
+      {
+        "line": 18,
+        "text": "豔",
+        "variant": "貌",
+        "source": "一作「貌」"
+      },
+      {
+        "line": 20,
+        "text": "遺",
+        "variant": "唯",
+        "source": "一作「唯」"
+      },
+      {
+        "line": 22,
+        "text": "睡",
+        "variant": "映",
+        "source": "一作「映」"
+      },
+      {
+        "line": 28,
+        "text": "登年",
+        "variant": "歡康",
+        "source": "一作「歡康」"
+      },
+      {
+        "line": 28,
+        "text": "酺",
+        "variant": "時",
+        "source": "一作「時」"
+      },
+      {
+        "line": 29,
+        "text": "暮",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 29,
+        "text": "翠",
+        "variant": "靄",
+        "source": "一作「靄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_042_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送浙東王大夫",
+    "poem": [
+      "天爵擅忠貞，皇恩復寵榮。",
+      "遠源過晉史，甲族本緱笙。",
+      "亞相兼尤美，周行歷盡清。",
+      "制除天近曉，衙謝草初生。",
+      "賓客招閑地，戎裝擁上京。",
+      "九街鳴玉勒，一宅照紅旌。",
+      "細雨當離席，遙花顯去程。",
+      "佩刀畿甸色，歌吹館橋聲。",
+      "騕褭從秦賜，艅艎到汴迎。",
+      "步沙逢霽月，宿岸致嚴更。",
+      "渤澥流東鄙，天台壓屬城。",
+      "眾談稱重鎮，公意念疲甿。",
+      "井邑曾多難，瘡痍此未平。",
+      "察應均賦斂，逃必復桑耕。",
+      "隼重權兼帥，鼉雄設有兵。",
+      "越臺隨厚俸，剡硾得尤名。",
+      "夜蠟州中宴，春風部外行。",
+      "香奩扃鳳詔，朱篆動龍坑。",
+      "報後功何患，投虛論素精。",
+      "徵還真指掌，感激自關情。",
+      "舊業懷昏作，微班負旦評。",
+      "空餘騷雅事，千古傲劉楨。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "街",
+        "variant": "衢",
+        "source": "一作「衢」"
+      },
+      {
+        "line": 17,
+        "text": "蠟",
+        "variant": "獵",
+        "source": "一作「獵」"
+      },
+      {
+        "line": 18,
+        "text": "動",
+        "variant": "進",
+        "source": "一作「進」"
+      },
+      {
+        "line": 20,
+        "text": "關",
+        "variant": "開",
+        "source": "一作「開」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_043_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "送李殷遊京西",
+    "poem": [
+      "立馬送君地，黯然愁到身。",
+      "萬途皆有匠，六義獨無人。",
+      "莫怪敢言此，已能甘世貧。",
+      "時來貴亦在，事是掩何因。",
+      "投刺皆羈旅，遊邊更苦辛。",
+      "岐山終蜀境，涇水復蠻塵。",
+      "埋沒飡須強，炎蒸醉莫頻。",
+      "俗徒欺合得，吾道死終新。",
+      "展分先難許，論詩永共親。",
+      "歸京稍作意，充斥犯西鄰。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "敢言",
+        "variant": "言如",
+        "source": "一作「言如」"
+      },
+      {
+        "line": 7,
+        "text": "蒸",
+        "variant": "涼",
+        "source": "一作「涼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_044_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "長安送友人之黔南",
+    "poem": [
+      "衡嶽猶云過，君家獨幾千。",
+      "心從賤遊話，分向禁城偏。",
+      "陸路終何處，三湘在素船。",
+      "琴書去迢遞，星路照潺湲。",
+      "臺鏡簪秋晚，盤蔬飯雨天。",
+      "同文到鄉盡，殊國共行連。",
+      "後會應多日，歸程自一年。",
+      "貧交永無忘，孤進合相憐。"
+    ]
+  },
+  {
+    "uid": "QTS_559_045_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "寄李頻",
+    "poem": [
+      "長安千萬蹊，迷者自多迷。",
+      "直性身難達，良時日易低。",
+      "環簷消舊雪，晴氣滿春泥。",
+      "那得同君去，逢峰苦愛齊。"
+    ]
+  },
+  {
+    "uid": "QTS_559_046_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "贈苗端公二首 其一",
+    "poem": [
+      "繁總近何如，君才必有餘。",
+      "身歡步兵酒，吏寫魯連書。",
+      "坐默聞鼙吹，庭班見雪初。",
+      "沉碑若果去，一為訪鄰居。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_046_02",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "贈苗端公二首 其二",
+    "poem": [
+      "至老不相疎，斯言不是虛。",
+      "兩心宜一體，同舍又鄰居。",
+      "曉角秋砧外，清雲白月初。",
+      "從軍何有用，未造魯連書。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_559_047_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "寄河南鄭侍郎",
+    "poem": [
+      "三峽與三壕，門闌夢去勞。",
+      "細冰和洛水，初雪灑嵩高。",
+      "大雅何由接，微榮亦已逃。",
+      "寒窗不可寐，風地葉蕭騷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "三峽",
+        "variant": "二峽",
+        "source": "一作「二峽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_559_048_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "蒙恩除侍御史行次華州寄蔣相",
+    "poem": [
+      "林下天書起遁逃，不堪移疾入塵勞。",
+      "黃河近岸陰風急，仙掌臨關旭日高。",
+      "行野眾喧聞雁發，宿亭孤寂有狼嗥。",
+      "荀家位極兼禪理，應笑埋輪著所操。"
+    ]
+  },
+  {
+    "uid": "QTS_559_049_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "寄唐州楊郎中",
+    "poem": [
+      "關睢憔悴一儒生，忽把魚鬚事聖明。",
+      "貧得俸錢還乍喜，晚登朝序卻無榮。",
+      "前年坐蜀同樽俎，此日邊淮獨旆旌。",
+      "班列道孤君不見，曲江春暖共僧行。"
+    ]
+  },
+  {
+    "uid": "QTS_559_050_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "塞上蒙汝州任中丞寄書",
+    "poem": [
+      "三省推賢兩掖才，關東深許稍遲回。",
+      "舟浮汝水通淮去，雨出嵩峰到郡來。",
+      "投劄轉京憂不遠，枉緘經虜喜初開。",
+      "西樓一望知無極，更與何人把酒杯。"
+    ]
+  },
+  {
+    "uid": "QTS_559_051_01",
+    "volume": 559,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "題鹽鐵李尚書滻州別業",
+    "poem": [
+      "鹿原陰面滻州湄，坐覺林泉逼夢思。",
+      "閑景院開花落後，濕香風好雨來時。",
+      "鄰驚麥野聞雛雉，別創茅亭住老師。",
+      "備足好中還有闕，許昌軍裏李陵詩。"
+    ]
+  }
+]

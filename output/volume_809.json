@@ -1,0 +1,1094 @@
+[
+  {
+    "uid": "QTS_809_001_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "酬皇甫冉西陵見寄",
+    "poem": [
+      "西陵潮信滿，島嶼沒中流。",
+      "越客依風水，相思南渡頭。",
+      "寒光生極浦，落日映滄洲。",
+      "何事揚帆去，空驚海上鷗。"
+    ],
+    "preface": "靈一，姓吳氏，廣陵人，居餘杭宜豐寺。禪誦之暇，輒賦詩歌，與朱放、張繼、皇甫曽諸人為塵外友。詩一卷。",
+    "variants": [
+      {
+        "line": 1,
+        "text": "沒",
+        "variant": "人",
+        "source": "一作「人」"
+      },
+      {
+        "line": 3,
+        "text": "落日",
+        "variant": "暮雪",
+        "source": "一作「暮雪」"
+      },
+      {
+        "line": 4,
+        "text": "海",
+        "variant": "江",
+        "source": "一作「江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_002_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "溪行即事",
+    "poem": [
+      "近夜山更碧，入林溪轉清。",
+      "不知伏牛事，潭洞何從橫。",
+      "野岸煙初合，平湖月未生。",
+      "孤舟屢失道，但聽秋泉聲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "事",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 3,
+        "text": "野",
+        "variant": "田",
+        "source": "一作「田」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_003_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "棲霞山夜坐",
+    "poem": [
+      "山頭戒壇路，幽映雪岩側。",
+      "四面青石牀，一峰苔蘚色。",
+      "松風靜復起，月影開還黑。",
+      "何獨乘夜來，殊非所得。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雪",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 3,
+        "text": "松風",
+        "variant": "風松",
+        "source": "一作「風松」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_004_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "宿天柱觀",
+    "poem": [
+      "石室初投宿，仙翁喜暫容。",
+      "花源隔水見，洞府過山逢。",
+      "泉湧堦前地，雲生戶外峰。",
+      "中宵自入定，非是欲降龍。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "初",
+        "variant": "因",
+        "source": "一作「因」"
+      },
+      {
+        "line": 1,
+        "text": "喜暫",
+        "variant": "幸見",
+        "source": "一作「幸見」"
+      },
+      {
+        "line": 2,
+        "text": "隔",
+        "variant": "隨",
+        "source": "一作「隨」"
+      },
+      {
+        "line": 2,
+        "text": "見",
+        "variant": "遠",
+        "source": "一作「遠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_005_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "酬皇甫冉將赴無錫，於雲門寺贈別",
+    "poem": [
+      "湖南通古寺，來往意無涯。",
+      "欲識雲門路，千峰到若耶。",
+      "春山子敬宅，古木謝敷家。",
+      "自可長偕隱，那相去賒。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "到",
+        "variant": "向",
+        "source": "一作「向」"
+      },
+      {
+        "line": 3,
+        "text": "敬",
+        "variant": "猷",
+        "source": "一作「猷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_006_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "宜豐新泉",
+    "poem": [
+      "泉源新湧出，洞澈映纖雲。",
+      "稍落芙蓉沼，初淹苔蘚文。",
+      "素將空意合，淨與眾流分。",
+      "每到清宵月，泠泠夢裏聞。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "苔",
+        "variant": "碧",
+        "source": "一作「碧」"
+      },
+      {
+        "line": 3,
+        "text": "素將空意合",
+        "variant": "了將空色淨",
+        "source": "一作「了將空色淨」"
+      },
+      {
+        "line": 3,
+        "text": "淨",
+        "variant": "素",
+        "source": "一作「素」"
+      },
+      {
+        "line": 4,
+        "text": "每到",
+        "variant": "若對",
+        "source": "一作「若對」"
+      },
+      {
+        "line": 4,
+        "text": "泠",
+        "variant": "然",
+        "source": "一作「然」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_007_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "靜林精舍",
+    "poem": [
+      "靜林溪路遠，蕭帝有遺蹤。",
+      "水擊羅浮磬，山鳴于闐鐘。",
+      "燈傳三世火，樹老萬株松。",
+      "無數煙霞色，空聞昔臥龍。"
+    ],
+    "notes": [
+      {
+        "content": "寺即梁武帝未逹時所居。寺中有鐘磬，皆古物，時時有聲，在安吉州。精舍，一作寺。",
+        "context": "靜林精舍",
+        "original_title": "靜林精舍",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "溪路",
+        "variant": "精舍",
+        "source": "一作「精舍」"
+      },
+      {
+        "line": 3,
+        "text": "世",
+        "variant": "際",
+        "source": "一作「際」"
+      },
+      {
+        "line": 4,
+        "text": "數",
+        "variant": "弢",
+        "source": "一作「弢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_008_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "江行寄張舍人",
+    "poem": [
+      "客程終日風塵苦，蓬轉還家未有期。",
+      "林色曉分殘雪後，角聲寒奏落帆時。",
+      "月高星使東看遠，雲破霜鴻北度遲。",
+      "流蕩此心難共說，千峰澄霽隔瓊枝。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鴻北",
+        "variant": "逢欲",
+        "source": "一作「逢欲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_009_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送王穎悟歸左綿",
+    "poem": [
+      "客意天南興已闌，不堪言別向仙官。",
+      "夢搖玉佩隨旄節，心到金華憶杏壇。",
+      "荒郊極望歸雲盡，瘦馬空嘶落日殘。",
+      "想得故山青靄裏，泉聲入夜獨潺潺。"
+    ],
+    "notes": [
+      {
+        "content": "一本無下三字，一作佐歸州。",
+        "context": "送王穎悟歸左綿",
+        "original_title": "送王穎悟歸左綿",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "旄",
+        "variant": "旌",
+        "source": "一作「旌」"
+      },
+      {
+        "line": 3,
+        "text": "空",
+        "variant": "長",
+        "source": "一作「長」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_010_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "安公",
+    "poem": [
+      "彌天稱聖哲，象法初繄賴。",
+      "弘道識行藏，匡時知進退。",
+      "秦王輕與舉，習生重酬對。",
+      "學文古篆中，義顯心經內。",
+      "法服應華夏，金言流海岱。",
+      "西方浮雲間，更陪龍華會。"
+    ]
+  },
+  {
+    "uid": "QTS_809_011_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "林公",
+    "poem": [
+      "支公信高逸，久向山林住。",
+      "時將孫許游，豈以形骸遇。",
+      "幸辭天子詔，復覽名臣疏。",
+      "西晉尚虛無，南朝久淪誤。",
+      "因談老莊意，乃盡逍遙趣。",
+      "誰為竹林賢，風流相比附。"
+    ]
+  },
+  {
+    "uid": "QTS_809_012_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "遠公",
+    "poem": [
+      "遠公逢道安，一朝棄儒服。",
+      "真機久消歇，世教空拘束。",
+      "誓入羅浮中，遂棲廬山曲。",
+      "禪經初纂定，佛語新名目。",
+      "缽帽絕朝宗，簪裾翻拜伏。",
+      "東林多隱士，為我辭榮祿。"
+    ]
+  },
+  {
+    "uid": "QTS_809_013_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "雨後欲尋天目山，問元、駱二公溪路",
+    "poem": [
+      "昨夜雲生天井東，春山一雨一回風。",
+      "林花併逐溪流下，欲上龍池通不通。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "井",
+        "variant": "目",
+        "source": "一作「目」"
+      },
+      {
+        "line": 1,
+        "text": "一",
+        "variant": "幾",
+        "source": "一作「幾」"
+      },
+      {
+        "line": 2,
+        "text": "池",
+        "variant": "門",
+        "source": "一作「門」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_014_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "題僧院",
+    "poem": [
+      "虎溪閑月引相過，帶雪松枝掛薜蘿。",
+      "無限青山行欲盡，白雲深處老僧多。"
+    ]
+  },
+  {
+    "uid": "QTS_809_015_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "宿靜林寺",
+    "poem": [
+      "山寺門前多古松，溪行欲到已聞鐘。",
+      "中宵引領尋高頂，月照雲峰凡幾重。"
+    ]
+  },
+  {
+    "uid": "QTS_809_016_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "再還宜豐寺",
+    "poem": [
+      "再尋招隱地，重會息心期。",
+      "樵客問歸日，山僧記別時。",
+      "野雲陰遠甸，秋雨漲前陂。",
+      "勿謂探形勝，吾今不好奇。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "尋",
+        "variant": "過",
+        "source": "一作「過」"
+      },
+      {
+        "line": 1,
+        "text": "息",
+        "variant": "宿",
+        "source": "一作「宿」"
+      },
+      {
+        "line": 3,
+        "text": "陂",
+        "variant": "池",
+        "source": "一作「池」"
+      },
+      {
+        "line": 4,
+        "text": "探形勝",
+        "variant": "頻來此",
+        "source": "一作「頻來此」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_017_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "春日山齋",
+    "poem": [
+      "野徑東風起，山扉度日開。",
+      "晴光拆紅萼，流水長青苔。",
+      "逋客殊未去，芳時已再來。",
+      "非關戀春草，自是欲裴回。"
+    ]
+  },
+  {
+    "uid": "QTS_809_018_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "留別忠州故人",
+    "poem": [
+      "一身無定處，萬里獨銷魂。",
+      "芳草迷歸路，春流滴淚痕。",
+      "幾時休旅食，何夜宿江村。",
+      "欲識相思苦，空山啼暮猨。"
+    ],
+    "notes": [
+      {
+        "content": "一作惟審詩。",
+        "context": "留別忠州故人",
+        "original_title": "留別忠州故人",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_019_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送別",
+    "poem": [
+      "憑高莫送遠，看欲斷歸心。",
+      "別恨啼猨苦，相思流水深。",
+      "翠雲南澗影，丹桂晚山陰。",
+      "若未來雙鵠，遼城何更尋。"
+    ]
+  },
+  {
+    "uid": "QTS_809_020_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送冽寺主之京迎禪和尚",
+    "poem": [
+      "禪門居此地，瞻望在虛空。",
+      "水國月未上，蒼生如夢中。",
+      "上人知機士，瓶錫慰樊籠。",
+      "彼土諸梵眾，嗟君揚道風。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "瓶",
+        "variant": "引",
+        "source": "一作「引」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_021_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送王法師之西川",
+    "poem": [
+      "旅遊無近遠，要自別魂銷。",
+      "官柳鄉愁亂，春山客路遙。",
+      "伴行芳草遠，緣興野花飄。",
+      "計日功成後，還將輔聖朝。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遠",
+        "variant": "綠",
+        "source": "一作「綠」"
+      },
+      {
+        "line": 3,
+        "text": "緣",
+        "variant": "隨",
+        "source": "一作「隨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_022_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送範律師往果州",
+    "poem": [
+      "終南千古後，獨爾繼卿名。",
+      "離障非今日，修因是幾生。",
+      "亂峰寒影暮，深澗野流清。",
+      "遠客歸心苦，難為此別情。"
+    ]
+  },
+  {
+    "uid": "QTS_809_023_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送明素上人歸楚覲省",
+    "poem": [
+      "能將疏懶背時人，不厭孤萍任此身。",
+      "江上昔年同出處，天涯今日共風塵。",
+      "平湖舊隱應殘雪，芳草歸心未隔春。",
+      "前路倍憐多勝事，到家知慶綵衣新。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "平",
+        "variant": "小",
+        "source": "一作「小」"
+      },
+      {
+        "line": 3,
+        "text": "隱",
+        "variant": "逕",
+        "source": "一作「逕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_024_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "項王廟",
+    "poem": [
+      "緬想咸陽事可嗟，楚歌哀怨思無涯。",
+      "八千子弟歸何處，萬里鴻溝屬漢家。",
+      "弓斷陣前爭日月，血流垓下定龍蛇。",
+      "拔山力盡烏江水，今日悠悠空浪花。"
+    ],
+    "notes": [
+      {
+        "content": "一作棲一詩。",
+        "context": "項王廟",
+        "original_title": "項王廟",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_025_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "酬陳明府舟中見贈",
+    "poem": [
+      "長溪通夜靜，素舸與人閒。",
+      "月影沈秋水，風聲落暮山。",
+      "稻花千頃外，蓮葉兩河間。",
+      "陶令多真意，相思一解顏。"
+    ]
+  },
+  {
+    "uid": "QTS_809_026_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "題東蘭若",
+    "poem": [
+      "上人禪室路裴回，萬木清陰向日開。",
+      "寒竹影侵行逕石，秋風聲}煙入誦經臺。",
+      "閑雲不繫從舒捲，狎鳥無機任往來。",
+      "更惜片陽談妙理，歸時莫待暝鐘催。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "一作「天花香散」。",
+        "context": "閑雲不繫從舒捲，狎鳥無機任往來。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "聲}煙",
+        "variant": "{{{2}}}",
+        "source": "一作「{{{2}}}」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_027_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送朱放",
+    "poem": [
+      "苦見人間世，思歸洞裏天。",
+      "縱令山鳥語，不廢野人眠。"
+    ]
+  },
+  {
+    "uid": "QTS_809_028_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "歸岑山過惟審上人別業",
+    "poem": [
+      "禪客無心憶薜蘿，自然行徑向山多。",
+      "知君欲問人間事，始與浮雲共一過。"
+    ]
+  },
+  {
+    "uid": "QTS_809_029_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "於潛道中呈元八處士",
+    "poem": [
+      "苕水灘行淺，潛州路漸深。",
+      "參差遠岫色，迢遞野人心。",
+      "凍澗冰難釋，秋山日易陰。",
+      "不知天目下，何處是雲林。"
+    ],
+    "notes": [
+      {
+        "content": "一本題上有「自青山詣」四字，「道中」下有「作」字。",
+        "context": "於潛道中呈元八處士",
+        "original_title": "於潛道中呈元八處士",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "岫",
+        "variant": "村",
+        "source": "一作「村」"
+      },
+      {
+        "line": 4,
+        "text": "是",
+        "variant": "訪",
+        "source": "一作「訪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_030_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送殷判官歸上都",
+    "poem": [
+      "漾舟雲路客，來過夕陽時。",
+      "向背堪遺恨，逢迎宿未期。",
+      "水容愁暮急，花影動春遲。",
+      "別後王孫草，青青入夢思。"
+    ]
+  },
+  {
+    "uid": "QTS_809_031_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "贈別皇甫曾",
+    "poem": [
+      "幽人從遠岳，過客愛春山。",
+      "高駕能相送，孤遊且未還。",
+      "紫苔封井石，綠竹掩柴關。",
+      "若到雲峰外，齊心去住間。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      },
+      {
+        "line": 2,
+        "text": "遊",
+        "variant": "舟",
+        "source": "一作「舟」"
+      },
+      {
+        "line": 3,
+        "text": "掩",
+        "variant": "映",
+        "source": "一作「映」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_032_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送陳允初卜居麻園",
+    "poem": [
+      "欲向麻源隱，能尋謝客蹤。",
+      "空山幾千里，幽谷第三重。",
+      "茅宇寧須葺，荷衣不待縫。",
+      "因君見往事，為我謝喬松。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "茅",
+        "variant": "巖",
+        "source": "一作「巖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_033_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "秋題劉逸人林泉",
+    "poem": [
+      "涼飆亂黃葉，遲客橘陰清。",
+      "蘿徑封行跡，雲門閉野情。",
+      "零林秋露響，穿竹暮煙輕。",
+      "莫戀幽棲地，懷安卻敗名。"
+    ]
+  },
+  {
+    "uid": "QTS_809_034_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "自大林與韓明府歸郭中精舍",
+    "poem": [
+      "野客同舟楫，相攜復一歸。",
+      "孤煙生暮景，遠岫帶春暉。",
+      "不道還山是，誰雲向郭非。",
+      "禪門有通隱，喧寂共忘機。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "煙",
+        "variant": "雲",
+        "source": "一作「雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_035_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "同使君宿大樑驛",
+    "poem": [
+      "旌旗江上出，花外捲簾空。",
+      "夜色臨城月，春寒度水風。",
+      "雖然行李別，且喜語音同。",
+      "若問匡廬事，終身媿遠公。"
+    ],
+    "notes": [
+      {
+        "content": "與清江喜皇甫大夫同宿大梁驛詩小異",
+        "context": "同使君宿大樑驛",
+        "original_title": "同使君宿大樑驛",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_036_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "題黃公陶翰別業",
+    "poem": [
+      "聞說花源堪避秦，幽尋數月不逢人。",
+      "煙霞洞裏無雞犬，風雨林間有鬼神。",
+      "黃公石上三芝秀，陶令門前五柳春。",
+      "醉臥白雲閑入夢，不知何物是吾身。"
+    ],
+    "notes": [
+      {
+        "content": "一作處一詩，一作蘇廣文詩，題云：「自商山宿陶令隱居。」",
+        "context": "題黃公陶翰別業",
+        "original_title": "題黃公陶翰別業",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 2,
+        "text": "間",
+        "variant": "中",
+        "source": "一作「中」"
+      },
+      {
+        "line": 4,
+        "text": "入",
+        "variant": "作",
+        "source": "一作「作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_037_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "哭衛尚書",
+    "poem": [
+      "畫戟重門楚水陰，天涯欲暮共傷心。",
+      "南荊雙戟痕猶在，北斗孤魂望已深。",
+      "蓮花幕下悲風起，細柳營邊曉月臨。",
+      "有路茫茫向誰問，感君空有淚霑襟。"
+    ]
+  },
+  {
+    "uid": "QTS_809_038_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "贈靈澈禪師",
+    "poem": [
+      "禪師來往翠微間，萬里千峰到剡山。",
+      "何時共到天臺裏，身與浮雲處處閑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_039_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "將出宜豐寺留題山房",
+    "poem": [
+      "池上蓮荷不自開，山中流水偶然來。",
+      "若言聚散定由我，未是回時那得回。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "荷",
+        "variant": "花",
+        "source": "一作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_040_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "妙樂觀",
+    "poem": [
+      "王喬所居空山觀，白雲至今凝不散。",
+      "壇場月路幾千年，往往吹笙下天半。",
+      "瀑布西行過石橋，黃精采根還採苗。",
+      "忽見一人檠茶椀，篸花昨夜風吹滿。",
+      "自言家處在東坡，白犬相隨邀我過。",
+      "松間石上有棋局，能使樵人爛斧柯。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "篸",
+        "variant": "蓼",
+        "source": "一作「蓼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_809_041_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "與元居士青山潭飲茶",
+    "poem": [
+      "野泉煙火白雲間，坐飲香茶愛此山。",
+      "巖下維舟不忍去，青溪流水暮潺潺。"
+    ]
+  },
+  {
+    "uid": "QTS_809_042_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "送人得蕩子歸倡婦",
+    "poem": [
+      "垂涕憑回信，為語柳園人。",
+      "情知獨難守，又是一陽春。"
+    ]
+  },
+  {
+    "uid": "QTS_809_043_01",
+    "volume": 809,
+    "author": {
+      "canonical": "靈一",
+      "recorded": "靈一",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "濾泉侵月起，掃徑避蟲行。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《丹鉛錄》",
+        "context": "靈一 句"
+      }
+    ]
+  }
+]

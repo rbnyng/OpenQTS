@@ -1,0 +1,832 @@
+[
+  {
+    "uid": "QTS_394_001_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "南園",
+    "poem": [
+      "方領蕙帶折角巾，杜若已老蘭苕春。",
+      "南山削秀藍玉合，小雨歸去飛涼雲。",
+      "熟杏暖香梨葉老，草梢竹柵鏁池痕。",
+      "鄭公鄉老開酒尊，坐汎楚奏吟招魂。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "梢",
+        "variant": "蒲",
+        "source": "一作「蒲」"
+      },
+      {
+        "line": 3,
+        "text": "痕",
+        "variant": "漘",
+        "source": "一作「漘」"
+      },
+      {
+        "line": 4,
+        "text": "奏",
+        "variant": "酒",
+        "source": "一作「酒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_002_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "假龍吟歌",
+    "poem": [
+      "石軋銅杯，吟詠枯瘁。",
+      "蒼鷹擺血，白鳳下肺。",
+      "桂子自落，雲弄車蓋。",
+      "木死沙崩惡谿島，阿母得仙今不老。",
+      "窞中跳汰截清涎，隈壖臥水埋金爪。",
+      "崖蹬蒼苔弔石髮，江君掩帳篔簹折。",
+      "蓮花去國一千年，雨後聞腥猶帶鐵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鷹",
+        "variant": "鸞",
+        "source": "一作「鸞」"
+      },
+      {
+        "line": 6,
+        "text": "苔",
+        "variant": "蒼",
+        "source": "一作「蒼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_003_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其一",
+    "poem": [
+      "人間春蕩蕩，帳暖香揚揚。",
+      "飛光染幽紅，誇嬌來洞房。",
+      "舞席泥金蛇，桐竹羅花牀。",
+      "眼逐春瞑醉，粉隨淚色黃。",
+      "王子下馬來，曲沼鳴鴛鴦。",
+      "焉知腸車轉，一夕巡九方。"
+    ],
+    "part_index": 1,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_394_003_02",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其二",
+    "poem": [
+      "苦風吹朔寒，沙驚秦木折。",
+      "舞影逐空天，畫鼓餘清節。",
+      "蜀書秋信斷，黑水朝波咽。",
+      "嬌魂從回風，死處懸鄉月。"
+    ],
+    "part_index": 2,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_394_003_03",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其三",
+    "poem": [
+      "雜雜胡馬塵，森森邊士戟。",
+      "天教胡馬戰，曉雲皆血色。",
+      "婦人攜漢卒，箭箙囊巾幗。",
+      "不慙金印重，踉蹌腰鞬力。",
+      "恂恂鄉門老，昨夜試鋒鏑。",
+      "走馬遣書勳，誰能分粉墨。"
+    ],
+    "part_index": 3,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_394_003_04",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其四",
+    "poem": [
+      "青門放彈去，馬色連空郊。",
+      "何年帝家物，玉裝鞍上搖。",
+      "去去走犬歸，來來坐烹羔。",
+      "千金不了饌，狢肉稱盤臊。",
+      "試問誰家子，乃老能佩刀。",
+      "西山白蓋下，賢俊寒蕭蕭。"
+    ],
+    "part_index": 4,
+    "total_parts": 6,
+    "variants": [
+      {
+        "line": 1,
+        "text": "門",
+        "variant": "鳥",
+        "source": "一作「鳥」，又作「馬」。"
+      },
+      {
+        "line": 4,
+        "text": "狢",
+        "variant": "格",
+        "source": "一作「格」"
+      },
+      {
+        "line": 5,
+        "text": "老",
+        "variant": "云",
+        "source": "一作「云」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_003_05",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其五",
+    "poem": [
+      "曉菊泫寒露，似悲團扇風。",
+      "秋涼經漢殿，班子泣衰紅。",
+      "本無辭輦意，豈見入空宮。",
+      "腰衱佩珠斷，灰蝶生陰松。"
+    ],
+    "part_index": 5,
+    "total_parts": 6,
+    "variants": [
+      {
+        "line": 1,
+        "text": "泫",
+        "variant": "泣",
+        "source": "一作「泣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_003_06",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "感諷六首 其六",
+    "poem": [
+      "蝶飛紅粉臺，桞掃吹笙道。",
+      "十日懸戶庭，九秋無衰草。",
+      "調歌送風轉，杯池白魚小。",
+      "水宴截香腴，菱科映青罩。",
+      "䒠蒙梨花滿，春昬弄長嘯。",
+      "唯愁苦花落，不悟世衰到。",
+      "撫舊唯銷魂，南山坐悲峭。"
+    ],
+    "part_index": 6,
+    "total_parts": 6,
+    "variants": [
+      {
+        "line": 1,
+        "text": "蝶",
+        "variant": "蜂",
+        "source": "一作「蜂」"
+      },
+      {
+        "line": 2,
+        "text": "衰",
+        "variant": "素",
+        "source": "一作「素」"
+      },
+      {
+        "line": 5,
+        "text": "蒙",
+        "variant": "茸",
+        "source": "一作「茸」"
+      },
+      {
+        "line": 5,
+        "text": "嘯",
+        "variant": "笑",
+        "source": "一作「笑」"
+      },
+      {
+        "line": 7,
+        "text": "銷",
+        "variant": "傷",
+        "source": "一作「傷」"
+      },
+      {
+        "line": 7,
+        "text": "峭",
+        "variant": "嘯",
+        "source": "一作「嘯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_004_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "莫愁曲",
+    "poem": [
+      "草生龍坡下，鵶噪城堞頭。",
+      "何人此城裏，城角栽石榴。",
+      "青絲繫五馬，黃金絡雙牛。",
+      "白魚駕蓮船，夜作十里遊。",
+      "歸來無人識，暗上沈香樓。",
+      "羅牀倚瑤瑟，殘月傾簾鉤。",
+      "今日槿花落，明朝桐樹秋。",
+      "莫負平生意，何名何莫愁。"
+    ],
+    "variants": [
+      {
+        "line": 8,
+        "text": "莫",
+        "variant": "若",
+        "source": "一作「若」"
+      },
+      {
+        "line": 8,
+        "text": "何",
+        "variant": "作",
+        "source": "一作「作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_005_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "夜來樂",
+    "poem": [
+      "紅羅複帳金流蘇，華燈九枝懸鯉魚。",
+      "麗人暎月開銅鋪，春水滴酒猩猩沽。",
+      "重一篋，香十株，赤金瓜子兼雜麩。",
+      "五絲封青鳧，阿侯此笑千萬餘。",
+      "南軒漢轉簾影疎，桐林啞啞挾子烏。",
+      "劍崖鞭節青石珠，白騧吹湍凝霜鬚。",
+      "漏長送珮承明廬，倡樓嵳峩明月孤。",
+      "新客下馬故客去，綠蟬秀黛重拂梳。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "流",
+        "variant": "塗",
+        "source": "一作「塗」"
+      },
+      {
+        "line": 4,
+        "text": "五絲封青鳧",
+        "variant": "五色封青鳧",
+        "source": "一作「五色封青鳧」，一作「五色絲封青鳧」"
+      },
+      {
+        "line": 7,
+        "text": "明",
+        "variant": "胡",
+        "source": "一作「胡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_006_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "嘲雪",
+    "poem": [
+      "昨日發蔥嶺，今朝下蘭渚。",
+      "喜從千里來，亂笑含春語。",
+      "龍沙溼漢旗，鳳扇迎秦素。",
+      "久別遼城鶴，毛衣已應故。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "語",
+        "variant": "雨",
+        "source": "一作「雨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_007_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "春懷引",
+    "poem": [
+      "芳蹊密影成花洞，柳結濃煙花帶重。",
+      "蟾蜍碾玉掛明弓，捍撥裝金打仙鳳。",
+      "寶枕垂雲選春夢，鈿合碧寒龍腦凍。",
+      "阿侯繫錦覓周郎，憑仗東風好相送。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "煙花",
+        "variant": "陰香",
+        "source": "一作「陰香」"
+      },
+      {
+        "line": 2,
+        "text": "掛",
+        "variant": "作",
+        "source": "一作「作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_008_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "白虎行",
+    "poem": [
+      "火烏日暗崩騰雲，秦皇虎視蒼生群。",
+      "燒書滅國無暇日，鑄劍佩玦惟將軍。",
+      "玉壇設醮思沖天，一世二世當萬年。",
+      "燒丹未得不死藥，拏舟海上尋神仙。",
+      "鯨魚張鬣海波沸，耕人半作征人鬼。",
+      "雄豪氣猛如燄煙，無人為決天河水。",
+      "誰最苦兮誰最苦，報人義士深相許。",
+      "漸離擊築荊卿歌，荊卿把酒燕丹語。",
+      "劍如霜兮膽如鐵，出燕城兮望秦月。",
+      "天授秦封祚未移，袞龍衣點荊卿血。",
+      "朱旗卓地白虎死，漢皇知是真天子。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "惟",
+        "variant": "呼",
+        "source": "一作「呼」"
+      },
+      {
+        "line": 6,
+        "text": "氣猛如燄煙",
+        "variant": "猛燄烈燒空",
+        "source": "一作「猛燄烈燒空」"
+      },
+      {
+        "line": 9,
+        "text": "膽",
+        "variant": "腸",
+        "source": "一作「腸」"
+      },
+      {
+        "line": 10,
+        "text": "移",
+        "variant": "終",
+        "source": "一作「終」"
+      },
+      {
+        "line": 11,
+        "text": "知",
+        "variant": "卻",
+        "source": "一作「卻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_009_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "有所思",
+    "poem": [
+      "去年陌上歌離曲，今日君書遠遊蜀。",
+      "簾外花開二月風，臺前淚滴千行竹。",
+      "琴心與妾腸，此夜斷還續。",
+      "想君白馬懸雕弓，世間何處無春風。",
+      "君心未肻鎮如石，妾顏不久如花紅。",
+      "夜殘高碧橫長河，河上無梁空白波。",
+      "西風未起悲龍梭，年年織素攢雙蛾。",
+      "江山迢遰無休絕，淚眼看燈乍明滅。",
+      "自從孤館深鎖牕，桂花幾度圓還缺。",
+      "鵶鵶向曉鳴森木，風過池塘響叢玉。",
+      "白日蕭條夢不成，橋南更問仙人卜。"
+    ]
+  },
+  {
+    "uid": "QTS_394_010_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "啁少年",
+    "poem": [
+      "青騘馬肥金鞍光，龍腦入縷羅衫香。",
+      "美人狹坐飛瓊觴，貧人喚雲天上郎。",
+      "別起高樓臨碧篠，絲曳紅鱗出深沼。",
+      "有時半醉百花前，背把金丸落飛鳥。",
+      "自說生來未爲客，一身美妾過三百。",
+      "豈知斸地種苗家，官稅頻催勿人織。",
+      "長得積玉誇豪毅，每揖閑人多意氣。",
+      "生來不讀半行書，只把黃金買身貴。",
+      "少年安得長少年，海波尚變爲桑田。",
+      "榮枯遞傳急如箭，天公不肯於公偏。",
+      "莫道韶華鎮長在，髮白面皺專相待。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "苗",
+        "variant": "田",
+        "source": "一作「田」"
+      },
+      {
+        "line": 6,
+        "text": "勿",
+        "variant": "沒",
+        "source": "一作「沒」"
+      },
+      {
+        "line": 7,
+        "text": "得",
+        "variant": "金",
+        "source": "一作「金」"
+      },
+      {
+        "line": 10,
+        "text": "傳",
+        "variant": "轉",
+        "source": "一作「轉」"
+      },
+      {
+        "line": 10,
+        "text": "不",
+        "variant": "豈",
+        "source": "一作「豈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_011_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "高平縣東私路",
+    "poem": [
+      "侵侵槲葉香，木花滯寒雨。",
+      "今夕山上秋，永謝無人處。",
+      "石蹊遠荒澀，棠實懸辛苦。",
+      "古者定幽尋，呼君作私路。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "者",
+        "variant": "道",
+        "source": "一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_012_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "神仙曲",
+    "poem": [
+      "碧峰海面藏靈書，上帝揀作神仙居。",
+      "清明笑語聞空虛，鬬乘巨浪騎鯨魚。",
+      "春羅書字邀王母，共讌紅樓最深處。",
+      "鶴羽衝風過海遲，不如卻使青龍去。",
+      "猶疑王母不相許，垂露娃鬟更傳語。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "清明",
+        "variant": "晴時",
+        "source": "一作「晴時」"
+      },
+      {
+        "line": 5,
+        "text": "露",
+        "variant": "霧",
+        "source": "一作「霧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_013_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "龍夜吟",
+    "poem": [
+      "鬈髮胡兒眼睛綠，高樓夜靜吹橫竹。",
+      "一聲似向天上來，月下美人望鄉哭。",
+      "直排七點星藏指，暗合清風調宮徵。",
+      "蜀道秋深雲滿林，湘江半夜龍驚起。",
+      "玉堂美人邊塞情，碧牕皓月愁中聽。",
+      "寒碪能擣百尺練，粉淚凝珠滴紅線。",
+      "胡兒莫作隴頭吟，隔牕暗結愁人心。"
+    ]
+  },
+  {
+    "uid": "QTS_394_014_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "崑崙使者",
+    "poem": [
+      "崑崙使者無消息，茂陵煙樹生愁色。",
+      "金盤玉露自淋漓，元氣茫茫收不得。",
+      "麒麟背上石文裂，虬龍鱗下紅枝折。",
+      "何處偏傷萬國心，中天夜乆高明月。"
+    ]
+  },
+  {
+    "uid": "QTS_394_015_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "漢唐姬飲酒歌",
+    "poem": [
+      "御服沾霜露，天衢長蓁棘。",
+      "金隱秋塵姿，無人為帶餙。",
+      "玉堂歌聲寢，芳林煙樹隔。",
+      "雲陽臺上歌，鬼哭複何益。",
+      "鐵劍常光光，至●威屢逼。",
+      "強梟噬母心，犇厲索人魄。",
+      "相看兩相泣，淚下如波激。",
+      "寧用清酒為，欲作黃泉客。",
+      "不說玉山頹，且無飲中色。",
+      "勉從天帝訴，天上寡沈厄。",
+      "無處張繐帷，如何望松柏。",
+      "妾身晝團團，君魂夜寂寂。",
+      "蛾睂自覺長，頸粉誰憐白。",
+      "矜持昭陽意，不肎看南陌。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "鐵劍常光光，至●威屢逼。",
+        "variant": "伏劍明秋水，●威屢脅逼。",
+        "source": "一作「伏劍明秋水，●威屢脅逼。」"
+      },
+      {
+        "line": 8,
+        "text": "客",
+        "variant": "隔",
+        "source": "一作「隔」"
+      },
+      {
+        "line": 14,
+        "text": "看",
+        "variant": "即",
+        "source": "一作「即」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_016_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "聽頴師琴歌",
+    "poem": [
+      "別浦雲歸桂花渚，蜀國弦中雙鳳語。",
+      "芙蓉葉落秋鸞離，越王夜起遊天姥。",
+      "暗珮清臣敲水玉，渡海蛾睂牽白鹿。",
+      "誰看挾劍赴長橋，誰看浸髮題春竹。",
+      "竺僧前立當吾門，梵宮真相睂棱尊。",
+      "古琴大軫長八尺，嶧陽老樹非桐孫。",
+      "涼館聞弦驚病客，藥囊暫別龍鬚席。",
+      "請歌直請卿相歌，奉禮官卑復何益。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "牽",
+        "variant": "乗",
+        "source": "一作「乗」"
+      },
+      {
+        "line": 8,
+        "text": "直",
+        "variant": "當",
+        "source": "一作「當」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_017_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "謠俗",
+    "poem": [
+      "上林蝴蝶小，試伴漢家君。",
+      "飛向南城去，誤落石榴裙。",
+      "脈脈花滿樹，翾翾燕遶雲。",
+      "出門不識路，羞問陌頭人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "君",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_394_018_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "靜女春曙曲",
+    "poem": [
+      "嫩葉憐芳抱新蕊，泣露枝枝滴夭淚。",
+      "粉牕香咽穨曉雲，錦堆花密藏春睡。",
+      "戀屏孔雀搖金尾，鶯舌分明呼婢子。",
+      "冰洞寒龍半匣水，一隻商鸞逐煙起。"
+    ]
+  },
+  {
+    "uid": "QTS_394_019_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "少年樂",
+    "poem": [
+      "芳草落花如錦地，二十長遊醉鄉裏。",
+      "紅纓不動白馬驕，垂柳金絲香拂水。",
+      "吳娥未笑花不開，綠鬢聳墮蘭雲起。",
+      "陸郎倚醉牽羅袂，奪得寶釵金翡翠。"
+    ]
+  },
+  {
+    "uid": "QTS_394_020_01",
+    "volume": 394,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "句",
+    "poem": [
+      "不見山巔樹，摧杌下為薪。",
+      "日睹井中泥，上出作埃塵。",
+      "情知一丘趣，不謝千里印。",
+      "倚劍登高臺，悠悠送春目。"
+    ]
+  }
+]

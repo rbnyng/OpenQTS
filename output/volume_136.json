@@ -1,0 +1,1701 @@
+[
+  {
+    "uid": "QTS_136_001_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述韋昭應畫犀牛",
+    "poem": [
+      "遐方獻文犀，萬里隨南金。",
+      "大邦柔遠人，以之居山林。",
+      "食棘無秋冬，絕流無淺深。",
+      "雙角前嶄嶄，三蹄下駸駸。",
+      "朝賢壯其容，未能辨其音。",
+      "有我衰鳥郎，新邑長鳴琴。",
+      "陛閣飛嘉聲，丘甸盈仁心。",
+      "閑居命國工，作繪北堂陰。",
+      "眈眈若有神，庶比來儀禽。",
+      "昔有舞天庭，爲君奏龍吟。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "衰鳥",
+        "variant": "哀鳥",
+        "source": "一作「哀鳥」，一作「衰鳳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_002_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "獻王威儀",
+    "poem": [
+      "入與真主言，有騎天馬來。",
+      "但有華清宮，不用神明臺。",
+      "肅肅長自閑，門靜無人開。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "有",
+        "variant": "又",
+        "source": "一作「又」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_003_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "野田黃雀行",
+    "poem": [
+      "嘖嘖野田雀，不知軀體微。",
+      "閑穿深蒿裏，爭食復爭飛。",
+      "窮老一頹舍，棗多桑樹稀。",
+      "無棗猶可食，無桑何以衣。",
+      "蕭條空倉暮，相引時來歸。",
+      "斜路豈不捷，渚田豈不肥。",
+      "水長路且壞，惻惻與心違。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "蒿",
+        "variant": "叢",
+        "source": "一作「叢」"
+      },
+      {
+        "line": 3,
+        "text": "頹",
+        "variant": "犢",
+        "source": "一作「犢」"
+      },
+      {
+        "line": 4,
+        "text": "猶可",
+        "variant": "亦何",
+        "source": "一作「亦何」"
+      },
+      {
+        "line": 6,
+        "text": "捷",
+        "variant": "棲",
+        "source": "一作「棲」"
+      },
+      {
+        "line": 7,
+        "text": "壞",
+        "variant": "敻",
+        "source": "一作「敻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_004_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "樵父詞",
+    "poem": [
+      "山北饒朽木，山南多枯枝。",
+      "枯枝作採薪，爨室私自知。",
+      "詰朝礪斧尋，視暮行歌歸。",
+      "先雪隱薜荔，迎暄臥茅茨。",
+      "清澗日濯足，喬木時曝衣。",
+      "終年登險阻，不復憂安危。",
+      "蕩漾與神遊，莫知是與非。"
+    ]
+  },
+  {
+    "uid": "QTS_136_005_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "漁父詞",
+    "poem": [
+      "澤魚好鳴水，溪魚好上流。",
+      "漁梁不得意，下渚潛垂鉤。",
+      "亂荇時礙楫，新蘆復隱舟。",
+      "靜言念終始，安坐看沈浮。",
+      "素髮隨風揚，遠心與雲遊。",
+      "逆浪還極浦，信潮下滄洲。",
+      "非爲徇形役，所樂在行休。"
+    ]
+  },
+  {
+    "uid": "QTS_136_006_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "牧童詞",
+    "poem": [
+      "不言牧田遠，不道牧陂深。",
+      "所念牛馴擾，不亂牧童心。",
+      "圓笠覆我首，長簑披我襟。",
+      "方將憂暑雨，亦以懼寒陰。",
+      "大牛隱層坂，小牛穿近林。",
+      "同類相鼓舞，觸物成謳吟。",
+      "取樂須臾間，寧問聲與音。"
+    ]
+  },
+  {
+    "uid": "QTS_136_007_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "采蓮詞",
+    "poem": [
+      "淺渚荇花繁，深潭菱葉疎。",
+      "獨往方自得，恥邀淇上姝。",
+      "廣江無術阡，大澤絕方隅。",
+      "浪中海童語，流下鮫人居。",
+      "春鴈時隱舟，新萍復滿湖。",
+      "采采乘日暮，不思賢與愚。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "荇",
+        "variant": "荷",
+        "source": "一作「荷」"
+      },
+      {
+        "line": 1,
+        "text": "潭菱",
+        "variant": "塘菱",
+        "source": "一作「塘菱」"
+      },
+      {
+        "line": 2,
+        "text": "得",
+        "variant": "獲",
+        "source": "一作「獲」"
+      },
+      {
+        "line": 3,
+        "text": "澤",
+        "variant": "羅",
+        "source": "一作「羅」"
+      },
+      {
+        "line": 5,
+        "text": "鴈",
+        "variant": "荻",
+        "source": "一作「荻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_008_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "採菱詞",
+    "poem": [
+      "濁水菱葉肥，清水菱葉鮮。",
+      "義不遊濁水，志士多苦言。",
+      "潮沒具區藪，潦深雲夢田。",
+      "朝隨北風去，暮逐南風旋。",
+      "浦口多漁家，相與邀我船。",
+      "飯稻以終日，羹蓴將永年。",
+      "方冬水物窮，又欲休山樊。",
+      "盡室相隨從，所貴無憂患。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "羹蓴",
+        "variant": "蓴羹",
+        "source": "一作「蓴羹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_009_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "射雉詞",
+    "poem": [
+      "曝暄理新翳，迎春射鳴雉。",
+      "原田遙一色，臯陸曠千里。",
+      "遙聞咿喔聲，時見雙飛起。",
+      "冪䍥疎蒿下，毰毸深叢裏。",
+      "顧敵已忘生，爭雄方決死。",
+      "仁心貴勇義，豈能復傷此。",
+      "超遙下故墟，迢遞回高畤。",
+      "大夫昔何苦，取笑歡妻子。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "叢",
+        "variant": "麥",
+        "source": "一作「麥」"
+      },
+      {
+        "line": 5,
+        "text": "已",
+        "variant": "仍",
+        "source": "一作「仍」"
+      },
+      {
+        "line": 7,
+        "text": "畤",
+        "variant": "軌",
+        "source": "一作「軌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_010_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "猛虎詞",
+    "poem": [
+      "寒亦不憂雪，飢亦不食人。",
+      "人肉豈不甘，所惡傷明神。",
+      "太室爲我宅，孟門爲我鄰。",
+      "百獸爲我膳，五龍爲我賓。",
+      "蒙馬一何威，浮江一以仁。",
+      "彩章耀朝日，爪牙雄武臣。",
+      "高雲逐氣浮，厚地隨聲震。",
+      "君能賈餘勇，日夕長相親。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "肉",
+        "variant": "血",
+        "source": "一作「血」"
+      },
+      {
+        "line": 5,
+        "text": "蒙",
+        "variant": "冪",
+        "source": "一作「冪」"
+      },
+      {
+        "line": 5,
+        "text": "一",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_011_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "渭橋北亭作",
+    "poem": [
+      "停車渭陽暮，望望入秦京。",
+      "不見鵷鸞道，如聞歌吹聲。",
+      "鄉魂涉江水，客路指蒲城。",
+      "獨有故樓月，今來亭上明。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "陽",
+        "variant": "橋",
+        "source": "一作「橋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_012_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述華清宮五首 其一",
+    "poem": [
+      "上在蓬萊宮，莫若居華清。",
+      "朝朝禮玄閣，日日聞體輕。",
+      "大聖不私己，精禋爲羣氓。"
+    ],
+    "preface": "〈天寶六載冬十月，皇帝如驪山溫泉宮，名其宮曰華清〉",
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_012_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述華清宮五首 其二",
+    "poem": [
+      "上出蓬萊時，六龍儼齊首。",
+      "長道舒羽儀，彤雲暎前後。",
+      "天聲殷宇宙，真氣到林藪。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_012_03",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述華清宮五首 其三",
+    "poem": [
+      "昔在軒轅朝，五城十二樓。",
+      "今我神泉宮，獨在驪山陬。",
+      "羣方趨順動，百辟隨天遊。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_012_04",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述華清宮五首 其四",
+    "poem": [
+      "正月開陽和，通門緝元化。",
+      "穆穆睟容歸，豈爲明燈夜。",
+      "高山大風起，肅肅隨龍駕。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_012_05",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述華清宮五首 其五",
+    "poem": [
+      "上林神君宮，此地即明庭。",
+      "山開鴻濛色，天轉招搖星。",
+      "三雪報大有，孰爲非我靈。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 3,
+        "text": "爲",
+        "variant": "謂",
+        "source": "一作「謂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_013_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詠五首 石子松",
+    "poem": [
+      "盤石青巖下，松生盤石中。",
+      "冬春無異色，朝暮有清風。",
+      "五鬣何人采，西山舊兩童。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_013_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詠五首 架簷藤",
+    "poem": [
+      "得從軒墀下，殊勝松柏林。",
+      "生枝逐架遠，吐葉向門深。",
+      "何許答君子，簷間朝暝陰。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_013_03",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詠五首 池邊鶴",
+    "poem": [
+      "舞鶴傍池邊，水清毛羽鮮。",
+      "立如依岸雪，飛似向池泉。",
+      "江海雖言曠，無如君子前。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_013_04",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詠五首 釣魚灣",
+    "poem": [
+      "垂釣綠灣春，春深杏花亂。",
+      "潭清疑水淺，荷動知魚散。",
+      "日暮待情人，維舟綠楊岸。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_013_05",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詠五首 幽人居",
+    "poem": [
+      "幽人下山徑，去去夾青林。",
+      "滑處莓苔濕，暗中蘿薜深。",
+      "春朝煙雨散，猶帶浮雲陰。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 1,
+        "text": "夾",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_014_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "題太玄觀",
+    "poem": [
+      "門外車馬喧，門裏宮殿清。",
+      "行即翳若木，坐即吹玉笙。",
+      "所喧既非我，真道其冥冥。"
+    ]
+  },
+  {
+    "uid": "QTS_136_015_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "至嵩陽觀",
+    "poem": [
+      "真人上清室，乃在中峰前。",
+      "花霧生玉井，霓裳畫列仙。",
+      "念茲宮故宇，多此地新泉。",
+      "松柏有清陰，薜蘿亦自妍。",
+      "一聞步虛子，又話逍遙篇。",
+      "忽若在雲漢，風中意泠然。"
+    ]
+  },
+  {
+    "uid": "QTS_136_016_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "貽韋鍊師",
+    "poem": [
+      "精思莫知日，意靜如空虛。",
+      "三鳥自來去，九光遙卷舒。",
+      "新池近天井，玉宇停雲車。",
+      "余亦苦山路，洗心祈道書。"
+    ]
+  },
+  {
+    "uid": "QTS_136_017_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "霽後貽馬十二巽",
+    "poem": [
+      "高天風雨散，清氣在園林。",
+      "況我夜初靜，當軒鳴綠琴。",
+      "雲開北堂月，庭滿南山陰。",
+      "不見長裾者，空歌遊子吟。"
+    ]
+  },
+  {
+    "uid": "QTS_136_018_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "題陸山人樓",
+    "poem": [
+      "暮聲雜初鴈，夜色涵早秋。",
+      "獨見海中月，照君池上樓。",
+      "山雲拂高棟，天漢入雲流。",
+      "不惜朝光滿，其如千里遊。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "遊",
+        "variant": "愁",
+        "source": "一作「愁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_019_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "獻八舅東歸",
+    "poem": [
+      "高位莫能捨，捨之世所賢。",
+      "雲車遊日華，豈比龍樓前。",
+      "寢疾乃就枕，情感唯靈仙。",
+      "帝鴻思道宗，臣彭亦長年。",
+      "天書加羽服，又許歸東川。",
+      "鏡水涵太清，禹山朝上玄。",
+      "誠亡真混沌，玉立方嬋娟。",
+      "素業作仙居，子孫當自傳。",
+      "門多松柏樹，篋有逍遙篇。",
+      "獨往不可羣，滄海成桑田。"
+    ]
+  },
+  {
+    "uid": "QTS_136_020_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "泛茅山東溪",
+    "poem": [
+      "清晨登仙峰，峰遠行未極。",
+      "江海霽初景，草木含新色。",
+      "而我任天和，此時聊動息。",
+      "望鄉白雲裏，發棹清溪側。",
+      "松柏生深山，無心自貞直。"
+    ]
+  },
+  {
+    "uid": "QTS_136_021_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "喫茗粥作",
+    "poem": [
+      "當晝暑氣盛，鳥雀靜不飛。",
+      "念君高梧陰，復解山中衣。",
+      "數片遠雲度，曾不蔽炎暉。",
+      "淹留膳茶粥，共我飯蕨薇。",
+      "敝廬既不遠，日暮徐徐歸。"
+    ]
+  },
+  {
+    "uid": "QTS_136_022_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "遊茅山五首 其一",
+    "poem": [
+      "十年別鄉縣，西去入皇州。",
+      "此意在觀國，不言空遠遊。",
+      "九衢平若水，利往無輕舟。",
+      "北洛反初路，東江還故丘。",
+      "春山多秀木，碧澗盡清流。",
+      "不見子桑扈，當從方外求。"
+    ],
+    "part_index": 1,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 3,
+        "text": "無",
+        "variant": "來",
+        "source": "一作「來」"
+      },
+      {
+        "line": 5,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_022_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "遊茅山五首 其二",
+    "poem": [
+      "世業傳儒行，行成非不榮。",
+      "其如懷獨善，況以聞長生。",
+      "家近華陽洞，早年深此情。",
+      "巾車雲路入，理棹瑤溪行。",
+      "天地朝光滿，江山春色明。",
+      "王庭有軒冕，此日方知輕。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_136_022_03",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "遊茅山五首 其三",
+    "poem": [
+      "平生非作者，望古懷清芬。",
+      "心以道爲際，行將時不羣。",
+      "茲山在人境，靈貺久傳聞。",
+      "遠勢一峰出，近形千嶂分。",
+      "冬春有茂草，朝暮多鮮雲。",
+      "此去亦何極，但言西日曛。"
+    ],
+    "part_index": 3,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 4,
+        "text": "出",
+        "variant": "幽",
+        "source": "一作「幽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_022_04",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "遊茅山五首 其四",
+    "poem": [
+      "昔賢居柱下，今我去人間。",
+      "良以直心曠，兼之外視閑。",
+      "垂綸非釣國，好學異希顏。",
+      "落日登高嶼，悠然望遠山。",
+      "溪流碧水去，雲帶清陰還。",
+      "想見中林士，巖扉長不關。"
+    ],
+    "part_index": 4,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 6,
+        "text": "長",
+        "variant": "久",
+        "source": "一作「久」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_022_05",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "遊茅山五首 其五",
+    "poem": [
+      "名嶽徵仙事，清都訪道書。",
+      "山門入松柏，天路涵空虛。",
+      "南極見朝采，西潭聞夜漁。",
+      "遠心尚雲宿，浪跡出林居。",
+      "爲己存實際，忘形同化初。",
+      "此行良已矣，不樂復何如。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "涵",
+        "variant": "極",
+        "source": "一作「極」"
+      },
+      {
+        "line": 3,
+        "text": "采",
+        "variant": "爽",
+        "source": "一作「爽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_023_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "述降聖觀",
+    "poem": [
+      "一山盡天苑，一峰開道宮。",
+      "道花飛羽衞，天鳥遊雲空。",
+      "玉殿俯玄水，春旗搖素風。",
+      "夾門小松柏，覆井新梧桐。",
+      "自昔大仙下，乃知元化功。",
+      "神皇作桂館，此意與天通。"
+    ]
+  },
+  {
+    "uid": "QTS_136_024_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "題眄上人禪居",
+    "poem": [
+      "真王清淨子，燕居復行心。",
+      "結宇鄰居邑，寤言非遠尋。",
+      "丹青丈室滿，草樹一庭深。",
+      "秀色玄冬發，交枝白日陰。",
+      "江流暎朱戶，山鳥鳴香林。",
+      "獨住已寂寂，安知浮與沈。"
+    ]
+  },
+  {
+    "uid": "QTS_136_025_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "過新豐道中",
+    "poem": [
+      "西下長樂坂，東入新豐道。",
+      "雨多車馬稀，道上生秋草。",
+      "太陰蔽臯陸，莫知晚與早。",
+      "雷雨杳冥冥，川谷漫浩浩。",
+      "詔書植嘉木，衆言桃李好。",
+      "自媿無此容，歸從漢陰老。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "媿",
+        "variant": "顧",
+        "source": "一作「顧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_026_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "夜到洛口入黃河",
+    "poem": [
+      "河洲多青草，朝暮增客愁。",
+      "客愁惜朝暮，枉渚蹔停舟。",
+      "中宵大川靜，解纜逐歸流。",
+      "浦漵既清曠，沿洄非阻修。",
+      "登艫望落月，擊汰悲新秋。",
+      "倘遇乘槎客，永言星漢遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "增",
+        "variant": "滋",
+        "source": "一作「滋」"
+      },
+      {
+        "line": 2,
+        "text": "蹔",
+        "variant": "聊",
+        "source": "一作「聊」"
+      },
+      {
+        "line": 5,
+        "text": "汰",
+        "variant": "楫",
+        "source": "一作「楫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_027_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "使過彈箏峽作",
+    "poem": [
+      "鳥雀知天雪，羣飛復羣鳴。",
+      "原田無遺粟，日暮滿空城。",
+      "達士憂世務，鄙夫念王程。",
+      "晨過彈箏峽，馬足凌兢行。",
+      "雙壁隱靈曜，莫能知晦明。",
+      "皚皚堅冰白，漫漫陰雲平。",
+      "始信古人言，苦節不可貞。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "復羣",
+        "variant": "息復",
+        "source": "一作「息復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_028_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "泊舟貽潘少府",
+    "poem": [
+      "行子苦風潮，維舟未能發。",
+      "宵分卷前幔，臥視清秋月。",
+      "四澤蒹葭深，中洲煙火絕。",
+      "蒼蒼水霧起，落落疎星沒。",
+      "所遇盡漁商，與言多楚越。",
+      "其如念極浦，又以思明哲。",
+      "常若千里餘，況之異鄉別。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "分",
+        "variant": "風",
+        "source": "一作「風」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_029_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "仲夏入園中東陂",
+    "poem": [
+      "方塘深且廣，伊昔俯吾廬。",
+      "環岸垂綠柳，盈澤發紅蕖。",
+      "上延北原秀，下屬幽人居。",
+      "暑雨若混沌，清明如空虛。",
+      "此鄉多隱逸，水陸見樵漁。",
+      "廢賞亦何貴，爲歡良易攄。",
+      "且言重觀國，當此賦歸歟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "澤",
+        "variant": "潭",
+        "source": "一作「潭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_030_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "效古二首 其一",
+    "poem": [
+      "晨登涼風臺，暮走邯鄲道。",
+      "曜靈何赫烈，四野無青草。",
+      "大軍北集燕，天子西居鎬。",
+      "婦人役州縣，丁男事征討。",
+      "老幼相別離，哭泣無昏早。",
+      "稼穡既殄絕，川澤復枯槁。",
+      "曠哉遠此憂，冥冥商山皓。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_136_030_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "效古二首 其二",
+    "poem": [
+      "東風吹大河，河水如倒流。",
+      "河洲塵沙起，有若黃雲浮。",
+      "赬霞燒廣澤，洪曜赫高丘。",
+      "野老泣相語，無地可蔭休。",
+      "翰林有客卿，獨負蒼生憂。",
+      "中夜起躑躅，思欲獻厥謀。",
+      "君門峻且深，踠足空夷猶。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 4,
+        "text": "語",
+        "variant": "逢",
+        "source": "一作「逢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_031_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詩二首 其一",
+    "poem": [
+      "混沌本無象，末路多是非。",
+      "達士志寥廓，所在能忘禨。",
+      "耕鑿時未至，還山聊採薇。",
+      "虎豹對我蹲，鸑鷟旁我飛。",
+      "仙人空中來，謂我勿復歸。",
+      "格澤爲君駕，虹蜺爲君衣。",
+      "西遊崑崙墟，可與世人違。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "混沌",
+        "variant": "渾胚",
+        "source": "一作「渾胚」"
+      },
+      {
+        "line": 6,
+        "text": "澤",
+        "variant": "擇",
+        "source": "一作「擇」"
+      },
+      {
+        "line": 6,
+        "text": "虹蜺",
+        "variant": "雲霓",
+        "source": "一作「雲霓」"
+      },
+      {
+        "line": 7,
+        "text": "遊",
+        "variant": "近",
+        "source": "一作「近」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_031_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "雜詩二首 其二",
+    "poem": [
+      "秋氣肅天地，太行高崔嵬。",
+      "猨狖清夜吟，其聲一何哀。",
+      "寂寞掩圭蓽，夢寐遊蓬萊。",
+      "琪樹遠亭亭，玉堂雲中開。",
+      "洪崖吹簫管，玉女飄颻來。",
+      "雨師既先後，道路無纖埃。",
+      "鄙哉楚襄王，獨好陽雲臺。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "狖",
+        "variant": "鼬",
+        "source": "一作「鼬」"
+      },
+      {
+        "line": 5,
+        "text": "玉",
+        "variant": "素",
+        "source": "一作「素」"
+      },
+      {
+        "line": 6,
+        "text": "先後",
+        "variant": "洗道",
+        "source": "一作「洗道」"
+      },
+      {
+        "line": 6,
+        "text": "道",
+        "variant": "後",
+        "source": "一作「後」"
+      },
+      {
+        "line": 7,
+        "text": "好陽雲",
+        "variant": "如雲陽",
+        "source": "一作「如雲陽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_032_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "陸著作輓歌",
+    "poem": [
+      "世業江湖側，郊原休沐處。",
+      "獨言五日歸，未道千秋去。",
+      "鄉亭春水綠，昌閣寒光暮。",
+      "昔爲晝錦遊，今成逝川路。"
+    ],
+    "preface": "〈陸爲起居郎、集賢院直學士，贈著作郎，吳郡人。〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "獨",
+        "variant": "猶",
+        "source": "一作「猶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_033_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "陸著作輓歌",
+    "poem": [
+      "歸路秦城下，寒雲慘平田。",
+      "故園滄海邊，綠柳覆平川。",
+      "送客異他日，還舟殊昔年。",
+      "華亭有明月，長向隴頭懸。"
+    ]
+  },
+  {
+    "uid": "QTS_136_034_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "陸著作輓歌",
+    "poem": [
+      "劍水千人石，荊江萬里流。",
+      "英英有君子，才德滿中州。",
+      "明道俟良佐，惟賢初薄遊。",
+      "生涯一朝盡，寂寞夜臺幽。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "生",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_035_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "陸著作輓歌",
+    "poem": [
+      "金堂策令名，仙掖居清位。",
+      "鳴玉朝雙闕，垂纓遊兩地。",
+      "朝夕既論思，春秋仍書事。",
+      "何言魯聲伯，忽下瓊珠淚。"
+    ]
+  },
+  {
+    "uid": "QTS_136_036_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "陸著作輓歌",
+    "poem": [
+      "令德棄人世，明朝降寵章。",
+      "起居存有位，著作沒爲郎。",
+      "寒水落南浦，月華虛北堂。",
+      "松門一長想，彷彿見清揚。"
+    ]
+  },
+  {
+    "uid": "QTS_136_037_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "山居貽裴十二迪",
+    "poem": [
+      "落葉滿山砌，蒼煙埋竹扉。",
+      "遠懷青冥士，書劒常相依。",
+      "霜臥眇茲地，琴言紛已違。",
+      "衡陽今萬里，南雁將何歸。",
+      "出徑惜松引，入舟憐釣磯。",
+      "西林有明月，夜久空微微。"
+    ]
+  },
+  {
+    "uid": "QTS_136_038_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "秦中歲晏馬舍人宅宴集",
+    "poem": [
+      "冬暮久無樂，西行至長安。",
+      "故人處東第，清夜多新歡。",
+      "廣庭竹陰靜，華池月色寒。",
+      "知音盡詞客，方見交情難。"
+    ]
+  },
+  {
+    "uid": "QTS_136_039_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "薦玄德公廟",
+    "poem": [
+      "神道本無已，成化亦自然。",
+      "君居寥天上，德在玉華泉。",
+      "真遊踐王豫，永日遲雲仙。",
+      "表微在營道，明祀將祈年。",
+      "靈山俯新邑，松上生彩煙。",
+      "豈知穆天子，遠去瑤池邊。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "王",
+        "variant": "玉",
+        "source": "一作「玉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_040_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "上長史王公責躬",
+    "poem": [
+      "覆舟無伯夷，覆車無仲尼。",
+      "自咎失明義，寧由貝錦詩。",
+      "松柏日已堅，桃李日以滋。",
+      "顧己獨暗昧，所居成蒺藜。",
+      "大賢薦時文，醜婦用蛾眉。",
+      "惕惕愧不已，豈敢論其私。",
+      "方朔既有言，子建亦有詩。",
+      "惻隱及先世，析薪成自悲。",
+      "靈鳥酬德輝，黃雀報仁慈。",
+      "若公庶伏罪，此事安能遲。"
+    ]
+  },
+  {
+    "uid": "QTS_136_041_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "至嶽寺即大通大照禪塔上溫上人",
+    "poem": [
+      "秋山下暎宮，宮色宜朝陽。",
+      "迢遞在半嶺，參差非一行。",
+      "燕息雲滿門，出遊花隱房。",
+      "二尊此成道，禪宇遙相望。",
+      "鳳鐸天中鳴，巖梯松下長。",
+      "山墟響信鼓，蘅薄生蕙香。",
+      "起滅一以雪，往來亦誠亡。",
+      "悲哉門弟子，要自知心長。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "雪",
+        "variant": "息",
+        "source": "一作「息」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_042_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "終南幽居獻蘇侍郎三首時拜太祝未上 其一",
+    "poem": [
+      "暮春天氣和，登嶺望層城。",
+      "朝日懸清景，巍峨宮殿明。",
+      "聖君常臨朝，達士復懸衡。",
+      "道近燕艮足，歸來臥山楹。",
+      "靈堦曝仙書，深室煉金英。",
+      "春巖松柏秀，晨路鵾雞鳴。",
+      "羽化既有言，無然悲不成。"
+    ],
+    "part_index": 1,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 4,
+        "text": "艮",
+        "variant": "良",
+        "source": "一作「良」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_042_02",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "終南幽居獻蘇侍郎三首時拜太祝未上 其二",
+    "poem": [
+      "中歲尚微道，始知將穀神。",
+      "抗策還南山，水木自相親。",
+      "深林開一道，青嶂成四鄰。",
+      "平明去採薇，日入行刈薪。",
+      "雲歸萬壑暗，雪罷千崖春。",
+      "始看玄鳥來，已見瑤華新。",
+      "寄言搴芳者，無乃後時人。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_136_042_03",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "終南幽居獻蘇侍郎三首時拜太祝未上 其三",
+    "poem": [
+      "卜築青巖裏，雲蘿四垂陰。",
+      "虛室若無人，喬木自成林。",
+      "時有清風至，側聞樵採音。",
+      "鳳皇鳴南岡，望望隔層岑。",
+      "既言山路遠，復道溪流深。",
+      "偓佺空中遊，虯龍水間吟。",
+      "何當見輕翼，爲我達遠心。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_136_043_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "題應聖觀",
+    "poem": [
+      "空中望小山，山下見餘雪。",
+      "皎皎河漢女，在茲養真骨。",
+      "登門駭天書，啓籥問仙訣。",
+      "池光搖水霧，燈色連松月。",
+      "合甎起花臺，折草成玉節。",
+      "天雞弄白羽，王母垂玄髮。",
+      "北有上年宮，一路在雲霓。",
+      "上心方嚮道，時復朝金闕。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "上",
+        "variant": "祈",
+        "source": "一作「祈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_136_044_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "至閑居精舍呈正上人",
+    "poem": [
+      "太室三招提，其趣皆不同。",
+      "不同非一趣，況是天遊宮。",
+      "雙嶺前夾門，閣道復橫空。",
+      "寶坊若花積，宛轉不可窮。",
+      "流泉自成池，清松信饒風。",
+      "秋晏景氣逈，皛明丹素功。",
+      "將近隱者鄰，遠與西山通。",
+      "大師假惠照，念以息微躬。"
+    ]
+  },
+  {
+    "uid": "QTS_136_045_01",
+    "volume": 136,
+    "author": {
+      "canonical": "儲光羲",
+      "recorded": "儲光羲",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chu Guangxi",
+      "wikidata_id": "Q10889254"
+    },
+    "title": "酬綦毋校書夢耶溪見贈之作",
+    "poem": [
+      "校文在仙掖，每有滄洲心。",
+      "況以北窗下，夢遊清溪陰。",
+      "春看湖水漫，夜入迴塘深。",
+      "往往纜垂葛，出舟望前林。",
+      "山人松下飯，釣客蘆中吟。",
+      "小隱何足貴，長年固可尋。",
+      "還車首東道，惠言若黃金。",
+      "以我採薇意，傳之天姥岑。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "以",
+        "variant": "此",
+        "source": "一作「此」"
+      },
+      {
+        "line": 3,
+        "text": "水",
+        "variant": "口",
+        "source": "一作「口」"
+      },
+      {
+        "line": 7,
+        "text": "黃金",
+        "variant": "南金",
+        "source": "一作「南金」"
+      }
+    ]
+  }
+]

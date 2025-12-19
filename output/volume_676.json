@@ -1,0 +1,2919 @@
+[
+  {
+    "uid": "QTS_676_001_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "闕下春日",
+    "poem": [
+      "建章宮殿紫雲飄，春漏遲遲下絳霄。",
+      "綺陌暖風嘶去馬，粉廊初日照趨朝。",
+      "花經宿雨香難拾，鶯在豪家語更嬌。",
+      "秦楚年年有離別，揚鞭揮袖灞陵橋。"
+    ]
+  },
+  {
+    "uid": "QTS_676_002_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "贈劉神童",
+    "poem": [
+      "習讀在前生，僧談足可明。",
+      "還家雖解喜，登第未知榮。",
+      "時果曾沾賜，春闈不掛情。",
+      "燈前猶惡睡，寤語讀書聲。"
+    ],
+    "notes": [
+      {
+        "content": "六歲及第。",
+        "context": "贈劉神童",
+        "original_title": "贈劉神童",
+        "type": "footnote"
+      },
+      {
+        "line": 3,
+        "content": "上召於便殿，親試稱㫖，賜以果實。",
+        "context": "燈前猶惡睡，寤語讀書聲。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "寤",
+        "variant": "寐",
+        "source": "一作「寐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_003_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "遠遊",
+    "poem": [
+      "江湖猶足事，食宿戍鼙喧。",
+      "久客秋風起，孤舟夜浪翻。",
+      "鄉音離楚水，廟貌入湘源。",
+      "岸闊鳧鷖小，林垂橘柚繁。",
+      "津官來有意，漁者笑無言。",
+      "早晚酬僧約，中條有藥園。"
+    ]
+  },
+  {
+    "uid": "QTS_676_004_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "光化戊午年舉公見示省試春草碧色詩偶賦是題",
+    "poem": [
+      "萇弘血染新，含露滿江濵。",
+      "想得尋花徑，應迷拾翠人。",
+      "窗紗迎擁砌，簪玉妬成茵。",
+      "天借新晴色，雲饒落日春。",
+      "嵐光垂處合，睂黛看時嚬。",
+      "願與仙桃比，無令惹路塵。"
+    ]
+  },
+  {
+    "uid": "QTS_676_005_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "江際",
+    "poem": [
+      "杳杳漁舟破暝煙，疎疎蘆葦舊江天。",
+      "那堪流落逢搖落，可得潸然是偶然。",
+      "萬頃白波迷宿鷺，一林黃葉送殘蟬。",
+      "兵車未息年華促，早晚閒吟向滻川。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "得",
+        "variant": "謂",
+        "source": "一作「謂」"
+      },
+      {
+        "line": 3,
+        "text": "殘",
+        "variant": "寒",
+        "source": "一作「寒」，又作「秋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_006_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "將之瀘郡，旅次遂州，遇裴晤員外謫居於此，話舊淒涼，因寄二首 其一",
+    "poem": [
+      "誰解登高問上玄，謫仙何事謫詩仙，雲遮列宿離華省，樹蔭澄江入野船。",
+      "黃鳥晚啼愁瘴雨，青梅早落中蠻煙。",
+      "不知幾首南行曲，留與巴兒萬古傳。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "仙",
+        "variant": "官",
+        "source": "一作「官」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_006_02",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "將之瀘郡，旅次遂州，遇裴晤員外謫居於此，話舊淒涼，因寄二首 其二",
+    "poem": [
+      "昔年共照松溪影，松折溪荒僧已無。",
+      "今日重思錦城事，雪銷花謝夢何殊。",
+      "亂離未定身俱老，騷雅全休道甚孤。",
+      "我拜師門更南去，荔枝春熟向渝瀘。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "重",
+        "variant": "同",
+        "source": "一作「同」"
+      },
+      {
+        "line": 2,
+        "text": "銷",
+        "variant": "鋪",
+        "source": "一作「鋪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_007_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "次韻和秀上人長安寺居言懷寄渚宮禪者",
+    "poem": [
+      "舊齋松老別多年，香社人稀喪亂間。",
+      "出寺秖知趨內殿，閉門長似在深山。",
+      "臥聽秦樹秋鐘斷，吟想荊江夕鳥還。",
+      "唯恐興來飛錫去，老郎無路更追攀。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "香",
+        "variant": "蓮",
+        "source": "一作「蓮」，又作「鄉」"
+      },
+      {
+        "line": 1,
+        "text": "喪",
+        "variant": "離",
+        "source": "一作「離」"
+      },
+      {
+        "line": 3,
+        "text": "樹",
+        "variant": "甸",
+        "source": "一作「甸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_008_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "蜀中春日",
+    "poem": [
+      "海棠風外獨霑巾，襟袖無端惹蜀塵。",
+      "和暖又逢挑菜日，寂寥未是探花人。",
+      "不嫌蟻酒衝愁肺，卻憶漁蓑覆病身。",
+      "何事晚來微雨後？錦江春學曲江春。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "後",
+        "variant": "過",
+        "source": "一作「過」"
+      },
+      {
+        "line": 4,
+        "text": "學",
+        "variant": "似",
+        "source": "一作「似」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_009_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "遊蜀",
+    "poem": [
+      "所向明知是暗投，兩行清淚語前流。",
+      "雲橫新塞遮秦甸，花落空山入閬州。",
+      "不忿黃鸝驚曉夢，唯應杜宇信春愁。",
+      "梅黃麥綠無歸處，可得漂漂愛浪遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "所向",
+        "variant": "到處",
+        "source": "一作「到處」"
+      },
+      {
+        "line": 2,
+        "text": "甸",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 3,
+        "text": "信",
+        "variant": "起",
+        "source": "一作「起」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_010_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "峽中嘗茶",
+    "poem": [
+      "蔟蔟新英摘露光，小江園裏火煎嘗。",
+      "吳僧漫說鴉山好，蜀叟休誇鳥觜香。",
+      "合泛綠，開緘數片淺含黃。",
+      "鹿門病客不歸去，酒渴更知春味長。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "叟",
+        "variant": "客",
+        "source": "一作「客」"
+      },
+      {
+        "line": 3,
+        "text": "合",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_011_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "輦下冬暮詠懷",
+    "poem": [
+      "永巷閒吟一徑蒿，輕肥大笑事風騷。",
+      "煙含紫禁花期近，雪滿長安酒價高。",
+      "失路漸驚前計錯，逢僧更念此生勞。",
+      "十年春淚催衰颯，羞向清流照鬢毛。"
+    ],
+    "notes": [
+      {
+        "content": "初稿附記。覔句千名秖自勞，苦吟殊未補風騷。煙開水國花期近，雪滿長安酒價髙。舊業巳荒青藹逕，寒江空憶白雲濤。不知春到情何限？唯恐流年損鬢毛。",
+        "context": "鄭谷 輦下冬暮詠懷"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_012_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "石城",
+    "poem": [
+      "石城昔為莫愁鄉，莫愁魂散石城荒。",
+      "江人依舊棹舴艋，江岸還飛雙鴛鴦。",
+      "帆去帆來風浩渺，花開花落春悲涼。",
+      "煙濃草遠望不盡，千古漢陽閒夕陽。"
+    ]
+  },
+  {
+    "uid": "QTS_676_013_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "蜀中三首 其一",
+    "poem": [
+      "馬頭春向鹿頭關，遠樹平蕪一望閒。",
+      "雪下文君沽酒市，雲藏李白讀書山。",
+      "江樓客恨黃梅後，村落人歌紫芋間。",
+      "堤月橋燈好時景，漢庭無事不征蠻。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_676_013_02",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "蜀中三首 其二",
+    "poem": [
+      "夜無多雨曉生塵，草色嵐光日日新。",
+      "蒙頂茶畦千點露，浣花牋紙一溪春。",
+      "揚雄宅在唯喬木，杜甫臺荒絕舊鄰。",
+      "卻共海棠花有約，數年留滯不歸人。"
+    ],
+    "part_index": 2,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "無多",
+        "variant": "多無",
+        "source": "一作「多無」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_013_03",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "蜀中三首 其三",
+    "poem": [
+      "渚遠江清碧簟紋，小桃花繞薛濤墳。",
+      "朱橋直指金門路，粉堞高連玉壘雲。",
+      "窗下斫琴翹鳳足，波中濯錦散鷗羣。",
+      "子規夜夜啼巴樹，不並吳鄉楚國聞。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 4,
+        "text": "樹",
+        "variant": "蜀",
+        "source": "一作「蜀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_014_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "少華甘露寺",
+    "poem": [
+      "石門蘿徑與天鄰，雨檜風篁遠近聞。",
+      "飲澗鹿喧雙泒水，上樓僧蹋一梯雲。",
+      "孤煙薄暮關城沒，遠色初晴渭曲分。",
+      "長欲然香來此宿，北林猿鶴舊同羣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "上樓",
+        "variant": "登山",
+        "source": "一作「登山」"
+      },
+      {
+        "line": 4,
+        "text": "欲",
+        "variant": "憶",
+        "source": "一作「憶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_015_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "慈恩寺偶題",
+    "poem": [
+      "往事悠悠添浩歎，勞生擾擾竟何能。",
+      "故山歲晚不歸去，高塔晴來獨自登。",
+      "林下聽經秋苑鹿，江邊掃葉夕陽僧。",
+      "吟餘卻起雙峰念，曾看庵西瀑布冰。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "苑",
+        "variant": "院",
+        "source": "一作「院」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_016_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "石門山泉",
+    "poem": [
+      "一脈清冷何所之，縈莎漱蘚入僧池。",
+      "雲邊野客窮來處，石上寒猿見落時。",
+      "聚沫繞崖殘雪在，迸流穿樹墮花隨。",
+      "煙春雨晚閑吟去，不復遠尋皇子陂。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "崖",
+        "variant": "槎",
+        "source": "一作「槎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_017_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "渭陽樓閒望",
+    "poem": [
+      "千重二華見皇州，望盡凝嵐即此樓。",
+      "細雨不藏秦樹色，夕陽空照渭河流。",
+      "後車寧見前車覆，今日難忘昨日憂。",
+      "擾擾塵中猶未已，可能疏傅獨能休。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "昨",
+        "variant": "昔",
+        "source": "一作「昔」"
+      },
+      {
+        "line": 4,
+        "text": "猶",
+        "variant": "殊",
+        "source": "一作「殊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_018_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "送田光",
+    "poem": [
+      "九陌低迷誰問我，五湖流浪可悲君。",
+      "著書笑破蘇司業，賦詠思齊鄭廣文。",
+      "理棹好攜三百首，阻風須飲幾千分。",
+      "耒陽江口春山綠，慟哭應尋杜甫墳。"
+    ]
+  },
+  {
+    "uid": "QTS_676_019_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "送進士吳延保及第後南遊",
+    "poem": [
+      "得意卻思尋舊跡，新銜未切向蘭臺。",
+      "吟看秋草出關去，逢見故人隨計來。",
+      "勝地昔年詩板在，清歌幾處郡筵開。",
+      "江湖易有淹留興，莫待春風落庾梅。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "切",
+        "variant": "得",
+        "source": "一作「得」"
+      },
+      {
+        "line": 1,
+        "text": "向",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 4,
+        "text": "落",
+        "variant": "綻",
+        "source": "一作「綻」，一作「吹」"
+      },
+      {
+        "line": 4,
+        "text": "庾",
+        "variant": "瘦",
+        "source": "一作「瘦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_020_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "送進士王駕下第歸蒲中",
+    "poem": [
+      "失意離愁春不知，到家時是落花時。",
+      "孤單取事休言命，早晚逢人苦愛詩。",
+      "度塞風沙歸路遠，傍河桑柘舊居移。",
+      "應嗟我又巴江去，遊子悠悠聽子規。"
+    ],
+    "notes": [
+      {
+        "content": "時行朝在西蜀。",
+        "context": "送進士王駕下第歸蒲中",
+        "original_title": "送進士王駕下第歸蒲中",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_021_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "作尉鄠郊送進士潘為下第南歸",
+    "poem": [
+      "歸去宜春春水深，麥秋梅雨過湘陰。",
+      "鄉園幾度經狂寇，桑柘誰家有舊林？",
+      "結綬位卑甘晚達，登龍心在且高吟。",
+      "灞陵橋上楊花裏，酒滿芳樽淚滿襟。"
+    ],
+    "notes": [
+      {
+        "content": "一本無題上四字。",
+        "context": "作尉鄠郊送進士潘為下第南歸",
+        "original_title": "作尉鄠郊送進士潘為下第南歸",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_022_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "送進士韋序赴舉",
+    "poem": [
+      "丹霞照上三清路，瑞錦裁成五色毫。",
+      "波浪不能隨世態，鸞凰應得入吾曹。",
+      "秋山晚水吟情遠，雪竹風松醉格高。",
+      "預想明年騰躍處，龍津春碧浸仙桃。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "隨",
+        "variant": "傾",
+        "source": "一作「傾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_023_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄獻狄右丞",
+    "poem": [
+      "逐勝偷閒向杜陵，愛僧不愛紫衣僧。",
+      "身為醉客思吟客，官自中丞拜右丞。",
+      "殘月露垂朝闕蓋，落花風動宿齋燈。",
+      "孤單小諫漁舟在，心戀清潭去未能。"
+    ]
+  },
+  {
+    "uid": "QTS_676_024_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "轉正郎後寄獻集賢相公",
+    "poem": [
+      "予名初在德門前，屈指年來三十年。",
+      "自賀孤危終際會，別將流涕感階緣。",
+      "止陪鴛鷺居清秩，濫應星辰浼上玄。",
+      "平昔苦心何所恨，受恩多是舊詩篇。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "予",
+        "variant": "千",
+        "source": "一作「千」"
+      },
+      {
+        "line": 4,
+        "text": "何",
+        "variant": "無",
+        "source": "一作「無」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_025_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "所知從事近藩偶有懷寄",
+    "poem": [
+      "官舍種莎僧對榻，生涯如在舊山貧。",
+      "酒醒草檄聞殘漏，花落移廚送晚春。",
+      "水墨畫松清睡眼，雲霞仙氅掛吟身。",
+      "霜台伏首思歸切，莫把漁竿逐逸人。"
+    ]
+  },
+  {
+    "uid": "QTS_676_026_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "獻大京兆薛常侍能",
+    "poem": [
+      "聇將官業競前途，自愛篇章古不如。",
+      "一炷香新開道院，數坊人聚避朝車。",
+      "縱遊藉草花垂酒，閒臥臨窗燕拂書。",
+      "唯有明公賞新句，秋風不敢憶鱸魚。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「能」字。",
+        "context": "獻大京兆薛常侍能",
+        "original_title": "獻大京兆薛常侍能",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "業",
+        "variant": "職",
+        "source": "一作「職」"
+      },
+      {
+        "line": 2,
+        "text": "聚",
+        "variant": "靜",
+        "source": "一作「靜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_027_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄贈孫路處士",
+    "poem": [
+      "平生詩譽更誰過，歸老東吳命若何。",
+      "知己凋零垂白髮，故園寥落近滄波。",
+      "酒醒蘚砌花陰轉，病起漁舟鷺跡多。",
+      "深入富春人不見，閒門空掩半庭莎。"
+    ]
+  },
+  {
+    "uid": "QTS_676_028_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "獻制誥楊舍人",
+    "poem": [
+      "為郡東吳秖飲冰，瑣闈頻降鳳書徵。",
+      "隨行已有朱衣吏，伴直多招紫閣僧。",
+      "窗下調琴鳴遠水，簾前睡鶴背秋燈。",
+      "葦陂竹塢情無限，閒話毘陵問杜陵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鳳",
+        "variant": "詔",
+        "source": "一作「詔」"
+      },
+      {
+        "line": 4,
+        "text": "話",
+        "variant": "語",
+        "source": "一作「語」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_029_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "次韻酬張補闕因寒食見寄之什",
+    "poem": [
+      "柳近清明翠縷長，多情右袞不相忘。",
+      "開緘雖覩新篇麗，破鼻須聞冷酒香。",
+      "時態嬾隨人上下，花心甘被蝶分張。",
+      "朝稀且莫輕春賞，勝事由來在帝鄉。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "嬾",
+        "variant": "頗",
+        "source": "一作「頗」"
+      },
+      {
+        "line": 3,
+        "text": "甘",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_030_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "贈宗人前公安宰君",
+    "poem": [
+      "喧卑從宦出喧卑，別畫能琴又解棊。",
+      "海上春耕因亂廢，年來冬薦得官遲。",
+      "風中夜犬驚槐巷，月下寒驢齧槿籬。",
+      "孤散恨無推唱路，耿懷吟得贈君詩。"
+    ]
+  },
+  {
+    "uid": "QTS_676_031_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄贈楊夔處士",
+    "poem": [
+      "結茅秖約釣魚臺，濺水鸕鷀去又回。",
+      "春臥甕邊聽酒熟，露吟庭際待花開。",
+      "三江勝景遨遊遍，百氏羣書講貫來。",
+      "國步未安風雅薄，可能高尚掞天才。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "秖",
+        "variant": "依",
+        "source": "一作「依」"
+      },
+      {
+        "line": 3,
+        "text": "三",
+        "variant": "吳",
+        "source": "一作「吳」"
+      },
+      {
+        "line": 3,
+        "text": "貫",
+        "variant": "論",
+        "source": "一作「論」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_032_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄同年禮部趙郎中",
+    "poem": [
+      "仙步徐徐整羽衣，小儀澄澹轉中儀。",
+      "樺飄紅燼趨朝路，蘭縱清香宿省時。",
+      "彩筆煙霞供不足，綸闈鸞鳳訝來遲。",
+      "自憐孤宦誰相念，禱祝空吟一首詩。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "樺",
+        "variant": "花",
+        "source": "一作「花」"
+      },
+      {
+        "line": 3,
+        "text": "綸",
+        "variant": "粉",
+        "source": "一作「粉」"
+      },
+      {
+        "line": 4,
+        "text": "吟",
+        "variant": "憑",
+        "source": "一作「憑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_033_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "春暮詠懷寄集賢韋起居袞",
+    "poem": [
+      "寂寂風簾信自垂，楊花筍籜正離披。",
+      "長安一夜殘春雨，右省三年老拾遺。",
+      "坐看群賢爭得路，退量孤分且吟詩。",
+      "五湖煙網非無意，未去難忘國士知。"
+    ]
+  },
+  {
+    "uid": "QTS_676_034_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "多情",
+    "poem": [
+      "賦分多情卻自嗟，蕭衰未必為年華。",
+      "睡輕可忍風敲竹，飲散那堪月在花。",
+      "薄宦因循拋峴首，故人流落向天涯。",
+      "鶯春鴈夜長如此，賴是幽居近酒家。"
+    ]
+  },
+  {
+    "uid": "QTS_676_035_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "感懷投時相",
+    "poem": [
+      "非才偶忝直文昌，兩鬢年深一鏡霜。",
+      "待漏敢辭稱小吏，立班猶未出中行。",
+      "孤吟馬跡拋槐陌，遠夢漁竿擲葦鄉。",
+      "丞相舊知為學苦，更教何處貢篇章。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "為",
+        "variant": "非",
+        "source": "一作「非」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_036_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "自貽",
+    "poem": [
+      "飲筵博席與心違，野眺春吟更是誰。",
+      "琴有澗風聲轉澹，詩無僧字格還卑。",
+      "恨拋水國荷蓑雨，貧過長安櫻筍時。",
+      "頭角俊髦應指笑，權門蹤跡獨差池。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "荷",
+        "variant": "釣",
+        "source": "一作「釣」"
+      },
+      {
+        "line": 4,
+        "text": "俊",
+        "variant": "英",
+        "source": "一作「英」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_037_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "自遣",
+    "poem": [
+      "強健宦途何足謂，入微章句更難論。",
+      "誰知野性真天性，不扣權門扣道門。",
+      "窺硯晚鶯臨砌樹，迸階春筍隔籬根。",
+      "朝迴何處消長日，紫閣峰南有舊村。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "健",
+        "variant": "事",
+        "source": "一作「事」"
+      },
+      {
+        "line": 4,
+        "text": "有",
+        "variant": "省",
+        "source": "一作「省」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_038_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "中年",
+    "poem": [
+      "漠漠秦雲澹澹天，新年景象入中年。",
+      "情多最恨花無語，愁破方知酒有權。",
+      "苔色滿牆尋故第，雨聲一夜憶春田。",
+      "衰遲自喜添詩學，更把前題改數聯。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "尋",
+        "variant": "思",
+        "source": "一作「思」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_039_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "自適",
+    "poem": [
+      "紫陌奔馳不暫停，送迎終日在郊坰。",
+      "年來鬢畔未垂白，雨後江頭且蹋青。",
+      "浮蟻滿杯難暫舍，貫珠一曲莫辭聽。",
+      "春風只有九十日，可合花前半日醒。"
+    ]
+  },
+  {
+    "uid": "QTS_676_040_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "結綬鄠郊縻攝府署偶有自詠",
+    "poem": [
+      "鶯離寒谷士逢春，釋褐來年暫種芸。",
+      "自笑老為梅少府，可堪貧攝鮑參軍。",
+      "酒醒往事多興念，吟苦鄰居必厭聞。",
+      "推卻簿書搔短髮，落花飛絮正紛紛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "士",
+        "variant": "七",
+        "source": "一作「七」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_041_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "漂泊",
+    "poem": [
+      "槿墜蓬踈池館清，日光風緒澹無情。",
+      "鱸魚斫鱠輸張翰，橘樹呼奴羨李衡。",
+      "十口漂零猶寄食，兩川消息未休兵。",
+      "黃花催促重陽近，何處登高望二京。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蓬",
+        "variant": "蓮",
+        "source": "一作「蓮」"
+      },
+      {
+        "line": 4,
+        "text": "近",
+        "variant": "酒",
+        "source": "一作「酒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_042_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "弔故禮部韋員外序",
+    "poem": [
+      "臘雪初晴花舉杯，便期攜手上春臺。",
+      "高情唯怕酒不滿，長逝可悲花正開。",
+      "曉奠鶯啼殘漏在，風幃燕覔舊巢來。",
+      "杜陵芳草年年綠，醉魄吟魂無復迴。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「序」字。",
+        "context": "弔故禮部韋員外序",
+        "original_title": "弔故禮部韋員外序",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_043_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "渼陂",
+    "poem": [
+      "昔事東流共不迴，春深獨向渼陂來。",
+      "亂前別業依稀在，雨裏繁花寂寞開。",
+      "卻展漁絲無野艇，舊題詩句沒蒼苔。",
+      "潸然四顧難消遣，秖有佯狂泥酒盃。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "繁",
+        "variant": "梨",
+        "source": "一作「梨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_044_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "代秋扇詞",
+    "poem": [
+      "露入庭蕪恨已深，熱時天下是知音。",
+      "汗流浹背曾施力，氣爽中宵便負心。",
+      "一片山溪從蠹損，數行文字任塵侵。",
+      "綠槐陰合清和後，不會何顏又見尋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "浹",
+        "variant": "洽",
+        "source": "一作「洽」"
+      },
+      {
+        "line": 2,
+        "text": "曾",
+        "variant": "普",
+        "source": "一作「普」"
+      },
+      {
+        "line": 2,
+        "text": "力",
+        "variant": "手",
+        "source": "一作「手」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_045_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "宣義里舍冬暮自貽",
+    "poem": [
+      "幽居不稱在長安，溝淺浮春岸雪殘。",
+      "板屋漸移方帶野，水車新入夜添寒。",
+      "名如有分終須立，道若離心豈易寬。",
+      "滿眼塵埃馳騖去，獨尋煙竹翦漁竿。"
+    ]
+  },
+  {
+    "uid": "QTS_676_046_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "省中偶作",
+    "poem": [
+      "三轉郎曹自勉旃，莎階吟步想前賢。",
+      "未如何遜無佳句，若比馮唐是壯年。",
+      "捧制名題黃紙尾，約僧心在白雲邊。",
+      "乳毛松雪春來好，直夜清閒且學禪。"
+    ]
+  },
+  {
+    "uid": "QTS_676_047_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "同志顧雲下第出京偶有寄勉",
+    "poem": [
+      "鳳策聯華是國華，春來偶未上仙槎。",
+      "鄉連南渡思菰米，淚滴東風避杏花。",
+      "吟聒暮鶯歸廟院，睡消遲日寄僧家。",
+      "一般情緒應相信，門靜莎深樹影斜。"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "顧雲著述目為鳳策聯華。",
+        "context": "鄉連南渡思菰米，淚滴東風避杏花。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_048_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "敷溪高士",
+    "poem": [
+      "敷溪南岸掩柴荊，掛卻朝衣愛淨名。",
+      "閒得林園栽樹法，喜聞兒姪讀書聲。",
+      "眠窗日暖添幽夢，步野風清散酒酲。",
+      "謫去徵還何擾擾，片雲相伴看衰榮。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "淨",
+        "variant": "靜",
+        "source": "一作「靜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_049_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "九日偶懷寄左省張起居",
+    "poem": [
+      "令節爭歡我獨閒，荒臺盡日向晴山。",
+      "渾無酒泛金英菊，漫道官趨玉筍班。",
+      "深愧青莎迎野步，不堪紅葉照衰顏。",
+      "羨君官重多吟興，醉帶南陂落照還。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "南陂",
+        "variant": "天坡",
+        "source": "一作「天坡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_050_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "春夕伴同年禮部趙員外省直",
+    "poem": [
+      "錦帳名郎重錦科，清宵寓直縱吟哦。",
+      "冰含玉鏡春寒在，粉傅仙闈月色多。",
+      "視草即應歸屬望，握蘭知道暫經過。",
+      "流鶯百囀和殘漏，猶把芳樽藉露莎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "科",
+        "variant": "窠",
+        "source": "一作「窠」"
+      },
+      {
+        "line": 2,
+        "text": "粉傅",
+        "variant": "柳轉",
+        "source": "一作「柳轉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_051_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "倦客",
+    "poem": [
+      "十年五年岐路中，千里萬里西復東。",
+      "匹馬愁衝晚村雪，孤舟悶阻春江風。",
+      "達士由來知道在，昔賢何必哭途窮。",
+      "閒烹蘆筍炊菰米，會向源鄉作醉翁。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 4,
+        "text": "源",
+        "variant": "漁",
+        "source": "一作「漁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_052_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "溫處士能畫鷺鶿，以四韻換之",
+    "poem": [
+      "昔年吟醉繞江蘺，愛把漁竿伴鷺鶿。",
+      "聞說小毫能縱逸，敢憑輕素寫幽奇。",
+      "涓涓浪濺殘菱蔓，戛戛風搜折葦枝。",
+      "得向曉窗閒掛翫，雪蓑煙艇恨無遺。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "搜",
+        "variant": "披",
+        "source": "一作「披」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_053_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "駕部鄭郎中三十八丈尹貳東周榮加金紫谷以末泒之外恩舊事深因賀送",
+    "poem": [
+      "香浮玉陛曉辭天，袍拂蒲茸稱少年。",
+      "郎署轉曹雖久次，京河亞尹是優賢。",
+      "縱遊雲水無公事，貴買琴書有俸錢。",
+      "今日龍門看松雪，探春明日向平泉。"
+    ]
+  },
+  {
+    "uid": "QTS_676_054_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "欹枕",
+    "poem": [
+      "欹枕高眠日午春，酒酣睡足最閒身。",
+      "明朝會得窮通理，未必輸他馬上人。"
+    ]
+  },
+  {
+    "uid": "QTS_676_055_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "野步",
+    "poem": [
+      "翠嵐迎步興何長，笑領漁翁入醉鄉。",
+      "日暮渚田微雨後，鷺鶿閒暇稻花香。"
+    ]
+  },
+  {
+    "uid": "QTS_676_056_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "偶書",
+    "poem": [
+      "承時偷喜負明神，務實那能得庇身。",
+      "不會蒼蒼主何事，忍飢多是力耕人。"
+    ]
+  },
+  {
+    "uid": "QTS_676_057_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "靜吟",
+    "poem": [
+      "騷雅荒涼我未安，月和餘雪夜吟寒。",
+      "相門相客應相笑，得句勝於得好官。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "未",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_058_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "和知己秋日傷懷",
+    "poem": [
+      "流水歌聲共不迴，去年天氣舊亭臺。",
+      "梁塵寂寞燕歸去，黃蜀葵花一朵開。"
+    ]
+  },
+  {
+    "uid": "QTS_676_059_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "谷比歲受同年丈人故川守李侍郎教諭衰晏龍鍾益用感歎遂以章句自貽",
+    "poem": [
+      "多感京河李丈人，童蒙受教便書紳。",
+      "文章至竟無功業，名宦由來致苦辛。",
+      "皎日還應知守道，平生自信解甘貧。",
+      "孤單所得皆逾分，歸種敷溪一畝春。"
+    ]
+  },
+  {
+    "uid": "QTS_676_060_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "郊墅",
+    "poem": [
+      "韋曲樊川雨半晴，竹莊花院徧題名。",
+      "畫成煙景垂楊色，滴破春愁壓酒聲。",
+      "滿野紅塵誰得路，連天紫閣獨關情。",
+      "渼陂水色澄於鏡，何必滄浪始濯纓。"
+    ]
+  },
+  {
+    "uid": "QTS_676_061_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "舟行",
+    "poem": [
+      "九派迢迢九月殘，舟人相語且相寬。",
+      "村逢好處嫌風便，酒到醒來覺夜寒。",
+      "蓼渚白波喧夏口，柿園紅葉憶長安。",
+      "季鷹可是思鱸鱠，引退知時自古難。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "渚",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 3,
+        "text": "夏口",
+        "variant": "落日",
+        "source": "一作「落日」"
+      },
+      {
+        "line": 4,
+        "text": "知時自古",
+        "variant": "自知時所",
+        "source": "一作「自知時所」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_062_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "奔問三峰寓止近墅",
+    "poem": [
+      "半年奔走頗驚魂，來謁行宮淚眼昏。",
+      "鴛鷺入朝同待漏，牛羊送日獨歸村。",
+      "灞陵散失詩千首，太華淒涼酒一樽。",
+      "兵革未休無異術，不知何以受君恩。"
+    ]
+  },
+  {
+    "uid": "QTS_676_063_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "朝直",
+    "poem": [
+      "朝直叨居省閣間，由來踈退校安閒。",
+      "落花夜靜宮中漏，微雨春寒廊下班。",
+      "自扣玄門齊寵辱，從他榮路用機關。",
+      "孤峰未得深歸去，名畫偏求水墨山。"
+    ]
+  },
+  {
+    "uid": "QTS_676_064_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "巴江",
+    "poem": [
+      "亂來奔走巴江濵，愁客多於江徼人。",
+      "朝醉暮醉雪開霽，一枝兩枝梅探春。",
+      "詔書罪己方哀痛，鄉縣徵兵尚苦辛。",
+      "鬢禿又驚逢獻嵗，眼前渾不見交親。"
+    ],
+    "notes": [
+      {
+        "content": "時僖宗省方南梁。",
+        "context": "巴江",
+        "original_title": "巴江",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_065_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "故許昌薛尚書能嘗為都官郎中後數歲故建州李員外頻自憲府內彈拜都官員外八座外郎皆一時騷雅宗師則都官之曹振盛於此予早年請益實受深知今忝此官復是正秩豈唯俯慰孤宦何以仰繼前賢榮惕在衷遂賦自賀",
+    "poem": [
+      "都官雖未是名郎，踐曆曾聞薛許昌。",
+      "復有李公陪雅躅，豈宜鄭子忝餘光。",
+      "榮為後進趨蘭署，喜拂前題在粉牆。",
+      "他日節旄如可繼，不嫌曹冷在中行。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "八座外郎於省中題記多在。",
+        "context": "他日節旄如可繼，不嫌曹冷在中行。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_066_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "訪題表兄王藻渭上別業",
+    "poem": [
+      "桑林搖落渭川西，蓼水瀰瀰接稻泥。",
+      "幽檻靜來漁唱遠，暝天寒極鴈行低。",
+      "濁醪最稱看山醉，冷句偏宜選竹題。",
+      "中表人稀離亂後，花時莫惜重相攜。"
+    ]
+  },
+  {
+    "uid": "QTS_676_067_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "題汝州從事廳",
+    "poem": [
+      "詩人公署如山舍，秖向堦前便採薇。",
+      "驚燕拂簾閒睡覺，落花沾硯會餐歸。",
+      "壁看舊記官多達，牓掛明文吏莫違。",
+      "自說小池栽葦後，雨涼頻見鷺鶿飛。"
+    ]
+  },
+  {
+    "uid": "QTS_676_068_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "谷初忝諫垣今憲長薛公方在西閣知獎隆異以四韻代述榮感",
+    "poem": [
+      "舊詩常得在高吟，不奈公心愛苦心。",
+      "道自瑣闈言下振，恩從仙殿對迴深。",
+      "流年漸覺霜欺鬢，至藥能教土化金。",
+      "自拂青萍知有地，齋誠旦夕望為霖。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "舍人於閤下衆中奨歎頃年篇什。",
+        "context": "流年漸覺霜欺鬢，至藥能教土化金。"
+      },
+      {
+        "line": 2,
+        "content": "谷累陪舍人轉對偶免班儀，舍人深以知奨。",
+        "context": "流年漸覺霜欺鬢，至藥能教土化金。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_069_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "兵部盧郎中光濟借示詩集，以四韻謝之",
+    "poem": [
+      "七子風騷尋失主，五君歌誦久無聲。",
+      "調和雅樂歸時正，澄濾頹波到底清。",
+      "才大始知寰宇窄，吟高何止鬼神驚。",
+      "葉公好尚渾踈闊，忽見真龍幾喪明。"
+    ],
+    "notes": [
+      {
+        "content": "一本題中無「光濟」二字。",
+        "context": "兵部盧郎中光濟借示詩集，以四韻謝之",
+        "original_title": "兵部盧郎中光濟借示詩集，以四韻謝之",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "子",
+        "variant": "士",
+        "source": "一作「士」"
+      },
+      {
+        "line": 1,
+        "text": "五",
+        "variant": "吾",
+        "source": "一作「吾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_070_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "賀左省新除韋拾遺",
+    "poem": [
+      "初昇諫署是真仙，浪透桃花恰五年。",
+      "垂白郎官居座末，著緋人吏立階前。",
+      "百寮班列趨丹陛，兩掖風清上碧天。",
+      "從此追飛何處去，金鸞殿與玉堂連。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "恰",
+        "variant": "十",
+        "source": "一作「十」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_071_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "右省張補闕茂樞同在諫垣連居光德新春賦詠聊以寄懷",
+    "poem": [
+      "小梅零落雪欺殘，浩蕩窮愁豈易寬。",
+      "唯有朗吟償晚景，且無濃醉厭春寒。",
+      "高齋每喜追攀近，麗句先憂屬和難。",
+      "十五年前諳苦節，知心不獨為同官。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "醉",
+        "variant": "酒",
+        "source": "一作「酒」"
+      },
+      {
+        "line": 2,
+        "text": "厭",
+        "variant": "壓",
+        "source": "一作「壓」"
+      },
+      {
+        "line": 4,
+        "text": "諳",
+        "variant": "諧",
+        "source": "一作「諧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_072_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "右省補闕張茂樞同在諫垣鄰居光德迭和篇什未嘗閒時忽見貽謂谷將來履歴必在文昌當與何水部宋考功為儔谷雖賦於風雅實用兢惶因抒酬寄",
+    "poem": [
+      "何宋清名動粉闈，不才今日偶陳詩。",
+      "考功豈敢聞題品，水部猶須繫挈維。",
+      "積雪巷深酬唱夜，落花牆隔笑言時。",
+      "紫垣名士推揚切，為話心孤倍感知。"
+    ],
+    "notes": [
+      {
+        "content": "紫微，薛公奨譽頗深。補袞，即紫微。中表嘗傳重㫖，故有此句。",
+        "context": "鄭谷 右省補闕張茂樞同在諫垣鄰居光德迭和篇什未嘗閒時忽見貽謂谷將來履歴必在文昌當與何水部宋考功為儔谷雖賦於風雅實用兢惶因抒酬寄"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_073_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄職方李員外",
+    "poem": [
+      "曾袖篇章謁長卿，今來附鳳事何榮。",
+      "星臨南省陪仙步，春滿東朝接佩聲。",
+      "談笑不拘先後禮，歲寒仍契子孫情。",
+      "龍墀仗下天街暖，共看圭峰並馬行。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "員外攝事儲宮，谷忝獲攀接。",
+        "context": "談笑不拘先後禮，歲寒仍契子孫情。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_074_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄題詩僧秀公",
+    "poem": [
+      "靈一心傳清塞心，可公吟後楚公吟。",
+      "近來雅道相親少，唯仰吾師所得深。",
+      "好句未停無暇日，舊山歸老有東林。",
+      "冷曹孤宦甘寥落，多謝攜筇數訪尋。"
+    ]
+  },
+  {
+    "uid": "QTS_676_075_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "東蜀春晚",
+    "poem": [
+      "如此浮生更別離，可堪長慟送春歸。",
+      "潼江水上楊花雪，剛逐孤舟繚繞飛。"
+    ]
+  },
+  {
+    "uid": "QTS_676_076_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "永日有懷",
+    "poem": [
+      "能消永日是摴蒱，坑塹由來似宦途。",
+      "兩擲未終楗橛內，座中何惜為呼盧。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "終",
+        "variant": "離",
+        "source": "一作「離」"
+      },
+      {
+        "line": 2,
+        "text": "楗橛",
+        "variant": "捷橛",
+        "source": "一作「捷橛」"
+      },
+      {
+        "line": 2,
+        "text": "何",
+        "variant": "可",
+        "source": "一作「可」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_077_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "槐花",
+    "poem": [
+      "毿毿金蕊撲晴空，舉子魂驚落照中。",
+      "今日老郎猶有恨，昔年相虐十秋風。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "虐",
+        "variant": "謔",
+        "source": "一作「謔」，又作「戲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_078_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "小桃",
+    "poem": [
+      "和煙和雨遮敷水，映竹映村連灞橋。",
+      "撩亂春風耐寒令，到頭贏得杏花嬌。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "橋",
+        "variant": "陵",
+        "source": "一作「陵」"
+      },
+      {
+        "line": 2,
+        "text": "撩",
+        "variant": "掩",
+        "source": "一作「掩」"
+      },
+      {
+        "line": 2,
+        "text": "亂",
+        "variant": "弄",
+        "source": "一作「弄」"
+      },
+      {
+        "line": 2,
+        "text": "嬌",
+        "variant": "憎",
+        "source": "一作「憎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_079_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "長江縣經賈島墓",
+    "poem": [
+      "水繞荒墳縣路斜，耕人訝我久咨嗟。",
+      "重來兼恐無尋處，落日風吹鼓子花。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "落日",
+        "variant": "日落",
+        "source": "一作「日落」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_080_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "嘉陵",
+    "poem": [
+      "細雨濕萋萋，人稀江日西。",
+      "春愁腸已斷，不在子規啼。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "在",
+        "variant": "待",
+        "source": "一作「待」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_081_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "中秋",
+    "poem": [
+      "清香聞曉蓮，水國雨餘天。",
+      "天氣正得所，客心剛悄然。",
+      "亂兵何日息？",
+      "故老幾人全？",
+      "此際難消遣，從來未學禪。"
+    ]
+  },
+  {
+    "uid": "QTS_676_082_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "朝謁",
+    "poem": [
+      "捧日整朝簪，千官一片心。",
+      "班趨黃道急，殿接紫宸深。",
+      "威鳳迴香扆，新鶯囀上林。",
+      "小松含瑞露，春翠易成陰。"
+    ],
+    "notes": [
+      {
+        "content": "武德殿前新栽小松。",
+        "context": "鄭谷 朝謁"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "接",
+        "variant": "揖",
+        "source": "一作「揖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_083_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "錦浦",
+    "poem": [
+      "流落夜淒淒，春寒錦浦西。",
+      "不甘花逐水，可惜雪成泥。",
+      "病眼嫌燈近，離腸賴酒迷。",
+      "憑君囑鵯鵊，莫向五更啼。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "鵯鵊",
+        "variant": "鶗夬鳥",
+        "source": "一作「鶗夬鳥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_084_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "峨嵋山",
+    "poem": [
+      "萬仞白雲端，經春雪未殘。",
+      "夏消江峽滿，晴照蜀樓寒。",
+      "造境知僧熟，歸林認鶴難。",
+      "會須朝闕去，秖有畫圖看。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "朝",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_085_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "蜀江有弔",
+    "poem": [
+      "孟子有良策，惜哉今已而。",
+      "徒將心體國，不識道消時。",
+      "折檻未為切，沈湘何足悲。",
+      "蒼蒼無問處，煙雨遍江蘺。"
+    ],
+    "notes": [
+      {
+        "content": "僖宗幸蜀時，田令孜用事左拾遺，孟昭圖疏論之，令孜矯貶嘉州司戶，使人沈之墓頤津，事見《令孜傳》。",
+        "context": "蜀江有弔",
+        "original_title": "蜀江有弔",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_086_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "書村叟壁",
+    "poem": [
+      "草肥朝牧牛，桑綠晚鳴鳩。",
+      "列岫簷前見，清泉碓下流。",
+      "春蔬和雨割，社酒向花篘。",
+      "引我南陂去，籬邊有小舟。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "陂去",
+        "variant": "臨水",
+        "source": "一作「臨水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_087_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "題進士王駕郊居",
+    "poem": [
+      "前山微有雨，永巷淨無塵。",
+      "牛臥籬陰晚，鳩鳴村意春。",
+      "時浮應寡合，道在不嫌貧。",
+      "後徑臨陂水，菰蒲是切鄰。"
+    ]
+  },
+  {
+    "uid": "QTS_676_088_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "題莊嚴寺休公院",
+    "poem": [
+      "秋深庭色好，紅葉間青松。",
+      "病客殘無著，吾師甚見容。",
+      "踈鐘和細溜，高塔等遙峰。",
+      "未省求名侶，頻於此地逢。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "高",
+        "variant": "孤",
+        "source": "一作「孤」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_089_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "題興善寺",
+    "poem": [
+      "寺在帝城陰，清虛勝二林。",
+      "蘚侵隋畫暗，茶助越甌深。",
+      "巢鶴和鐘唳，詩僧倚錫吟。",
+      "煙莎後池水，前跡杳難尋。"
+    ],
+    "notes": [
+      {
+        "content": "十才子詩集多有興善寺後池之作，今寺在池無，每用追歎。",
+        "context": "鄭谷 題興善寺"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_090_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "宿澄泉蘭若",
+    "poem": [
+      "山半古招提，空林雪月迷。",
+      "亂流分石上，斜漢在松西。",
+      "雲集寒庵宿，猿先曉磬啼。",
+      "此心如了了，即此是曹溪。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "即",
+        "variant": "到",
+        "source": "一作「到」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_091_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "送舉子下第東歸",
+    "poem": [
+      "夫子道何孤，青雲未得途。",
+      "詩書難捨魯，山水暫遊吳。",
+      "野綠梅陰重，江春浪勢麤。",
+      "秣陵兵役後，舊業半成蕪。"
+    ]
+  },
+  {
+    "uid": "QTS_676_092_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄察院李侍御文炬",
+    "poem": [
+      "古柏間疏篁，清陰在印床。",
+      "宿郊虔點饌，秋寺靜監香。",
+      "參集行多揖，風儀見即莊。",
+      "佇聞橫擘去，帷集諫書囊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "疏",
+        "variant": "松",
+        "source": "一作「松」"
+      },
+      {
+        "line": 3,
+        "text": "揖",
+        "variant": "攝",
+        "source": "一作「攝」"
+      },
+      {
+        "line": 4,
+        "text": "擘",
+        "variant": "臂",
+        "source": "一作「臂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_093_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "偶懷寄台院孫端公棨",
+    "poem": [
+      "才拙道仍孤，無何捨釣徒。",
+      "班雖沾玉筍，香不近金爐。",
+      "雨露瞻雙闕，煙波隔五湖。",
+      "唯君應見念，曾共伏青蒲。"
+    ],
+    "notes": [
+      {
+        "content": "谷舊與端公同在諫垣。",
+        "context": "鄭谷 偶懷寄台院孫端公棨"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_094_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "次韻和秀上人游南五臺",
+    "poem": [
+      "中峰曾到處，題記沒蒼苔。",
+      "振錫傳深谷，翻經想舊臺。",
+      "蒼松臨砌偃，驚鹿驀溪來。",
+      "內殿評詩切，身回心未回。"
+    ],
+    "notes": [
+      {
+        "content": "一作空圖詩。",
+        "context": "次韻和秀上人游南五臺",
+        "original_title": "次韻和秀上人游南五臺",
+        "type": "footnote"
+      },
+      {
+        "content": "師以文章應制。",
+        "context": "鄭谷 次韻和秀上人游南五臺"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_095_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "乖慵",
+    "poem": [
+      "乖慵居竹裏，涼冷臥池東。",
+      "一霎芰荷雨，幾迴簾幕風。",
+      "遠僧來扣寂，小吏笑書空。",
+      "衰鬢霜供白，愁顏酒借紅。",
+      "扇輕搖鷺羽，屏古畫漁翁。",
+      "自得無端趣，琴棊舫子中。"
+    ]
+  },
+  {
+    "uid": "QTS_676_096_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "南宮寓直",
+    "poem": [
+      "寓直事非輕，宦孤憂且榮。",
+      "制承黃紙重，詞見紫垣清。",
+      "曉霽庭松色，風和禁漏聲。",
+      "僧攜新茗伴，吏掃落花迎。",
+      "鎖印詩心動，垂簾睡思生。",
+      "粉廊曾試處，石柱昔賢名。",
+      "來誤宮窗燕，啼疑苑樹鶯。",
+      "殘陽應更好，歸促恨嚴城。"
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "content": "直事稍暇，即於都堂四廊下尋頃年試所題名記，至今多在。",
+        "context": "來誤宮窗燕，啼疑苑樹鶯。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "僧",
+        "variant": "曾",
+        "source": "一作「曾」"
+      },
+      {
+        "line": 4,
+        "text": "吏",
+        "variant": "更",
+        "source": "一作「更」"
+      },
+      {
+        "line": 8,
+        "text": "應",
+        "variant": "晴",
+        "source": "一作「晴」"
+      },
+      {
+        "line": 8,
+        "text": "促",
+        "variant": "速",
+        "source": "一作「速」"
+      },
+      {
+        "line": 8,
+        "text": "恨",
+        "variant": "限",
+        "source": "一作「限」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_097_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "恩門小諫雨中乞菊栽",
+    "poem": [
+      "握蘭將滿嵗，栽菊伴吟詩。",
+      "老去慵趨世，朝迴獨繞籬。",
+      "遞香風細細，澆綠水瀰瀰。",
+      "秖共山僧賞，何當國士移。",
+      "孤根深有託，微雨正相宜。",
+      "更待金英發，憑君插一枝。"
+    ]
+  },
+  {
+    "uid": "QTS_676_098_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "荊渚八月十五夜值雨寄同年李嶼",
+    "poem": [
+      "共待輝光夜，翻成黯澹秋。",
+      "正宜清路望，潛起滴階愁。",
+      "棹倚袁宏渚，簾垂庾亮樓。",
+      "桂無香實落，蘭有露花休。",
+      "玉漏添蕭索，金尊阻獻酬。",
+      "明年佳景在，相約向神州。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "輝",
+        "variant": "清",
+        "source": "一作「清」"
+      },
+      {
+        "line": 1,
+        "text": "黯",
+        "variant": "暗",
+        "source": "一作「暗」"
+      },
+      {
+        "line": 6,
+        "text": "向",
+        "variant": "會",
+        "source": "一作「會」，又作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_099_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "寄左省張起居",
+    "poem": [
+      "含香復記言，清秩稱當年。",
+      "點筆非常筆，朝天最近天。",
+      "家聲三相後，公事一人前。",
+      "詩句江郎伏，書蹤寗氏傳。",
+      "風標欺鷺鶴，才力湧沙泉。",
+      "居僻貧無慮，名高退更堅。",
+      "漁舟思靜泛，僧榻寄閒眠。",
+      "消息當彌入，絲綸的粲然。",
+      "依棲常接跡，屬和舊盈編。",
+      "開口人皆信，淒涼是謝氊。"
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "content": "起居，今太師盧公宅，相傳授書法。",
+        "context": "風標欺鷺鶴，才力湧沙泉。"
+      },
+      {
+        "content": "谷在舉塲時，與起居有恩也。",
+        "context": "鄭谷 寄左省張起居"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_100_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "前寄左省張起居一百言尋蒙唱酬見譽過實卻用舊韻重答",
+    "poem": [
+      "減瘦經多難，憂傷集晚年。",
+      "吟高風過樹，坐久夜涼天。",
+      "旅退慙隨眾，孤飛怯向前。",
+      "釣朋蓑叟在，藥術衲僧傳。",
+      "鬢禿趨榮路，腸焦鄙盜泉。",
+      "品徒誠有隔，推唱意何堅。",
+      "寒地殊知感，秋燈耿不眠。",
+      "從來甘默爾，自此倍怡然。",
+      "蘭為官須握，蒲因學更編。",
+      "預愁搖落後，子美笑無氊。"
+    ],
+    "notes": [
+      {
+        "content": "杜工部贈鄭廣文詩云：「科名四十年，座客寒無氊。」",
+        "context": "鄭谷 前寄左省張起居一百言尋蒙唱酬見譽過實卻用舊韻重答"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_676_101_01",
+    "volume": 676,
+    "author": {
+      "canonical": "鄭谷",
+      "recorded": "鄭谷",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zheng Gu",
+      "wikidata_id": "Q16260132"
+    },
+    "title": "讀故許昌薛尚書詩集",
+    "poem": [
+      "篇篇高且真，真為國風陳。",
+      "澹薄雖師古，縱橫得意新。",
+      "翦裁成幾篋，唱和是誰人？",
+      "華岳題無敵，黃河句絕倫。",
+      "吟殘荔枝雨，詠徹海棠春。",
+      "李白欺前輩，陶潛仰後塵。",
+      "難忘嵩室下，不負蜀江濵。",
+      "屬思看山眼，冥搜倚樹身。",
+      "楷模勞夢想，諷誦爽精神。",
+      "落筆空追愴，曾蒙借斧斤。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "近世詩人述作，公篇什最多。",
+        "context": "華岳題無敵，黃河句絕倫。"
+      },
+      {
+        "line": 4,
+        "content": "《華岳》、《黃河》二詩序云：「此皆二京之內巨題目也。」",
+        "context": "吟殘荔枝雨，詠徹海棠春。"
+      },
+      {
+        "line": 5,
+        "content": "公有《海棠》、《荔枝》二首序云：「杜子美老於兩蜀，而無此詠。」",
+        "context": "李白欺前輩，陶潛仰後塵。"
+      },
+      {
+        "line": 6,
+        "content": "公有《寄符郎中》詩云：「我生若在開元日，爭遣名為李翰林。」",
+        "context": "難忘嵩室下，不負蜀江濵。"
+      },
+      {
+        "line": 6,
+        "content": "公有《論詩》一章云：「李白終無取陶潛，固不刋。」",
+        "context": "難忘嵩室下，不負蜀江濵。"
+      },
+      {
+        "line": 7,
+        "content": "公有《嵩山》巨篇。",
+        "context": "屬思看山眼，冥搜倚樹身。"
+      },
+      {
+        "line": 7,
+        "content": "公嘗從事蜀中，著《江於集》。",
+        "context": "屬思看山眼，冥搜倚樹身。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "篋",
+        "variant": "帙",
+        "source": "一作「帙」"
+      }
+    ]
+  }
+]

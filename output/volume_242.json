@@ -1,0 +1,1133 @@
+[
+  {
+    "uid": "QTS_242_001_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "郢城西樓吟",
+    "poem": [
+      "連山盡塞水縈迴，山上戍門臨水開。",
+      "珠簾直下一百丈，日暖遊鱗自相向。",
+      "昔人愛險閉層城，今人復愛閑江清。",
+      "沙洲楓岸無來客，草綠花開山鳥鳴。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "塞",
+        "variant": "處",
+        "source": "一作「處」"
+      },
+      {
+        "line": 1,
+        "text": "戍",
+        "variant": "城",
+        "source": "一作「城」"
+      },
+      {
+        "line": 2,
+        "text": "珠簾",
+        "variant": "朱欄",
+        "source": "一作「朱欄」"
+      },
+      {
+        "line": 3,
+        "text": "愛",
+        "variant": "受",
+        "source": "一作「受」"
+      },
+      {
+        "line": 4,
+        "text": "開",
+        "variant": "紅",
+        "source": "一作「紅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_002_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "登丹陽樓",
+    "poem": [
+      "寒臯那可望，旅客又初還。",
+      "迢遰高樓上，蕭疎涼野間。",
+      "暮晴依遠水，秋興屬連山。",
+      "浮客時相見，霜彫朱翠顏。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "涼",
+        "variant": "曠",
+        "source": "一作「曠」"
+      },
+      {
+        "line": 4,
+        "text": "浮",
+        "variant": "遊",
+        "source": "一作「遊」"
+      },
+      {
+        "line": 4,
+        "text": "朱",
+        "variant": "動",
+        "source": "一作「動」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_003_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "春夜皇甫冉宅歡宴",
+    "poem": [
+      "流落時相見，悲歡共此情。",
+      "興因尊酒洽，愁爲故人輕。",
+      "暗滴花莖露，斜暉月過城。",
+      "那知橫吹笛，江外作邊聲。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "莖",
+        "variant": "垂",
+        "source": "一作「垂」"
+      },
+      {
+        "line": 4,
+        "text": "笛",
+        "variant": "曲",
+        "source": "一作「曲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_004_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "會稽秋晚奉呈於太守",
+    "poem": [
+      "寂寂訟庭幽，森森戟戶秋。",
+      "山光隱危堞，湖色上高樓。",
+      "禹穴探書罷，天台作賦遊。",
+      "雲浮將越客，歲晚共淹留。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "寂",
+        "variant": "寞",
+        "source": "一作「寞」"
+      },
+      {
+        "line": 4,
+        "text": "雲浮",
+        "variant": "浮雲",
+        "source": "一作「浮雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_005_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "題嚴陵釣臺",
+    "poem": [
+      "舊隱人如在，清風亦似秋。",
+      "客星沈夜壑，釣石俯春流。",
+      "鳥向喬枝聚，魚依淺瀨遊。",
+      "古來芳餌下，誰是不吞鉤。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "喬",
+        "variant": "深",
+        "source": "一作「深」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_006_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "清明日自西午橋至瓜巖村有懷",
+    "poem": [
+      "晚霽龍門雨，春生汝穴風。",
+      "鳥啼官路靜，花發毀垣空。",
+      "鳴玉慙時輩，垂絲學老翁。",
+      "舊遊人不見，惆悵洛城東。"
+    ]
+  },
+  {
+    "uid": "QTS_242_007_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "洛陽作",
+    "poem": [
+      "洛陽天子縣，金谷石崇鄉。",
+      "草色侵官道，花枝出苑牆。",
+      "書成休逐客，賦罷遂爲郎。",
+      "貧賤非吾事，西遊思自強。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "崇",
+        "variant": "家",
+        "source": "一作「家」"
+      },
+      {
+        "line": 4,
+        "text": "思",
+        "variant": "當",
+        "source": "一作「當」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_008_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "晚次淮陽",
+    "poem": [
+      "微涼風葉下，楚俗轉清閑。",
+      "候館臨秋水，郊扉掩暮山。",
+      "月明潮漸近，露濕雁初還。",
+      "浮客了無定，萍流淮海間。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "近",
+        "variant": "滿",
+        "source": "一作「滿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_009_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "送竇十九判官使江南",
+    "poem": [
+      "遊客淹星紀，裁詩鍊土風。",
+      "今看乘傳去，那與問津同。",
+      "南郡迎徐子，臨川謁謝公。",
+      "思歸一惆悵，於越古亭中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "客",
+        "variant": "宦",
+        "source": "一作「宦」"
+      },
+      {
+        "line": 3,
+        "text": "迎",
+        "variant": "過",
+        "source": "一作「過」"
+      },
+      {
+        "line": 3,
+        "text": "子",
+        "variant": "穉",
+        "source": "一作「穉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_010_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "江上送客遊廬山",
+    "poem": [
+      "楚客自相送，霑裳春水邊。",
+      "晚來風信好，併發上江船。",
+      "花映新林岸，雲開瀑布泉。",
+      "愜心應在此，佳句向誰傳。"
+    ]
+  },
+  {
+    "uid": "QTS_242_011_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "酬張二十員外前國子博士竇叔向",
+    "poem": [
+      "故交日零落，心賞寄何人。",
+      "幸與馮唐遇，心同跡復親。",
+      "語言未終夕，離別又傷春。",
+      "結念湓城下，聞猨詩興新。"
+    ]
+  },
+  {
+    "uid": "QTS_242_012_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "會稽郡樓雪霽",
+    "poem": [
+      "江城昨夜雪如花，郢客登樓齊望華。",
+      "夏禹壇前仍聚玉，西施浦上更飛沙。",
+      "簾櫳向晚寒風度，睥睨初晴落景斜。",
+      "數處微明銷不盡，湖山清映越人家。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "齊望",
+        "variant": "望霽",
+        "source": "一作「望霽」"
+      },
+      {
+        "line": 2,
+        "text": "夏",
+        "variant": "大",
+        "source": "一作「大」"
+      },
+      {
+        "line": 2,
+        "text": "浦",
+        "variant": "渚",
+        "source": "一作「渚」"
+      },
+      {
+        "line": 2,
+        "text": "飛沙",
+        "variant": "飄紗",
+        "source": "一作「飄紗」"
+      },
+      {
+        "line": 4,
+        "text": "清",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_013_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "馮翊西樓",
+    "poem": [
+      "城上西樓倚暮天，樓中歸望正淒然。",
+      "近郭亂山橫古渡，野莊喬木帶新煙。",
+      "北風吹雁聲能苦，遠客辭家月再圓。",
+      "陶令好文常對酒，相招那惜醉爲眠。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "那惜醉爲眠",
+        "variant": "一和白雲篇",
+        "source": "一作「一和白雲篇」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_014_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "送鄒判官往陳留",
+    "poem": [
+      "齊宋傷心地，頻年此用兵。",
+      "女停襄邑杼，農廢汶陽耕。",
+      "國使乘軺去，諸侯擁節迎。",
+      "深仁荷君子，薄賦恤黎甿。",
+      "火燎原猶熱，波搖海未平。",
+      "應將否泰理，一問魯諸生。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "宋",
+        "variant": "魯",
+        "source": "一作「魯」"
+      },
+      {
+        "line": 1,
+        "text": "傷心",
+        "variant": "分巡",
+        "source": "一作「分巡」"
+      },
+      {
+        "line": 3,
+        "text": "國使",
+        "variant": "使者",
+        "source": "一作「使者」"
+      },
+      {
+        "line": 3,
+        "text": "侯",
+        "variant": "藩",
+        "source": "一作「藩」"
+      },
+      {
+        "line": 4,
+        "text": "荷",
+        "variant": "佐",
+        "source": "一作「佐」，一作「賴」"
+      },
+      {
+        "line": 5,
+        "text": "波",
+        "variant": "風",
+        "source": "一作「風」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_015_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "酬李書記校書越城秋夜見贈",
+    "poem": [
+      "東越秋城夜，西人白髮年。",
+      "寒城警刁斗，孤憤抱龍泉。",
+      "鳳輦棲岐下，鯨波鬬洛川。",
+      "量空海陵粟，賜乏水衡錢。",
+      "投閣嗤揚子，飛書代魯連。",
+      "蒼蒼不可問，余亦賦思玄。"
+    ]
+  },
+  {
+    "uid": "QTS_242_016_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "感懷",
+    "poem": [
+      "調與時人背，心將靜者論。",
+      "終年帝城裏，不識五侯門。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "背",
+        "variant": "等",
+        "source": "一作「等」"
+      },
+      {
+        "line": 2,
+        "text": "帝",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_017_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "長相思",
+    "poem": [
+      "遼陽望河縣，白首無由見。",
+      "海上珊瑚枝，年年寄春燕。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "由",
+        "variant": "人",
+        "source": "一作「人」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_018_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "奉寄皇甫補闕",
+    "poem": [
+      "京口情人別久，揚州估客來疎。",
+      "潮至潯陽回去，相思無處通書。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "回",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_019_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "楓橋夜泊",
+    "poem": [
+      "月落烏啼霜滿天，江楓漁火對愁眠。",
+      "姑蘇城外寒山寺，夜半鐘聲到客船。"
+    ]
+  },
+  {
+    "uid": "QTS_242_020_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "閶門即事",
+    "poem": [
+      "耕夫召募逐樓船，春草青青萬頃田。",
+      "試上吳門窺郡郭，清明幾處有新煙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "召",
+        "variant": "占",
+        "source": "一作「占」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_021_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "安公房問法",
+    "poem": [
+      "流年一日復一日，世事何時是了時。",
+      "試向東林問禪伯，遣將心地學琉璃。"
+    ]
+  },
+  {
+    "uid": "QTS_242_022_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "上清詞",
+    "poem": [
+      "紫陽宮女捧丹砂，王母令過漢帝家。",
+      "春風不肯停仙馭，卻向蓬萊看杏花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "令",
+        "variant": "今",
+        "source": "一作「今」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_242_023_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "送顧況泗上覲叔父",
+    "poem": [
+      "吳鄉歲貢足嘉賓，後進之中見此人。",
+      "別業更臨洙泗上，擬將書卷對殘春。"
+    ]
+  },
+  {
+    "uid": "QTS_242_024_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "留別",
+    "poem": [
+      "何事千年遇聖君，坐令雙鬢老江雲。",
+      "南行更入山深淺，岐路悠悠水自分。"
+    ]
+  },
+  {
+    "uid": "QTS_242_025_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "送張中丞歸使幕",
+    "poem": [
+      "獨受主恩歸，當朝似者稀。",
+      "玉壺分御酒，金殿賜春衣。",
+      "拂席流鶯醉，鳴鞭駿馬肥。",
+      "滿臺簪白筆，捧手戀清輝。"
+    ]
+  },
+  {
+    "uid": "QTS_242_026_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "華州夜宴庾侍御宅",
+    "poem": [
+      "世故他年別，心期此夜同。",
+      "千峰孤燭外，片雨一更中。",
+      "酒客逢山簡，詩人得謝公。",
+      "自憐驅匹馬，拂曙向關東。"
+    ]
+  },
+  {
+    "uid": "QTS_242_027_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "贈章八元",
+    "poem": [
+      "相見談經史，江樓坐夜闌。",
+      "風聲吹戶響，燈影照人寒。",
+      "俗薄交遊盡，時危出處難。",
+      "衰年逢二妙，亦得悶懷寬。"
+    ]
+  },
+  {
+    "uid": "QTS_242_028_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "城西虎跑寺",
+    "poem": [
+      "石勢虎蹲伏，山形龍屈盤。",
+      "寺開梁殿閣，墳掩晉衣冠。",
+      "出澗泉聲細，斜陽塔影寒。",
+      "近城多囗囗，棲息此中安。"
+    ]
+  },
+  {
+    "uid": "QTS_242_029_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "禇主簿宅會畢庶子錢員外郎使君",
+    "poem": [
+      "開甕臘酒熟，主人心賞同。",
+      "斜陽疎竹上，殘雪亂山中。",
+      "更喜宣城印，朝廷與謝公。"
+    ]
+  },
+  {
+    "uid": "QTS_242_030_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "奉送王相公赴幽州",
+    "poem": [
+      "黃閣開幃幄，丹墀拜冕旒。",
+      "位高湯左相，權總漢諸侯。",
+      "不改周南化，仍分趙北憂。",
+      "雙旌過易水，千騎入幽州。",
+      "塞草連天幕，邊風動地愁。",
+      "無因隨遠道，結束佩吳鉤。"
+    ]
+  },
+  {
+    "uid": "QTS_242_031_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "重經巴丘",
+    "poem": [
+      "昔年高接李膺歡，日泛仙舟醉碧瀾。",
+      "詩句亂隨青草落，酒腸俱逐洞庭寬。",
+      "浮生聚散雲相似，往事冥微夢一般。",
+      "今日片帆城下去，秋風回首淚闌干。"
+    ]
+  },
+  {
+    "uid": "QTS_242_032_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "九日巴丘楊公臺上宴集",
+    "poem": [
+      "淒淒霜日上高臺，水國秋涼客思哀。",
+      "萬疊銀山寒浪起，一行斜字早鴻來。",
+      "誰家搗練孤城暮，何處題衣遠信回。",
+      "江漢路長身不定，菊花三笑旅懷開。"
+    ]
+  },
+  {
+    "uid": "QTS_242_033_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "遊靈巖",
+    "poem": [
+      "靈巖有路入煙霞，臺殿高低釋子家。",
+      "風滿迴廊飄墜葉，水流絕澗泛秋花。",
+      "青松閱世風霜古，翠竹題詩歲月賒。",
+      "誰謂無生真可學，山中亦自有年華。"
+    ]
+  },
+  {
+    "uid": "QTS_242_034_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "河間獻王墓",
+    "poem": [
+      "漢家宗室獨稱賢，遺事閑中見舊編。",
+      "偶過河間尋往跡，卻憐荒冢帶寒煙。",
+      "頻求千古書連帙，獨對三雍策幾篇。",
+      "雅樂未興人已逝，雄歌依舊大風傳。"
+    ]
+  },
+  {
+    "uid": "QTS_242_035_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "秋日道中",
+    "poem": [
+      "齊魯西風草樹秋，川原高下過東州。",
+      "道邊白鶴來華表，陌上蒼麟臥古丘。",
+      "九曲半應非禹跡，三山何處是仙洲。",
+      "徑行俯仰成今古，卻憶當年賦遠遊。"
+    ]
+  },
+  {
+    "uid": "QTS_242_036_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "華清宮",
+    "poem": [
+      "天寶承平奈樂何，華清宮殿鬱嵯峩。",
+      "朝元閣峻臨秦嶺，羯鼓樓高俯渭河。",
+      "玉樹長飄雲外曲，霓裳閑舞月中歌。",
+      "只今惟有溫泉水，嗚咽聲中感慨多。"
+    ]
+  },
+  {
+    "uid": "QTS_242_037_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "春申君祠",
+    "poem": [
+      "春申祠宇空山裏，古柏陰陰石泉水。",
+      "日暮江南無主人，彌令過客思公子。",
+      "蕭條寒景傍山村，寂寞誰知楚相尊。",
+      "當時珠履三千客，趙使懷慚不敢言。"
+    ]
+  },
+  {
+    "uid": "QTS_242_038_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "人日代客子是日立春",
+    "poem": [
+      "人日兼春日，長懷復短懷。",
+      "遙知雙彩勝，併在一金釵。"
+    ]
+  },
+  {
+    "uid": "QTS_242_039_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "寄鄭員外",
+    "poem": [
+      "經月愁聞雨，新年苦憶君。",
+      "何時共登眺，整屐待晴雲。"
+    ]
+  },
+  {
+    "uid": "QTS_242_040_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "飲李十二宅",
+    "poem": [
+      "重門敞春夕，燈燭靄餘輝。",
+      "醉我百尊酒，留連夜未歸。"
+    ]
+  },
+  {
+    "uid": "QTS_242_041_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "山家",
+    "poem": [
+      "板橋人渡泉聲，茅檐日午雞鳴。",
+      "莫嗔焙茶煙暗，卻喜曬穀天晴。"
+    ]
+  },
+  {
+    "uid": "QTS_242_042_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "歸山",
+    "poem": [
+      "心事數莖白髮，生涯一片青山。",
+      "空林有雪相待，古道無人獨還。"
+    ]
+  },
+  {
+    "uid": "QTS_242_043_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "金谷園",
+    "poem": [
+      "綵樓歌館正融融，一騎星飛錦帳空。",
+      "老盡名花春不管，年年啼鳥怨東風。"
+    ]
+  },
+  {
+    "uid": "QTS_242_044_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "郵亭",
+    "poem": [
+      "雲淡山橫日欲斜，郵亭下馬對殘花。",
+      "自從身逐征西府，每到開時不在家。"
+    ]
+  },
+  {
+    "uid": "QTS_242_045_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "宿白馬寺",
+    "poem": [
+      "白馬馱經事已空，斷碑殘剎見遺蹤。",
+      "蕭蕭茅屋秋風起，一夜雨聲羈思濃。"
+    ]
+  },
+  {
+    "uid": "QTS_242_046_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "明德宮",
+    "poem": [
+      "碧瓦朱楹白晝閑，金衣寶扇曉風寒。",
+      "摩雲觀閣高如許，長對河流出斷山。"
+    ]
+  },
+  {
+    "uid": "QTS_242_047_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "讀嶧山碑",
+    "poem": [
+      "六國平來四海家，相君當代擅才華。",
+      "誰知頌德山頭石，卻與他人戒後車。"
+    ]
+  },
+  {
+    "uid": "QTS_242_048_01",
+    "volume": 242,
+    "author": {
+      "canonical": "張繼",
+      "recorded": "張繼",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q711236"
+    },
+    "title": "句",
+    "poem": [
+      "漢月經時掩，胡塵與歲深。"
+    ],
+    "part_index": 1
+  }
+]

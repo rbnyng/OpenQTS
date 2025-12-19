@@ -1,0 +1,1696 @@
+[
+  {
+    "uid": "QTS_588_001_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送友人往太原",
+    "poem": [
+      "離亭聊把酒，此路徹邊頭。",
+      "草白雁來盡，時清人去遊。",
+      "汾河流晉地，塞雪滿並州。",
+      "別後相思夜，空看北斗愁。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "空",
+        "variant": "遙",
+        "source": "一作「遙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_002_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "旅懷",
+    "poem": [
+      "萬里共心論，徒言吾道存。",
+      "奉親無別業，謁帝有何門。",
+      "水宿驚濤浦，山行落葉村。",
+      "長安長夢去，欹枕即聞猿。"
+    ]
+  },
+  {
+    "uid": "QTS_588_003_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送裴御史赴湖南",
+    "poem": [
+      "關門鳥道中，飛傳復乘驄。",
+      "暮雪離秦甸，春雲入楚宮。",
+      "平蕪天共闊，積水地多空。",
+      "使府懸帆去，能消幾日風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "關",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 2,
+        "text": "雲",
+        "variant": "雷",
+        "source": "一作「雷」"
+      },
+      {
+        "line": 4,
+        "text": "去",
+        "variant": "待",
+        "source": "一作「待」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_004_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送姚郜先輩赴汝州辟",
+    "poem": [
+      "行李事寒天，東來聘禮全。",
+      "州當定鼎處，人去偃戈年。",
+      "雷雨依嵩嶺，桑麻接楚田。",
+      "遙知清夜作，不是借戎篇。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "雷雨",
+        "variant": "風雨",
+        "source": "一作「風雨」，一作「雨雪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_005_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "初離黔中泊江上",
+    "poem": [
+      "去去把青桂，平生心不違。",
+      "更蒙蓮府辟，兼脫布衣歸。",
+      "霽岳明殘雪，清波漾落暉。",
+      "無窮幽鳥戲，時向棹前飛。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "霽岳",
+        "variant": "碧岫",
+        "source": "一作「碧岫」"
+      },
+      {
+        "line": 4,
+        "text": "戲",
+        "variant": "興",
+        "source": "一作「興」"
+      },
+      {
+        "line": 4,
+        "text": "時向",
+        "variant": "日起",
+        "source": "一作「日起」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_006_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "黔中酬同院韋判官",
+    "poem": [
+      "平生同所為，相遇偶然遲。",
+      "各著青袍後，無歸白社期。",
+      "江流來絕域，府地管諸夷。",
+      "聖代都無事，從公且賦詩。"
+    ]
+  },
+  {
+    "uid": "QTS_588_007_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "和范秘書襄陽舊游",
+    "poem": [
+      "聽話揚帆興，初從峴首還。",
+      "高吟入白浪，遙坐看青山。",
+      "枯木猿啼爽，寒汀鶴步閒。",
+      "秋來關去夢，幾夜度商顏。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "坐看",
+        "variant": "看出",
+        "source": "一作「看出」"
+      },
+      {
+        "line": 3,
+        "text": "枯木",
+        "variant": "古樹",
+        "source": "一作「古樹」"
+      },
+      {
+        "line": 3,
+        "text": "寒",
+        "variant": "突",
+        "source": "一作「突」"
+      },
+      {
+        "line": 3,
+        "text": "步",
+        "variant": "立",
+        "source": "一作「立」"
+      },
+      {
+        "line": 4,
+        "text": "關",
+        "variant": "南",
+        "source": "一作「南」"
+      },
+      {
+        "line": 4,
+        "text": "度",
+        "variant": "過",
+        "source": "一作「過」"
+      },
+      {
+        "line": 4,
+        "text": "顏",
+        "variant": "關",
+        "source": "一作「關」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_008_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "秋夜山中思歸送友人",
+    "poem": [
+      "蕭條對秋色，相憶在雲泉。",
+      "木落病身起，潮平歸思懸。",
+      "涼鐘山頂寺，暝火渡頭船。",
+      "此地非吾土，淹留又一年。"
+    ]
+  },
+  {
+    "uid": "QTS_588_009_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "自黔中東歸旅次淮上",
+    "poem": [
+      "行旅本同愁，黔吳復阻脩。",
+      "半年方中路，窮節到孤舟。",
+      "夕靄垂陰野，晨光動積流。",
+      "家山一夜夢，便是昔年遊。"
+    ]
+  },
+  {
+    "uid": "QTS_588_010_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "江夏春感舊",
+    "poem": [
+      "東風出海門，處處動林園。",
+      "澤國雪霜少，沙汀花木繁。",
+      "暖魚依水淺，晴雁入空翻。",
+      "何處陽和力，生萍不駐根。"
+    ]
+  },
+  {
+    "uid": "QTS_588_011_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "眉州別李使君",
+    "poem": [
+      "回首雪峰前，朱門心杳然。",
+      "離人自嗚咽，流水莫潺湲。",
+      "毒草通蠻徼，秋林近漏天。",
+      "一生從此去，五字有誰憐。"
+    ]
+  },
+  {
+    "uid": "QTS_588_012_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送許棠及第歸宣州",
+    "poem": [
+      "高科終自致，志業信如神。",
+      "待得逢公道，由來合貴身。",
+      "秋歸方覺好，舊夢始知真。",
+      "更想青山宅，誰為後主人。"
+    ]
+  },
+  {
+    "uid": "QTS_588_013_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "黔中罷職將泛江東",
+    "poem": [
+      "黔中初罷職，薄俸亦無殘。",
+      "舉目鄉關遠，攜家旅食難。",
+      "野梅將雪競，江月與沙寒。",
+      "兩鬢愁應白，何勞把鏡看。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "與",
+        "variant": "共",
+        "source": "一作「共」"
+      },
+      {
+        "line": 4,
+        "text": "何勞",
+        "variant": "勞心",
+        "source": "一作「勞心」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_014_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "長安書事寄所知",
+    "poem": [
+      "帝里本無名，端居有道情。",
+      "睡魂春夢斷，書興晚窗明。",
+      "老擬歸何處，閒應過此生。",
+      "江湖終一日，拜別便東行。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "斷",
+        "variant": "短",
+        "source": "一作「短」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_015_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "酬姚覃",
+    "poem": [
+      "不見又相招，何曾訴寂寥。",
+      "醉眠春草長，吟坐夜燈銷。",
+      "淚墮思山切，身歸轉路遙。",
+      "年年送別處，楊柳少垂條。"
+    ]
+  },
+  {
+    "uid": "QTS_588_016_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "春日鄜州贈裴居言",
+    "poem": [
+      "雖將身佐幕，出入似閒居。",
+      "草色長相待，山情信不疏。",
+      "燈前春睡足，酒後夜寒餘。",
+      "筆硯時時近，終非署簿書。"
+    ]
+  },
+  {
+    "uid": "QTS_588_017_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送于生入蜀",
+    "poem": [
+      "家吳聞入蜀，道路頗乖離。",
+      "一第何多難，都城可少知。",
+      "江山非久適，命數未終奇。",
+      "況又將冤抱，經春杜魄隨。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "適",
+        "variant": "戀",
+        "source": "一作「戀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_018_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送許棠歸涇縣作尉",
+    "poem": [
+      "青桂復青袍，一歸榮一高。",
+      "縣人齊下拜，邑宰共分曹。",
+      "繞郭看秧插，尋街聽繭繅。",
+      "封侯萬里者，燕頷乃徒勞。"
+    ]
+  },
+  {
+    "uid": "QTS_588_019_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "友人話別",
+    "poem": [
+      "論交雖不蚤，話別且相親。",
+      "除卻棲禪客，誰非南陌人。",
+      "半生都返性，終老擬安貧。",
+      "願入白雲社，高眠自致身。"
+    ]
+  },
+  {
+    "uid": "QTS_588_020_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "山居",
+    "poem": [
+      "欲出窮吾道，東西自未能。",
+      "捲書唯對鶴，開畫獨留僧。",
+      "落葉和雲掃，秋山共月登。",
+      "何年石上水，夜夜滴高層。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "書",
+        "variant": "簾",
+        "source": "一作「簾」"
+      },
+      {
+        "line": 2,
+        "text": "畫",
+        "variant": "卷",
+        "source": "一作「卷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_021_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "寄范郎中",
+    "poem": [
+      "藜杖山中出，吟詩對范家。",
+      "相知從海嶠，寄食向京華。",
+      "名宦成何報，清眸未縱賒。",
+      "臨邛夢來往，雨雪滿褒斜。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "對",
+        "variant": "獨",
+        "source": "一作「獨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_022_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "書懷",
+    "poem": [
+      "宦途從不問，身事覺無差。",
+      "華髮初生女，滄洲未有家。",
+      "卻閒思洞穴，終老曠桑麻。",
+      "別訪棲禪侶，相期語劫沙。"
+    ]
+  },
+  {
+    "uid": "QTS_588_023_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "越中行",
+    "poem": [
+      "越國臨滄海，芳洲復暮晴。",
+      "湖通諸浦白，日隱亂峰明。",
+      "野宿多無定，閒遊免有情。",
+      "天台聞不遠，終到石橋行。"
+    ]
+  },
+  {
+    "uid": "QTS_588_024_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "春日南遊寄浙東許同年",
+    "poem": [
+      "孤帆處處宿，不問是誰家。",
+      "南國平蕪遠，東風細雨斜。",
+      "旅懷多寄酒，寒意欲留花。",
+      "更想前途去，茫茫滄海涯。"
+    ]
+  },
+  {
+    "uid": "QTS_588_025_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "明州江亭夜別段秀才",
+    "poem": [
+      "離亭向水開，時候復蒸梅。",
+      "霹靂燈燭滅，蒹葭風雨來。",
+      "京關雖共語，海嶠不同回。",
+      "莫為蓴鱸美，天涯滯爾才。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "燈燭",
+        "variant": "燭燈",
+        "source": "一作「燭燈」"
+      },
+      {
+        "line": 3,
+        "text": "雖",
+        "variant": "誰",
+        "source": "一作「誰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_026_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "臨岐留別相知",
+    "poem": [
+      "百歲竟何事，一身長遠遊。",
+      "行行將近老，處處不離愁。",
+      "世路多相取，權門不自投。",
+      "難為此時別，欲別願人留。"
+    ]
+  },
+  {
+    "uid": "QTS_588_027_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "鄂渚湖上即事",
+    "poem": [
+      "杜門聊自適，湖水在窗間。",
+      "縱得滄洲去，無過白日閒。",
+      "多慵空好道，少賤早凋顏。",
+      "獨有東山月，依依自往還。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "洲",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 4,
+        "text": "山",
+        "variant": "峰",
+        "source": "一作「峰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_028_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "辭夏口崔尚書",
+    "poem": [
+      "一飯仍難受，依仁況一年。",
+      "終期身可報，不擬骨空鐫。",
+      "城晚風高角，江春浪起船。",
+      "同來棲止地，獨去塞鴻前。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "依仁況一年",
+        "variant": "淹留已半年",
+        "source": "一作「淹留已半年」"
+      },
+      {
+        "line": 4,
+        "text": "同來",
+        "variant": "曾同",
+        "source": "一作「曾同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_029_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "秦原早望",
+    "poem": [
+      "一忝鄉書薦，長安未得回。",
+      "年光逐渭水，春色上秦臺。",
+      "燕掠平蕪去，人衝細雨來。",
+      "東風生故里，又過幾花開。"
+    ]
+  },
+  {
+    "uid": "QTS_588_030_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送友人之揚州",
+    "poem": [
+      "一別長安後，晨征便信雞。",
+      "河聲入峽急，地勢出關低。",
+      "綠樹叢垓下，青蕪闊楚西。",
+      "路長知不惡，隨處得詩題。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "得",
+        "variant": "好",
+        "source": "一作「好」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_031_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "過四皓廟",
+    "poem": [
+      "東西南北人，高跡自相親。",
+      "天下已歸漢，山中猶避秦。",
+      "龍樓曾作客，鶴氅不為臣。",
+      "獨有千年後，青青廟木春。"
+    ]
+  },
+  {
+    "uid": "QTS_588_032_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "陝下懷歸",
+    "poem": [
+      "故園何處在，零落五湖東。",
+      "日暮無來客，天寒有去鴻。",
+      "大河冰徹塞，高嶽雪連空。",
+      "獨夜懸歸思，迢迢永漏中。"
+    ]
+  },
+  {
+    "uid": "QTS_588_033_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送徐處士歸江南",
+    "poem": [
+      "行行野雪薄，寒氣日通春。",
+      "故國又芳草，滄江終白身。",
+      "遊歸花落滿，睡起鳥啼新。",
+      "莫惜閒書札，西來問旅人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雪",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 1,
+        "text": "日",
+        "variant": "已",
+        "source": "一作「已」"
+      },
+      {
+        "line": 4,
+        "text": "莫惜閒書札，西來問旅人。",
+        "variant": "不得無來扎，空令惜問人。",
+        "source": "一作「不得無來扎，空令惜問人。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_034_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "鄜州留別王從事",
+    "poem": [
+      "相識未十日，相知如十年。",
+      "從來易離別，此去忽留連。",
+      "路險行沖雨，山高度隔天。",
+      "難終清夜坐，更聽說安邊。"
+    ]
+  },
+  {
+    "uid": "QTS_588_035_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "長安夜懷",
+    "poem": [
+      "匹馬西遊日，從吳又轉荊。",
+      "風雷幾夜坐，山水半年行。",
+      "夢永秋燈滅，吟餘曉露明。",
+      "良時不我與，白髮向秦生。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "秦生",
+        "variant": "頭盈",
+        "source": "一作「頭盈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_036_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "冬夜山中尋友",
+    "poem": [
+      "何人山雪夜，相訪不相思。",
+      "若得長閒日，應無暫到時。",
+      "葉寒凋欲盡，泉凍落還遲。",
+      "即此天明去，重來未有期。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "何人山雪夜，相訪不相思。",
+        "variant": "夜山深雪後，月下獨尋師。",
+        "source": "一作「夜山深雪後，月下獨尋師。」"
+      },
+      {
+        "line": 2,
+        "text": "到",
+        "variant": "時",
+        "source": "一作「時」"
+      },
+      {
+        "line": 4,
+        "text": "未有",
+        "variant": "又未",
+        "source": "一作「又未」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_037_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送劉山人歸洞庭",
+    "poem": [
+      "君逐雲山去，人間又絕蹤。",
+      "半湖乘早月，中路入踈鐘。",
+      "秋盡草蟲急，夜深山雨重。",
+      "平生心未已，豈得更相從。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "君逐雲山去，人間又絕蹤。",
+        "variant": "去意無人會，唯應道是從。",
+        "source": "一作「去意無人會，唯應道是從。」又作「卻共歸雲去，高眠最上峰。」"
+      },
+      {
+        "line": 3,
+        "text": "草",
+        "variant": "戶",
+        "source": "一作「戶」"
+      },
+      {
+        "line": 4,
+        "text": "平生心未已，豈得更相從。",
+        "variant": "當時同隱者，分得幾株松。",
+        "source": "一作「當時同隱者，分得幾株松。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_038_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "古意",
+    "poem": [
+      "白馬遊何處，青樓日正長。",
+      "鳳簫拋舊曲，鸞鏡嬾新妝。",
+      "玄鳥深巢靜，飛花入戶香。",
+      "雖非竇滔婦，錦字已成章。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "深",
+        "variant": "空",
+        "source": "一作「空」"
+      },
+      {
+        "line": 3,
+        "text": "靜",
+        "variant": "語",
+        "source": "一作「語」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_039_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "避暑",
+    "poem": [
+      "當暑憶歸林，陶家借柳陰。",
+      "蟬從初伏噪，客向晚涼吟。",
+      "白日欺玄鬢，滄江負素心。"
+    ]
+  },
+  {
+    "uid": "QTS_588_040_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送吳秘書歸杭州",
+    "poem": [
+      "為客得從容，官清料復重。",
+      "海崖歸有業，天目近何峰。",
+      "是處通春棹，無村不夜舂。",
+      "馬卿誇貴達，還說返臨卭。"
+    ]
+  },
+  {
+    "uid": "QTS_588_041_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "中秋對月",
+    "poem": [
+      "秋分一夜停，陰魄最晶熒。",
+      "好是生滄海，徐看歷杳冥。",
+      "層空疑洗色，萬怪想潛形。",
+      "他夕無相類，晨雞不可聽。"
+    ]
+  },
+  {
+    "uid": "QTS_588_042_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "八月上峽",
+    "poem": [
+      "萬里巴江水，秋來滿峽流。",
+      "亂山無陸路，行客在孤舟。",
+      "洶洶灘聲急，冥冥樹色愁。",
+      "免為三不弔，已白一生頭。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "巴江",
+        "variant": "西南",
+        "source": "一作「西南」"
+      },
+      {
+        "line": 4,
+        "text": "已",
+        "variant": "終",
+        "source": "一作「終」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_043_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送狄明府赴九江",
+    "poem": [
+      "字人脩祖德，清白定聞傳。",
+      "匹馬從秦去，孤帆入楚懸。",
+      "關中寒食雨，湖上暑衣天。",
+      "四考兼重請，相知住幾年。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "從",
+        "variant": "離",
+        "source": "一作「離」"
+      },
+      {
+        "line": 4,
+        "text": "請",
+        "variant": "攝",
+        "source": "一作「攝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_044_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "陝下投姚諫議",
+    "poem": [
+      "舊業在東鄙，西遊從楚荊。",
+      "風雷幾夜坐，山水半年行。",
+      "夢永秋燈滅，吟孤曉露明。",
+      "前心若不遂，有聇卻歸耕。"
+    ]
+  },
+  {
+    "uid": "QTS_588_045_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "關東逢薛能",
+    "poem": [
+      "何處不相思，相逢還有時。",
+      "交心如到老，會面未為遲。",
+      "苦學緣明代，勞生欲白髭。",
+      "唯君一度別，便似見無期。"
+    ]
+  },
+  {
+    "uid": "QTS_588_046_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "富春贈孫璐",
+    "poem": [
+      "天柱與天目，曾棲絕頂房。",
+      "青雲求祿晚，白日坐家長。",
+      "井氣通潮信，牕風引海涼。",
+      "平生詩稱在，老達亦何妨。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "稱",
+        "variant": "稿",
+        "source": "一作「稿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_047_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送友人游蜀",
+    "poem": [
+      "東堂雖不捷，西去復何愁。",
+      "蜀馬知歸路，巴山似舊遊。",
+      "星臨劔閣動，花落錦江流。",
+      "鼓吹青林下，時聞祭武侯。"
+    ]
+  },
+  {
+    "uid": "QTS_588_048_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "夏日盩厔郊居寄姚少府",
+    "poem": [
+      "古木有清陰，寒泉有下深。",
+      "蟬從初伏噪，客向晚涼吟。",
+      "白日欺玄鬢，滄江負素心。",
+      "甚思中夜話，何路許相尋。"
+    ]
+  },
+  {
+    "uid": "QTS_588_049_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送胡休處士歸湘江",
+    "poem": [
+      "見說湘江切，長愁有去時。",
+      "江湖秋涉遠，雷雨夜眠遲。",
+      "舊業多歸興，空山盡老期。",
+      "天寒一瓢酒，落日醉留誰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "說",
+        "variant": "話",
+        "source": "一作「話」"
+      },
+      {
+        "line": 1,
+        "text": "湘江",
+        "variant": "荊湘",
+        "source": "一作「荊湘」"
+      },
+      {
+        "line": 2,
+        "text": "雷",
+        "variant": "風",
+        "source": "一作「風」"
+      },
+      {
+        "line": 2,
+        "text": "雨",
+        "variant": "電",
+        "source": "一作「電」"
+      },
+      {
+        "line": 4,
+        "text": "醉",
+        "variant": "擬",
+        "source": "一作「擬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_050_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "峽州送清澈上人歸浙西",
+    "poem": [
+      "風濤幾千里，歸路半乘舟。",
+      "此地難相遇，何人更共遊。",
+      "坐經嵩頂夏，行值洛陽秋。",
+      "到寺安禪夕，江雲滿石樓。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遇",
+        "variant": "別",
+        "source": "一作「別」"
+      },
+      {
+        "line": 2,
+        "text": "遊",
+        "variant": "留",
+        "source": "一作「留」"
+      },
+      {
+        "line": 4,
+        "text": "滿",
+        "variant": "過",
+        "source": "一作「過」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_051_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送僧入天台",
+    "poem": [
+      "一錫隨緣赴，天台又去登。",
+      "長亭舊別路，落日獨行僧。",
+      "夜燒山何處，秋帆浪幾層。",
+      "他時授巾拂，莫為老無能。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "為",
+        "variant": "說",
+        "source": "一作「說」，一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_052_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "回山後寄范酇先輩",
+    "poem": [
+      "高樓會月夜，北雁向南分。",
+      "留住經春雪，辭來見夏雲。",
+      "遙空江不極，絕頂日難曛。",
+      "一與山僧坐，無因得議文。"
+    ]
+  },
+  {
+    "uid": "QTS_588_053_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "長安送友人東歸",
+    "poem": [
+      "白社思歸處，青門見去人。",
+      "鄉遙茂苑樹，路入廣陵塵。",
+      "海日潮浮曉，湖山雪露春。",
+      "猶期來帝里，未是得閒人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遙",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 3,
+        "text": "露",
+        "variant": "帶",
+        "source": "一作「帶」"
+      },
+      {
+        "line": 4,
+        "text": "人",
+        "variant": "身",
+        "source": "一作「身」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_054_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "深秋過源宗上人房",
+    "poem": [
+      "到日值搖落，相留山舍空。",
+      "微寒生夜半，積雨向秋終。",
+      "度講多來雁，經禪少候蟲。",
+      "方從聽話後，不省在愁中。"
+    ]
+  },
+  {
+    "uid": "QTS_588_055_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "秋日登山閣",
+    "poem": [
+      "蒼蒼山閣晚，杳杳隙塵秋。",
+      "偶上多時立，翻成盡日愁。",
+      "草平連邑動，河滿逐江流。",
+      "下視窮邊路，行人在隴頭。"
+    ]
+  },
+  {
+    "uid": "QTS_588_056_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "秋宿慈恩寺遂上人院",
+    "poem": [
+      "滿閣終南色，清宵獨倚欄。",
+      "風高斜漢動，葉下曲江寒。",
+      "帝里求名老，空門見性難。",
+      "吾師無一事，不似在長安。"
+    ]
+  },
+  {
+    "uid": "QTS_588_057_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "題棲霞寺慶上人院",
+    "poem": [
+      "居與鳥巢鄰，日將巢鳥親。",
+      "多生從此性，久集得無身。",
+      "樹老風終夜，山寒雪見春。",
+      "不知諸祖後，傳印是何人。"
+    ]
+  },
+  {
+    "uid": "QTS_588_058_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送友人入蜀",
+    "poem": [
+      "天際蜀門開，西看舉別杯。",
+      "何人不異禮，上客自懷才。",
+      "夜澗青林發，秋江淥水來。",
+      "臨卭行樂處，莫到白頭回。"
+    ]
+  },
+  {
+    "uid": "QTS_588_059_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "贈同官蘇明府",
+    "poem": [
+      "山中畿內邑，別覺大夫清。",
+      "簿領分王事，官資寄野情。",
+      "閒齋無獄訟，隱幾向泉聲。",
+      "從此朝天路，門前是去程。"
+    ]
+  },
+  {
+    "uid": "QTS_588_060_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送厲圖南往荊州覲伯",
+    "poem": [
+      "雲水入荊湘，古來魚鳥鄉。",
+      "故關重隔遠，春日獨行長。",
+      "山溜含清韻，江雷吐夜光。",
+      "郡中詞客會，遊子更升堂。"
+    ]
+  },
+  {
+    "uid": "QTS_588_061_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "山中夜坐",
+    "poem": [
+      "歸家來幾夜，倏忽覺秋殘。",
+      "月滿方塘白，風依老樹寒。",
+      "戲魚重躍定，驚鳥卻棲難。",
+      "為有門前路，吾生不得安。"
+    ]
+  },
+  {
+    "uid": "QTS_588_062_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送台州唐興陳明府",
+    "poem": [
+      "見說海西隅，山川與俗殊。",
+      "宦遊如不到，仙分即應無。",
+      "瀑布當公署，天台是縣圖。",
+      "遙知為吏去，有術字惸孤。"
+    ]
+  },
+  {
+    "uid": "QTS_588_063_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "夏日過友人檀溪別業",
+    "poem": [
+      "暑天宜野宅，林籟爽泠泠。",
+      "沙月邀開戶，岩風助掃庭。",
+      "鷺棲依綠筱，魚躍出清萍。",
+      "客抱方如醉，因來得暫醒。"
+    ]
+  },
+  {
+    "uid": "QTS_588_064_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "自江上入關",
+    "poem": [
+      "盡室寄滄洲，孤帆獨溯流。",
+      "天涯心似夢，江上雨兼秋。",
+      "文字為人棄，田園被債收。",
+      "此名如不得，何處擬將休。"
+    ]
+  },
+  {
+    "uid": "QTS_588_065_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "冬夜和范秘書宿秘省中作",
+    "poem": [
+      "每日得閒吟，清曹闕下深。",
+      "因知遙夜坐，別有遠山心。",
+      "芸細書中氣，松疎雪後陰。",
+      "歸時高興足，還複插朝簪。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "日",
+        "variant": "入",
+        "source": "一作「入」"
+      },
+      {
+        "line": 3,
+        "text": "後",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_588_066_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "送友人遊太原",
+    "poem": [
+      "孤帆幾日懸，楚客思飄然。",
+      "水宿南湖夜，山離舊國年。",
+      "秋風高送雁，寒雨入停蟬。",
+      "此去勤書札，時常中路傳。"
+    ]
+  },
+  {
+    "uid": "QTS_588_067_01",
+    "volume": 588,
+    "author": {
+      "canonical": "李頻",
+      "recorded": "李頻",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Pin",
+      "wikidata_id": "Q6539003"
+    },
+    "title": "江上居寄山中客",
+    "poem": [
+      "山後與山前，相思隔叫猿。",
+      "殘雲收樹末，返照落江源。",
+      "苦雨秋濤漲，狂風野火翻。",
+      "朝來賣藥客，遇我達無言。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "無",
+        "variant": "君",
+        "source": "一作「君」"
+      }
+    ]
+  }
+]

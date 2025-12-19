@@ -1,0 +1,713 @@
+[
+  {
+    "uid": "QTS_031_001_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黃帝宮音",
+    "poem": [
+      "黃中正位，含章居貞。",
+      "既長六律，兼和五聲。",
+      "畢陳萬舞，乃薦斯牲。",
+      "神其下降，永祚休平。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「祀五方上帝《五郊樂》，祀黃帝降神奏《宮音》，皇帝行用《太和》。登歌、奠玉帛用《肅和》。迎俎用《雍和》。酌獻、飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。送神用《豫和》。其《太和》、《壽和》、《凱安》、《豫和》四章，辭同《圜丘》。祀青帝降神奏《角音》，祀赤帝降神奏《徵音》，祀白帝降神奏《商音》，祀黑帝降神奏《羽音》，餘同黃帝。」〉"
+  },
+  {
+    "uid": "QTS_031_002_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黃帝宮音肅和",
+    "poem": [
+      "眇眇方輿，蒼蒼圜蓋。",
+      "至哉樞紐，宅中圖大。",
+      "氣調四序，風和萬籟。",
+      "祚我明德，時雍道泰。"
+    ]
+  },
+  {
+    "uid": "QTS_031_003_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黃帝宮音雍和",
+    "poem": [
+      "金懸夕肆，玉俎朝陳。",
+      "饗薦黃道，芬流紫辰。",
+      "廼誠廼敬，載享載禋。",
+      "崇薦斯在，惟皇是賓。"
+    ]
+  },
+  {
+    "uid": "QTS_031_004_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黃帝宮音舒和",
+    "poem": [
+      "御徵乘宮出郊甸，安歌率舞逓將迎。",
+      "自有雲門符帝賞，猶持雷鼓荅天成。"
+    ]
+  },
+  {
+    "uid": "QTS_031_005_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 青帝角音",
+    "poem": [
+      "鶴雲旦起，鳥星昏集。",
+      "律候新風，陽開初蟄。",
+      "至德可饗，行潦斯挹。",
+      "錫以無疆，烝人乃粒。"
+    ]
+  },
+  {
+    "uid": "QTS_031_006_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 青帝角音肅和",
+    "poem": [
+      "玄鳥司春，蒼龍登歲。",
+      "節物變柳，光風轉蕙。",
+      "瑤席降神，朱弦饗帝。",
+      "誠備祝嘏，禮殫珪幣。"
+    ]
+  },
+  {
+    "uid": "QTS_031_007_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 青帝角音雍和",
+    "poem": [
+      "大樂稀音，至誠簡禮。",
+      "文物棣棣，聲名濟濟。",
+      "六變有成，三登無體。",
+      "廼眷豐絜，恩覃愷悌。"
+    ]
+  },
+  {
+    "uid": "QTS_031_008_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 青帝角音舒和",
+    "poem": [
+      "笙歌籥舞屬年韶，鷺鼓鳧鐘展時豫。",
+      "調露初迎綺春節，承雲遽踐蒼霄馭。"
+    ]
+  },
+  {
+    "uid": "QTS_031_009_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 赤帝徵音",
+    "poem": [
+      "青陽告謝，朱明戒序。",
+      "咸長是祈，敬陳椒醑。",
+      "博碩斯薦，笙鏞備舉。",
+      "庶盡肅恭，非馨稷黍。"
+    ]
+  },
+  {
+    "uid": "QTS_031_010_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 赤帝徵音肅和",
+    "poem": [
+      "離位克明，火中宵見。",
+      "峯雲暮起，景風晨扇。",
+      "木槿初榮，含桃可薦。",
+      "芬馥百品，鏗鏘三變。"
+    ]
+  },
+  {
+    "uid": "QTS_031_011_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 赤帝徵音雍和",
+    "poem": [
+      "昭昭丹陸，帟帟炎方。",
+      "禮陳牲幣，樂備箎簧。",
+      "瓊羞溢俎，玉𨣧浮觴。",
+      "恭惟正直，歆此馨香。"
+    ]
+  },
+  {
+    "uid": "QTS_031_012_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 赤帝徵音舒和",
+    "poem": [
+      "千里溫風飄降羽，十枝炎景媵朱干。",
+      "陳觴薦俎歌三獻，拊石摐金會七盤。"
+    ]
+  },
+  {
+    "uid": "QTS_031_013_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 白帝商音",
+    "poem": [
+      "白藏應節，天高氣清。",
+      "歲功既阜，庶類收成。",
+      "萬方靜謐，九土和平。",
+      "馨香是薦，受祚聰明。"
+    ]
+  },
+  {
+    "uid": "QTS_031_014_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 白帝商音肅和",
+    "poem": [
+      "金行在節，素靈居正。",
+      "氣肅霜嚴，林凋草勁。",
+      "豺祭隼擊，潦收川鏡。",
+      "九穀已登，萬箱流詠。"
+    ]
+  },
+  {
+    "uid": "QTS_031_015_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 白帝商音雍和",
+    "poem": [
+      "律應西成，氣躔南呂。",
+      "珪幣咸列，笙竽備舉。",
+      "苾苾蘭羞，芬芬桂醑。",
+      "式資宴貺，用調霜序。"
+    ]
+  },
+  {
+    "uid": "QTS_031_016_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 白帝商音舒和",
+    "poem": [
+      "璿儀氣爽驚緹籥，玉呂灰飛含素商。",
+      "鳴鞞奏管芳羞薦，會舞安歌葆眊揚。"
+    ]
+  },
+  {
+    "uid": "QTS_031_017_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黑帝羽音",
+    "poem": [
+      "嚴冬季月，星迴風厲。",
+      "享祀報功，方祚來歲。"
+    ]
+  },
+  {
+    "uid": "QTS_031_018_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黑帝羽音肅和",
+    "poem": [
+      "律周玉琯，星回金度。",
+      "次極陽烏，紀窮陰兔。",
+      "火林霰雪，陽泉凝冱。",
+      "八蜡已登，三農息務。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "周",
+        "variant": "回",
+        "source": "一作「回」"
+      },
+      {
+        "line": 1,
+        "text": "回",
+        "variant": "周",
+        "source": "一作「周」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_031_019_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黑帝羽音雍和",
+    "poem": [
+      "陽月斯紀，應鍾在候。",
+      "載絜牲牷，爰登俎豆。",
+      "既高既遠，無聲無臭。",
+      "靜言格思，惟神保祐。"
+    ]
+  },
+  {
+    "uid": "QTS_031_020_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "五郊樂章 黑帝羽音舒和",
+    "poem": [
+      "執籥持羽初終曲，朱干玉鏚始分行。",
+      "七德九功咸已暢，明靈降福具穰穰。"
+    ]
+  },
+  {
+    "uid": "QTS_031_021_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 永和",
+    "poem": [
+      "於穆烈祖，弘此丕基。",
+      "永言配命，子孫保之。",
+      "百神既洽，萬國在茲。",
+      "是用孝享，神其格思。"
+    ],
+    "preface": "〈《唐書·樂志》曰：「貞觀中《享太廟樂》，迎神用《永和》，九變，辭同。皇帝行用《太和》。登歌、酌鬯用《肅和》。迎俎用《雍和》。獻皇祖宣簡公、皇祖懿王同用《長發》之舞。景皇帝用《大基》之舞。元皇帝用《大成》之舞。高祖用《大明》之舞。皇帝飲福用《壽和》。送文舞出、迎武舞入用《舒和》。武舞用《凱安》。徹俎用《雍和》。送神用《永和》。其《太和》、《凱安》，辭同《冬至圜丘》。」〉"
+  },
+  {
+    "uid": "QTS_031_022_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 肅和",
+    "poem": [
+      "大哉至德，允茲明聖。",
+      "格於上下，聿遵誠敬。",
+      "嘉樂斯登，鳴球以詠。",
+      "神其降止，式隆景命。"
+    ]
+  },
+  {
+    "uid": "QTS_031_023_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 雍和",
+    "poem": [
+      "崇茲享祀，誠敬兼至。",
+      "樂以感靈，禮以昭事。",
+      "粢盛咸絜，牲牷孔備。",
+      "永言孝思，庶幾不匱。"
+    ]
+  },
+  {
+    "uid": "QTS_031_024_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 長發舞",
+    "poem": [
+      "濬哲惟唐，長發其祥。",
+      "帝命斯祐，王業克昌。",
+      "配天載德，就日重光。",
+      "本枝百代，申錫無疆。"
+    ]
+  },
+  {
+    "uid": "QTS_031_025_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 大基舞",
+    "poem": [
+      "猗與祖業，皇矣帝先。",
+      "剪商德厚，封唐慶延。",
+      "在姬猶稷，方晉踰宣。",
+      "基我鼎運，於斯萬年。"
+    ]
+  },
+  {
+    "uid": "QTS_031_026_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 大成舞",
+    "poem": [
+      "周穆王季，晉美帝文。",
+      "明明盛德，穆穆齊芬。",
+      "藏用四履，屈道參分。",
+      "鏗鏘鐘石，載紀鴻勳。"
+    ]
+  },
+  {
+    "uid": "QTS_031_027_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 大明舞",
+    "poem": [
+      "五紀更運，三正逓升。",
+      "勛華既沒，禹湯勃興。",
+      "神武命代，靈睠是膺。",
+      "望雲彰德，察緯告徵。",
+      "上紐天維，下安地軸。",
+      "徵師涿野，萬國咸服。",
+      "偃伯靈臺，九官允穆。",
+      "殊域委贐，懷生介福。",
+      "大禮既飾，大樂已和。",
+      "黑章擾囿，赤字浮河。",
+      "功宣載籍，德被詠歌。",
+      "克昌厥後，百祿是荷。"
+    ]
+  },
+  {
+    "uid": "QTS_031_028_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 壽和",
+    "poem": [
+      "八音斯奏，三獻畢陳。",
+      "寶祚惟永，暉光日新。"
+    ]
+  },
+  {
+    "uid": "QTS_031_029_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 舒和",
+    "poem": [
+      "聖敬通神光七廟，靈心薦祚和萬方。",
+      "嚴禋克配鴻基遠，明德惟馨鳳曆昌。"
+    ]
+  },
+  {
+    "uid": "QTS_031_030_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 雍和",
+    "poem": [
+      "於穆清廟，聿脩嚴祀。",
+      "四縣載陳，三獻斯止。",
+      "籩豆撤薦，人祗介祉。",
+      "神惟格思，錫祚不已。"
+    ]
+  },
+  {
+    "uid": "QTS_031_031_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "享太廟樂章 永和",
+    "poem": [
+      "肅肅清祀，烝烝孝思。",
+      "薦享昭備，虔恭在茲。",
+      "雍歌撤俎，祝嘏陳辭。",
+      "用光武志，永固鴻基。"
+    ]
+  },
+  {
+    "uid": "QTS_031_032_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "賦西漢",
+    "poem": [
+      "受降臨軹道，爭長趣鴻門。",
+      "驅傳渭橋上，觀兵細柳屯。",
+      "夜宴經柏谷，朝遊出杜原。",
+      "終藉叔孫禮，方知皇帝尊。"
+    ]
+  },
+  {
+    "uid": "QTS_031_033_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "暮秋言懷",
+    "poem": [
+      "首夏別京輔，杪秋滯三河。",
+      "沈沈蓬萊閣，日夕鄉思多。",
+      "霜剪涼階蕙，風捎幽渚荷。",
+      "歲芳坐淪歇，感此式微歌。"
+    ]
+  },
+  {
+    "uid": "QTS_031_034_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "述懷",
+    "poem": [
+      "中原初逐鹿，投筆事戎軒。",
+      "縱橫計不就，慷慨志猶存。",
+      "杖策謁天子，驅馬出關門。",
+      "請纓繫南粵，憑軾下東藩。",
+      "鬱紆陟高岫，出沒望平原。",
+      "古木鳴寒鳥，空山啼夜猿。",
+      "既傷千里目，還驚九折魂。",
+      "豈不憚艱險，深懷國士恩。",
+      "季布無二諾，侯嬴重一言。",
+      "人生感意氣，功名誰復論。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "初",
+        "variant": "還",
+        "source": "一作「還」"
+      },
+      {
+        "line": 6,
+        "text": "鳥",
+        "variant": "鴈",
+        "source": "一作「鴈」"
+      },
+      {
+        "line": 7,
+        "text": "折",
+        "variant": "逝",
+        "source": "一作「逝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_031_035_01",
+    "volume": 31,
+    "author": {
+      "canonical": "魏徵",
+      "recorded": "魏徵",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Wei Zheng",
+      "wikidata_id": "Q378356"
+    },
+    "title": "奉和正日臨朝應詔",
+    "poem": [
+      "百靈侍軒後，萬國會塗山。",
+      "豈如今睿哲，邁古獨光前。",
+      "聲教溢四海，朝宗引百川。",
+      "鏘洋鳴玉珮，灼爍耀金蟬。",
+      "淑景輝雕輦，高旌揚翠煙。",
+      "庭實超王會，廣樂盛鈞天。",
+      "既欣東日戶，復詠南風篇。",
+      "願奉光華慶，從斯億萬年。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "既欣東日戶",
+        "variant": "既傾東戶日",
+        "source": "一作「既傾東戶日」"
+      }
+    ]
+  }
+]

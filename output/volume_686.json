@@ -1,0 +1,1828 @@
+[
+  {
+    "uid": "QTS_686_001_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 阿對泉",
+    "poem": [
+      "六載抽毫侍禁闈，可堪多病決然歸。",
+      "五陵年少如相問，阿對泉頭一布衣。"
+    ],
+    "notes": [
+      {
+        "content": "一本「閿鄉」上有「壬戌嵗」三字。",
+        "context": "閿鄉寓居十首",
+        "original_title": "閿鄉寓居十首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "可",
+        "variant": "不",
+        "source": "一作「不」"
+      },
+      {
+        "line": 1,
+        "text": "多",
+        "variant": "衰",
+        "source": "一作「衰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_02",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 蛙聲",
+    "poem": [
+      "穉圭倫鑒未精通，只把蛙聲鼓吹同。",
+      "君聽月明人靜夜，肯饒天籟與松風。"
+    ],
+    "part_index": 2,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "倫",
+        "variant": "論",
+        "source": "一作「論」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_03",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 茆堂",
+    "poem": [
+      "結得茆簷瞰碧溪，閒雲之外不同棲。",
+      "猶嫌未遠函關道，正睡剛聞報曉雞。"
+    ],
+    "part_index": 3,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "瞰",
+        "variant": "傍",
+        "source": "一作「傍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_04",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 清溪",
+    "poem": [
+      "清溪見底露蒼苔，密竹垂藤鎖不開。",
+      "應是仙家在深處，愛流花片引人來。"
+    ],
+    "part_index": 4,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 2,
+        "text": "愛",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_05",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 釣竿",
+    "poem": [
+      "曾拋釣渚入秦關，今卻持竿傍碧灘。",
+      "認得舊溪兼舊意，恰如羊祜識金環。"
+    ],
+    "part_index": 5,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 2,
+        "text": "溪",
+        "variant": "游",
+        "source": "一作「游」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_06",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 山僧",
+    "poem": [
+      "石臼山頭有一僧，朝無香積夜無燈。",
+      "近嫌俗客知蹤跡，擬向中方斷石層。"
+    ],
+    "part_index": 6,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_686_001_07",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 小徑",
+    "poem": [
+      "礙竹妨花一徑幽，攀援可到玉峰頭。",
+      "若教須作康莊好，更有高車駟馬憂。"
+    ],
+    "part_index": 7,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "可到",
+        "variant": "應對",
+        "source": "一作「應對」"
+      },
+      {
+        "line": 2,
+        "text": "更",
+        "variant": "便",
+        "source": "一作「便」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_08",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 聞提壺鳥",
+    "poem": [
+      "早於批鵊巧於鶯，故國春林足此聲。",
+      "今在天涯別館裏，為君沽酒復何情。"
+    ],
+    "part_index": 8,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_686_001_09",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 木塔偶題",
+    "poem": [
+      "西南古剎近芳林，偶得高秋試一吟。",
+      "無限黃花襯黃葉，可須春月始傷心。"
+    ],
+    "part_index": 9,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 2,
+        "text": "可",
+        "variant": "何",
+        "source": "一作「何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_001_10",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "閿鄉寓居十首 山禽",
+    "poem": [
+      "碧嶂為家煙外棲，銜紅啄翠入芳蹊。",
+      "可能知我心無定，頻褭花枝拂面啼。"
+    ],
+    "part_index": 10,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_686_002_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "聞歌",
+    "poem": [
+      "貫珠一夜奏纍纍，儘是荀家舊教詞。",
+      "落盡梁塵腸不斷，九原誰報小憐知"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "九原誰報小憐知",
+        "variant": "一聲嬌柳褭寒枝",
+        "source": "一作「一聲嬌柳褭寒枝」，一作「小寒知」。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_003_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "即席",
+    "poem": [
+      "竹引絲隨嫋翠樓，滿筵驚動玉關秋。",
+      "何人借與丹青筆，畫取當時八字愁。"
+    ]
+  },
+  {
+    "uid": "QTS_686_004_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "便殿候對",
+    "poem": [
+      "宣呼晝入蘂珠宮，玉女窗扉薄霧籠。",
+      "待得華胥春夢覺，半竿斜日下廂風。"
+    ]
+  },
+  {
+    "uid": "QTS_686_005_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 登七盤嶺二首 其一",
+    "poem": [
+      "才非賈傅亦遷官，五月驅羸上七盤。",
+      "從此自知身計定，不能迴首望長安。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_686_005_02",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 登七盤嶺二首 其二",
+    "poem": [
+      "七盤嶺上一長號，將謂青天鑒鬱陶。",
+      "近日青天都不鑒，七盤應是未高高。"
+    ],
+    "part_index": 2,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 2,
+        "text": "高高",
+        "variant": "爲高",
+        "source": "一作「爲高」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_005_03",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 渡漢江初嘗鯿魚有作",
+    "poem": [
+      "嘯父知機先憶魚，季鷹無事已思鱸。",
+      "自慙初識查頭味，正是棲棲哭阮塗。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_686_005_04",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 溪翁",
+    "poem": [
+      "飯稻羹菰曉復昏，碧灘聲裏長諸孫。",
+      "應嗟獨上涔陽客，排比椒漿奠楚魂。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_686_005_05",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 寄友人",
+    "poem": [
+      "驚魂往往坐疑飄，便好為文慰寂寥。",
+      "若待清湘葬魚了，縱然招得不堪招。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_686_005_06",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 途中偶懷",
+    "poem": [
+      "無路能酬國士恩，短亭寂寂到黃昏。",
+      "迴腸一寸危如綫，賴得商山未有猨。"
+    ],
+    "part_index": 6,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "寂",
+        "variant": "寥",
+        "source": "一作「寥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_005_07",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "南遷途中作七首 訪貫休上人",
+    "poem": [
+      "休公為我設蘭湯，方便教人學洗腸。",
+      "自覺塵纓頓瀟灑，南行不復問滄浪。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_686_006_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "鴛鴦",
+    "poem": [
+      "翠翹紅頸覆金衣，灘上雙雙去又歸。",
+      "長短死生無兩處，可憐黃鵠愛分飛。"
+    ]
+  },
+  {
+    "uid": "QTS_686_007_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "野步",
+    "poem": [
+      "一曲兩曲澗邊草，千枝萬枝村落花。",
+      "攜笻深去不知處，幾歎山阿隔酒家。"
+    ]
+  },
+  {
+    "uid": "QTS_686_008_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "酬僧",
+    "poem": [
+      "玉堂全不限常朝，臥待重城宿霧銷。",
+      "翻憶故山深雪裏，滿爐枯柏帶煙燒。"
+    ]
+  },
+  {
+    "uid": "QTS_686_009_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "買帶花櫻桃",
+    "poem": [
+      "粉紅輕淺靚妝新，和露和煙別近鄰。",
+      "萬一有情應有恨，一年榮落兩家春。"
+    ]
+  },
+  {
+    "uid": "QTS_686_010_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "海棠二首 其一",
+    "poem": [
+      "太尉園林兩樹春，年年奔走探花人。",
+      "今來獨倚荊山看，迴首長安落戰塵。"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "今番禺太尉徐公興化亭子有海棠二株。",
+        "context": "今來獨倚荊山看，迴首長安落戰塵。"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_010_02",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "海棠二首 其二",
+    "poem": [
+      "雲綻霞鋪錦水頭，占春顏色最風流。",
+      "若教更近天街種，馬上多逢醉五侯。"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "今番禺太尉徐公興化亭子有海棠二株。",
+        "context": "今來獨倚荊山看，迴首長安落戰塵。"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_011_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "送僧上峽歸東蜀",
+    "poem": [
+      "巴字江流一棹迴，紫袈裟是禁中裁。",
+      "如從十二峯前過，莫賦佳人殊未來。"
+    ]
+  },
+  {
+    "uid": "QTS_686_012_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "杏花",
+    "poem": [
+      "春物競相妬，杏花應最嬌。",
+      "紅輕欲愁殺，粉薄似啼銷。",
+      "願作南華蝶，翩翩繞此條。"
+    ],
+    "notes": [
+      {
+        "content": "五言三韻",
+        "context": "杏花",
+        "original_title": "杏花〈五言三韻〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_013_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "草",
+    "poem": [
+      "染亦不可成，畫亦不可得。",
+      "萇弘未死時，應無此顏色。"
+    ]
+  },
+  {
+    "uid": "QTS_686_014_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "和楊侍郎",
+    "poem": [
+      "目極家山遠，身拘禁苑深。",
+      "煙霄慙暮齒，麋鹿媿初心。"
+    ]
+  },
+  {
+    "uid": "QTS_686_015_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "山居喜友人相訪",
+    "poem": [
+      "秋雨空山夜，非君不此來。",
+      "高於剡溪雪，一棹到門回。"
+    ]
+  },
+  {
+    "uid": "QTS_686_016_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "遠山",
+    "poem": [
+      "隱隱隔千里，巍巍知幾重。",
+      "平時未能去，夢斷一聲鐘。"
+    ]
+  },
+  {
+    "uid": "QTS_686_017_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "江樹",
+    "poem": [
+      "終日衝奔浪，何年墜亂風。",
+      "謝公堪入詠，目極在雲中。"
+    ]
+  },
+  {
+    "uid": "QTS_686_018_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "薔薇",
+    "poem": [
+      "萬卉春風度，繁花夏景長。",
+      "館娃人盡醉，西子始新妝。"
+    ]
+  },
+  {
+    "uid": "QTS_686_019_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "梅雨",
+    "poem": [
+      "渾開又密望中迷，乳燕歸遲粉竹低。",
+      "撲地暗來飛野馬，舞風斜去散醯雞。",
+      "初從滴瀝妨琴榭，漸到潺湲繞藥畦。",
+      "少傍海邊飄泊處，中庭自有兩犁泥。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "中庭自有兩犁泥",
+        "variant": "中庭頃刻雨翻泥",
+        "source": "一作「中庭頃刻雨翻泥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_020_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "登途懷友人",
+    "poem": [
+      "日落野原秀，雨餘雲物閒。",
+      "清時正愁絕，高處正躋攀。",
+      "京洛遙天外，江河戰鼓間。",
+      "孤懷欲誰寄，應望塞鴻還。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "躋",
+        "variant": "登",
+        "source": "一作「登」"
+      },
+      {
+        "line": 4,
+        "text": "望",
+        "variant": "待",
+        "source": "一作「待」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_021_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "聞蟬",
+    "poem": [
+      "夏在先催過，秋賒已被迎。",
+      "自應人不會，莫道物無情。",
+      "木葉縱未落，鬢絲還易生。",
+      "西風正相亂，休上夕陽城。"
+    ]
+  },
+  {
+    "uid": "QTS_686_022_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "秋色",
+    "poem": [
+      "染不成乾畫未銷，霏霏拂拂又迢迢。",
+      "曾從建業城邊路，蔓草寒煙鏁六朝。"
+    ]
+  },
+  {
+    "uid": "QTS_686_023_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "自諷",
+    "poem": [
+      "本是滄洲把釣人，無端三署接清塵。",
+      "從來不解長流涕，也渡湘灕作逐臣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "灕",
+        "variant": "籬",
+        "source": "一作「籬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_024_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "宿青雲驛",
+    "poem": [
+      "蒼黃負譴走商顏，保得微躬出武關。",
+      "今夜青雲驛前月，伴吟應到落西山。"
+    ]
+  },
+  {
+    "uid": "QTS_686_025_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "秋聞子規",
+    "poem": [
+      "年年春恨化冤魂，血染枝紅壓疊繁。",
+      "正是西風花落盡，不知何處認啼痕。"
+    ]
+  },
+  {
+    "uid": "QTS_686_026_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "荊南席上聞歌",
+    "poem": [
+      "迎愁斂黛一聲分，弔屈江邊日暮聞。",
+      "何事遏雲翻不定，自緣蹤跡愛行雲。"
+    ]
+  },
+  {
+    "uid": "QTS_686_027_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "武關",
+    "poem": [
+      "時來時去若循環，雙闔平雲謾鏁山。",
+      "只地道教秦設險，不知天與漢為關。",
+      "貪生莫作千年計，到了都成一夢閑。",
+      "爭得便如岩下水，從他興廢自潺潺。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "莫",
+        "variant": "儘",
+        "source": "一作「儘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_028_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "月夕追事",
+    "poem": [
+      "曾聽豪家碧玉歌，雲牀冰簟落秋河。",
+      "月臨高閣簾無影，風過迴廊幕有波。",
+      "屈指盡隨雲雨散，滿頭贏得雪霜多。",
+      "此時空見清涼影，來伴蛩聲咽砌莎。"
+    ]
+  },
+  {
+    "uid": "QTS_686_029_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "上陽宮辭",
+    "poem": [
+      "苑路青青半是苔，翠華西去未知回。",
+      "景陽春漏無人報，太液秋波有雁來。",
+      "單影可堪明月照，紅顏無奈落花催。",
+      "誰能賦得長門事，不惜千金奉酒杯。"
+    ]
+  },
+  {
+    "uid": "QTS_686_030_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "送於員外歸隱藍田",
+    "poem": [
+      "曾吟工部兩峯寒，今日星郎得掛冠。",
+      "吾道不行歸始是，世情如此住應難。",
+      "圍棋已訪生雲石，把釣先尋急雨灘。",
+      "若遇秦時雪髯客，紫芝兼可備朝餐。"
+    ]
+  },
+  {
+    "uid": "QTS_686_031_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "廢宅",
+    "poem": [
+      "風飄碧瓦雨摧垣，卻有鄰人與鎖門。",
+      "幾樹好花閑白晝，滿庭荒草易黃昏。",
+      "放魚池涸蛙爭聚，棲燕梁空雀自喧。",
+      "不獨淒涼眼前事，咸陽一火便成原。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "與",
+        "variant": "為",
+        "source": "一作「為」"
+      },
+      {
+        "line": 2,
+        "text": "易",
+        "variant": "自",
+        "source": "一作「自」"
+      },
+      {
+        "line": 3,
+        "text": "聚",
+        "variant": "鬧",
+        "source": "一作「鬧」"
+      },
+      {
+        "line": 4,
+        "text": "成原",
+        "variant": "變寒",
+        "source": "一作「變寒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_032_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "湖州晚望",
+    "poem": [
+      "鼓角迎秋晚韻長，斷虹疎雨間微陽。",
+      "兩條溪水分頭碧，四面人家入骨涼。",
+      "獨鳥歸時雲鬬迥，殘蟬急處日爭忙。",
+      "他年若得壺中術，一簇汀洲盡貯將。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "條",
+        "variant": "邊",
+        "source": "一作「邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_033_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "宋玉宅",
+    "poem": [
+      "草白煙寒半野陂，臨江舊宅指遺基。",
+      "已懷湘浦招魂事，更憶高唐說夢時。",
+      "穿徑早曾聞客住，登牆豈復見人窺。",
+      "今朝送別還經此，吟斷當年幾許悲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "幾許",
+        "variant": "楚客",
+        "source": "一作「楚客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_034_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "春晚書懷",
+    "poem": [
+      "落盡紅芳春意闌，綠蕪空鎖辟疆園。",
+      "嫦娥斷影霜輪冷，帝子無蹤淚竹繁。",
+      "未達東鄰還絕想，不勞南浦更銷魂。",
+      "晚來雖共殘鶯約，爭奈風淒又雨昬。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鄰",
+        "variant": "林",
+        "source": "一作「林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_035_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "寄楊侍郎",
+    "poem": [
+      "雲情鶴態莫誇慵，正上仙樓十二重。",
+      "吟逸易沈鳷鵲月，夢長先斷景陽鐘。",
+      "奇文已刻金書券，秘語看鐫玉檢封。",
+      "何事春來待歸隱，探知溪畔有風松。"
+    ]
+  },
+  {
+    "uid": "QTS_686_036_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "杏花",
+    "poem": [
+      "粉薄紅輕揜斂羞，花中占斷得風流。",
+      "軟非因醉都無力，凝不成歌亦自愁。",
+      "獨照影時臨水畔，最含情處出牆頭。",
+      "裵回盡日難成別，更待黃昬對酒樓。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "去聲。",
+        "context": "獨照影時臨水畔，最含情處出牆頭。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "樓",
+        "variant": "甌",
+        "source": "一作「甌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_037_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "憲丞裴公上洛退居有寄二首 其一",
+    "poem": [
+      "鴻在冥冥已自由，紫芝峰下更高秋。",
+      "拋來簪紱都如夢，泥著杯香不為愁。",
+      "晚樹拂簷風脫翠，夜灘當戶月和流。",
+      "自嗟不得從公去，共上仙家十二樓。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_037_02",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "憲丞裴公上洛退居有寄二首 其二",
+    "poem": [
+      "瘦如仙鶴爽風篁，外卻塵囂興緒長。",
+      "偶坐幾回沈皓月，閒吟是處到殘陽。",
+      "門前立使脩書嬾，花下留賓壓酒忙。",
+      "目斷瓊林攀不得，一重丹水抵三湘。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_038_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "叢祠",
+    "poem": [
+      "叢祠一炬照秦川，雨散雲飛二十年。",
+      "長路未歸萍逐水，舊居難問草平煙。",
+      "金鞍正伴桐鄉客，粉壁猶懷桂苑仙。",
+      "何必向來曾識面，拂塵看字也淒然。"
+    ]
+  },
+  {
+    "uid": "QTS_686_039_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "分水嶺",
+    "poem": [
+      "兩派潺湲不暫停，嶺頭長瀉別離情。",
+      "南隨去馬通巴棧，北逐歸人達渭城。",
+      "澄處好窺雙黛影，咽時堪寄斷腸聲。",
+      "紫溪舊隱還如此，清夜梁山月更明。"
+    ]
+  },
+  {
+    "uid": "QTS_686_040_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "赴職西川過便橋書懷寄同年",
+    "poem": [
+      "平門橋下水東馳，萬里從軍一望時。",
+      "鄉思旋生芳草見，客愁何限夕陽知。",
+      "秦陵無樹煙猶鏁，漢苑空牆浪欲吹。",
+      "不是傷春愛回首，杏壇恩重馬遲遲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "平門",
+        "variant": "便橋",
+        "source": "一作「便橋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_041_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "太保中書令軍前新樓",
+    "poem": [
+      "十二闌干壓錦城，半空人語落灘聲。",
+      "風流近接平津閣，氣色高含細柳營。",
+      "盡日捲簾江草綠，有時欹枕雪峯晴。",
+      "不知捧詔朝天後，誰此登臨看月明。"
+    ]
+  },
+  {
+    "uid": "QTS_686_042_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "玉女廟",
+    "poem": [
+      "九清何日降仙霓，掩映荒祠路欲迷。",
+      "愁黛不開山淺淺，離心長在草萋萋。",
+      "簷橫淥派王餘擲，窗褭紅枝杜宇啼。",
+      "若得洗頭盆置此，靚妝無復碧蓮西。"
+    ]
+  },
+  {
+    "uid": "QTS_686_043_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "坤維軍前寄江南弟兄",
+    "poem": [
+      "二年征戰劔山秋，家在松江白浪頭。",
+      "關月幾時乾客淚，戍煙終日起鄉愁。",
+      "未知遼堞何當下，轉覺燕臺不易酬。",
+      "獨羨一聲南去雁，滿天風雨到汀州。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遼",
+        "variant": "聊",
+        "source": "一作「聊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_044_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "滻水席上獻座主侍郎",
+    "poem": [
+      "暖泉宮裏告虔回，略避紅塵小宴開。",
+      "落絮已隨流水去，啼鶯還傍夕陽來。",
+      "草能緣岸侵羅薦，花不容枝蘸玉杯。",
+      "莫訝諸生中獨醉，感恩傷別正難裁。"
+    ]
+  },
+  {
+    "uid": "QTS_686_045_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "送知古上人",
+    "poem": [
+      "昔年離別浙河東，多難相逢舊楚宮。",
+      "振錫纔尋三徑草，登船忽掛一帆風。",
+      "幾程村飯添盂白，何處山花照衲紅。",
+      "不似投荒憔悴客，滄浪無際問漁翁。"
+    ]
+  },
+  {
+    "uid": "QTS_686_046_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "和座主尚書登布善寺樓",
+    "poem": [
+      "往事何時不繫腸，更堪凝睇白雲鄉。",
+      "楚王城壘空秋色，羊祜江山祗暝光。",
+      "林下遠分南去馬，渡頭偏認北歸航。",
+      "誰知此日憑軒處，一筆工夫勝七襄。"
+    ]
+  },
+  {
+    "uid": "QTS_686_047_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "金橋感事",
+    "poem": [
+      "太行和雪疊晴空，二月春郊尚朔風。",
+      "飲馬早聞臨渭北，射鵰今欲過山東。",
+      "百年徒有伊川歎，五利寧無魏絳功。",
+      "日暮長亭正愁絕，哀笳一曲戍煙中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_048_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "蕭縣道中",
+    "poem": [
+      "戍火三籠滯晚程，枯桑繫馬上寒城。",
+      "滿川落照無人過，捲地飛蓬有燒明。",
+      "楚客早聞歌鳳德，劉琨休更舞雞聲。",
+      "草堂舊隱終歸去，寄語巖猨莫曉驚。"
+    ]
+  },
+  {
+    "uid": "QTS_686_049_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "題袞州泗河中石床",
+    "poem": [
+      "一片苔牀水漱痕，何人清賞動乾坤。",
+      "謫仙醉後雲為態，野客吟時月作魂。",
+      "光景不回波自遠，風流難問石無心。",
+      "邇來多少登臨客，千載誰將勝事論。"
+    ],
+    "notes": [
+      {
+        "content": "李白、杜甫皆此飲詠。",
+        "context": "題袞州泗河中石床",
+        "original_title": "題袞州泗河中石床",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_050_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "禁直偶書",
+    "poem": [
+      "玉皇新復五城居，仙館詞臣在碧虛。",
+      "錦砌漸看翻芍藥，鏁窗還詠隔蟾蜍。",
+      "敢期林上靈烏語，貪草雲間彩鳳書。",
+      "爭奈滄洲頻入夢，白波無際落紅蕖。"
+    ]
+  },
+  {
+    "uid": "QTS_686_051_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "送弟東歸",
+    "poem": [
+      "偶持麟筆侍金閨，夢想三年在故溪。",
+      "祖竹定欺簷雪折，穉杉應拂棟雲齊。",
+      "謾勞筋力趨丹鳳，可有文詞詠碧雞？",
+      "此別更無閒事囑，北山高處謝猨啼。"
+    ]
+  },
+  {
+    "uid": "QTS_686_052_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "和座主尚書春日郊居",
+    "poem": [
+      "海燕初歸朔雁回，靜眠深揜百花臺。",
+      "春蔬已為高僧掇，臘醞還因熟客開。",
+      "簷外暖絲兼絮墮，檻前輕浪帶鷗來。",
+      "謝公難避蒼生意，自古風流必上台。"
+    ]
+  },
+  {
+    "uid": "QTS_686_053_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "僧舍白牡丹二首 其一",
+    "poem": [
+      "膩若裁雲薄綴霜，春殘獨自殿羣芳。",
+      "梅妝向日霏霏暖，紈扇搖風閃閃光。",
+      "月魄照來空見影，露華凝後更多香。",
+      "天生潔白宜清淨，何必殷紅映洞房。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_053_02",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "僧舍白牡丹二首 其二",
+    "poem": [
+      "侯家萬朵簇霞丹，若並霜林素豔難。",
+      "合影只應天際月，分香多是畹中蘭。",
+      "雖饒百卉爭先發，還在三春向後殘。",
+      "想得惠林憑此檻，肯將榮落意來看。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_686_054_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "八月十五夜禁直寄同僚",
+    "poem": [
+      "中秋月滿盡相尋，獨入非煙宿禁林。",
+      "曾恨人間千里隔，更堪天上九門深。",
+      "明涵太液魚龍定，靜鏁圓靈象緯沈。",
+      "目斷枚皋何處在？闌干十二憶登臨。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "盡",
+        "variant": "竟",
+        "source": "一作「竟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_055_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "上巳日花下閑看",
+    "poem": [
+      "十里香塵撲馬飛，碧蓮峰下踏青時。",
+      "雲鬟照水和花重，羅袖擡風惹絮遲。",
+      "可便無心邀娬媚，還應有淚憶袁熙。",
+      "如煙如夢爭尋得，溪柳回頭萬萬絲。"
+    ]
+  },
+  {
+    "uid": "QTS_686_056_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "禪院弈棋偶題",
+    "poem": [
+      "裛塵絲雨送微涼，偶出樊籠入道場。",
+      "半偈已能消萬事，一枰兼得了殘陽。",
+      "尋知世界都如夢，自喜身心甚不忙。",
+      "更約西風搖落後，醉來終日臥禪房。"
+    ]
+  },
+  {
+    "uid": "QTS_686_057_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "和張舍人",
+    "poem": [
+      "玉女盆邊雪未銷，正多春事莫無憀。",
+      "杏花向日紅勻臉，雲帶環山白繫腰。",
+      "鶯轉樹頭欹枕聽，凍開泉眼杖藜挑。",
+      "陵遷谷變如須問，控鶴山人字子喬。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "如",
+        "variant": "何",
+        "source": "一作「何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_686_058_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "送友赴闕",
+    "poem": [
+      "故人歸去指翔鸞，樂帶離聲可有歡。",
+      "驛路兩行秋吹急，渭波千疊夕陽寒。",
+      "空郊已歎周禾熟，舊苑應尋漢火殘。",
+      "遙羨從公無一事，探花先醉曲江干。"
+    ]
+  },
+  {
+    "uid": "QTS_686_059_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "過鄧城縣作",
+    "poem": [
+      "不用登臨足感傷，古來今徃盡茫茫。",
+      "未知堯桀誰臧否，可便彭殤有短長。",
+      "楚壘萬重多故事，漢波千疊更殘陽。",
+      "到頭一切皆身外，只覺關身是醉鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_686_060_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "文德初聞車駕東遊",
+    "poem": [
+      "龍旆叢叢下劔門，還將瑞氣入中原。",
+      "鼇頭一蕩山雖沒，烏足重安日不昬。",
+      "晉客已知周禮在，秦人仍喜漢官存。",
+      "自憐閒坐漁磯石，萬級雲臺落夢魂。"
+    ]
+  },
+  {
+    "uid": "QTS_686_061_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "子規",
+    "poem": [
+      "舉國繁華委逝川，羽毛飄蕩一年年。",
+      "他山叫處花成血，舊苑春來草似煙。",
+      "雨暗不離濃綠樹，月斜長弔欲明天。",
+      "湘江日暮聲淒切，愁殺行人歸去船。"
+    ]
+  },
+  {
+    "uid": "QTS_686_062_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "簡州歸降賀京兆公",
+    "poem": [
+      "分棟山前曙色開，三千鐵騎簡州回。",
+      "雲間墮箭飛書去，風裏擎竿露布來。",
+      "古謂伐謀為上策，今看靜勝自中台。",
+      "功名一似淮西事，只是元臣不姓裴。"
+    ]
+  },
+  {
+    "uid": "QTS_686_063_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "登漢州城樓",
+    "poem": [
+      "雨餘秋色拂孤城，遠目凝時萬象清。",
+      "疊翠北來千嶂盡，漫流東去一江平。",
+      "從軍固有荊州樂，懷古能無峴首情。",
+      "欲下闌干一迴首，烏歸帆沒戍煙明。"
+    ]
+  },
+  {
+    "uid": "QTS_686_064_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "岐下寓居見槐花落因寄從事",
+    "poem": [
+      "纔開便落不勝黃，覆著庭莎襯夕陽。",
+      "只共蟬催雙鬢老，可知人已十年忙。",
+      "曉窗須為吟秋興，夜枕應教夢帝鄉。",
+      "蜀國馬卿看從獵，肯將閒事入淒涼。"
+    ]
+  },
+  {
+    "uid": "QTS_686_065_01",
+    "volume": 686,
+    "author": {
+      "canonical": "吳融",
+      "recorded": "吳融",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wu Rong",
+      "wikidata_id": "Q9621970"
+    },
+    "title": "和人有感",
+    "poem": [
+      "莫愁家住石城西，月墜星沉客到迷。",
+      "一院無人春寂寂，九原何處草萋萋。",
+      "香魂未散煙籠水，舞袖休翻柳拂堤。",
+      "蘭棹一移風雨急，流鶯千萬莫長啼。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "休",
+        "variant": "猶",
+        "source": "一作「猶」"
+      }
+    ]
+  }
+]

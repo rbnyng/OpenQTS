@@ -1,0 +1,222 @@
+[
+  {
+    "uid": "QTS_366_001_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張弘靖",
+      "recorded": "張弘靖",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hongjing",
+      "wikidata_id": "Q8070214"
+    },
+    "title": "山亭懷古",
+    "poem": [
+      "叢石依古城，懸泉灑清池。",
+      "高低袤丈內，衡霍相蔽虧。",
+      "歸田竟何因，為郡豈所宜。",
+      "誰能辨人野，寄適聊在斯。"
+    ]
+  },
+  {
+    "uid": "QTS_366_002_01",
+    "volume": 366,
+    "author": {
+      "canonical": "韓察",
+      "recorded": "韓察"
+    },
+    "title": "和張相公太原山亭懷古詩",
+    "poem": [
+      "公府政多暇，思與仁智全。",
+      "為山想嵓穴，引水聽潺湲。",
+      "軒冕跡自逸，塵俗無由牽。",
+      "蒼生方矚望，詎得賦歸田。"
+    ]
+  },
+  {
+    "uid": "QTS_366_003_01",
+    "volume": 366,
+    "author": {
+      "canonical": "崔恭",
+      "recorded": "崔恭",
+      "gender": "male",
+      "wikidata_id": "Q10271453"
+    },
+    "title": "和張相公太原山亭懷古詩",
+    "poem": [
+      "高情樂閒放，寄跡山水中。",
+      "朝霞鋪座右，虛白貯清風。",
+      "潛竇激飛泉，石路躋且崇。",
+      "步武有勝槩，不與俗情同。"
+    ]
+  },
+  {
+    "uid": "QTS_366_004_01",
+    "volume": 366,
+    "author": {
+      "canonical": "陸瀍",
+      "recorded": "陸瀍"
+    },
+    "title": "和張相公太原山亭懷古詩",
+    "poem": [
+      "激水㵼飛瀑，寄懷良在茲。",
+      "如何謝安石，要結東山期。",
+      "入座蘭蕙馥，當軒松桂滋。",
+      "於焉悟幽道，境寂心自怡。"
+    ]
+  },
+  {
+    "uid": "QTS_366_005_01",
+    "volume": 366,
+    "author": {
+      "canonical": "胡證",
+      "recorded": "胡證"
+    },
+    "title": "和張相公太原山亭懷古詩",
+    "poem": [
+      "飛泉天台狀，峭石蓬萊姿。",
+      "潺湲與青翠，咫尺當幽奇。",
+      "居然盡精道，得以書妍詞。",
+      "豈無他山勝，懿此清軒墀。"
+    ]
+  },
+  {
+    "uid": "QTS_366_006_01",
+    "volume": 366,
+    "author": {
+      "canonical": "胡證",
+      "recorded": "胡證"
+    },
+    "title": "句",
+    "poem": [
+      "詩書入京國，旌斾過鄉關。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《因話錄》云：「證拜振武節度使。道河中時，趙宗儒為帥，證備桑梓禮入謁，持刺稱百姓獻趙公詩云雲，州里榮之。」",
+        "context": "句"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_366_007_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張賈",
+      "recorded": "張賈",
+      "gender": "male",
+      "english_name": "張賈",
+      "wikidata_id": "Q18905385"
+    },
+    "title": "和太原山亭懷古詩",
+    "poem": [
+      "中庭起崖谷，潄玉下漣漪。",
+      "丹丘誰雲遠，寓象得心期。",
+      "豈不貴鍾鼎，至懷在希夷。",
+      "唯當蓬萊閣，靈鳳復來儀。"
+    ]
+  },
+  {
+    "uid": "QTS_366_008_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張賈",
+      "recorded": "張賈",
+      "gender": "male",
+      "english_name": "張賈",
+      "wikidata_id": "Q18905385"
+    },
+    "title": "和裵司空答張秘書贈馬詩",
+    "poem": [
+      "閣下從容舊客卿，寄來駿馬賞高情。",
+      "任追煙景騎仍醉，知有文章倚便成。",
+      "步步自憐春日影，蕭蕭猶起朔風聲。",
+      "須知上宰吹噓意，送入天門上路行。"
+    ]
+  },
+  {
+    "uid": "QTS_366_009_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張賈",
+      "recorded": "張賈",
+      "gender": "male",
+      "english_name": "張賈",
+      "wikidata_id": "Q18905385"
+    },
+    "title": "句",
+    "poem": [
+      "夫子生知者，相期妙理中。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "送劉禹錫發華州。",
+        "context": "句"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_366_010_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張文規",
+      "recorded": "張文規",
+      "gender": "male",
+      "english_name": "Zhang Wengui",
+      "wikidata_id": "Q10295119"
+    },
+    "title": "吳興三絶",
+    "poem": [
+      "蘋洲須覺池沼俗，薴布直勝羅紈輕。",
+      "清風樓下草初出，明月峽中茶始生。",
+      "吳興三絶不可捨，勸子強為吳會行。"
+    ]
+  },
+  {
+    "uid": "QTS_366_011_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張文規",
+      "recorded": "張文規",
+      "gender": "male",
+      "english_name": "Zhang Wengui",
+      "wikidata_id": "Q10295119"
+    },
+    "title": "湖州貢焙新茶",
+    "poem": [
+      "鳳輦尋春半醉回，僊娥進水御簾開。",
+      "牡丹花笑金鈿動，傳奏吳興紫筍來。"
+    ],
+    "notes": [
+      {
+        "content": "一本此下有看發二字",
+        "context": "湖州貢焙",
+        "original_title": "湖州貢焙〈一本此下有看發二字〉新茶"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_366_012_01",
+    "volume": 366,
+    "author": {
+      "canonical": "張文規",
+      "recorded": "張文規",
+      "gender": "male",
+      "english_name": "Zhang Wengui",
+      "wikidata_id": "Q10295119"
+    },
+    "title": "句",
+    "poem": [
+      "誰雲隼旟吏，長對虎頭岩。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "見《吳興掌故》。",
+        "context": "句"
+      }
+    ]
+  }
+]

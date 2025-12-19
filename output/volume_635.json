@@ -1,0 +1,463 @@
+[
+  {
+    "uid": "QTS_635_001_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送邊上從事",
+    "poem": [
+      "戎裝佩鏌鋣，走馬逐輕車。",
+      "衰草城邊路，殘陽壟上笳。",
+      "黃河穿漢界，青塚出胡沙。",
+      "提筆男兒事，功名立可誇。"
+    ],
+    "preface": "周繇字為憲，池州人。咸通十二年登第，調建徳令，辟襄陽徐商幕府，檢校御史中丞。詩一卷。"
+  },
+  {
+    "uid": "QTS_635_002_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送洛陽崔員外",
+    "poem": [
+      "塞詔除嵩洛，觀圖見廢興。",
+      "城遷周古鼎，地列漢諸陵。",
+      "日送歸朝客，時招住嶽僧。",
+      "郡齋臺閣滿，公退即吟登。"
+    ]
+  },
+  {
+    "uid": "QTS_635_003_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送人尉黔中",
+    "poem": [
+      "盤山行幾驛，水路複通巴。",
+      "峽漲三川雪，園開四季花。",
+      "公庭飛白鳥，官俸請丹砂。",
+      "知尉黔中後，高吟採物華。"
+    ]
+  },
+  {
+    "uid": "QTS_635_004_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送宇文虞",
+    "poem": [
+      "此別欲何往，未言歸故林。",
+      "行車新歲近，落日亂山深。",
+      "野店寒無客，風巢動有禽。",
+      "潛知經目事，大半是愁吟。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "巢",
+        "variant": "窠",
+        "source": "一作「窠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_635_005_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "題東林寺虎掊泉",
+    "poem": [
+      "勝致通幽感，靈泉有虎掊。",
+      "爪擡山脈斷，掌托石心拗。",
+      "竹藹疑相近，松陰蓋亦交。",
+      "轉令棲遁者，真境逾難拋。"
+    ]
+  },
+  {
+    "uid": "QTS_635_006_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "登甘露寺",
+    "poem": [
+      "盤江上幾層，峭壁半垂藤。",
+      "殿鎖南朝像，龕禪外國僧。",
+      "海濤摏砌檻，山雨灑窗燈。",
+      "日暮疎鐘起，聲聲徹廣陵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "江",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_635_007_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "甘露寺東軒",
+    "poem": [
+      "每日憐晴眺，閒吟只自娛。",
+      "山從平地有，水到遠天無。",
+      "老樹多封楚，輕煙暗染吳。",
+      "雖居此廊下，入戶亦躊躕。"
+    ]
+  },
+  {
+    "uid": "QTS_635_008_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "甘露寺北軒",
+    "poem": [
+      "曉色宜閒望，山風遠益清。",
+      "白雲連晉閣，碧樹盡蕪城。",
+      "少靜沙痕出，煙消野火平。",
+      "最堪佳此境，為我長詩情。"
+    ]
+  },
+  {
+    "uid": "QTS_635_009_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "詠螢",
+    "poem": [
+      "熠熠與娟娟，池塘竹樹邊。",
+      "亂飛同曳火，成聚卻無煙。",
+      "微雨灑不滅，輕風吹欲燃。",
+      "舊曾書案上，頻把作囊懸。"
+    ]
+  },
+  {
+    "uid": "QTS_635_010_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "望海",
+    "poem": [
+      "蒼茫空泛日，四顧絕人煙。",
+      "半浸中華岸，旁通異域船。",
+      "島間應有國，波外恐無天。",
+      "欲作乘槎客，翻愁去隔年。"
+    ]
+  },
+  {
+    "uid": "QTS_635_011_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送楊環校書歸廣南",
+    "poem": [
+      "天南行李半波濤，灘樹枝枝拂戲猱。",
+      "初著藍衫從遠嶠，乍辭雲署泊輕艘。",
+      "山村象踏桄榔葉，海外人收翡翠毛。",
+      "名宦兩成歸舊隱，遍尋親友興何饒。"
+    ]
+  },
+  {
+    "uid": "QTS_635_012_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "經故宅有感",
+    "poem": [
+      "身沒南荒雨露賒，朱門空鎖舊繁華。",
+      "池塘鑿就方通水，桃杏栽成未見花。",
+      "異代圖書藏幾篋，傾城羅綺散誰家？",
+      "昔年埏埴生靈地，今日生人為歎嗟。"
+    ]
+  },
+  {
+    "uid": "QTS_635_013_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送入蕃使",
+    "poem": [
+      "獵獵旗幡過大荒，敕書猶帶御煙香。",
+      "滹沱河凍軍迴探，邏逤孤城雁著行。",
+      "遠寨風狂移帳幕，平沙日晚臥牛羊。",
+      "早終冊禮朝天闕，莫遣虬髭染塞霜。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "煙",
+        "variant": "爐",
+        "source": "一作「爐」"
+      },
+      {
+        "line": 3,
+        "text": "風",
+        "variant": "燒",
+        "source": "一作「燒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_635_014_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "白石潭秋霽作",
+    "poem": [
+      "潭心煙霧破斜暉，殷殷雷聲隔翠微。",
+      "崖蹙盤渦翻蜃窟，灘吹白石上漁磯。",
+      "陵風舴艋謳啞去，出水鸕鷀薄泊飛。",
+      "秋霽更誰同此望？遠鐘時見一僧歸。"
+    ]
+  },
+  {
+    "uid": "QTS_635_015_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "題金陵棲霞寺贈月公",
+    "poem": [
+      "明家不要買山錢，施作清池種白蓮。",
+      "松檜老依雲外地，樓臺深鎖洞中天。",
+      "風經絕頂迴疎雨，石倚危屏掛落泉。",
+      "欲結茅庵伴師住，肯饒多少薜蘿煙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "清池",
+        "variant": "花宮",
+        "source": "一作「花宮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_635_016_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "嘲段成式",
+    "poem": [
+      "蹙鞠且徒為，寧如目送時。",
+      "報讐慚選耎，存想恨逶遲。",
+      "促坐疑辟咡，銜盃強朵頤。",
+      "恣情窺窈窕，曾恃好風姿。",
+      "色授應難奪，神交願莫辭。",
+      "請君看曲譜，不負少年期。"
+    ]
+  },
+  {
+    "uid": "QTS_635_017_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "送江州薛尚書",
+    "poem": [
+      "匡廬千萬峰，影匝郡城中。",
+      "忽佩虎符去，遙疑鳥道通。",
+      "煙霞時滿郭，波浪暮連空。",
+      "樹翳樓臺月，帆飛鼓角風。",
+      "郡齋多嶽客，鄉戶半漁翁。",
+      "王事行春外，題詩寄遠公。"
+    ]
+  },
+  {
+    "uid": "QTS_635_018_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "津頭望白水",
+    "poem": [
+      "晴江暗漲岸吹沙，山畔船沖樹杪斜。",
+      "城郭半淹橋市鬧，鷺鷥繚繞入人家。"
+    ]
+  },
+  {
+    "uid": "QTS_635_019_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "公子行",
+    "poem": [
+      "青山薄薄漏春風，日暮鳴鞭柳影中。",
+      "回望玉樓人不見，酒旗深處勒花驄。"
+    ]
+  },
+  {
+    "uid": "QTS_635_020_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "看牡丹贈段成式",
+    "poem": [
+      "金蘃霞英疊彩香，初疑少女出蘭房。",
+      "逡巡又是一年別，寄語集仙呼索郎。"
+    ]
+  },
+  {
+    "uid": "QTS_635_021_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "以人參遺段成式",
+    "poem": [
+      "人形上品傳方志，我得真英自紫團。",
+      "慙非叔子空持藥，更請伯言審細看。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "自",
+        "variant": "白",
+        "source": "一作「白」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_635_022_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "和段成式",
+    "poem": [
+      "回簪轉黛喜猜防，粉署裁詩助酒狂。",
+      "若遇仙丹偕羽化，但隨蕭史亦何傷。"
+    ]
+  },
+  {
+    "uid": "QTS_635_023_01",
+    "volume": 635,
+    "author": {
+      "canonical": "周繇",
+      "recorded": "周繇",
+      "gender": "male",
+      "english_name": "Zhou Yao",
+      "wikidata_id": "Q45553151"
+    },
+    "title": "和段成式",
+    "poem": [
+      "玉樹瓊筵映彩霞，澄虛樓閣似仙家。",
+      "只緣存想歸蘭室，不向春風看夜花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "澄虛樓閣",
+        "variant": "澄波虛閣",
+        "source": "一作「澄波虛閣」"
+      }
+    ]
+  }
+]

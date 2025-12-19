@@ -1,0 +1,327 @@
+[
+  {
+    "uid": "QTS_484_001_01",
+    "volume": 484,
+    "author": {
+      "canonical": "崔公信",
+      "recorded": "崔公信"
+    },
+    "title": "和太原張相公山亭懷古",
+    "poem": [
+      "疊石狀崖巘，翠含城上樓。",
+      "前移廬霍峰，遠帶沅湘流。",
+      "瀟灑主人靜，夤緣芳徑幽。",
+      "清輝在昏旦，豈異東山游。"
+    ]
+  },
+  {
+    "uid": "QTS_484_002_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊虞卿",
+      "recorded": "楊虞卿",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Yuqing",
+      "wikidata_id": "Q11119210"
+    },
+    "title": "過小妓英英墓",
+    "poem": [
+      "蕭晨騎馬出皇都，聞説埋冤在路隅。",
+      "別我已為泉下土，思君猶似掌中珠。",
+      "四絃品柱聲初絶，三尺孤墳草已枯。",
+      "蘭質蕙心何所在，焉知過者是狂夫。"
+    ]
+  },
+  {
+    "uid": "QTS_484_003_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊虞卿",
+      "recorded": "楊虞卿",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Yuqing",
+      "wikidata_id": "Q11119210"
+    },
+    "title": "句",
+    "poem": [
+      "河勢崑崙遠，山形菡蓞秋。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_484_004_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "和段相公登武擔寺西臺",
+    "poem": [
+      "清淨此道宮，層臺復倚空。",
+      "偶時三伏外，列席九霄中。",
+      "平視雲端路，高臨樹杪風。",
+      "自憐榮末座，前日別池籠。"
+    ]
+  },
+  {
+    "uid": "QTS_484_005_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "和段相公夏登張儀樓",
+    "poem": [
+      "從公城上來，秋近絶纖埃。",
+      "樓古秦規在，江分蜀望開。",
+      "遠山標宿雪，末席本寒灰。",
+      "陪賞今為忝，臨歡敢訴桮。"
+    ]
+  },
+  {
+    "uid": "QTS_484_006_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "和宗人尚書嗣復祠祭武侯畢題臨淮公舊碑",
+    "poem": [
+      "古栢森然地，修嚴蜀相祠。",
+      "一過榮異代，三顧盛當時。",
+      "功德流何遠，馨香薦未衰。",
+      "敬名探國志，飾像慰甿思。",
+      "昔謁從征蓋，今聞擁信旗。",
+      "固宜光寵下，有淚刻前碑。"
+    ]
+  },
+  {
+    "uid": "QTS_484_007_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "宴楊僕射新昌里第",
+    "poem": [
+      "隔坐應須賜御屏，盡將仙翰入高𡨕。",
+      "文章舊價留鸞掖，桃李新陰在鯉庭。",
+      "再歳生徒陳賀宴，一時良史盡傳馨。",
+      "當時疏廣雖雲盛，詎有茲筵醉綠醽。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "廣",
+        "variant": "傅",
+        "source": "一作「傅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_484_008_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "建節後偶作",
+    "poem": [
+      "拋卻弓刀上砌臺，上方臺榭與雲開。",
+      "山僧見我衣裳窄，知道新從戰地來。"
+    ]
+  },
+  {
+    "uid": "QTS_484_009_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "題畫山水",
+    "poem": [
+      "太華峰前是故鄉，路人遙指讀書堂。",
+      "如今老大騎官馬，羞向關西道姓楊。"
+    ]
+  },
+  {
+    "uid": "QTS_484_010_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "賀筵占贈營妓",
+    "poem": [
+      "郎君得意及青春，蜀國將軍又不貧。",
+      "一曲高歌紅一疋，兩頭娘子謝夫人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "紅",
+        "variant": "綾",
+        "source": "一作「綾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_484_011_01",
+    "volume": 484,
+    "author": {
+      "canonical": "楊汝士",
+      "recorded": "楊汝士",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Yang Rushi",
+      "wikidata_id": "Q10360753"
+    },
+    "title": "句",
+    "poem": [
+      "昔日蘭亭無豔質，此時金谷有高人。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_484_012_01",
+    "volume": 484,
+    "author": {
+      "canonical": "陳至",
+      "recorded": "陳至",
+      "gender": "male",
+      "english_name": "Chen Zhi",
+      "wikidata_id": "Q45540277"
+    },
+    "title": "賦得芙蓉出水",
+    "poem": [
+      "菡蓞迎秋吐，夭揺映水濱。",
+      "劍芒開寶匣，峰影寫蒲津。",
+      "下覆參差荇，高辭苒弱蘋。",
+      "自當巢翠甲，非止戲頳鱗。",
+      "莫以時先後，而言色故新。",
+      "芳香正堪翫，誰報涉江人。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "覆",
+        "variant": "照",
+        "source": "一作「照」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_484_013_01",
+    "volume": 484,
+    "author": {
+      "canonical": "陳至",
+      "recorded": "陳至",
+      "gender": "male",
+      "english_name": "Chen Zhi",
+      "wikidata_id": "Q45540277"
+    },
+    "title": "薦冰",
+    "poem": [
+      "凌寒開涸沍，寢廟致精誠。",
+      "色靜澄三酒，光寒肅兩楹。",
+      "形鹽非近進，玉豆為潛英。",
+      "禮自春分展，堅從北陸成。",
+      "藉茅心共結，出鑑水漸明。",
+      "幸得來觀薦，靈臺一小生。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "漸",
+        "variant": "暫",
+        "source": "一作「暫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_484_014_01",
+    "volume": 484,
+    "author": {
+      "canonical": "陳至",
+      "recorded": "陳至",
+      "gender": "male",
+      "english_name": "Chen Zhi",
+      "wikidata_id": "Q45540277"
+    },
+    "title": "句",
+    "poem": [
+      "藻井尚寒龍跡在，紅樓初施日光通。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_484_015_01",
+    "volume": 484,
+    "author": {
+      "canonical": "趙蕃",
+      "recorded": "趙蕃",
+      "gender": "male",
+      "english_name": "Zhao Fan",
+      "wikidata_id": "Q45566745"
+    },
+    "title": "薦冰",
+    "poem": [
+      "仲月開凌室，齋心感聖情。",
+      "寒姿分玉坐，皓彩發丹楹。",
+      "積素因風壯，虛空向日明。",
+      "遙涵窗戶冷，近映冕旒清。",
+      "在掌光逾澈，當軒質自輕。",
+      "良辰方可致，由此表精誠。"
+    ]
+  },
+  {
+    "uid": "QTS_484_016_01",
+    "volume": 484,
+    "author": {
+      "canonical": "趙蕃",
+      "recorded": "趙蕃",
+      "gender": "male",
+      "english_name": "Zhao Fan",
+      "wikidata_id": "Q45566745"
+    },
+    "title": "老人星",
+    "poem": [
+      "大史占南極，秋分見壽星。",
+      "增輝延寶曆，發曜起祥經。",
+      "灼爍依狼地，昭彰近帝庭。",
+      "高懸方杳杳，孤白乍熒熒。",
+      "應見光新吐，休徵德自形。",
+      "既能符聖祚，從此表遐齡。"
+    ]
+  }
+]

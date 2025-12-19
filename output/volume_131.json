@@ -1,0 +1,1030 @@
+[
+  {
+    "uid": "QTS_131_001_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "古意二首 其一",
+    "poem": [
+      "夫差日淫放，舉國求妃嬪。",
+      "自謂得王寵，代間無美人。",
+      "碧羅象天閣，坐輦乘芳春。",
+      "宮女數千騎，常遊江水濱。",
+      "年深玉顏老，時薄花妝新。",
+      "拭淚下金殿，嬌多不顧身。",
+      "生前妬歌舞，死後同灰塵。",
+      "冢墓令人哀，哀於銅雀臺。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 3,
+        "text": "象",
+        "variant": "蒙",
+        "source": "一作「蒙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_001_02",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "古意二首 其二",
+    "poem": [
+      "楚王竟何去，獨自留巫山。",
+      "偏使世人見，迢迢江漢間。",
+      "駐舟春谿裏，誓願拜靈顏。",
+      "夢寐覩神女，金沙鳴珮環。",
+      "閑豔絕世姿，令人氣力微。",
+      "含笑默不語，化作朝雲飛。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "漢",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 3,
+        "text": "谿",
+        "variant": "澤",
+        "source": "一作「澤」"
+      },
+      {
+        "line": 6,
+        "text": "默",
+        "variant": "竟",
+        "source": "一作「竟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_002_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "渡淮河寄平一",
+    "poem": [
+      "天色混波濤，岸陰匝村墅。",
+      "微微漢祖廟，隱隱江陵渚。",
+      "雲樹森已重，時明鬱相拒。"
+    ]
+  },
+  {
+    "uid": "QTS_131_003_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "歸汝墳山莊留別盧象",
+    "poem": [
+      "淹留歲將晏，久廢南山期。",
+      "舊業不見棄，還山從此辭。",
+      "漚麻入南澗，刈麥向東菑。",
+      "對酒雞黍熟，閉門風雪時。",
+      "非君一延首，誰慰遙相思。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晏",
+        "variant": "宴",
+        "source": "一作「宴」"
+      },
+      {
+        "line": 3,
+        "text": "刈麥",
+        "variant": "越楚",
+        "source": "一作「越楚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_004_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "夕次圃田店",
+    "poem": [
+      "前路入鄭郊，尚經百餘里。",
+      "馬煩時欲歇，客歸程未已。",
+      "落日桑柘陰，遙村煙火起。",
+      "西還不遑宿，中夜渡涇水。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "路",
+        "variant": "程",
+        "source": "一作「程」"
+      },
+      {
+        "line": 3,
+        "text": "村",
+        "variant": "林",
+        "source": "一作「林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_005_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "田家即事",
+    "poem": [
+      "舊居東臯上，左右俯荒村。",
+      "樵路前傍嶺，田家遙對門。",
+      "歡娛始披拂，愜意在郊原。",
+      "餘霽蕩川霧，新秋仍晝昏。",
+      "攀條憩林麓，引水開泉源。",
+      "稼穡豈雲倦，桑麻今正繁。",
+      "方求靜者賞，偶與潛夫論。",
+      "雞黍何必具，吾心知道尊。"
+    ]
+  },
+  {
+    "uid": "QTS_131_006_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "扈從御宿池",
+    "poem": [
+      "君王既巡狩，輦道入秦京。",
+      "遠樹低槍壘，孤峯入幔城。",
+      "寒疎清禁漏，夜警羽林兵。",
+      "誰念迷方客，長懷魏闕情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "道",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 2,
+        "text": "峯",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_007_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "贈苗發員外",
+    "poem": [
+      "宿雨朝來歇，空山天氣清。",
+      "盤雲雙鶴下，隔水一蟬鳴。",
+      "古道黃花落，平蕪赤燒生。",
+      "茂陵雖有病，猶得伴君行。"
+    ]
+  },
+  {
+    "uid": "QTS_131_008_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "答王維留宿",
+    "poem": [
+      "四年不相見，相見復何爲。",
+      "握手言未畢，卻令傷別離。",
+      "升堂還駐馬，酌醴便呼兒。",
+      "語嘿自相對，安用傍人知。"
+    ]
+  },
+  {
+    "uid": "QTS_131_009_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "長樂驛留別盧象裴總",
+    "poem": [
+      "朝來已握手，宿別更傷心。",
+      "灞水行人渡，商山驛路深。",
+      "故情君且足，謫宦我難任。",
+      "直道皆如此，誰能淚滿襟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "渡",
+        "variant": "絕",
+        "source": "一作「絕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_010_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "送劉高郵梲使入都",
+    "poem": [
+      "常聞積歸思，昨夜又兼秋。",
+      "鄉路京華遠，王程江水流。",
+      "吳歌喧兩岸，楚客醉孤舟。",
+      "漸覺潮初上，悽然多暮愁。"
+    ]
+  },
+  {
+    "uid": "QTS_131_011_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "宴吳王宅",
+    "poem": [
+      "吳王承國寵，列第禁城東。",
+      "連夜徵詞客，當春試舞童。",
+      "砌分池水岸，牕度竹林風。",
+      "更待西園月，金尊樂未終。"
+    ]
+  },
+  {
+    "uid": "QTS_131_012_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "觀華嶽",
+    "poem": [
+      "西入秦關口，南瞻驛路連。",
+      "彩雲生闕下，松樹到祠邊。",
+      "作鎮當官道，雄都俯大川。",
+      "蓮峯徑上處，彷彿有神仙。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "雄都俯",
+        "variant": "爲雄控",
+        "source": "一作「爲雄控」"
+      },
+      {
+        "line": 4,
+        "text": "蓮",
+        "variant": "危",
+        "source": "一作「危」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_013_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "泗上馮使君南樓作",
+    "poem": [
+      "井邑連淮泗，南樓向晚過。",
+      "望灘沙鷺起，尋岸浴童歌。",
+      "近海雲偏出，兼秋雨更多。",
+      "明晨擬回棹，鄉思恨風波。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "鄉",
+        "variant": "歸",
+        "source": "一作「歸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_014_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "蘇氏別業",
+    "poem": [
+      "別業居幽處，到來生隱心。",
+      "南山當戶牖，灃水映園林。",
+      "屋覆經冬雪，庭昏未夕陰。",
+      "寥寥人境外，閑坐聽春禽。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "屋",
+        "variant": "竹",
+        "source": "一作「竹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_015_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "汝墳別業",
+    "poem": [
+      "失路農爲業，移家到汝墳。",
+      "獨愁常廢卷，多病久離羣。",
+      "鳥雀垂窻柳，虹霓出澗雲。",
+      "山中無外事，樵唱有時聞。"
+    ]
+  },
+  {
+    "uid": "QTS_131_016_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "陸渾水亭",
+    "poem": [
+      "晝眺伊川曲，巖間霽色明。",
+      "淺沙平有路，流水漫無聲。",
+      "浴鳥沿波聚，潛魚觸釣驚。",
+      "更憐春岸綠，幽意滿前楹。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "曲",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 2,
+        "text": "平",
+        "variant": "明",
+        "source": "一作「明」"
+      },
+      {
+        "line": 4,
+        "text": "意",
+        "variant": "興",
+        "source": "一作「興」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_017_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "過鄭曲",
+    "poem": [
+      "路向榮川谷，晴來望盡通。",
+      "細煙生水上，圓月在舟中。",
+      "岸勢迷行客，秋聲亂草蟲。",
+      "旅懷勞自慰，淅淅有涼風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "谷",
+        "variant": "夕",
+        "source": "一作「夕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_018_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "宿陳留李少府揆廳",
+    "poem": [
+      "相知有叔卿，訟簡夜彌清。",
+      "旅泊倦愁臥，堂空聞曙更。",
+      "風簾搖燭影，秋雨帶蟲聲。",
+      "歸思那堪說，悠悠限洛城。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "叔",
+        "variant": "李",
+        "source": "一作「李」"
+      },
+      {
+        "line": 2,
+        "text": "泊",
+        "variant": "宿",
+        "source": "一作「宿」"
+      },
+      {
+        "line": 3,
+        "text": "簾",
+        "variant": "簷",
+        "source": "一作「簷」"
+      },
+      {
+        "line": 3,
+        "text": "燭",
+        "variant": "竹",
+        "source": "一作「竹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_019_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "題韓少府水亭",
+    "poem": [
+      "梅福幽棲處，佳期不忘還。",
+      "鳥吟當戶竹，花繞傍池山。",
+      "水氣侵階冷，松陰覆座閑。",
+      "寧知武陵趣，宛在市朝間。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "吟",
+        "variant": "啼",
+        "source": "一作「啼」"
+      },
+      {
+        "line": 3,
+        "text": "松",
+        "variant": "藤",
+        "source": "一作「藤」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_020_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "題遠公經臺",
+    "poem": [
+      "蘭若無人到，真僧出復稀。",
+      "苔侵行道席，雲濕坐禪衣。",
+      "澗鼠緣香案，山蟬噪竹扉。",
+      "世間長不見，寧止暫忘歸。"
+    ]
+  },
+  {
+    "uid": "QTS_131_021_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "中峯居喜見苗發",
+    "poem": [
+      "自得中峰住，深林亦閉關。",
+      "經秋無客到，入夜有僧還。",
+      "暗澗泉聲小，荒岡樹影閑。",
+      "高窻不可望，星月滿空山。"
+    ]
+  },
+  {
+    "uid": "QTS_131_022_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "江南旅情",
+    "poem": [
+      "楚山不可極，歸路但蕭條。",
+      "海色晴看雨，江聲夜聽潮。",
+      "劒留南斗近，書寄北風遙。",
+      "爲報空潭橘，無媒寄洛橋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "路但",
+        "variant": "客自",
+        "source": "一作「客自」"
+      },
+      {
+        "line": 4,
+        "text": "寄",
+        "variant": "贈",
+        "source": "一作「贈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_023_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "泊揚子津",
+    "poem": [
+      "纔入維揚郡，鄉關此路遙。",
+      "林藏初過雨，風退欲歸潮。",
+      "江火明沙岸，雲帆礙浦橋。",
+      "客衣今日薄，寒氣近來饒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "關",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 1,
+        "text": "路",
+        "variant": "地",
+        "source": "一作「地」"
+      },
+      {
+        "line": 2,
+        "text": "藏",
+        "variant": "殘",
+        "source": "一作「殘」"
+      },
+      {
+        "line": 2,
+        "text": "過",
+        "variant": "霽",
+        "source": "一作「霽」"
+      },
+      {
+        "line": 4,
+        "text": "日",
+        "variant": "正",
+        "source": "一作「正」"
+      },
+      {
+        "line": 4,
+        "text": "氣",
+        "variant": "夜",
+        "source": "一作「夜」"
+      },
+      {
+        "line": 4,
+        "text": "近",
+        "variant": "昨",
+        "source": "一作「昨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_024_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "晚泊金陵水亭",
+    "poem": [
+      "江亭當廢國，秋景倍蕭騷。",
+      "夕照明殘壘，寒潮漲古濠。",
+      "就田看鶴大，隔水見僧高。",
+      "無限前朝事，醒吟易覺勞。"
+    ]
+  },
+  {
+    "uid": "QTS_131_025_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "七夕",
+    "poem": [
+      "閨女求天女，更闌意未闌。",
+      "玉庭開粉席，羅袖捧金盤。",
+      "向月穿針易，臨風整線難。",
+      "不知誰得巧，明旦試相看。"
+    ]
+  },
+  {
+    "uid": "QTS_131_026_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "望薊門",
+    "poem": [
+      "燕臺一望客心驚，簫鼓喧喧漢將營。",
+      "萬里寒光生積雪，三邊曙色動危旌。",
+      "沙場烽火連胡月，海畔雲山擁薊城。",
+      "少小雖非投筆吏，論功還欲請長纓。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "望",
+        "variant": "去",
+        "source": "一作「去」"
+      },
+      {
+        "line": 1,
+        "text": "簫",
+        "variant": "笳",
+        "source": "一作「笳」"
+      },
+      {
+        "line": 2,
+        "text": "危",
+        "variant": "行",
+        "source": "一作「行」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_027_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "家園夜坐寄郭微",
+    "poem": [
+      "前堦微雨歇，開戶散窺林。",
+      "月出夜方淺，水涼池更深。",
+      "餘風生竹樹，清露薄衣襟。",
+      "遇物遂遙歎，懷人滋遠心。",
+      "依稀成夢想，影響絕徽音。",
+      "誰念窮居者，明時嗟陸沈。"
+    ]
+  },
+  {
+    "uid": "QTS_131_028_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "酬汴州李別駕贈",
+    "poem": [
+      "秋風多客思，行旅厭艱辛。",
+      "自洛非才子，遊梁得主人。",
+      "文章參末議，榮賤豈同倫。",
+      "歎逝逢三演，懷賢憶四真。",
+      "情因恩舊好，契託死生親。",
+      "所媿能投贈，清言益潤身。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "逝逢三演",
+        "variant": "世同王衍",
+        "source": "一作「世同王衍」"
+      },
+      {
+        "line": 4,
+        "text": "四",
+        "variant": "法",
+        "source": "一作「法」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_029_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "清明宴司勳劉郎中別業",
+    "poem": [
+      "田家復近臣，行樂不違親。",
+      "霽日園林好，清明煙火新。",
+      "以文長會友，唯德自成鄰。",
+      "池照窻陰晚，杯香藥味春。",
+      "簷前花覆地，竹外鳥窺人。",
+      "何必桃源裏，深居作隱淪。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "違",
+        "variant": "遺",
+        "source": "一作「遺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_030_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "汝墳秋同仙州王長史翰聞百舌鳥",
+    "poem": [
+      "秋天聞好鳥，驚起出簾帷。",
+      "卻念殊方月，能鳴已後時。",
+      "遷喬誠可早，出谷此何遲。",
+      "顧影慙無對，懷羣空所思。",
+      "淒涼歲欲晚，蕭索燕將辭。",
+      "留聽未終曲，彌令心獨悲。",
+      "高飛憑力致，巧囀任天姿。",
+      "返覆知而靜，間關斷若遺。",
+      "花繁上林路，霜落汝川湄。",
+      "且長凌風翮，乘春自有期。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "空",
+        "variant": "增",
+        "source": "一作「增」"
+      },
+      {
+        "line": 5,
+        "text": "燕",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 9,
+        "text": "林",
+        "variant": "苑",
+        "source": "一作「苑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_031_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "送丘爲下第",
+    "poem": [
+      "滄江一身客，獻賦空十年。",
+      "明主豈能好，今人誰舉賢。",
+      "國門稅征駕，旅食謀歸旋。",
+      "皦日媚春水，綠蘋香客船。",
+      "無媒既不達，予亦思歸田。"
+    ]
+  },
+  {
+    "uid": "QTS_131_032_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "贈苗發員外",
+    "poem": [
+      "朱戶敞高扉，青槐礙落暉。",
+      "八龍乘慶重，三虎遞朝歸。",
+      "坐竹人聲絕，橫琴鳥語稀。",
+      "花慙潘岳貌，年稱老萊衣。",
+      "葉暗朱櫻熟，絲長粉蝶飛。",
+      "應憐魯儒賤，空與故山違。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遞",
+        "variant": "地",
+        "source": "一作「地」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_131_033_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "寄王長史",
+    "poem": [
+      "汝潁俱宿好，往來託層巒。",
+      "終日何寂寞，繞籬生蕙蘭。"
+    ]
+  },
+  {
+    "uid": "QTS_131_034_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "別怨",
+    "poem": [
+      "送別到中流，秋船倚渡頭。",
+      "相看尚不遠，未可即回舟。"
+    ]
+  },
+  {
+    "uid": "QTS_131_035_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "終南望餘雪",
+    "poem": [
+      "終南陰嶺秀，積雪浮雲端。",
+      "林表明霽色，城中增暮寒。"
+    ]
+  },
+  {
+    "uid": "QTS_131_036_01",
+    "volume": 131,
+    "author": {
+      "canonical": "祖詠",
+      "recorded": "祖詠",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zu Yong",
+      "wikidata_id": "Q15922438"
+    },
+    "title": "句",
+    "poem": [
+      "不知疊嶂夜來雨，清曉石楠花亂流。"
+    ],
+    "part_index": 1
+  }
+]

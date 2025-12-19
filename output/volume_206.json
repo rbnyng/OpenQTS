@@ -1,0 +1,2077 @@
+[
+  {
+    "uid": "QTS_206_001_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "江上曲",
+    "poem": [
+      "江心澹澹芙蓉花，江口蛾眉獨浣紗。",
+      "可憐應是陽臺女，對坐鷺鷥嬌不語。",
+      "掩面羞看北地人，回身忽作空山語。",
+      "蒼梧秋色不堪論，千載依依帝子魂。",
+      "君看峰上斑斑竹，盡是湘妃泣淚痕。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "北",
+        "variant": "此",
+        "source": "一作「此」"
+      },
+      {
+        "line": 3,
+        "text": "身",
+        "variant": "首",
+        "source": "一作「首」"
+      },
+      {
+        "line": 3,
+        "text": "空山語",
+        "variant": "巫山雨",
+        "source": "一作「巫山雨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_002_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "傷吳中",
+    "poem": [
+      "館娃宮中春已歸，闔閭城頭鶯已飛。",
+      "復見花開人又老，橫塘寂寂柳依依。",
+      "憶昔吳王在宮闕，館娃滿眼看花發。",
+      "舞袖朝欺陌上春，歌聲夜怨江邊月。",
+      "古來人事亦猶今，莫厭清觴與綠琴。",
+      "獨向西山聊一笑，白雲芳草自知心。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "滿",
+        "variant": "賣",
+        "source": "一作「賣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_003_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "夜聞江南人家賽神因題即事",
+    "poem": [
+      "南方淫祀古風俗，楚嫗解唱迎神曲。",
+      "鎗鎗銅鼓蘆葉深，寂寂瓊筵江水綠。",
+      "雨過風清洲渚閑，椒漿醉盡迎神還。",
+      "帝女凌空下湘岸，番君隔浦向堯山。",
+      "月隱回塘猶自舞，一門依倚神之祜。",
+      "韓康靈藥不復求，扁鵲醫方曾莫覩。",
+      "逐客臨江空自悲，月明流水無已時。",
+      "聽此迎神送神曲，攜觴欲弔屈原祠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "祀",
+        "variant": "祠",
+        "source": "一作「祠」"
+      },
+      {
+        "line": 1,
+        "text": "嫗",
+        "variant": "媼",
+        "source": "一作「媼」"
+      },
+      {
+        "line": 1,
+        "text": "解",
+        "variant": "能",
+        "source": "一作「能」"
+      },
+      {
+        "line": 3,
+        "text": "迎神還",
+        "variant": "神欲還",
+        "source": "一作「神欲還」"
+      },
+      {
+        "line": 6,
+        "text": "靈",
+        "variant": "賣",
+        "source": "一作「賣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_004_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "古興",
+    "poem": [
+      "十五小家女，雙鬟人不如。",
+      "蛾眉暫一見，可直千金餘。",
+      "自從得向蓬萊裏，出入金輿乘玉趾。",
+      "梧桐樹上春鴉鳴，曉伴君王猶未起。",
+      "莫道君恩長不休，婕妤團扇苦悲秋。",
+      "君看魏帝鄴都裏，惟有銅臺漳水流。"
+    ]
+  },
+  {
+    "uid": "QTS_206_005_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "雜興",
+    "poem": [
+      "花間昔日黃鸝囀，妾向青樓已生怨。",
+      "花落黃鸝不復來，妾老君心亦應變。",
+      "君心比妾心，妾意舊來深。",
+      "一別十年無尺素，歸時莫贈路傍金。"
+    ]
+  },
+  {
+    "uid": "QTS_206_006_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送韋邕少府歸鍾山",
+    "poem": [
+      "祈門官罷後，負笈向桃源。",
+      "萬卷長開帙，千峰不閉門。",
+      "綠楊垂野渡，黃鳥傍山村。",
+      "念爾能高枕，丹墀會一論。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "祈門官罷後",
+        "variant": "旗亭閱書罷",
+        "source": "一作「旗亭閱書罷」"
+      },
+      {
+        "line": 2,
+        "text": "閉",
+        "variant": "掩",
+        "source": "一作「掩」"
+      },
+      {
+        "line": 3,
+        "text": "渡",
+        "variant": "徑",
+        "source": "一作「徑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_007_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送盧員外往饒州",
+    "poem": [
+      "爲郎復典郡，錦帳映朱輪。",
+      "露冕隨龍節，停橈得水人。",
+      "早霜蘆葉變，寒雨石榴新。",
+      "莫怪諳風土，三年作逐臣。"
+    ]
+  },
+  {
+    "uid": "QTS_206_008_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送裴五歸京口",
+    "poem": [
+      "君罷江西日，家貧爲一官。",
+      "還歸五陵去，只向遠峰看。",
+      "暮色催人別，秋風待雨寒。",
+      "遙知到三徑，唯有菊花殘。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "去",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_009_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送嚴維歸越州",
+    "poem": [
+      "艱難只用武，歸向淛河東。",
+      "松雪千山暮，林泉一水通。",
+      "鄉心緣綠草，野思看青楓。",
+      "春日偏相憶，裁書寄剡中。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "日",
+        "variant": "好",
+        "source": "一作「好」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_010_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送杜士瞻楚州覲省",
+    "poem": [
+      "風流與才思，俱似晉時人。",
+      "淮月歸心促，江花入興新。",
+      "雲深滄海暮，柳暗白田春。",
+      "共道官猶小，憐君孝養親。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "促",
+        "variant": "速",
+        "source": "一作「速」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_011_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送裴宣城上元所居",
+    "poem": [
+      "水流過海稀，爾去換春衣。",
+      "淚向檳榔盡，身隨鴻雁歸。",
+      "草思晴後發，花怨雨中飛。",
+      "想到金陵渚，酣歌對落暉。"
+    ]
+  },
+  {
+    "uid": "QTS_206_012_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "留別毘陵諸公",
+    "poem": [
+      "久作涔陽令，丹墀忽再還。",
+      "淒涼辭澤國，離亂到鄉山。",
+      "北固灘聲滿，南徐草色閑。",
+      "知心從此別，相憶鬢毛斑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "作涔",
+        "variant": "昨崟",
+        "source": "一作「昨崟」"
+      },
+      {
+        "line": 3,
+        "text": "灘",
+        "variant": "潮",
+        "source": "一作「潮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_013_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送獨孤拾遺先輩先赴上都",
+    "poem": [
+      "行春日已曉，桂檝逐寒煙。",
+      "轉曲遙峰出，看濤極浦連。",
+      "入京當獻賦，封事更聞天。",
+      "日日趨黃閣，應忘雲海邊。"
+    ]
+  },
+  {
+    "uid": "QTS_206_014_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "常州韋郎中汎舟見餞",
+    "poem": [
+      "主人馮軾貴，送客汎舟稀。",
+      "逼岸隨芳草，回橈背落暉。",
+      "映花雙節駐，臨水伯勞飛。",
+      "醉與羣公狎，春塘露冕歸。"
+    ]
+  },
+  {
+    "uid": "QTS_206_015_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送崔侍御入朝",
+    "poem": [
+      "十年猶執憲，萬里獨歸春。",
+      "舊國逢芳草，青雲見故人。",
+      "潘郎今髮白，陶令本家貧。",
+      "相送臨京口，停橈淚滿巾。"
+    ]
+  },
+  {
+    "uid": "QTS_206_016_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送岳州司馬弟之任",
+    "poem": [
+      "岳陽天水外，念爾一帆過。",
+      "野墅人煙迥，山城雁影多。",
+      "有時巫峽色，終日洞庭波。",
+      "丞相今為郡，應無勞者歌。"
+    ]
+  },
+  {
+    "uid": "QTS_206_017_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "裴侍御見贈斑竹杖",
+    "poem": [
+      "騷人誇竹杖，贈我意何深。",
+      "萬點湘妃淚，三年賈誼心。",
+      "願持終白首，誰道貴黃金。",
+      "他日歸愚谷，偏宜綠綺琴。"
+    ]
+  },
+  {
+    "uid": "QTS_206_018_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送張觀歸袁州",
+    "poem": [
+      "羨爾湘東去，煙花尚可親。",
+      "綠芳深映鳥，遠岫遞迎人。",
+      "飢狖啼初日，殘鶯惜暮春。",
+      "遙憐謝客興，佳句又應新。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鳥",
+        "variant": "馬",
+        "source": "一作「馬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_019_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "冬夜饒州使堂餞相公五叔赴歙州",
+    "poem": [
+      "丞相國邦牧，清絃送羽觴。",
+      "高情同客醉，子夜為人長。",
+      "斜漢初過斗，寒雲正護霜。",
+      "新安江自綠，明主待惟良。"
+    ]
+  },
+  {
+    "uid": "QTS_206_020_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "蔣山開善寺",
+    "poem": [
+      "山殿秋雲裏，香煙出翠微。",
+      "客尋朝磬至，僧背夕陽歸。",
+      "下界千門在，前朝萬事非。",
+      "看心兼送目，葭菼自依依。"
+    ]
+  },
+  {
+    "uid": "QTS_206_021_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "晚發江寧道中呈嚴維",
+    "poem": [
+      "惆悵遙江路，蕭條落日過。",
+      "蟬鳴獨樹急，鴉向古城多。",
+      "轉曲隨青嶂，因高見白波。",
+      "潘生秋徑草，嚴子意如何。"
+    ]
+  },
+  {
+    "uid": "QTS_206_022_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "句容縣東青陽館作",
+    "poem": [
+      "句曲千峰暮，歸人向遠煙。",
+      "風搖近水葉，雲護欲晴天。",
+      "夕照留山館，秋光落草田。",
+      "征途傍斜日，一騎獨翩翩。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "晴",
+        "variant": "霜",
+        "source": "一作「霜」"
+      },
+      {
+        "line": 3,
+        "text": "草",
+        "variant": "野",
+        "source": "一作「野」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_023_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "晚春宴無錫蔡明府西亭",
+    "poem": [
+      "茅簷閑寂寂，無事覺人和。",
+      "井近時澆圃，城低下見河。",
+      "興緣芳草積，情向遠峰多。",
+      "別日歸吳地，停橈更一過。"
+    ]
+  },
+  {
+    "uid": "QTS_206_024_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送王端赴朝",
+    "poem": [
+      "君承明主意，日日上丹墀。",
+      "東閣論兵後，南宮草奏期。",
+      "人稀傍河處，槐暗入關時。",
+      "獨遣吳州客，平陵結夢思。"
+    ]
+  },
+  {
+    "uid": "QTS_206_025_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送王正字山寺讀書",
+    "poem": [
+      "欲究先儒教，還過支遁居。",
+      "山階閒聽法，竹徑獨看書。",
+      "向日荷新卷，迎秋柳半疏。",
+      "風流有佳句，不似帶經鋤。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "篠",
+        "source": "一作「篠」"
+      },
+      {
+        "line": 2,
+        "text": "徑",
+        "variant": "寺",
+        "source": "一作「寺」"
+      },
+      {
+        "line": 4,
+        "text": "不",
+        "variant": "又",
+        "source": "一作「又」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_026_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送房明府罷長寧令湖州客舍",
+    "poem": [
+      "君為萬里宰，恩及五湖人。",
+      "未滿先求退，歸閒不厭貧。",
+      "遠峰晴更近，殘柳雨還新。",
+      "要自趨丹陛，明年雞樹親。"
+    ]
+  },
+  {
+    "uid": "QTS_206_027_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "詠螢",
+    "poem": [
+      "映水光難定，凌虛體自輕。",
+      "夜風吹不滅，秋露洗還明。",
+      "向燭仍分焰，投書更有情。",
+      "猶將流亂影，來此傍簷楹。"
+    ]
+  },
+  {
+    "uid": "QTS_206_028_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送李中丞楊判官",
+    "poem": [
+      "射策名先著，論兵氣自雄。",
+      "能全季布諾，不道魯連功。",
+      "流水蒹葭外，諸山睥睨中。",
+      "別君秋日晚，回首夕陽空。"
+    ]
+  },
+  {
+    "uid": "QTS_206_029_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "至七里灘作",
+    "poem": [
+      "遷客投於越，臨江淚滿衣。",
+      "獨隨流水遠，轉覺故人稀。",
+      "萬木迎秋序，千峰駐晚暉。",
+      "行舟猶未已，惆悵暮潮歸。"
+    ]
+  },
+  {
+    "uid": "QTS_206_030_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "南浦渡口",
+    "poem": [
+      "寂寞橫塘路，新篁覆水低。",
+      "東風潮信滿，時雨稻秔齊。",
+      "寡婦共租稅，漁人逐鼓鼙。",
+      "慙無卓魯術，解印謝黔黎。"
+    ]
+  },
+  {
+    "uid": "QTS_206_031_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "暮秋遷客增思寄京華",
+    "poem": [
+      "宋玉怨三秋，張衡復四愁。",
+      "思鄉雁北至，欲別水東流。",
+      "倚樹看黃葉，逢人訴白頭。",
+      "佳期不可失，落日自登樓。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "欲",
+        "variant": "歎",
+        "source": "一作「歎」"
+      },
+      {
+        "line": 3,
+        "text": "訴",
+        "variant": "話",
+        "source": "一作「話」"
+      },
+      {
+        "line": 4,
+        "text": "失",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_032_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送蘇修往上饒",
+    "poem": [
+      "愛爾無羈束，雲山恣意過。",
+      "一身隨遠岫，孤櫂任輕波。",
+      "世事關心少，漁家寄宿多。",
+      "蘆花泊舟處，江月奈人何。"
+    ]
+  },
+  {
+    "uid": "QTS_206_033_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "題王十九茆堂",
+    "poem": [
+      "滿庭多種藥，入里作山家。",
+      "終日能留客，凌寒亦對花。",
+      "海鷗過竹嶼，門柳拂江沙。",
+      "知爾卑棲意，題詩美白華。"
+    ]
+  },
+  {
+    "uid": "QTS_206_034_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送弘志上人歸湖州",
+    "poem": [
+      "山林唯幽靜，行往不妨禪。",
+      "高月穿松逕，殘陽過水田。",
+      "詩從宿世悟，法為本師傳。",
+      "能使南人敬，修持香火緣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "田",
+        "variant": "泉",
+        "source": "一作「泉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_035_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送陸士倫宰義興",
+    "poem": [
+      "陽羨蘭陵近，高城帶水閑。",
+      "淺流通野寺，綠茗蓋春山。",
+      "長吏多愁罷，遊人詎肯還。",
+      "知君日清淨，無事掩重關。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "多",
+        "variant": "先",
+        "source": "一作「先」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_036_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "和張舍人中書宿直",
+    "poem": [
+      "漢主留才子，春城直紫微。",
+      "對花閶闔靜，過竹吏人稀。",
+      "裁詔催添燭，將朝欲更衣。",
+      "玉堂宜歲久，且莫厭彤闈。"
+    ]
+  },
+  {
+    "uid": "QTS_206_037_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "司勳王郎中宅送韋九郎中往濠州",
+    "poem": [
+      "憐爾因同舍，看書似外家。",
+      "出關逢落葉，傍水見寒花。",
+      "送遠添秋思，將衰戀歲華。",
+      "清淮倍相憶，回首莫令賒。"
+    ]
+  },
+  {
+    "uid": "QTS_206_038_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "晚春送吉校書歸楚州",
+    "poem": [
+      "詩人饒楚思，淮上及春歸。",
+      "舊浦菱花發，閑門柳絮飛。",
+      "高名鄉曲重，少事道流稀。",
+      "定向漁家醉，殘陽臥釣磯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "發",
+        "variant": "待",
+        "source": "一作「待」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_039_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送嚴二擢第東歸",
+    "poem": [
+      "隳官就賓薦，時輩詎爭先。",
+      "盛業推儒行，高科獨少年。",
+      "迎秋見衰葉，餘照逐鳴蟬。",
+      "舊里三峰下，開門古縣前。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "縣",
+        "variant": "道",
+        "source": "一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_040_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送冷朝陽及第東歸江寧",
+    "poem": [
+      "高第由佳句，諸生似者稀。",
+      "長安帶酒別，建業候潮歸。",
+      "稚子歡迎櫂，鄰人為掃扉。",
+      "含情過舊浦，鷗鳥亦依依。"
+    ]
+  },
+  {
+    "uid": "QTS_206_041_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送越州辛法曹之任",
+    "poem": [
+      "但能一官適，莫羨五侯尊。",
+      "山色垂趨府，潮聲自到門。",
+      "緣塘剡溪路，映竹五湖村。",
+      "王謝登臨處，依依今尚存。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "垂",
+        "variant": "同",
+        "source": "一作「同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_042_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送樊兵曹潭州謁韋大夫",
+    "poem": [
+      "塞鴻歸欲盡，北客始辭春。",
+      "零桂雖逢竹，湘川少見人。",
+      "江花鋪淺水，山木暗殘春。",
+      "修刺轅門裏，多憐爾爲親。"
+    ]
+  },
+  {
+    "uid": "QTS_206_043_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送杜御史還廣陵",
+    "poem": [
+      "慚君從弱歲，顧我比諸昆。",
+      "同事元戎久，俱承國士恩。",
+      "隨鶯過淮水，看柳向轅門。",
+      "草色金陵岸，思心那可論。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "歲",
+        "variant": "冠",
+        "source": "一作「冠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_044_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送兗州杜別駕之任",
+    "poem": [
+      "停車邀別乘，促軫奏胡笳。",
+      "若見楚山暮，因愁浙水賒。",
+      "河堤經淺草，村徑歷繁花。",
+      "更有堪悲處，梁城春日斜。"
+    ]
+  },
+  {
+    "uid": "QTS_206_045_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "題裴十六少卿東亭",
+    "poem": [
+      "平津舊東閣，深巷見南山。",
+      "卷箔嵐煙潤，遮牕竹影閑。",
+      "傾茶兼落帽，戀客不開關。",
+      "斜照窺簾外，川禽時往還。"
+    ]
+  },
+  {
+    "uid": "QTS_206_046_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "同皇甫侍御題薦福寺一公房",
+    "poem": [
+      "虛室獨焚香，林空靜磬長。",
+      "閒窺數竿竹，老在一繩床。",
+      "啜茗翻真偈，然燈繼夕陽。",
+      "人歸遠相送，步履出迴廊。"
+    ]
+  },
+  {
+    "uid": "QTS_206_047_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送從姪端之東都",
+    "poem": [
+      "虜近人行少，憐君獨出城。",
+      "故關逢落葉，寒日逐徂征。",
+      "聞笛添歸思，看山愜野情。",
+      "皇華今絕少，龍頟也相迎。"
+    ]
+  },
+  {
+    "uid": "QTS_206_048_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送王諫議充東都留守判官",
+    "poem": [
+      "時稱謝康樂，別事漢平津。",
+      "衰柳寒關道，高車左掖臣。",
+      "背河見北雁，到洛問東人。",
+      "憶昔遊金谷，相看華髮新。"
+    ]
+  },
+  {
+    "uid": "QTS_206_049_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "和都官苗員外秋夜省直對雨簡諸知己",
+    "poem": [
+      "多雨南宮夜，仙郎寓直時。",
+      "漏長丹鳳闕，秋冷白雲司。",
+      "螢影侵階亂，鴻聲出苑遲。",
+      "蕭條人吏散，小謝有新詩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "多",
+        "variant": "久",
+        "source": "一作「久」"
+      },
+      {
+        "line": 1,
+        "text": "寓",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 2,
+        "text": "冷",
+        "variant": "老",
+        "source": "一作「老」"
+      },
+      {
+        "line": 2,
+        "text": "司",
+        "variant": "詞",
+        "source": "一作「詞」"
+      },
+      {
+        "line": 4,
+        "text": "散",
+        "variant": "靜",
+        "source": "一作「靜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_050_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送從弟歸河朔",
+    "poem": [
+      "故鄉那可到，令弟獨能歸。",
+      "諸將矜旄節，何人重布衣。",
+      "空城流水在，荒澤舊村稀。",
+      "秋日平原路，蟲鳴桑葉飛。"
+    ]
+  },
+  {
+    "uid": "QTS_206_051_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送崔夷甫員外和蕃",
+    "poem": [
+      "君過湟中去，尋源未是賒。",
+      "經春逢白草，盡日度黃沙。",
+      "雙節行為伴，孤烽到似家。",
+      "和戎非用武，不學李輕車。"
+    ]
+  },
+  {
+    "uid": "QTS_206_052_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "春日長安送從弟尉吳縣",
+    "poem": [
+      "春愁能浩蕩，送別又如何。",
+      "人向吳臺遠，鶯飛漢苑多。",
+      "見花羞白髮，因爾憶滄波。",
+      "好是神仙尉，前賢亦未過。"
+    ]
+  },
+  {
+    "uid": "QTS_206_053_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "元日無衣冠入朝寄皇甫拾遺冉從弟補闕紓",
+    "poem": [
+      "伏奏隨廉使，周行外冗員。",
+      "白髭空受歲，丹陛不朝天。",
+      "秉燭千官去，垂簾一室眠。",
+      "羨君青瑣裏，並冕入爐煙。"
+    ]
+  },
+  {
+    "uid": "QTS_206_054_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "和韓郎中揚子津翫雪寄嚴維",
+    "poem": [
+      "雪深揚子岸，看柳盡成梅。",
+      "山色潛知近，潮聲只聽來。",
+      "夜禽驚曉散，春物受寒催。",
+      "粉署生新興，瑤華寄上才。"
+    ]
+  },
+  {
+    "uid": "QTS_206_055_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送王牧往吉州謁王使君叔",
+    "poem": [
+      "細草綠汀洲，王孫耐薄遊。",
+      "年華初冠帶，文體舊弓裘。",
+      "野渡花爭發，春塘水亂流。",
+      "使君憐小阮，應念倚門愁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "耐",
+        "variant": "奈",
+        "source": "一作「奈」"
+      },
+      {
+        "line": 4,
+        "text": "憐",
+        "variant": "矜",
+        "source": "一作「矜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_056_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "廣陵送林宰",
+    "poem": [
+      "清政過前哲，香名達至尊。",
+      "明通漢家籍，重識府公恩。",
+      "春景生雲物，風潮歛雪痕。",
+      "長吟策羸馬，青楚入關門。"
+    ]
+  },
+  {
+    "uid": "QTS_206_057_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "贈衛南長官赴任",
+    "poem": [
+      "吏曹難茂宰，主意念疲人。",
+      "更事文犀節，還過白馬津。",
+      "雲間辭北闕，樹裏出西秦。",
+      "爲報陶明府，裁書莫厭貧。"
+    ]
+  },
+  {
+    "uid": "QTS_206_058_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "自常州還江陰途中作",
+    "poem": [
+      "處處空籬落，江村不忍看。",
+      "無人花色慘，多雨鳥聲寒。",
+      "黃霸初臨郡，陶潛未罷官。",
+      "乘春務征伐，誰肯問凋殘。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "罷",
+        "variant": "去",
+        "source": "一作「去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_059_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "潤州楊別駕宅送蔣九侍御收兵歸揚州",
+    "poem": [
+      "沴氣清金虎，兵威壯鐵冠。",
+      "揚旌川色暗，吹角水風寒。",
+      "人對輜軿醉，花垂睥睨殘。",
+      "羨歸丞相閣，空望舊門欄。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "沴",
+        "variant": "冷",
+        "source": "一作「冷」"
+      },
+      {
+        "line": 2,
+        "text": "暗",
+        "variant": "暝",
+        "source": "一作「暝」"
+      },
+      {
+        "line": 3,
+        "text": "垂",
+        "variant": "看",
+        "source": "一作「看」"
+      },
+      {
+        "line": 4,
+        "text": "閣",
+        "variant": "府",
+        "source": "一作「府」"
+      },
+      {
+        "line": 4,
+        "text": "門",
+        "variant": "雕",
+        "source": "一作「雕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_060_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "仲夏江陰官舍寄裴明府",
+    "poem": [
+      "萬室邊江次，孤城對海安。",
+      "朝霞晴作雨，溼氣晚生寒。",
+      "苔色侵衣桁，潮痕上井欄。",
+      "題詩招茂宰，思爾欲辭官。"
+    ]
+  },
+  {
+    "uid": "QTS_206_061_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送夏侯審參軍遊江東",
+    "poem": [
+      "袖中多麗句，未遣世人聞。",
+      "醉夜眠江月，閒時逐海雲。",
+      "荻花寒漫漫，鷗鳥暮群群。",
+      "若到長沙苑，漁家更待君。"
+    ]
+  },
+  {
+    "uid": "QTS_206_062_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送袁員外宣慰勸農畢赴洪州使院",
+    "poem": [
+      "聖主臨前殿，殷憂遣使臣。",
+      "氣迎天詔喜，恩發土膏春。",
+      "草色催歸櫂，鶯聲為送人。",
+      "龍沙多道里，流水自相親。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "自",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_063_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送侍御史四叔歸朝",
+    "poem": [
+      "淮南頻送別，臨水惜殘春。",
+      "攀折隋宮柳，淹留秦地人。",
+      "含情歸上國，論舊見平津。",
+      "更接天津近，餘花映綬新。"
+    ]
+  },
+  {
+    "uid": "QTS_206_064_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "登楚州城望驛路十餘里山村竹林相次交映",
+    "poem": [
+      "十里山村道，千峰櫟樹林。",
+      "霜濃竹枝亞，歲晚荻花深。",
+      "草市多樵客，漁家足水禽。",
+      "幽居雖可羨，無那子牟心。"
+    ]
+  },
+  {
+    "uid": "QTS_206_065_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "奉陪韋潤州遊鶴林寺",
+    "poem": [
+      "野寺江城近，雙旌五馬過。",
+      "禪心超忍辱，梵語問多羅。",
+      "松林閒僧老，雲煙晚日和。",
+      "寒塘歸路轉，清磬隔微波。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "和",
+        "variant": "多",
+        "source": "一作「多」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_066_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "奉酬路五郎中院長新除工部員外見簡",
+    "poem": [
+      "一門同秘省，萬里作長城。",
+      "問絹蓮花府，揚旗細柳營。",
+      "詞鋒偏卻敵，草奏直論兵。",
+      "何幸新詩贈，真輸小謝名。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "真",
+        "variant": "甘",
+        "source": "一作「甘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_067_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送韋司直西行",
+    "poem": [
+      "不恥青袍故，尤宜白髮新。",
+      "心朝玉皇帝，貌似紫陽人。",
+      "湘浦眠銷日，桃源醉度春。",
+      "能文兼證道，莊叟是前身。"
+    ]
+  },
+  {
+    "uid": "QTS_206_068_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送上官侍御赴黔中",
+    "poem": [
+      "莫向黔中路，令人到欲迷。",
+      "水聲巫峽裡，山色夜郎西。",
+      "樹隔朝雲合，猿窺曉月啼。",
+      "南方饒翠羽，知爾飲清溪。"
+    ]
+  },
+  {
+    "uid": "QTS_206_069_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送元侍御還荊南幕府",
+    "poem": [
+      "迢遞荊州路，山多水又分。",
+      "霜林澹寒日，朔雁蔽南雲。",
+      "八座由持節，三湘亦置軍。",
+      "自當行直指，應不為功勳。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "朔",
+        "variant": "故",
+        "source": "一作「故」，一作「朝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_070_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "登湓城浦望廬山初晴直省齎敕催赴江陰",
+    "poem": [
+      "西望香爐雪，千峰晚色新。",
+      "白頭悲作吏，黃紙苦催人。",
+      "多負登山屐，深藏漉酒巾。",
+      "傷心公府內，手板日相親。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "色",
+        "variant": "照",
+        "source": "一作「照」"
+      },
+      {
+        "line": 2,
+        "text": "苦",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_071_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "九日",
+    "poem": [
+      "惆悵重陽日，空山野菊新。",
+      "蒹葭百戰地，江海十年人。",
+      "歎老堪衰柳，傷秋對白蘋。",
+      "孤樓聞夕磬，塘路向城闉。"
+    ]
+  },
+  {
+    "uid": "QTS_206_072_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "九日送人",
+    "poem": [
+      "晴景應重陽，高臺愴遠鄉。",
+      "水澄千室倒，霧卷四山長。",
+      "受節人逾老，驚寒菊半黃。",
+      "席前愁此別，未別已沾裳。"
+    ]
+  },
+  {
+    "uid": "QTS_206_073_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "春日淇上作",
+    "poem": [
+      "淇上春風漲，鴛鴦逐浪飛。",
+      "清明桑葉小，度雨杏花稀。",
+      "衛女紅粧薄，王孫白馬肥。",
+      "相將踏青去，不解惜羅衣。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "上",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 1,
+        "text": "風",
+        "variant": "來",
+        "source": "一作「來」"
+      },
+      {
+        "line": 1,
+        "text": "逐",
+        "variant": "逆",
+        "source": "一作「逆」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_074_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送從叔陽冰祇召赴都",
+    "poem": [
+      "自小從遊慣，多由戲笑偏。",
+      "常時矜禮數，漸老荷優憐。",
+      "見主承休命，爲郎貴晚年。",
+      "伯喈文與篆，虛作漢家賢。"
+    ]
+  },
+  {
+    "uid": "QTS_206_075_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送友人入湘",
+    "poem": [
+      "聞說湘川路，年年苦雨多。",
+      "猿啼巫峽雨，月照洞庭波。",
+      "窮海人還去，孤城雁共過。",
+      "青山不可極，來往自蹉跎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "苦雨",
+        "variant": "湖水",
+        "source": "一作「湖水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_076_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送裴員外往江南",
+    "poem": [
+      "公務江南遠，留驩幕下榮。",
+      "楓林緣楚塞，水驛到湓城。",
+      "岸草知春晚，沙禽好夜驚。",
+      "風帆幾度泊，處處暮潮聲。"
+    ]
+  },
+  {
+    "uid": "QTS_206_077_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "登秦嶺",
+    "poem": [
+      "南登秦嶺頭，回望始堪愁。",
+      "漢闕青門遠，高山藍水流。",
+      "三湘遷客去，九陌故人遊。",
+      "從此辭鄉淚，雙垂不復收。"
+    ]
+  },
+  {
+    "uid": "QTS_206_078_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送張惟儉秀才入舉",
+    "poem": [
+      "清秀過終童，攜書訪老翁。",
+      "以吾為世舊，憐爾繼家風。",
+      "淮岸經霜柳，關城帶月鴻。",
+      "春歸定得意，花送到東中。"
+    ]
+  },
+  {
+    "uid": "QTS_206_079_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送韋侍御湖南幕府",
+    "poem": [
+      "執憲隨征虜，逢秋出故關。",
+      "雨多愁郢路，葉下識衡山。",
+      "地遠從軍樂，兵強分野閑。",
+      "皇家不易將，此去未應還。"
+    ]
+  },
+  {
+    "uid": "QTS_206_080_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "同皇甫冉赴官留別靈一上人",
+    "poem": [
+      "法許廬山遠，詩傳休上人。",
+      "讀歸雙樹宿，靜與百花親。",
+      "對物雖留興，觀空已悟身。",
+      "能令折腰客，遙賞竹房春。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "物",
+        "variant": "劫",
+        "source": "一作「劫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_081_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "送客遊荊州",
+    "poem": [
+      "草色隨驄馬，悠悠共出秦。",
+      "水穿雲夢曉，山接洞庭春。",
+      "帆影連三峽，猿聲在四鄰。",
+      "青門一分首，難見杜陵人。"
+    ]
+  },
+  {
+    "uid": "QTS_206_082_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "與鄭錫遊春",
+    "poem": [
+      "東門垂柳長，回首獨心傷。",
+      "日暖臨芳草，天晴憶故鄉。",
+      "映花鶯上下，過水蝶悠颺。",
+      "借問同行客，今朝淚幾行。"
+    ]
+  },
+  {
+    "uid": "QTS_206_083_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "故燕國相公輓歌二首 其一",
+    "poem": [
+      "文若爲全德，留侯是重名。",
+      "論公長不宰，因病得無生。",
+      "大夢依禪定，高墳共化城。",
+      "自應憐寂滅，人世但傷情。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "公",
+        "variant": "功",
+        "source": "一作「功」"
+      },
+      {
+        "line": 3,
+        "text": "共",
+        "variant": "仰",
+        "source": "一作「仰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_083_02",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "故燕國相公輓歌二首 其二",
+    "poem": [
+      "共美持衡日，皆言折檻時。",
+      "蜀侯供廟略，漢主缺台司。",
+      "車馬行仍止，笳簫咽又悲。",
+      "今年杜陵陌，殄瘁百花遲。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "侯",
+        "variant": "臣",
+        "source": "一作「臣」"
+      },
+      {
+        "line": 4,
+        "text": "陌",
+        "variant": "柏",
+        "source": "一作「柏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_206_084_01",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "故吏部郎中贈給事中韋公輓歌二首 其一",
+    "poem": [
+      "神理今何在，斯人竟若斯。",
+      "顏淵徒有德，伯道且無兒。",
+      "白髮今非老，青雲數有奇。",
+      "誰言夕郎拜，翻向夜臺悲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_206_084_02",
+    "volume": 206,
+    "author": {
+      "canonical": "李嘉祐",
+      "recorded": "李嘉祐",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Jiayou",
+      "wikidata_id": "Q11095749"
+    },
+    "title": "故吏部郎中贈給事中韋公輓歌二首 其二",
+    "poem": [
+      "社裡東城接，松阡北地開。",
+      "聞笳春色慘，執紼故人哀。",
+      "終日南山對，何時渭水回。",
+      "仁兄與恩舊，相望泣泉臺。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  }
+]

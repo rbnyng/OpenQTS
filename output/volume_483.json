@@ -1,0 +1,699 @@
+[
+  {
+    "uid": "QTS_483_001_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "江南暮春寄家",
+    "poem": [
+      "雒陽城見梅迎雪，魚口橋逢雪送梅。",
+      "劍水寺前芳草合，鏡湖亭上野花開。",
+      "江鴻斷續翻雲去，海燕差池拂水回。",
+      "想得心知近寒食，潛聽喜鵲望歸來。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "想",
+        "variant": "料",
+        "source": "一作「料」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_002_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "奉酬樂天立秋夕有懷見寄",
+    "poem": [
+      "深夜星漢靜，秋風初報涼。",
+      "階篁淅瀝響，露葉參差光。",
+      "冰兔半升魄，銅壺微滴長。",
+      "薄帷乍飄卷，襟帶輕搖颺。",
+      "此際昏夢清，斜月滿軒房。",
+      "屣履步前楹，劒戟森在行。",
+      "重城宵正分，號鼓互相望。",
+      "獨坐有所思，夫君鸞鳳章。",
+      "天津落星河，一葦安可航。",
+      "龍泉白玉首，魚服黃金裝。",
+      "報國未知効，惟鵜徒在梁。",
+      "裴回顧戎旃，顥氣生東方。",
+      "衰葉滿欄草，斑毛盈鏡霜。",
+      "羸牛未脫轅，老馬強騰驤。",
+      "吟君白雪唱，慙愧巴人腸。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "滴",
+        "variant": "漏",
+        "source": "一作「漏」"
+      },
+      {
+        "line": 5,
+        "text": "此際",
+        "variant": "北除",
+        "source": "一作「北除」"
+      },
+      {
+        "line": 5,
+        "text": "昏",
+        "variant": "魂",
+        "source": "一作「魂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_003_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "山出雲",
+    "poem": [
+      "杳靄祥雲起，飄颺翠嶺新。",
+      "縈峰開石秀，吐葉間松春。",
+      "林靜翻空少，山明度嶺頻。",
+      "迴崕時掩鶴，幽澗或隨人。",
+      "姑射朝凝雪，陽臺晩伴神。",
+      "悠悠九霄上，應坐玉京賓。"
+    ]
+  },
+  {
+    "uid": "QTS_483_004_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "上黨奏慶雲見",
+    "poem": [
+      "飛龍久馭宇，真氣尚興雲。",
+      "五色傳嘉瑞，千齡表聖君。",
+      "從風忽蕭索，依漢更氛氳。",
+      "影徹天初霽，光鮮日未曛。",
+      "表祥近自遠，垂化聚還分。",
+      "寧作無依者，空傳陶令文。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "近",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_005_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "華山慶雲見",
+    "poem": [
+      "聖主祠名岳，高峰發慶雲。",
+      "金柯初繚繞，玉葉漸氛氳。",
+      "氣色含珠日，晴光吐翠雰。",
+      "依稀來鶴態，髣髴列仙羣。",
+      "萬樹流光影，千潭寫錦文。",
+      "蒼生欣有望，祥瑞在吾君。"
+    ]
+  },
+  {
+    "uid": "QTS_483_006_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "欲到西陵寄王行周",
+    "poem": [
+      "西陵沙岸回流急，船底黏沙去㟁遙。",
+      "驛吏遞呼催下䌫，棹郎閒立道齊橈。",
+      "猶瞻伍相青山廟，未見雙童白鶴橋。",
+      "欲責舟人無次第，自知貪酒過春潮。"
+    ]
+  },
+  {
+    "uid": "QTS_483_007_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "華頂",
+    "poem": [
+      "欲向仙峰煉九丹，獨瞻華頂禮仙壇。",
+      "石標琪樹凌空碧，水掛銀河映月寒。",
+      "天外鶴聲隨絳節，洞中雲氣隱琅玕。",
+      "浮生未有從師地，空誦仙經想羽翰。"
+    ]
+  },
+  {
+    "uid": "QTS_483_008_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "鶯鶯歌",
+    "poem": [
+      "伯勞飛遲燕飛疾，垂楊綻金花笑日。",
+      "綠窗嬌女字鶯鶯，金雀婭鬟年十七。",
+      "黃姑上天阿母在，寂寞霜姿素蓮質。",
+      "門掩重關蕭寺中，芳草花時不曾出。"
+    ],
+    "notes": [
+      {
+        "content": "一作《東飛伯勞，西飛燕歌，為鶯鶯作》",
+        "context": "鶯鶯歌",
+        "original_title": "鶯鶯歌〈一作《東飛伯勞，西飛燕歌，為鶯鶯作》〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_009_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "贈毛仙翁",
+    "poem": [
+      "憶昔我祖神仙主，玄元皇帝周柱史。",
+      "曾師軒黃友堯湯，混跡和光佐周武。",
+      "周之天子無仙氣，成武康昭都瞥爾。",
+      "穆王麤識神仙事，八極輪蹄方逞志。",
+      "鶴髮韜真世不知，日月星辰幾回死。",
+      "金鼎作丹丹化碧，三萬六千神入宅。",
+      "仙兄受術幾千年，已是當時駕鴻客。",
+      "海光悠容天路長，春風玉女開宮院。",
+      "紫筆親教書姓名，玉皇詔刻青金簡。",
+      "桂窗一別三千春，秦妃鏡裏蛾眉新。",
+      "忽控香虬天上去，海隅刼石霄花塵。",
+      "一從仙駕辭中土，頑日昏風老無主。",
+      "九州爭奪無時休，八駿垂頭避豺虎。",
+      "我亦玄元千世孫，眼穿望斷蒼煙根。",
+      "花麟白鳳竟𠖇寞，飛春走月勞神昏。",
+      "百年命促奔馬疾，愁腸盤結心摧崪。",
+      "今朝稽首拜仙兄，願贈丹砂化秋骨。"
+    ],
+    "variants": [
+      {
+        "line": 13,
+        "text": "豺",
+        "variant": "狼",
+        "source": "一作「狼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_010_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "和晉公三首 其一",
+    "poem": [
+      "鳳儀常欲附，蚊力自知微。",
+      "願假罇罍末，膺門自此依。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_483_010_02",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "和晉公三首 其二",
+    "poem": [
+      "貂蟬公獨步，鴛鷺我同羣。",
+      "插羽先飛酒，交鋒便著文。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_483_010_03",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "和晉公三首 其三",
+    "poem": [
+      "窮陰初莽蒼，離思漸氛氳。",
+      "殘雪午橋㟁，斜陽伊水濱。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_483_011_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "憫農二首 其一",
+    "poem": [
+      "春種一粒粟，秋收萬顆子。",
+      "四海無閒田，農夫猶餓死。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_483_011_02",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "憫農二首 其二",
+    "poem": [
+      "鋤禾日當午，汗滴禾下土。",
+      "誰知盤中飧，粒粒皆辛苦。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_483_012_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "柳二首 其一",
+    "poem": [
+      "陶令門前罥接䍦，亞夫營裏拂朱旗。",
+      "人事推移無舊物，年年春至綠垂絲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "垂絲",
+        "variant": "絲垂",
+        "source": "一作「絲垂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_012_02",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "柳二首 其二",
+    "poem": [
+      "千條垂柳拂金絲，日暖牽風葉學眉。",
+      "愁見花飛狂不定，還同輕薄五陵兒。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "垂",
+        "variant": "楊",
+        "source": "一作「楊」"
+      },
+      {
+        "line": 2,
+        "text": "飛狂",
+        "variant": "狂飛",
+        "source": "一作「狂飛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_013_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "題白樂天文集",
+    "poem": [
+      "寄玉蓮花藏，緘珠貝葉扃。",
+      "院閒容客讀，講倦許僧聽。",
+      "部列雕金榜，題存刻石銘。",
+      "永添鴻寳集，莫雜小乘經。"
+    ],
+    "notes": [
+      {
+        "content": "樂天藏書東都聖善寺，號《白氏文集》，紳作詩以美之。",
+        "context": "白樂天文集",
+        "original_title": "題白樂天文集〈樂天藏書東都聖善寺，號《白氏文集》，紳作詩以美之。〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_483_014_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "答章孝標",
+    "poem": [
+      "假金方用眞金鍍，若是真金不鍍金。",
+      "十載長安得一第，何須空腹用高心。"
+    ]
+  },
+  {
+    "uid": "QTS_483_015_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "朱槿花",
+    "poem": [
+      "瘴煙長暖無霜雪，槿豔繁花滿樹紅。",
+      "每歎芳菲四時厭，不知開落有春風。"
+    ]
+  },
+  {
+    "uid": "QTS_483_016_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "至潭州聞猿",
+    "poem": [
+      "昔陪天上三清客，今作端州萬里人。",
+      "湘浦更聞猿夜嘯，斷腸無淚可霑巾。"
+    ]
+  },
+  {
+    "uid": "QTS_483_017_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "江亭",
+    "poem": [
+      "瘴江昏霧連天合，欲作家書更斷腸。",
+      "今日病身悲狀候，豈能埋骨向炎荒。"
+    ]
+  },
+  {
+    "uid": "QTS_483_018_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "紅蕉花",
+    "poem": [
+      "紅蕉花様炎方識，瘴水溪邊色最深。",
+      "葉滿叢深殷似火，不唯燒眼更燒心。"
+    ]
+  },
+  {
+    "uid": "QTS_483_019_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "憶漢月",
+    "poem": [
+      "花開花落無時節，春去春來有底憑。",
+      "燕子不藏雷不蟄，燭煙昏霧暗騰騰。"
+    ]
+  },
+  {
+    "uid": "QTS_483_020_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "端州江亭得家書二首 其一",
+    "poem": [
+      "雨中鵲語喧江樹，風處蛛絲颺水潯。",
+      "開拆遠書何事喜，數行家信抵千金。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_483_020_02",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "端州江亭得家書二首 其二",
+    "poem": [
+      "長安別日春風早，嶺外今來白露秋。",
+      "莫道淮南悲木葉，不聞揺落更堪愁。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_483_021_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "聞猨",
+    "poem": [
+      "見說三聲巴峽深，此時行者盡沾襟。",
+      "端州江口連雲處，始信哀猿傷客心。"
+    ]
+  },
+  {
+    "uid": "QTS_483_022_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "贈韋金吾",
+    "poem": [
+      "自報金吾主禁兵，腰間寶劒重橫行。",
+      "接輿也是狂歌客，更就將軍乞一聲。"
+    ]
+  },
+  {
+    "uid": "QTS_483_023_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "長門怨",
+    "poem": [
+      "宮殿沈沈曉欲分，昭陽更漏不堪聞。",
+      "珊瑚枕上千行淚，不是思君是恨君。"
+    ]
+  },
+  {
+    "uid": "QTS_483_024_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "龜山寺魚池",
+    "poem": [
+      "汲水添池活白蓮，十年鬐鬛盡生天。",
+      "凡庸不識慈悲意，自葬江魚入九泉。"
+    ]
+  },
+  {
+    "uid": "QTS_483_025_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "龜山寺魚池",
+    "poem": [
+      "剃髮多緣是代耕，好聞人死惡人生。",
+      "袛園説法無高下，爾輩何勞尚世情。"
+    ]
+  },
+  {
+    "uid": "QTS_483_026_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "賦月",
+    "poem": [
+      "月。",
+      "光輝，皎潔。",
+      "耀乾坤，靜空濶。",
+      "圓滿中秋，玩爭詩哲。",
+      "玉兔鏑難穿，桂枝人共折。",
+      "萬象照乃無私，瓊臺豈遮君謁。",
+      "抱琴對彈別鶴聲，不得知音聲不切。"
+    ]
+  },
+  {
+    "uid": "QTS_483_027_01",
+    "volume": 483,
+    "author": {
+      "canonical": "李紳",
+      "recorded": "李紳",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shen",
+      "wikidata_id": "Q6539062"
+    },
+    "title": "句",
+    "poem": [
+      "君詠風月夕，余當童稚年。",
+      "閒窗讀書罷，偷詠左司篇。"
+    ]
+  }
+]

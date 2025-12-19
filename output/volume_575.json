@@ -1,0 +1,1156 @@
+[
+  {
+    "uid": "QTS_575_001_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雞鳴埭曲",
+    "poem": [
+      "南朝天子射雉時，銀河耿耿星參差。",
+      "銅壺漏斷夢初覺，寶馬塵高人未知。",
+      "魚躍蓮東蕩宮沼，濛濛御柳懸棲鳥。",
+      "紅妝萬戶鏡中春，碧樹一聲天下曉。",
+      "盤踞勢窮三百年，朱方殺氣成愁煙。",
+      "彗星拂地浪連海，戰鼓渡江塵漲天。",
+      "繡龍畫雉填宮井，野火風驅燒九鼎。",
+      "殿巢江燕砌生蒿，十二金人霜炯炯。",
+      "芊綿平綠台城基，暖色春容荒古陂。",
+      "寧知玉樹後庭曲，留待野棠如雪枝。"
+    ],
+    "preface": "溫庭筠，本名岐，字飛卿。太原人。宰相彥愽裔孫。少敏悟，才思豓麗，韻格清拔，工為詞章小賦，與李商隱皆有名，稱「溫李」。然行無檢幅，數舉進士不第。思神速，每入試，押官韻作賦，凡八義手而成，時號「溫八義」。徐商鎮襄陽，署為廵官，不得志，去歸江東。後商知政事，頗右之，欲白用。㑹商罷相，楊收疾之，貶方城尉，再遷隋縣尉，卒。集二十八卷，今編詩為九卷。",
+    "variants": [
+      {
+        "line": 9,
+        "text": "容",
+        "variant": "空",
+        "source": "一作「空」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_002_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "織錦詞",
+    "poem": [
+      "丁東細漏侵瓊瑟，影轉高梧月初出。",
+      "簇簌金梭萬縷紅，鴛鴦豔錦初成匹。",
+      "錦中百結皆同心，蕊亂雲盤相間深。",
+      "此意欲傳傳不得，玫瑰作柱朱弦琴。",
+      "為君裁破合歡被，星斗迢迢共千里。",
+      "象尺熏爐未覺秋，碧池已有新蓮子。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "東",
+        "variant": "冬",
+        "source": "一作「冬」"
+      },
+      {
+        "line": 1,
+        "text": "瓊",
+        "variant": "瑤",
+        "source": "一作「瑤」"
+      },
+      {
+        "line": 2,
+        "text": "匹",
+        "variant": "疋",
+        "source": "一作「疋」"
+      },
+      {
+        "line": 5,
+        "text": "迢迢",
+        "variant": "寥寥",
+        "source": "一作「寥寥」"
+      },
+      {
+        "line": 6,
+        "text": "尺",
+        "variant": "齒",
+        "source": "一作「齒」"
+      },
+      {
+        "line": 6,
+        "text": "已",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_003_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "夜宴謠",
+    "poem": [
+      "長釵墜發雙蜻蜓，碧盡山斜開畫屏。",
+      "虬鬚公子五侯客，一飲千鐘如建瓴。",
+      "鸞咽奼唱圓無節，眉斂湘煙袖回雪。",
+      "清夜恩情四座同，莫令溝水東西別。",
+      "亭亭蠟淚香珠殘，暗露曉風羅幕寒。",
+      "飄颻戟帶儼相次，二十四枝龍畫竿。",
+      "裂管縈弦共繁曲，芳樽細浪傾春醁。",
+      "高樓客散杏花多，脈脈新蟾如瞪目。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鬚",
+        "variant": "䫇",
+        "source": "一作「䫇」"
+      },
+      {
+        "line": 3,
+        "text": "奼",
+        "variant": "妖",
+        "source": "一作「妖」，一作「奼」"
+      },
+      {
+        "line": 5,
+        "text": "殘",
+        "variant": "濺",
+        "source": "一作「濺」"
+      },
+      {
+        "line": 5,
+        "text": "曉",
+        "variant": "小",
+        "source": "一作「小」"
+      },
+      {
+        "line": 6,
+        "text": "颻",
+        "variant": "飄",
+        "source": "一作「飄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_004_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "蓮浦謠",
+    "poem": [
+      "鳴橈軋軋溪溶溶，廢綠平煙吳苑東。",
+      "水清蓮媚兩相向，鏡裏見愁愁更紅。",
+      "白馬金鞭大堤上，西江日夕多風浪。",
+      "荷心有露似驪珠，不是真圓亦搖蕩。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鞭",
+        "variant": "鞍",
+        "source": "一作「鞍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_005_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "郭處士擊甌歌",
+    "poem": [
+      "佶栗金虬石潭古，勺陂瀲灩幽修語。",
+      "湘君寶馬上神雲，碎佩叢鈴滿煙雨。",
+      "吾聞三十六宮花離離，軟風吹春星斗稀。",
+      "玉晨冷磬破昏夢，天露未乾香著衣。",
+      "蘭釵委墜垂雲髮，小響丁當逐迴雪。",
+      "晴碧煙滋重疊山，羅屏半掩桃花月。",
+      "太平天子駐雲車，龍爐勃鬱雙蟠拏。",
+      "宮中近臣抱扇立，侍女低鬟落翠花。",
+      "亂珠觸續正跳蕩，傾頭不覺金烏斜。",
+      "我亦為君長歎息，緘情遠寄愁無色。",
+      "莫沾香夢綠楊絲，千里春風正無力。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "瀲",
+        "variant": "澹",
+        "source": "一作「澹」"
+      },
+      {
+        "line": 4,
+        "text": "天",
+        "variant": "木",
+        "source": "一作「木」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_006_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "遐水謠",
+    "poem": [
+      "天兵九月渡遐水，馬踏沙鳴驚雁起。",
+      "殺氣空高萬里情，塞寒如箭傷眸子。",
+      "狼煙堡上霜漫漫，枯葉號風天地乾。",
+      "犀帶鼠裘無暖色，清光炯冷黃金鞍。",
+      "虜塵如霧昬亭障，隴首年年漢飛將。",
+      "麟閣無名期未歸，樓中思婦徒相望。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "驚雁",
+        "variant": "雁聲",
+        "source": "一作「雁聲」"
+      },
+      {
+        "line": 2,
+        "text": "傷",
+        "variant": "雙",
+        "source": "一作「雙」"
+      },
+      {
+        "line": 3,
+        "text": "號",
+        "variant": "飄",
+        "source": "一作「飄」"
+      },
+      {
+        "line": 5,
+        "text": "昬",
+        "variant": "罩",
+        "source": "一作「罩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_007_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "曉仙謠",
+    "poem": [
+      "玉妃喚月歸海宮，月色澹白涵春空。",
+      "銀河欲轉星靨靨，碧浪疊山埋早紅。",
+      "宮花有露如新淚，小苑叢叢入寒翠。",
+      "綺閣空傳唱漏聲，網軒未辨凌雲字。",
+      "遙遙珠帳連湘煙，鶴扇如霜金骨仙。",
+      "碧簫曲盡彩霞動，下視九州皆悄然。",
+      "秦王女騎紅尾鳳，半空回首晨雞弄。",
+      "霧蓋狂塵億兆家，世人猶作牽情夢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "碧",
+        "variant": "雪",
+        "source": "一作「雪」"
+      },
+      {
+        "line": 3,
+        "text": "叢叢",
+        "variant": "茸茸",
+        "source": "一作「茸茸」"
+      },
+      {
+        "line": 5,
+        "text": "扇",
+        "variant": "羽",
+        "source": "一作「羽」"
+      },
+      {
+        "line": 7,
+        "text": "半",
+        "variant": "乘",
+        "source": "一作「乘」"
+      },
+      {
+        "line": 8,
+        "text": "霧",
+        "variant": "露",
+        "source": "一作「露」"
+      },
+      {
+        "line": 8,
+        "text": "兆",
+        "variant": "萬",
+        "source": "一作「萬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_008_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "錦城曲",
+    "poem": [
+      "蜀山攢黛留晴雪，簝筍蕨芽縈九折。",
+      "江風吹巧剪霞綃，花上千枝杜鵑血。",
+      "杜鵑飛入巖下叢，夜叫思歸山月中。",
+      "巴水漾情情不盡，文君織得春機紅。",
+      "怨魄未歸芳草死，江頭學種相思子。",
+      "樹成寄與望鄉人，白帝荒城五千里。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "荒城",
+        "variant": "城荒",
+        "source": "一作「城荒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_009_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "生禖屏風歌",
+    "poem": [
+      "玉墀暗接崑崙井，井上無人金索冷。",
+      "畫壁陰森九子堂，階前細月鋪花影。",
+      "繡屏銀鴨香蓊蒙，天上夢歸花繞叢。",
+      "宜男漫作後庭草，不似櫻桃千子紅。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "細",
+        "variant": "碎",
+        "source": "一作「碎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_010_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "嘲春風",
+    "poem": [
+      "春風何處好，別殿饒芳草。",
+      "苒嫋轉鸞旗，萎蕤吹雉葆。",
+      "揚芳歷九門，澹蕩入蘭蓀。",
+      "爭奈白團扇，時時偷主恩。"
+    ]
+  },
+  {
+    "uid": "QTS_575_011_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "舞衣曲",
+    "poem": [
+      "藕腸纖縷抽輕春，煙機漠漠嬌娥嚬。",
+      "金梭淅瀝透空薄，剪落交刀吹斷雲。",
+      "張家公子夜聞雨，夜向蘭堂思楚舞。",
+      "蟬衫麟帶壓愁香，偷得鶯簧鏁金縷。",
+      "管含蘭氣嬌語悲，胡槽雪腕鴛鴦絲。",
+      "芙蓉力弱應難定，楊柳風多不自持。",
+      "回嚬笑語西窗客，星斗寥寥波脈脈。",
+      "不逐秦王卷象牀，滿樓明月梨花白。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "娥",
+        "variant": "蛾",
+        "source": "一作「蛾」"
+      },
+      {
+        "line": 2,
+        "text": "交刀",
+        "variant": "鮫鮹",
+        "source": "一作「鮫鮹」"
+      },
+      {
+        "line": 4,
+        "text": "鶯簧",
+        "variant": "黃鶯",
+        "source": "一作「黃鶯」"
+      },
+      {
+        "line": 4,
+        "text": "鏁",
+        "variant": "銷",
+        "source": "一作「銷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_012_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "張靜婉採蓮歌",
+    "poem": [
+      "蘭膏墜發紅玉春，燕釵拖頸拋盤雲。",
+      "城邊楊柳向嬌晚，門前溝水波粼粼。",
+      "麒麟公子朝天客，珂馬璫璫度春陌。",
+      "掌中無力舞衣輕，剪斷鮫綃破春碧。",
+      "抱月飄煙一尺腰，麝臍龍髓憐嬌嬈。",
+      "秋羅拂水碎光動，露重花多香不銷。",
+      "鸂鶒交交塘水滿，綠芒如粟蓮莖短。",
+      "一夜西風送雨來，粉痕零落愁紅淺。",
+      "船頭折藕絲暗牽，藕根蓮子相留連。",
+      "郎心似月月未缺，十五十六清光圓。"
+    ],
+    "notes": [
+      {
+        "content": "并序",
+        "context": "靜婉採蓮歌",
+        "original_title": "張靜婉採蓮歌〈并序〉"
+      }
+    ],
+    "preface": "靜婉，羊偘妓也，其容絕世，偘自為《採蓮》二曲，今《樂府》所存，失其故意，因歌以俟採詩者，事具載《梁史》。",
+    "variants": [
+      {
+        "line": 2,
+        "text": "邊",
+        "variant": "西",
+        "source": "一作「西」"
+      },
+      {
+        "line": 2,
+        "text": "嬌",
+        "variant": "橋",
+        "source": "一作「橋」"
+      },
+      {
+        "line": 3,
+        "text": "珂",
+        "variant": "佩",
+        "source": "一作「佩」"
+      },
+      {
+        "line": 3,
+        "text": "璫璫",
+        "variant": "堂堂",
+        "source": "一作「堂堂」，一作「當當」"
+      },
+      {
+        "line": 4,
+        "text": "綃",
+        "variant": "鮹",
+        "source": "一作「鮹」"
+      },
+      {
+        "line": 5,
+        "text": "髓",
+        "variant": "腦",
+        "source": "一作「腦」"
+      },
+      {
+        "line": 6,
+        "text": "水",
+        "variant": "衣",
+        "source": "一作「衣」"
+      },
+      {
+        "line": 7,
+        "text": "交交",
+        "variant": "膠膠",
+        "source": "一作「膠膠」"
+      },
+      {
+        "line": 7,
+        "text": "芒",
+        "variant": "萍",
+        "source": "一作「萍」"
+      },
+      {
+        "line": 7,
+        "text": "如",
+        "variant": "金",
+        "source": "一作「金」"
+      },
+      {
+        "line": 10,
+        "text": "未",
+        "variant": "易",
+        "source": "一作「易」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_013_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "湘宮人歌",
+    "poem": [
+      "池塘芳草濕，夜半東風起。",
+      "生綠畫羅屏，金壺貯春水。",
+      "黃粉楚宮人，芳花玉刻鱗。",
+      "娟娟照棊燭，不語兩含嚬。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "芳花",
+        "variant": "方飛",
+        "source": "一作「方飛」"
+      },
+      {
+        "line": 4,
+        "text": "棊",
+        "variant": "臺",
+        "source": "一作「臺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_014_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "黃曇子歌",
+    "poem": [
+      "參差綠蒲短，搖豔雲塘滿。",
+      "紅瀲蕩融融，鶯翁鸂鶒暖。",
+      "萋芊小成路，馬上修蛾嬾。",
+      "羅衫褭回風，點粉金鸝卵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雲",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 3,
+        "text": "成",
+        "variant": "城",
+        "source": "一作「城」"
+      },
+      {
+        "line": 4,
+        "text": "回",
+        "variant": "向",
+        "source": "一作「向」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_015_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "觱篥歌",
+    "poem": [
+      "蠟煙如纛新蟾滿，門外平沙草芽短。",
+      "黑頭丞相九天歸，夜聽飛瓊吹朔管。",
+      "情遠氣調蘭蕙熏，天香瑞彩含絪縕。",
+      "皓然纖指都揭血，日暖碧霄無片雲。",
+      "含商咀徵雙幽咽，軟縠疎羅共蕭屑。",
+      "不盡長圓疊翠愁，柳風吹破澄潭月。",
+      "鳴梭淅瀝金絲蘂，恨語殷勤隴頭水。",
+      "漢將營前萬里沙，更深一一霜鴻起。",
+      "十二樓前花正繁，交枝簇蒂連壁門。",
+      "景陽宮女正愁絕，莫使此聲催斷魂。"
+    ],
+    "notes": [
+      {
+        "content": "李相妓人吹",
+        "context": "觱篥歌",
+        "original_title": "觱篥歌〈李相妓人吹〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "平沙",
+        "variant": "沙平",
+        "source": "一作「沙平」"
+      },
+      {
+        "line": 6,
+        "text": "翠",
+        "variant": "彩",
+        "source": "一作「彩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_016_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "照影曲",
+    "poem": [
+      "景陽妝罷瓊窗暖，欲照澄明香步嬾。",
+      "橋上衣多抱彩雲，金鱗不動春塘滿。",
+      "黃印額山輕為塵，翠鱗紅稚俱含嚬。",
+      "桃花百媚如欲語，曾為無雙今兩身。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鱗",
+        "variant": "鮮",
+        "source": "一作「鮮」"
+      },
+      {
+        "line": 3,
+        "text": "鱗",
+        "variant": "鮮",
+        "source": "一作「鮮」"
+      },
+      {
+        "line": 4,
+        "text": "為",
+        "variant": "謂",
+        "source": "一作「謂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_017_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "拂舞詞",
+    "poem": [
+      "黃河怒浪連天來，大響谹谹如殷雷。",
+      "龍伯驅風不敢上，百川噴雪高崔嵬。",
+      "二十三弦何太哀，請公勿渡立徘徊。",
+      "下有狂蛟鋸為尾，裂帆截棹磨霜齒。",
+      "神椎鑿石塞神潭，白馬䟃𧽼赤塵起。",
+      "公乎躍馬揚玉鞭，滅沒高蹄日千里。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "谹谹",
+        "variant": "肱肱",
+        "source": "一作「肱肱」"
+      },
+      {
+        "line": 3,
+        "text": "三",
+        "variant": "五",
+        "source": "一作「五」"
+      },
+      {
+        "line": 3,
+        "text": "勿",
+        "variant": "莫",
+        "source": "一作「莫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_018_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "太液池歌",
+    "poem": [
+      "腥鮮龍氣連清防，花風漾漾吹細光。",
+      "疊瀾不定照天井，倒影蕩搖晴翠長。",
+      "平碧淺春生綠塘，雲容雨態連青蒼。",
+      "夜深銀漢通柏梁，二十八宿朝玉堂。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "搖",
+        "variant": "漾",
+        "source": "一作「漾」"
+      },
+      {
+        "line": 3,
+        "text": "青",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_019_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雉場歌",
+    "poem": [
+      "茭葉萋萋接煙曙，雞鳴埭上梨花露。",
+      "彩仗鏘鏘已合圍，繡翎白頸遙相妬。",
+      "雕尾扇張金縷高，碎鈴素拂驪駒豪。",
+      "綠場紅跡未相接，箭發銅牙傷彩毛。",
+      "麥隴桑陰小山晚，六虬歸去凝笳遠。",
+      "城頭卻望幾含情，青畝春蕪連石苑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "曙",
+        "variant": "樹",
+        "source": "一作「樹」"
+      },
+      {
+        "line": 4,
+        "text": "未",
+        "variant": "來",
+        "source": "一作「來」"
+      },
+      {
+        "line": 4,
+        "text": "銅",
+        "variant": "狼",
+        "source": "一作「狼」"
+      },
+      {
+        "line": 5,
+        "text": "虬",
+        "variant": "虯",
+        "source": "一作「虯」"
+      },
+      {
+        "line": 6,
+        "text": "青",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 6,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      },
+      {
+        "line": 6,
+        "text": "石",
+        "variant": "古",
+        "source": "一作「古」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_020_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雍臺歌",
+    "poem": [
+      "太子池南樓百尺，入窗新樹疎簾隔。",
+      "黃金鋪首畫鉤陳，羽葆停幢拂交戟。",
+      "盤紆闌楯臨高臺，帳殿臨流鸞扇開。",
+      "早雁驚鳴細波起，映花鹵簿龍飛迴。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "入",
+        "variant": "八",
+        "source": "一作「八」"
+      },
+      {
+        "line": 2,
+        "text": "停幢",
+        "variant": "亭童",
+        "source": "一作「亭童」"
+      },
+      {
+        "line": 3,
+        "text": "帳殿",
+        "variant": "殿帳",
+        "source": "一作「殿帳」"
+      },
+      {
+        "line": 4,
+        "text": "驚",
+        "variant": "聲",
+        "source": "一作「聲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_021_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "吳苑行",
+    "poem": [
+      "錦雉雙飛梅結子，平春遠綠窗中起。",
+      "吳江澹畫水連空，三尺屏風隔千里。",
+      "小苑有門紅扇開，天絲舞蝶共徘徊。",
+      "綺戶雕楹長若此，韶光歲歲如歸來。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "紅",
+        "variant": "門",
+        "source": "一作「門」"
+      },
+      {
+        "line": 3,
+        "text": "共",
+        "variant": "俱",
+        "source": "一作「俱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_022_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "常林歡歌",
+    "poem": [
+      "宜城酒熟花覆橋，沙晴綠鴨鳴咬咬。",
+      "穠桑繞舍麥如尾，幽軋鳴機雙燕巢。",
+      "馬聲特特荊門道，蠻水揚光色如草。",
+      "錦薦金爐夢正長，東家咿喔雞鳴早。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "咬咬",
+        "variant": "交交",
+        "source": "一作「交交」"
+      },
+      {
+        "line": 4,
+        "text": "咿",
+        "variant": "呃",
+        "source": "一作「呃」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_023_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "塞寒行",
+    "poem": [
+      "燕弓弦勁霜封瓦，樸簌寒雕睇平野。",
+      "一點黃塵起雁喧，白龍堆下千蹄馬。",
+      "河源怒濁風如刀，剪斷朔雲天更高。",
+      "晚出榆關逐征北，驚沙飛迸衝貂袍。",
+      "心許凌煙名不滅，年年錦字傷離別。",
+      "彩毫一畫竟何榮，空使青樓淚成血。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "濁",
+        "variant": "觸",
+        "source": "一作「觸」，一作「激」"
+      },
+      {
+        "line": 4,
+        "text": "關",
+        "variant": "林",
+        "source": "一作「林」"
+      },
+      {
+        "line": 4,
+        "text": "貂",
+        "variant": "征",
+        "source": "一作「征」"
+      },
+      {
+        "line": 6,
+        "text": "空",
+        "variant": "長",
+        "source": "一作「長」"
+      },
+      {
+        "line": 6,
+        "text": "淚",
+        "variant": "泣",
+        "source": "一作「泣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_024_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "湖陰詞",
+    "poem": [
+      "祖龍黃鬚珊瑚鞭，鐵驄金面青連錢。",
+      "虎髯拔劔欲成夢，日壓賊營如血鮮。",
+      "海旗風急驚眠起，甲重光搖照湖水。",
+      "蒼黃追騎塵外歸，森索妖星陣前死。",
+      "五陵愁碧春萋萋，霸川玉馬空中嘶。",
+      "羽書如電入青瑣，雪腕如槌催畫鞞。",
+      "白虬天子金煌鋩，高臨帝座迴龍章。",
+      "吳波不動楚山晚，花壓闌干春晝長。"
+    ],
+    "notes": [
+      {
+        "content": "并序",
+        "context": "湖陰詞",
+        "original_title": "湖陰詞〈并序〉"
+      }
+    ],
+    "preface": "王敦舉兵至湖陰，明帝微行，視其營伍，由是樂府有《湖陰曲》而亡其詞，因作而附之。",
+    "variants": [
+      {
+        "line": 2,
+        "text": "髯",
+        "variant": "須",
+        "source": "一作「須」"
+      },
+      {
+        "line": 7,
+        "text": "虬",
+        "variant": "虯",
+        "source": "一作「虯」"
+      },
+      {
+        "line": 7,
+        "text": "煌",
+        "variant": "鍠",
+        "source": "一作「鍠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_025_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "蔣侯神歌",
+    "poem": [
+      "楚神鐵馬金鳴珂，夜動蛟潭生素波。",
+      "商風刮水報西帝，廟前古樹蟠白蛇。",
+      "吳王赤斧斫雲陣，畫堂列壁叢霜刃。",
+      "巫娥傳意托悲絲，鐸語琅琅理雙鬢。",
+      "湘煙刷翠湘山斜，東方日出飛神鴉。",
+      "青雲自有黑龍子，潘妃莫結丁香花。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "斫",
+        "variant": "砍",
+        "source": "一作「砍」"
+      },
+      {
+        "line": 3,
+        "text": "壁叢",
+        "variant": "戟排",
+        "source": "一作「戟排」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_575_026_01",
+    "volume": 575,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "漢皇迎春詞",
+    "poem": [
+      "春草芊芊晴掃煙，宮城大錦紅殷鮮。",
+      "海日初融照仙掌，淮王小隊纓鈴響。",
+      "獵獵東風𦦨赤旗，畫神金甲蔥蘢網。",
+      "鉅公步輦迎句芒，複道掃塵燕彗長。",
+      "豹尾竿前趙飛燕，柳風吹盡眉間黃。",
+      "碧草含情杏花喜，上林鶯囀遊絲起。",
+      "寶馬搖環萬騎歸，恩光暗入簾櫳裏。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "掃",
+        "variant": "拂",
+        "source": "一作「拂」"
+      },
+      {
+        "line": 2,
+        "text": "初",
+        "variant": "如",
+        "source": "一作「如」"
+      },
+      {
+        "line": 2,
+        "text": "隊",
+        "variant": "墜",
+        "source": "一作「墜」"
+      },
+      {
+        "line": 3,
+        "text": "𦦨赤",
+        "variant": "展焰",
+        "source": "一作「展焰」"
+      },
+      {
+        "line": 4,
+        "text": "掃",
+        "variant": "拂",
+        "source": "一作「拂」"
+      },
+      {
+        "line": 4,
+        "text": "彗",
+        "variant": "篲",
+        "source": "一作「篲」"
+      }
+    ]
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "uid": "QTS_689_001_01",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "山居即事二首 其一",
+    "poem": [
+      "君山蒼翠接青冥，東走洮湖上洞庭。",
+      "茅屋向陽梳白髮，竹窓深夜誦丹經。",
+      "湧泉回泬魚龍氣，怪石驚騰鳥獸形。",
+      "為問前時金馬客，此焉還作少微星。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_689_001_02",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "山居即事二首 其二",
+    "poem": [
+      "不是幽棲矯性靈，從來無意在羶腥。",
+      "滿川風物供高枕，四合雲山借畫屏。",
+      "五鹿歸來驚嶽嶽，孤鴻飛去入冥冥。",
+      "君陽遁叟何為樂？一炷清香兩卷經。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_689_002_01",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 苦行逕",
+    "poem": [
+      "山前無數碧琅玕，一徑清森五月寒。",
+      "世上何人憐苦節，應須細問子猷看。"
+    ],
+    "part_index": 1,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_02",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 梅花塢",
+    "poem": [
+      "凍蘂凝香色豔新，小山深塢伴幽人。",
+      "知君有意凌寒色，羞共千花一樣春。"
+    ],
+    "part_index": 2,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_03",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 石兕臺",
+    "poem": [
+      "大河波浪激潼關，青兕胡為伏此山。",
+      "遙想楚王雲夢澤，蜺旌羽蓋定空還。"
+    ],
+    "part_index": 3,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_04",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 講易台",
+    "poem": [
+      "年逾知命志尤堅，獨向青山更絕編。",
+      "天下有山山有水，養蒙肥遯正翛然。"
+    ],
+    "part_index": 4,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_05",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 觀魚亭",
+    "poem": [
+      "惠施徒自學多方，謾說觀魚理未長。",
+      "不得莊生濠上旨，江湖何以見相忘。"
+    ],
+    "part_index": 5,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_06",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 綠雲亭",
+    "poem": [
+      "六月清涼綠樹陰，小亭高臥滌煩襟。",
+      "羲皇向上何人到？永日時時弄素琴。"
+    ],
+    "part_index": 6,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_07",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 清輝堂",
+    "poem": [
+      "野人心地本無機，為愛茅簷倚翠微。",
+      "盡日尊前誰是客，秋山含水有清輝。"
+    ],
+    "part_index": 7,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_08",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 觀妙庵",
+    "poem": [
+      "妙理難觀旨甚深，欲知無欲是無心。",
+      "茅庵不異人間世，河上真人自可尋。"
+    ],
+    "part_index": 8,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_09",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 西陽亭",
+    "poem": [
+      "隔林殘日照孤亭，玄晏先生酒未醒。",
+      "入夜莫愁迷下路，昔人猶在逐流螢。"
+    ],
+    "part_index": 9,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_10",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 弄雲亭",
+    "poem": [
+      "自知無業致吾君，只向春山弄白雲。",
+      "已共此山私斷當，不須轉轍重移文。"
+    ],
+    "part_index": 10,
+    "total_parts": 19,
+    "variants": [
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "空",
+        "source": "一作「空」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_689_002_11",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 伏龜堂",
+    "poem": [
+      "盤崖蹙縮似靈龜，鬼谷先生隱遁時。",
+      "不獨卷懷經世志，白雲流水是心期。"
+    ],
+    "part_index": 11,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_12",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 桃花谷",
+    "poem": [
+      "君陽山下足春風，滿谷仙桃照水紅。",
+      "何必武陵源上去，澗邊好過落花中。"
+    ],
+    "part_index": 12,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_13",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 含桃圃",
+    "poem": [
+      "小圃初晴風露光，含桃花發滿山香。",
+      "看花對酒心無事，倍覺春來白日長。"
+    ],
+    "part_index": 13,
+    "total_parts": 19,
+    "variants": [
+      {
+        "line": 2,
+        "text": "倍",
+        "variant": "但",
+        "source": "一作「但」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_689_002_14",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 茗坡",
+    "poem": [
+      "二月山家穀雨天，半坡芳茗露華鮮。",
+      "春醒酒病兼消渴，惜取新芽旋摘煎。"
+    ],
+    "part_index": 14,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_15",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 松嶺",
+    "poem": [
+      "嶺上青鬆手自栽，已能蒼翠映莓苔。",
+      "歲寒本是君家事，好送清風月下來。"
+    ],
+    "part_index": 15,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_16",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 桃溪",
+    "poem": [
+      "芳草霏霏遍地齊，桃花脈脈自成谿。",
+      "也知百舌多言語，任向春風盡意啼。"
+    ],
+    "part_index": 16,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_17",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 李徑",
+    "poem": [
+      "一徑穠芳萬蘂攢，風吹雨打未摧殘。",
+      "憐君盡向高枝發，應為行人要整冠。"
+    ],
+    "part_index": 17,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_18",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 鴻盤",
+    "poem": [
+      "落落飛鴻漸始盤，青雲起處剩須看。",
+      "如今天路多繒繳，縱使銜蘆去也難。"
+    ],
+    "part_index": 18,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_002_19",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "陽羨雜詠十九首 偃月嶺",
+    "poem": [
+      "山嶺依稀偃月形，數層倚石疊空青。",
+      "幾廻雪夜寒光積，直似金光照戶庭。"
+    ],
+    "part_index": 19,
+    "total_parts": 19
+  },
+  {
+    "uid": "QTS_689_003_01",
+    "volume": 689,
+    "author": {
+      "canonical": "陸希聲",
+      "recorded": "陸希聲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Xisheng",
+      "wikidata_id": "Q18907008"
+    },
+    "title": "寄�光上人",
+    "poem": [
+      "筆下龍蛇似有神，天池雷雨變逡巡。",
+      "寄言昔日不龜手，應念江頭洴澼人。"
+    ]
+  },
+  {
+    "uid": "QTS_689_004_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "喜杜荀鶴及第",
+    "poem": [
+      "深巖貧復病，榜到見君名。",
+      "貧病渾如失，山川頓覺清。",
+      "一春新酒興，四海舊詩聲。",
+      "日使能吟者，西來步步輕。"
+    ]
+  },
+  {
+    "uid": "QTS_689_005_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "赴舉出山留寄山居鄭叅軍",
+    "poem": [
+      "還如費冠卿，向此振高名。",
+      "肯羨魚鬚美，長誇鶴氅輕。",
+      "理琴寒指倦，試藥黑髭生。",
+      "時泰難雲臥，隨看急詔行。"
+    ]
+  },
+  {
+    "uid": "QTS_689_006_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "題顧正字谿居",
+    "poem": [
+      "高敞吟軒近釣灣，塵中來似出人間。",
+      "若教明月休生桂，應得危時共掩闗。",
+      "春酒夜棋難放客，短籬疎竹不遮山。",
+      "莫誇恬淡勝榮祿，雁引行高未許閒。"
+    ]
+  },
+  {
+    "uid": "QTS_689_007_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "寄獻山中顧公員外",
+    "poem": [
+      "抽卻朝簪著釣蓑，近來聲迹轉巍峨。",
+      "祥麟避網雖山野，丹鳳銜書即薜蘿。",
+      "乍隱文章情更逸，久閒經濟術翻多。",
+      "深慙未副吹噓力，竟困風埃爭奈何。"
+    ]
+  },
+  {
+    "uid": "QTS_689_008_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "山中寄崔諫議",
+    "poem": [
+      "半生猨鳥共山居，吟月吟風兩鬢疎。",
+      "新句未嘗忘教化，上才爭忍不吹噓。",
+      "全家欲去干戈後，大國中興禮樂初。",
+      "從此升騰休說命，秪希公道數封書。"
+    ]
+  },
+  {
+    "uid": "QTS_689_009_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "學仙詞寄顧雲",
+    "poem": [
+      "記得初傳九轉方，碧雲峰下祝虛皇。",
+      "丹砂未熟心徒切，白日難留鬢欲蒼。",
+      "無路洞天尋穆滿，有時人世羙劉郎。",
+      "仙人恩重何由報，焚盡星壇午夜香。"
+    ]
+  },
+  {
+    "uid": "QTS_689_010_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "寄尉遲侍御",
+    "poem": [
+      "我眠青嶂弄澄潭，君戴貂蟬白玉篸。",
+      "應向謝公樓上望，九華山色在西南。"
+    ]
+  },
+  {
+    "uid": "QTS_689_011_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "招西洞道者",
+    "poem": [
+      "危峰抹黛夾晴川，樹簇紅英草碧煙。",
+      "樵客雲僧兩無事，此中堪去覔靈仙。"
+    ]
+  },
+  {
+    "uid": "QTS_689_012_01",
+    "volume": 689,
+    "author": {
+      "canonical": "李昭象",
+      "recorded": "李昭象"
+    },
+    "title": "句",
+    "poem": [
+      "投文得仕而今少，佩印還家古所榮。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "《送周繇之建德》。《唐詩紀事》",
+        "context": ""
+      }
+    ]
+  }
+]

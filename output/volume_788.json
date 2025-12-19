@@ -1,0 +1,1448 @@
+[
+  {
+    "uid": "QTS_788_001_01",
+    "volume": 788,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "改九子山為九華山聯句",
+    "poem": [
+      "妙有分二氣，靈山開九華。",
+      "層標遏遲日，半壁明朝霞。",
+      "積雪曜陰壑，飛流噴陽崖。",
+      "青瑩玉樹色，縹緲羽人家。"
+    ],
+    "notes": [
+      {
+        "content": "並序",
+        "context": "九華山聯句",
+        "original_title": "改九子山為九華山聯句〈並序〉"
+      }
+    ],
+    "preface": "青陽縣南有九子山，山高數千丈，上有九峯如蓮華，按圖徵名，無所依據。\n太史公南遊，略而不書。\n事絕古老之口，復闕名賢之紀，雖靈仙往復，而賦詠罕聞。\n予乃削其舊號，加以九華之目。\n時訪道江漢，憩於夏侯迴之堂，開簷岸幘，坐眺松雪，因與二三子聯句，傳之將來。"
+  },
+  {
+    "uid": "QTS_788_002_01",
+    "volume": 788,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "夏夜李尚書筵送宇文石首赴縣聯句",
+    "poem": [
+      "愛客尚書貴，之官宅相賢。",
+      "酒香傾坐側，帆影駐江邊。",
+      "翟表郎官瑞，鳧看令宰仙。",
+      "雨稀雲葉斷，夜久燭花偏。",
+      "數語欹紗帽，高文擲彩箋。",
+      "興饒行處樂，離惜醉中眠。",
+      "單父長多暇，河陽實少年。",
+      "客居逢自出，為別幾淒然。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "杜甫",
+        "context": "愛客尚書貴，之官宅相賢。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李之芳",
+        "context": "酒香傾坐側，帆影駐江邊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "崔彧",
+        "context": "翟表郎官瑞，鳧看令宰仙。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "杜甫",
+        "context": "雨稀雲葉斷，夜久燭花偏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李之芳",
+        "context": "數語欹紗帽，高文擲彩箋。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "崔彧",
+        "context": "興饒行處樂，離惜醉中眠。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "杜甫",
+        "context": "單父長多暇，河陽實少年。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "李之芳",
+        "context": "客居逢自出，為別幾淒然。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_003_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "登峴山觀李左相石尊聯句",
+    "poem": [
+      "李公登飲處，因石為窪尊。",
+      "人事歲年改，峴山今古存。",
+      "榛蕪掩前跡，苔蘚餘舊痕。",
+      "叔子尚遺德，山公此回軒。",
+      "維舟陪高興，感昔情彌敦。",
+      "藹藹賢哲事，依依離別言。",
+      "嶇嶔橫道周，迢遞連山根。",
+      "餘烈曖林野，眾芳揖蘭蓀。",
+      "德暉映岩足，勝賞延高原。",
+      "遠水明匹練，因晴見吳門。",
+      "陪游追盛美，揆德欣討論。",
+      "器有成形用，功資造化元。",
+      "流霞方泔淡，別鶴遽翩翻。",
+      "舊規傾逸賞，新興麗初暾。",
+      "醉後接䍦倒，歸時騶騎喧。",
+      "遲回向遺跡，離別益傷魂。",
+      "覽事古興屬，送人歸思繁。",
+      "懷賢久徂謝，贈遠空攀援。",
+      "八座欽懿躅，高名播幹抻。",
+      "松深引閒步，葛弱供險捫。",
+      "花氣酒中馥，雲華衣上屯。",
+      "森沈列湖樹，牢落望效園。",
+      "白日半岩岫，清風滿丘樊。",
+      "旌麾間翠幄，簫鼓來朱轓。",
+      "閑路躡雲影，清心澄水源。",
+      "萍連浦中嶼，竹繞山下村。",
+      "景落全溪暗，煙凝半嶺昏。",
+      "去日往如複，換年涼代溫。",
+      "登臨繼風騷，義激舊府恩。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顏真卿",
+        "context": "李公登飲處，因石為窪尊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "劉全白",
+        "context": "人事歲年改，峴山今古存。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "裴循",
+        "context": "榛蕪掩前跡，苔蘚餘舊痕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張薦",
+        "context": "叔子尚遺德，山公此回軒。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "吳筠",
+        "context": "維舟陪高興，感昔情彌敦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "強蒙",
+        "context": "藹藹賢哲事，依依離別言。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "範縉",
+        "context": "嶇嶔橫道周，迢遞連山根。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "王純",
+        "context": "餘烈曖林野，眾芳揖蘭蓀。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "魏理",
+        "context": "德暉映岩足，勝賞延高原。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "王修甫",
+        "context": "遠水明匹練，因晴見吳門。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "顏峴",
+        "context": "陪游追盛美，揆德欣討論。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "左輔元",
+        "context": "器有成形用，功資造化元。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 13,
+        "content": "劉茂",
+        "context": "流霞方泔淡，別鶴遽翩翻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "顏渾",
+        "context": "舊規傾逸賞，新興麗初暾。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "楊德元",
+        "context": "醉後接䍦倒，歸時騶騎喧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 16,
+        "content": "韋介",
+        "context": "遲回向遺跡，離別益傷魂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 17,
+        "content": "皎然",
+        "context": "覽事古興屬，送人歸思繁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "崔弘",
+        "context": "懷賢久徂謝，贈遠空攀援。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 19,
+        "content": "史仲宣",
+        "context": "八座欽懿躅，高名播幹抻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 20,
+        "content": "陸羽",
+        "context": "松深引閒步，葛弱供險捫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 21,
+        "content": "權器",
+        "context": "花氣酒中馥，雲華衣上屯。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 22,
+        "content": "陸士修",
+        "context": "森沈列湖樹，牢落望效園。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 23,
+        "content": "裴幼清",
+        "context": "白日半岩岫，清風滿丘樊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 24,
+        "content": "柳淡",
+        "context": "旌麾間翠幄，簫鼓來朱轓。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 25,
+        "content": "釋塵外",
+        "context": "閑路躡雲影，清心澄水源。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 26,
+        "content": "顏顓",
+        "context": "萍連浦中嶼，竹繞山下村。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 27,
+        "content": "顏須",
+        "context": "景落全溪暗，煙凝半嶺昏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 28,
+        "content": "顏頊",
+        "context": "去日往如複，換年涼代溫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 29,
+        "content": "李崿",
+        "context": "登臨繼風騷，義激舊府恩。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_004_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "水堂送諸文士戲贈潘丞聯句",
+    "poem": [
+      "居人未可散，上客須留著。",
+      "莫唱阿嚲回，應雲夜半樂。",
+      "詩教刻燭賦，酒任連盤酌。",
+      "從他白眼看，終戀青山郭。",
+      "林棲非姓許，寺住那名約。",
+      "會異永和年，才同建安作。",
+      "何煩問更漏，但遣催弦索。",
+      "共說長句能，皆言早歸惡。",
+      "那知殊出處，還得同笑謔。",
+      "雅韻雖暫歡，禪心肯拋卻。",
+      "一宿同高會，幾人歸下若。",
+      "簾開北陸風，燭焯南枝鵲。",
+      "文場苦叨竊，釣渚甘漂泊。",
+      "弱質幸見容，菲才誠重諾。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "莫唱阿嚲回，應雲夜半樂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "潘述",
+        "context": "從他白眼看，終戀青山郭。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "陸羽",
+        "context": "會異永和年，才同建安作。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "權器",
+        "context": "共說長句能，皆言早歸惡。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "雅韻雖暫歡，禪心肯拋卻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "李崿",
+        "context": "簾開北陸風，燭焯南枝鵲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "潘述",
+        "context": "弱質幸見容，菲才誠重諾。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_005_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "與耿湋水亭詠風聯句",
+    "poem": [
+      "清風何處起，拂檻複縈洲。",
+      "回入飄華幕，輕來疊晚流。",
+      "桃竹今已展，羽翣且從收。",
+      "經竹吹彌切，過松韻更幽。",
+      "直散青蘋末，偏隨白浪頭。",
+      "山山催雨過，浦浦發行舟。",
+      "動樹蟬爭噪，開簾客罷愁。",
+      "度弦方解慍，臨水已迎秋。",
+      "涼為開襟至，清因作頌留。",
+      "周回隨遠夢，騷屑滿離憂。",
+      "豈獨銷繁暑，偏能入迥樓。",
+      "王風今若此，誰不荷明休。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "裴幼清",
+        "context": "清風何處起，拂檻複縈洲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "楊憑",
+        "context": "回入飄華幕，輕來疊晚流。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "楊凝",
+        "context": "桃竹今已展，羽翣且從收。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "左輔元",
+        "context": "經竹吹彌切，過松韻更幽。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "陸士修",
+        "context": "直散青蘋末，偏隨白浪頭。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "權器",
+        "context": "山山催雨過，浦浦發行舟。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "陸羽",
+        "context": "動樹蟬爭噪，開簾客罷愁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "顏真卿",
+        "context": "度弦方解慍，臨水已迎秋。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皎然",
+        "context": "涼為開襟至，清因作頌留。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "耿湋",
+        "context": "周回隨遠夢，騷屑滿離憂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "—喬",
+        "context": "豈獨銷繁暑，偏能入迥樓。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "陸涓",
+        "context": "王風今若此，誰不荷明休。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_006_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "又溪館聽蟬聯句",
+    "poem": [
+      "高樹多涼吹，疏蟬足斷聲。",
+      "已催居客感，更使別人驚。",
+      "晚夏猶知急，新秋別有情。",
+      "危湍和不似，細管學難成。",
+      "當斅附金重，無貪曜火明。",
+      "青松四面落，白髮一重生。",
+      "向夕音彌厲，迎風翼更輕。",
+      "單嘶出迥樹，餘響思空城。",
+      "嘒唳松間坐，蕭寥竹裏行。",
+      "如何長飲露，高潔未能名。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "楊憑",
+        "context": "高樹多涼吹，疏蟬足斷聲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "楊凝",
+        "context": "已催居客感，更使別人驚。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "權器",
+        "context": "晚夏猶知急，新秋別有情。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸羽",
+        "context": "危湍和不似，細管學難成。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "顏真卿",
+        "context": "當斅附金重，無貪曜火明。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "耿湋",
+        "context": "青松四面落，白髮一重生。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "—喬",
+        "context": "向夕音彌厲，迎風翼更輕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "裴幼清",
+        "context": "單嘶出迥樹，餘響思空城。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "伯成",
+        "context": "嘒唳松間坐，蕭寥竹裏行。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "如何長飲露，高潔未能名。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_007_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "送耿湋拾遺聯句",
+    "poem": [
+      "堯舜逢明主，嚴徐得侍臣。",
+      "分行接三事，高興柏梁新。",
+      "楚國千山道，秦城萬里人。",
+      "鏡中看齒發，河上有煙塵。",
+      "望闕飛青翰，朝天憶紫宸。",
+      "喜來歡宴洽，愁去詠歌頻。",
+      "顧盼情非一，睽攜處亦頻。",
+      "吳興賢太守，臨水最殷勤。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "分行接三事，高興柏梁新。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "耿湋",
+        "context": "鏡中看齒發，河上有煙塵。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "顏真卿",
+        "context": "喜來歡宴洽，愁去詠歌頻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "耿湋",
+        "context": "吳興賢太守，臨水最殷勤。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_008_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言月夜啜茶聯句",
+    "poem": [
+      "泛花邀坐客，代飲引情言。",
+      "醒酒宜華席，留僧想獨園。",
+      "不須攀月桂，何假樹庭萱。",
+      "禦史秋風勁，尚書北斗尊。",
+      "流華淨肌骨，疏瀹滌心原。",
+      "不似春醪醉，何辭綠菽繁。",
+      "素瓷傳靜夜，芳氣清閒軒。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "陸士修",
+        "context": "泛花邀坐客，代飲引情言。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "張薦",
+        "context": "醒酒宜華席，留僧想獨園。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "李崿",
+        "context": "不須攀月桂，何假樹庭萱。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔萬",
+        "context": "禦史秋風勁，尚書北斗尊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "顏真卿",
+        "context": "流華淨肌骨，疏瀹滌心原。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "不似春醪醉，何辭綠菽繁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "陸士修",
+        "context": "素瓷傳靜夜，芳氣清閒軒。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_009_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言夜宴詠燈聯句",
+    "poem": [
+      "桂酒牽詩興，蘭釭照客情。",
+      "詎慚珠乘朗，不讓月輪明。",
+      "破暗光初白，浮雲色轉清。",
+      "帶花疑在樹，比燎欲分庭。",
+      "顧己慚微照，開簾識近汀。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "陸士修",
+        "context": "桂酒牽詩興，蘭釭照客情。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "張薦",
+        "context": "詎慚珠乘朗，不讓月輪明。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "顏真卿",
+        "context": "破暗光初白，浮雲色轉清。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "帶花疑在樹，比燎欲分庭。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "袁高",
+        "context": "顧己慚微照，開簾識近汀。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_010_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "三言喜皇甫曾侍禦見過南樓玩月",
+    "poem": [
+      "喜嘉客，辟前軒。",
+      "天月淨，水雲昏。",
+      "雁聲苦，蟾影寒。",
+      "聞裛浥，滴檀欒。",
+      "歡宴處，江湖間。",
+      "卷翠幕，吟嘉句。",
+      "恨清光，留不住。",
+      "高駕動，清角催。",
+      "惜歸去，重裴回。",
+      "露欲晞，客將醉。",
+      "猶宛轉，照深意。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "天月淨，水雲昏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸羽",
+        "context": "聞裛浥，滴檀欒。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "皇甫曾",
+        "context": "歡宴處，江湖間。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "李崿",
+        "context": "恨清光，留不住。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皎然",
+        "context": "惜歸去，重裴回。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "陸士修",
+        "context": "猶宛轉，照深意。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_011_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言重聯句",
+    "poem": [
+      "頃持憲簡推高步，獨佔詩流橫素波。",
+      "不是中情深惠好，誰能千里遠經過。",
+      "詩書宛似陪康樂，少長還同宴永和。",
+      "夜酌此時看碾玉，晨趨幾日重鳴珂。",
+      "萬井更深空寂寞，千方霧起隱嵯峨。",
+      "熒熒遠火分漁浦，歷歷寒枝露鳥窠。",
+      "漢朝舊學君公隱，魯國今從弟子科。",
+      "只自傾心慚煦濡，何曾將口恨蹉跎。",
+      "獨賞謝吟山照耀，共知殷歎樹婆娑。",
+      "華轂苦嫌雲路隔，衲衣長向雪峰何。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顏真卿",
+        "context": "頃持憲簡推高步，獨佔詩流橫素波。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "不是中情深惠好，誰能千里遠經過。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皇甫曾",
+        "context": "詩書宛似陪康樂，少長還同宴永和。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皇甫曾",
+        "context": "夜酌此時看碾玉，晨趨幾日重鳴珂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李崿",
+        "context": "萬井更深空寂寞，千方霧起隱嵯峨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "李崿",
+        "context": "熒熒遠火分漁浦，歷歷寒枝露鳥窠。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "陸羽",
+        "context": "漢朝舊學君公隱，魯國今從弟子科。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "陸羽",
+        "context": "只自傾心慚煦濡，何曾將口恨蹉跎。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皎然",
+        "context": "獨賞謝吟山照耀，共知殷歎樹婆娑。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "華轂苦嫌雲路隔，衲衣長向雪峰何。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_012_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言送李侍禦聯句",
+    "poem": [
+      "吾友駐行輪，遲遲惜上春。",
+      "東西出餞路，惆悵獨歸人。",
+      "歡會期他日。",
+      "驅馳恨此身。",
+      "須知貢公望，從此願相因。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顏真卿",
+        "context": "吾友駐行輪，遲遲惜上春。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "東西出餞路，惆悵獨歸人。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張薦",
+        "context": "驅馳恨此身。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李崿",
+        "context": "須知貢公望，從此願相因。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_013_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言玩初月重遊聯句",
+    "poem": [
+      "春溪與岸平，初月出溪明。",
+      "璧彩寒仍潔，金波夜轉清。",
+      "孤光遠近滿，練色往來輕。",
+      "望望隨蘭棹，依依出柳城。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "張薦",
+        "context": "春溪與岸平，初月出溪明。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李崿",
+        "context": "璧彩寒仍潔，金波夜轉清。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "顏真卿",
+        "context": "孤光遠近滿，練色往來輕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "望望隨蘭棹，依依出柳城。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_014_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言重送橫飛聯句",
+    "poem": [
+      "春田草未齊，春水滿長溪。",
+      "出餞風初暖，攀光日漸西。",
+      "歸期江上遠，別思月中迷。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "李崿",
+        "context": "春田草未齊，春水滿長溪。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "出餞風初暖，攀光日漸西。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "歸期江上遠，別思月中迷。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_015_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "五言夜集聯句",
+    "poem": [
+      "寒花護月色，墜葉占風音。",
+      "茲夕無塵慮，高雲共片心。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "寒花護月色，墜葉占風音。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "茲夕無塵慮，高雲共片心。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_016_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "三言擬五雜組聯句",
+    "poem": [
+      "五雜組，盤上菹。",
+      "往復還，頭懶梳。",
+      "不得已，罾裏魚。",
+      "五雜組，郊外蕪。",
+      "往復還，櫪上駒。",
+      "不得已，穀中愚。",
+      "五雜組，繡與錦。",
+      "往復還，興又寢。",
+      "不得已，病伏枕。",
+      "五雜組，酒與肉。",
+      "往復還，東籬菊。",
+      "不得已，醉便宿。",
+      "五雜組，闤闠間。",
+      "往復還，門上關。",
+      "不得已，鬢毛斑。",
+      "五雜組，繡紋線。",
+      "往復還，春來燕。",
+      "不得已，入征戰。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "李崿",
+        "context": "不得已，罾裏魚。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "殷佐明",
+        "context": "不得已，穀中愚。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "顏真卿",
+        "context": "不得已，病伏枕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "袁高",
+        "context": "不得已，醉便宿。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "陸士修",
+        "context": "不得已，鬢毛斑。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "蔣志",
+        "context": "不得已，入征戰。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_017_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "三言重擬五雜組聯句",
+    "poem": [
+      "五雜組，四豪客。",
+      "往復還，阡與陌。",
+      "不得已，長沙謫。",
+      "五雜組，五辛盤。",
+      "往復還，馬上鞍。",
+      "不得已，左降官。",
+      "五雜組，甘鹹醋。",
+      "往復還，烏與兔。",
+      "不得已，韶光度。",
+      "五雜組，五色絲。",
+      "往復還，回文詩。",
+      "不得已，失喜期。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "張薦",
+        "context": "不得已，長沙謫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "李崿",
+        "context": "不得已，左降官。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "顏真卿",
+        "context": "不得已，韶光度。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皎然",
+        "context": "不得已，失喜期。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_018_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言大言聯句",
+    "poem": [
+      "高歌閬風步瀛洲，",
+      "燂鵬爚鯤餐未休。",
+      "四方上下無外頭，",
+      "一啜頓涸滄溟流。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "高歌閬風步瀛洲，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "燂鵬爚鯤餐未休。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "李崿",
+        "context": "四方上下無外頭，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張薦",
+        "context": "一啜頓涸滄溟流。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_019_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言小言聯句",
+    "poem": [
+      "長路迢遙吞吐絲。",
+      "蟭螟蚊睫察難知。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顏真卿",
+        "context": "長路迢遙吞吐絲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "蟭螟蚊睫察難知。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_020_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言樂語聯句",
+    "poem": [
+      "苦河既濟真僧喜，",
+      "新知滿座笑相視。",
+      "戍客歸來見妻子，",
+      "學生放假偷向市。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "李崿",
+        "context": "苦河既濟真僧喜，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "新知滿座笑相視。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "戍客歸來見妻子，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張薦",
+        "context": "學生放假偷向市。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_021_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言嚵語聯句",
+    "poem": [
+      "拈䭔䑛指不知休，",
+      "欲炙侍立涎交流。",
+      "過屠大嚼肯知羞，",
+      "食店門外強淹留。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "李崿",
+        "context": "拈䭔䑛指不知休，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "欲炙侍立涎交流。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "過屠大嚼肯知羞，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張薦",
+        "context": "食店門外強淹留。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_022_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言滑語聯句",
+    "poem": [
+      "雨裏下山蹋榆皮，",
+      "莓苔石橋步難移。",
+      "蕪荑醬醋吃煮葵，",
+      "縫靴蠟線油塗錐。",
+      "急逢龍背須且騎。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顏真卿",
+        "context": "雨裏下山蹋榆皮，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "莓苔石橋步難移。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "劉全白",
+        "context": "蕪荑醬醋吃煮葵，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "李崿",
+        "context": "縫靴蠟線油塗錐。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李益",
+        "context": "急逢龍背須且騎。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_788_023_01",
+    "volume": 788,
+    "author": {
+      "canonical": "顏真卿",
+      "recorded": "顏真卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yan Zhenqing",
+      "wikidata_id": "Q758566"
+    },
+    "title": "七言醉語聯句",
+    "poem": [
+      "逢糟遇曲便酩酊，",
+      "覆車墜馬皆不醒。",
+      "倒著接䍦髪垂領，",
+      "狂心亂語無人並。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "劉全白",
+        "context": "逢糟遇曲便酩酊，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "顏真卿",
+        "context": "覆車墜馬皆不醒。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "倒著接䍦髪垂領，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸羽",
+        "context": "狂心亂語無人並。"
+      }
+    ]
+  }
+]

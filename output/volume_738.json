@@ -1,0 +1,444 @@
+[
+  {
+    "uid": "QTS_738_001_01",
+    "volume": 738,
+    "author": {
+      "canonical": "宋齊丘",
+      "recorded": "宋齊丘",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Song Qiqiu",
+      "wikidata_id": "Q7561039"
+    },
+    "title": "陪遊鳳凰臺獻詩",
+    "poem": [
+      "嵯峨壓洪泉，岝峉撐碧落。",
+      "宜哉秦始皇，不驅亦不鑿。",
+      "上有布政臺，八顧背城郭。",
+      "山蹙龍虎健，水黑螭蜃作。",
+      "白虹欲吞人，赤驥相煿㩧。",
+      "畫棟泥金碧，石路盤磽埆。",
+      "倒掛哭月猿，危立思天鶴。",
+      "鑿池養蛟龍，栽桐棲鸑鷟。",
+      "梁間燕教雛，石罅蛇懸殼。",
+      "養花如養賢，去草如去惡。",
+      "日晚嚴城鼓，風來蕭寺鐸。",
+      "掃地驅塵埃，剪蒿除鳥雀。",
+      "金桃帶葉摘，綠李和衣嚼。",
+      "貞竹無盛衰，媚柳先搖落。",
+      "塵飛景陽井，草合臨春閣。",
+      "芙蓉如佳人，迴首似調謔。",
+      "當軒有直道，無人肯駐腳。",
+      "夜半鼠窸窣，天陰鬼敲啄。",
+      "松孤不易立，石醜難安著。",
+      "自憐啄木鳥，去蠹終不錯。",
+      "晚風吹梧桐，樹頭鳴嚗嚗。",
+      "峨峨江令石，青苔何淡薄。",
+      "不話興亡事，舉首思眇邈。",
+      "吁哉未到此，褊劣同尺蠖。",
+      "籠鶴羨鳧毛，猛虎愛蝸角。",
+      "一日賢太守，與我觀橐鑰。",
+      "往往獨自語，天帝相唯諾。",
+      "風雲偶不來，寰宇銷一略。",
+      "我欲烹長鯨，四海為鼎鑊。",
+      "我欲取大鵬，天地為矰繳。",
+      "安得生羽翰，雄飛上寥廓。"
+    ],
+    "notes": [
+      {
+        "line": 26,
+        "content": "時李昇為昇州刺史。",
+        "context": "往往獨自語，天帝相唯諾。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 14,
+        "text": "貞竹無盛衰，媚柳先搖落。",
+        "variant": "松竹無時衰，蒲柳先愁落。",
+        "source": "一作「松竹無時衰，蒲柳先愁落。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_002_01",
+    "volume": 738,
+    "author": {
+      "canonical": "宋齊丘",
+      "recorded": "宋齊丘",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Song Qiqiu",
+      "wikidata_id": "Q7561039"
+    },
+    "title": "贈仰山慧度禪師",
+    "poem": [
+      "初聞如自解，及見勝初聞。",
+      "兩鬢堆殘雪，一身披斷雲。",
+      "道應齊古佛，高不揖吾君。",
+      "稽首清涼月，蕭然萬象分。"
+    ]
+  },
+  {
+    "uid": "QTS_738_003_01",
+    "volume": 738,
+    "author": {
+      "canonical": "宋齊丘",
+      "recorded": "宋齊丘",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Song Qiqiu",
+      "wikidata_id": "Q7561039"
+    },
+    "title": "陪華林園試小妓羯鼓",
+    "poem": [
+      "切斷牙床鏤紫金，最宜平穩玉槽深。",
+      "因逢淑景開佳宴，為出花奴奏雅音。",
+      "掌底輕璁孤鵲噪，枝頭幹快亂蟬吟。",
+      "開元天子曾如此，今日將軍好用心。"
+    ],
+    "notes": [
+      {
+        "content": "時李璟為諸衛將軍。",
+        "context": "陪華林園試小妓羯鼓"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_004_01",
+    "volume": 738,
+    "author": {
+      "canonical": "宋齊丘",
+      "recorded": "宋齊丘",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Song Qiqiu",
+      "wikidata_id": "Q7561039"
+    },
+    "title": "句",
+    "poem": [
+      "大似賢臣扶社稷，遇明則見暗還藏。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "《影詩》，見《吟窗雜錄》。",
+        "context": ""
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_005_01",
+    "volume": 738,
+    "author": {
+      "canonical": "馮延巳",
+      "recorded": "馮延巳",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Feng Yanji",
+      "wikidata_id": "Q10895343"
+    },
+    "title": "早朝",
+    "poem": [
+      "銅壺滴漏初晝，高閣雞鳴半空。",
+      "催啟五門金鎖，猶垂三殿簾櫳。",
+      "階前御柳搖綠，仗下宮花散紅。",
+      "鴛瓦數行曉日，鸞旗百尺春風。",
+      "侍臣踏舞重拜，聖壽南山永同。"
+    ]
+  },
+  {
+    "uid": "QTS_738_006_01",
+    "volume": 738,
+    "author": {
+      "canonical": "馮延巳",
+      "recorded": "馮延巳",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Feng Yanji",
+      "wikidata_id": "Q10895343"
+    },
+    "title": "句",
+    "poem": [
+      "青樓阿監應相笑，書記登壇又卻回。"
+    ]
+  },
+  {
+    "uid": "QTS_738_007_01",
+    "volume": 738,
+    "author": {
+      "canonical": "韓熙載",
+      "recorded": "韓熙載",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Han Xizai",
+      "wikidata_id": "Q14945020"
+    },
+    "title": "感懷詩二章",
+    "poem": [
+      "僕本江北人，今作江南客。",
+      "再去江北遊，舉目無相識。",
+      "金風吹我寒，秋月為誰白？",
+      "不如歸去來，江南有人憶。",
+      "未到故鄉時，將為故鄉好。",
+      "及至親得歸，爭如身不到。",
+      "目前相識無一人，出入空傷我懷抱。",
+      "風雨蕭蕭旅館秋，歸來窗下和衣倒。",
+      "夢中忽到江南路，尋得花邊舊居處。",
+      "桃臉蛾眉笑出門，爭向前頭擁將去。"
+    ],
+    "notes": [
+      {
+        "content": "奉使中原，署館壁。",
+        "context": "感懷詩二章",
+        "original_title": "感懷詩二章",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_008_01",
+    "volume": 738,
+    "author": {
+      "canonical": "韓熙載",
+      "recorded": "韓熙載",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Han Xizai",
+      "wikidata_id": "Q14945020"
+    },
+    "title": "溧水無相寺贈僧",
+    "poem": [
+      "無相景幽遠，山屏四面開。",
+      "憑師領鶴去，待我掛冠來。",
+      "藥為依時採，松宜繞舍栽。",
+      "林泉自多興，不是效劉雷。"
+    ]
+  },
+  {
+    "uid": "QTS_738_009_01",
+    "volume": 738,
+    "author": {
+      "canonical": "韓熙載",
+      "recorded": "韓熙載",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Han Xizai",
+      "wikidata_id": "Q14945020"
+    },
+    "title": "書歌妓泥金帶",
+    "poem": [
+      "風柳搖搖無定枝，陽臺雲雨夢中歸。",
+      "他年蓬島音塵斷，留取尊前舊舞衣。"
+    ]
+  },
+  {
+    "uid": "QTS_738_010_01",
+    "volume": 738,
+    "author": {
+      "canonical": "韓熙載",
+      "recorded": "韓熙載",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Han Xizai",
+      "wikidata_id": "Q14945020"
+    },
+    "title": "送徐鉉流舒州時鉉弟鍇亦貶烏江尉，親友臨江相送。",
+    "poem": [
+      "昔年淒斷此江湄，風滿征帆淚滿衣。",
+      "今日重憐鶺鴒羽，不堪波上又分飛。"
+    ]
+  },
+  {
+    "uid": "QTS_738_011_01",
+    "volume": 738,
+    "author": {
+      "canonical": "韓熙載",
+      "recorded": "韓熙載",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Han Xizai",
+      "wikidata_id": "Q14945020"
+    },
+    "title": "句",
+    "poem": [
+      "幾人平地上，看我半天中。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "《登樓》，見《吟牕雜録》。",
+        "context": ""
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_012_01",
+    "volume": 738,
+    "author": {
+      "canonical": "李徵古",
+      "recorded": "李徵古",
+      "gender": "male",
+      "english_name": "Li Zhenggu",
+      "wikidata_id": "Q18906183"
+    },
+    "title": "登祝融峰",
+    "poem": [
+      "欲上祝融峰，先登古石橋。",
+      "鑿開巇嶮處，取路到丹霄。"
+    ]
+  },
+  {
+    "uid": "QTS_738_013_01",
+    "volume": 738,
+    "author": {
+      "canonical": "潘佑",
+      "recorded": "潘佑",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pan You",
+      "wikidata_id": "Q16076827"
+    },
+    "title": "七歲吟",
+    "poem": [
+      "朝遊滄海東，暮歸何太速。",
+      "只因騎折白龍腰，謫向人間三十六。"
+    ],
+    "notes": [
+      {
+        "content": "馬令《南唐書》曰：「佑母方娠，夢古衣冠人告曰：『我顏延之也，與夫人為子。』及生，七嵗始能語，曰：『皃悞傷白龍，為上帝所罰也。』因吟詩云雲，後果以三十六嵗死。」",
+        "context": "七歲吟",
+        "original_title": "七歲吟",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_014_01",
+    "volume": 738,
+    "author": {
+      "canonical": "潘佑",
+      "recorded": "潘佑",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pan You",
+      "wikidata_id": "Q16076827"
+    },
+    "title": "送許處士堅往茅山",
+    "poem": [
+      "天壇雲似雪，玉洞水如琴。",
+      "白雲與流水，千載清人心。",
+      "君攜布囊去，路長風滿林。",
+      "一入華陽洞，千秋那可尋。"
+    ]
+  },
+  {
+    "uid": "QTS_738_015_01",
+    "volume": 738,
+    "author": {
+      "canonical": "潘佑",
+      "recorded": "潘佑",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pan You",
+      "wikidata_id": "Q16076827"
+    },
+    "title": "送人往宣城",
+    "poem": [
+      "江畔送行人，千山生暮氛。",
+      "謝安團扇上，為畫敬亭雲。"
+    ]
+  },
+  {
+    "uid": "QTS_738_016_01",
+    "volume": 738,
+    "author": {
+      "canonical": "潘佑",
+      "recorded": "潘佑",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pan You",
+      "wikidata_id": "Q16076827"
+    },
+    "title": "失題",
+    "poem": [
+      "誰家舊宅春無主，深院簾垂杏花雨。",
+      "香飛綠瑣人未歸，巢燕承塵默無語。"
+    ]
+  },
+  {
+    "uid": "QTS_738_017_01",
+    "volume": 738,
+    "author": {
+      "canonical": "潘佑",
+      "recorded": "潘佑",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Pan You",
+      "wikidata_id": "Q16076827"
+    },
+    "title": "句",
+    "poem": [
+      "勸君此醉直須歡，明朝又是花狼藉。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "見《野客叢談》。",
+        "context": ""
+      }
+    ]
+  },
+  {
+    "uid": "QTS_738_018_01",
+    "volume": 738,
+    "author": {
+      "canonical": "李昉",
+      "recorded": "李昉",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Fang",
+      "wikidata_id": "Q253490"
+    },
+    "title": "寄孟賓於",
+    "poem": [
+      "初攜書劍別湘潭，金榜標名第十三。",
+      "昔日聲名喧洛下，近來詩價滿江南。",
+      "長為邑令情終屈，縱處曹郎志未甘。",
+      "莫學馮唐便休去，明君晚事未為慚。"
+    ]
+  },
+  {
+    "uid": "QTS_738_019_01",
+    "volume": 738,
+    "author": {
+      "canonical": "馬致恭",
+      "recorded": "馬致恭"
+    },
+    "title": "送孟賓於",
+    "poem": [
+      "曾聞洛下綴神仙，火樹南棲幾十年。",
+      "白首自忻丹桂在，詩名已得四方傳。",
+      "行隨秋渚將歸雁，吟傍梅花欲雪天。",
+      "今日還家莫惆悵，不同初上渡頭船。"
+    ]
+  },
+  {
+    "uid": "QTS_738_020_01",
+    "volume": 738,
+    "author": {
+      "canonical": "張義方",
+      "recorded": "張義方",
+      "gender": "male",
+      "english_name": "Zhang Yifang",
+      "wikidata_id": "Q18905328"
+    },
+    "title": "奉和聖制元日大雪登樓",
+    "poem": [
+      "恰當歲日紛紛落，天寶瑤花助物華。",
+      "自古最先標瑞牒，有誰輕擬比楊花。",
+      "密飄粉署光同冷，靜壓青松勢欲斜。",
+      "豈但小臣添興詠，狂歌醉舞一家家。"
+    ]
+  }
+]

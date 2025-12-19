@@ -1,0 +1,2553 @@
+[
+  {
+    "uid": "QTS_386_001_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 宿雲亭",
+    "poem": [
+      "清浄當深處，虛明向遠開。",
+      "卷簾無俗客，應只見雲來。"
+    ],
+    "part_index": 1,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_02",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 梅溪",
+    "poem": [
+      "白愛新梅好，行尋一徑斜。",
+      "不教人掃石，恐損落來花。"
+    ],
+    "part_index": 2,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_03",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 茶嶺",
+    "poem": [
+      "紫芽連白蘂，初向嶺頭生。",
+      "自看家人摘，尋常觸露行。"
+    ],
+    "part_index": 3,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_04",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 流杯渠",
+    "poem": [
+      "淥酒白螺杯，隨流去復回。",
+      "似知人把處，各向面前來。"
+    ],
+    "part_index": 4,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_05",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 盤石磴",
+    "poem": [
+      "壘石盤空遠，層層勢不危。",
+      "不知行㡬匝，得到上頭時？"
+    ],
+    "part_index": 5,
+    "total_parts": 12,
+    "variants": [
+      {
+        "line": 1,
+        "text": "盤",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 1,
+        "text": "不",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_001_06",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 桃塢",
+    "poem": [
+      "春塢桃花發，多將野客遊。",
+      "日西殊未散，看望酒缸頭。"
+    ],
+    "part_index": 6,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_07",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 竹巖",
+    "poem": [
+      "獨入千竿裏，緣巖踏石層。",
+      "筍頭齊欲出，更不許人登。"
+    ],
+    "part_index": 7,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_08",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 琵琶臺",
+    "poem": [
+      "臺上綠蘿春，閒登不待人。",
+      "每當休暇日，著履戴紗巾。"
+    ],
+    "part_index": 8,
+    "total_parts": 12,
+    "variants": [
+      {
+        "line": 2,
+        "text": "紗",
+        "variant": "綸",
+        "source": "一作「綸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_001_09",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 胡蘆沼",
+    "poem": [
+      "曲沼春流滿，新蒲映野鵝。",
+      "閒齋朝飯後，拄杖遶行多。"
+    ],
+    "part_index": 9,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_10",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 隠月岫",
+    "poem": [
+      "月出深峰裏，清涼夜亦寒。",
+      "每嫌西落疾，不得到明看。"
+    ],
+    "part_index": 10,
+    "total_parts": 12,
+    "variants": [
+      {
+        "line": 1,
+        "text": "涼",
+        "variant": "光",
+        "source": "一作「光」"
+      },
+      {
+        "line": 1,
+        "text": "夜",
+        "variant": "夏",
+        "source": "一作「夏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_001_11",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 繡衣石榻",
+    "poem": [
+      "山城無別味，藥草兼魚果。",
+      "時到繡衣人，同來石上坐。"
+    ],
+    "part_index": 11,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_001_12",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和韋開州盛山十二首 上士泉缾",
+    "poem": [
+      "堦上一眼泉，四邊青石甃。",
+      "唯有䕶浄僧，添缾將盥潄。"
+    ],
+    "notes": [
+      {
+        "content": "一本無缾字",
+        "context": "上士泉缾",
+        "original_title": "和韋開州盛山十二首 上士泉缾〈一本無缾字〉"
+      }
+    ],
+    "part_index": 12,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_386_002_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送遠客",
+    "poem": [
+      "南原相送處，秋水草還生。",
+      "同作憶鄉客，如今分路行。",
+      "因誰寄歸信，漸遠問前程。",
+      "明日重陽節，無人上古城。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "秋水草還生",
+        "variant": "秋草水邊生",
+        "source": "一作「秋草水邊生」"
+      },
+      {
+        "line": 2,
+        "text": "如今",
+        "variant": "今知",
+        "source": "一作「今知」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_003_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄西峰僧",
+    "poem": [
+      "松暗水涓涓，夜涼人未眠。",
+      "西峰月猶在，遙憶草堂前。"
+    ]
+  },
+  {
+    "uid": "QTS_386_004_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "禪師",
+    "poem": [
+      "獨在西峯項，年年閉石房。",
+      "定中無弟子，人到為焚香。"
+    ],
+    "notes": [
+      {
+        "content": "一作西峯頂",
+        "context": "禪師",
+        "original_title": "禪師〈一作西峯頂〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_005_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "惜花",
+    "poem": [
+      "春潭足芳樹，水清不如素。",
+      "幽人愛華景，一一空山暮。",
+      "月出潭氣白，游魚暗衝石。",
+      "夜深春思多，酒醒山寂寂。"
+    ]
+  },
+  {
+    "uid": "QTS_386_006_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題暉師影堂",
+    "poem": [
+      "日早欲參禪，竟無相識緣。",
+      "道場今獨到，惆悵影堂前。"
+    ],
+    "notes": [
+      {
+        "content": "一本此下有禪字",
+        "context": "題暉",
+        "original_title": "題暉〈一本此下有禪字〉師影堂"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_007_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "涇州塞",
+    "poem": [
+      "行到涇州塞，唯聞羌戍鼙。",
+      "道邊古雙堠，猶記向安西。"
+    ]
+  },
+  {
+    "uid": "QTS_386_008_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "野田",
+    "poem": [
+      "漠漠野田草，草中牛羊道。",
+      "古墓無子孫，白楊不得老。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "漠漠",
+        "variant": "幕幕",
+        "source": "一作「幕幕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_009_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "岸花",
+    "poem": [
+      "可憐岸邊樹，紅蘂發青條。",
+      "東風吹渡水，衝着木蘭橈。"
+    ]
+  },
+  {
+    "uid": "QTS_386_010_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "別於鵠",
+    "poem": [
+      "離燈及晨輝，行人起復思。",
+      "出門兩相顧，青山路逶迤。"
+    ]
+  },
+  {
+    "uid": "QTS_386_011_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送蜀客",
+    "poem": [
+      "蜀客南行祭碧雞，木綿花發錦江西。",
+      "山橋日晚行人少，時見猩猩樹上啼。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "祭",
+        "variant": "際",
+        "source": "一作「際」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_012_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送元結",
+    "poem": [
+      "昔日同遊漳水邊，如今重說恨綿綿。",
+      "天涯相見還離別，客路秋風又幾年。"
+    ]
+  },
+  {
+    "uid": "QTS_386_013_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "宿山祠",
+    "poem": [
+      "秋草宮人斜裏墓，宮人誰送葬來時。",
+      "千千萬萬皆如此，家在邊城亦不知。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "人",
+        "variant": "中",
+        "source": "一作「中」"
+      },
+      {
+        "line": 1,
+        "text": "人",
+        "variant": "中",
+        "source": "一作「中」"
+      },
+      {
+        "line": 2,
+        "text": "如此",
+        "variant": "相似",
+        "source": "一作「相似」"
+      },
+      {
+        "line": 2,
+        "text": "邊城",
+        "variant": "城邊",
+        "source": "一作「城邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_014_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "美人宮綦",
+    "poem": [
+      "紅燭臺前出翠娥，海沙舖局巧相和。",
+      "趂行移手巡收盡，數數看誰得最多。"
+    ]
+  },
+  {
+    "uid": "QTS_386_015_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "蠻州",
+    "poem": [
+      "瘴水蠻中入洞流，人家多住竹棚頭。",
+      "一山海上無城郭，唯見松牌記象州。"
+    ],
+    "notes": [
+      {
+        "content": "一作杜牧詩，題雲《蠻中醉》",
+        "context": "蠻州",
+        "original_title": "蠻州〈一作杜牧詩，題雲《蠻中醉》〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "一",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_016_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送元宗簡",
+    "poem": [
+      "貂帽垂肩窄皂裘，雪深騎馬向西州。",
+      "暫時相見還相送，卻閉閒門依舊愁。"
+    ]
+  },
+  {
+    "uid": "QTS_386_017_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄徐晦",
+    "poem": [
+      "鄠陂魚美酒偏濃，不出琴齋見雪峰。",
+      "應勝昨來趨府日，簿書牀上亂重重。"
+    ]
+  },
+  {
+    "uid": "QTS_386_018_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄白學士",
+    "poem": [
+      "自掌天書見客稀，縱因休沐鎖雙扉。",
+      "㡬回扶病欲相訪，知向禁中歸未歸。"
+    ]
+  },
+  {
+    "uid": "QTS_386_019_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "喜王六同宿",
+    "poem": [
+      "十八年來恨別離，唯同一宿詠新詩。",
+      "更相借問詩中語，共説如今勝舊時。"
+    ]
+  },
+  {
+    "uid": "QTS_386_020_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題玉像堂",
+    "poem": [
+      "玉毫不着世間塵，輝相分明十八身。",
+      "入夜無煙燈更好，堂中唯有轉經人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "更",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_021_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "與賈島閑逰",
+    "poem": [
+      "水北原南草色新，雪消風暖不生塵。",
+      "城中車馬應無數，能解閒行有幾人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_022_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "哭丘長史",
+    "poem": [
+      "丘公已歿故人稀，欲過街西更訪誰。",
+      "每到子城東路上，憶君相逐入朝時。"
+    ]
+  },
+  {
+    "uid": "QTS_386_023_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "哭孟寂",
+    "poem": [
+      "曲江院裏題名處，十九人中最少年。",
+      "今日春光君不見，杏花零落寺門前。"
+    ]
+  },
+  {
+    "uid": "QTS_386_024_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "患眼",
+    "poem": [
+      "三年患眼今年免，校與風光便隔生。",
+      "昨日韓家後園裏，看花猶似未分明。"
+    ]
+  },
+  {
+    "uid": "QTS_386_025_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "答劉競",
+    "poem": [
+      "劉君久被時拋擲，老向城中作選人。",
+      "昨日街西相近住，每來存問老夫身。"
+    ]
+  },
+  {
+    "uid": "QTS_386_026_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈華嚴院僧",
+    "poem": [
+      "一身依止荒閒院，燭耀窗中有宿煙。",
+      "遍禮華嚴經裏字，不曾行到寺門前。"
+    ]
+  },
+  {
+    "uid": "QTS_386_027_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "逢故人",
+    "poem": [
+      "山東一十餘年別，分日相逢在上都。",
+      "説盡向來無限事，相看糜捋白髭鬚。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "一",
+        "variant": "二",
+        "source": "一作「二」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_028_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送蕭遠弟",
+    "poem": [
+      "街北槐花傍馬垂，病身相送出門遲。",
+      "與君別後秋風夜，作得新詩説向誰。"
+    ]
+  },
+  {
+    "uid": "QTS_386_029_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送辛少府任樂安",
+    "poem": [
+      "才多不肯浪容身，老大詩章轉更新。",
+      "選得天台山下住，一家全作學仙人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_030_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈任道人",
+    "poem": [
+      "長安多病無生計，藥舖醫人亂索錢。",
+      "欲得定知身上事，憑君為算小行年。"
+    ]
+  },
+  {
+    "uid": "QTS_386_031_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "招周居士",
+    "poem": [
+      "閒門秋雨濕墻莎，俗客來稀野思多。",
+      "己掃書齋安藥竈，山人作意早經過。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "齋",
+        "variant": "堂",
+        "source": "一作「堂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_032_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送許處士",
+    "poem": [
+      "高情自與俗人疎，獨向藍溪選僻居。",
+      "會到白雲長取醉，不能窗下讀閒書。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "選僻",
+        "variant": "僻處",
+        "source": "一作「僻處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_033_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送律師歸𡜹州",
+    "poem": [
+      "京中開講己多時，曾作壇頭證戒師。",
+      "歸到雙溪橋北寺，鄉僧爭就學威儀。"
+    ]
+  },
+  {
+    "uid": "QTS_386_034_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題楊秘書新居",
+    "poem": [
+      "愛閑不向爭名地，宅在街西最靜坊。",
+      "卷裏詩過一千首，白頭新受秘書郎。"
+    ]
+  },
+  {
+    "uid": "QTS_386_035_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送晊師",
+    "poem": [
+      "九星臺下煎茶別，五老峰頭覓寺居。",
+      "作得新詩旋相寄，人來請莫達空書。"
+    ]
+  },
+  {
+    "uid": "QTS_386_036_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送僧往金州",
+    "poem": [
+      "聞道谿陰山水好，師行一一偏經過。",
+      "事須覓取堪居處，若箇溪頭藥最多。"
+    ]
+  },
+  {
+    "uid": "QTS_386_037_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "尋徐道士",
+    "poem": [
+      "尋師遠到暉天觀，竹院森森閉藥房。",
+      "聞入靜來經七日，仙意簷下獨焚香。"
+    ]
+  },
+  {
+    "uid": "QTS_386_038_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "答開州韋使君寄車前子",
+    "poem": [
+      "開州午日車前子，作藥人皆道有神。",
+      "暫媿使君憐病眼，三千餘里寄閒人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "午",
+        "variant": "五",
+        "source": "一作「五」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_039_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "憶故州",
+    "poem": [
+      "壘石為山伴野夫，自收靈藥讀仙書。",
+      "如今身是他州客，每見青山憶舊居。"
+    ]
+  },
+  {
+    "uid": "QTS_386_040_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送客逰蜀",
+    "poem": [
+      "行盡青山到益州，錦城樓下二江流。",
+      "杜家曾向此中住，為到浣花溪水頭。"
+    ]
+  },
+  {
+    "uid": "QTS_386_041_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送陸暢",
+    "poem": [
+      "共踏長安街裏塵，吳州獨作未歸身。",
+      "昔年舊宅今誰住？居過西堂與問人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "州",
+        "variant": "門",
+        "source": "一作「門」"
+      },
+      {
+        "line": 2,
+        "text": "昔年",
+        "variant": "胥門",
+        "source": "一作「胥門」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_042_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "感春",
+    "poem": [
+      "遠客悠悠任病身，謝家池上又逢春。",
+      "明年各自東西去，此地看花是別人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_043_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈李司議",
+    "poem": [
+      "漢庭誰問投荒客，十載天南着白衣。",
+      "秋草茫茫惡谿路，嶺頭遙送北人稀。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "載",
+        "variant": "歲",
+        "source": "一作「歲」"
+      },
+      {
+        "line": 2,
+        "text": "谿",
+        "variant": "溪",
+        "source": "一作「溪」"
+      },
+      {
+        "line": 2,
+        "text": "稀",
+        "variant": "歸",
+        "source": "一作「歸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_044_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "別客",
+    "poem": [
+      "青山歴歴水悠悠，今日相逢明日秋。",
+      "繫馬城邊楊柳樹，為君沽酒暫淹留。"
+    ]
+  },
+  {
+    "uid": "QTS_386_045_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "登樓寄胡家兄弟",
+    "poem": [
+      "獨上西樓盡日閑，林煙演漾鳥蠻蠻。",
+      "謝家兄弟重城裏，不得同看雨後山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蠻",
+        "variant": "綿",
+        "source": "一作「綿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_046_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "答劉明府",
+    "poem": [
+      "身病多時又客居，滿城親舊盡相疎。",
+      "可憐綘縣劉明府，猶解頻頻寄遠書。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "盡",
+        "variant": "久",
+        "source": "一作「久」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_047_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "酬藤杖",
+    "poem": [
+      "病裏出門行步遲，喜君相贈古藤枝。",
+      "倚來自覺身生力，每向傍人説得時。"
+    ]
+  },
+  {
+    "uid": "QTS_386_048_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "法雄寺東樓",
+    "poem": [
+      "汾陽舊宅今為寺，猶有當時歌舞樓。",
+      "四十年來車馬絶，古槐深巷暮蟬愁。"
+    ]
+  },
+  {
+    "uid": "QTS_386_049_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄故人",
+    "poem": [
+      "靜曲閑房病客居，蟬聲滿樹槿花疎。",
+      "故人祗在藍田縣，強半年來未得書。"
+    ]
+  },
+  {
+    "uid": "QTS_386_050_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "鄰婦哭征夫",
+    "poem": [
+      "雙鬟初合便分離，萬里征夫不得隨。",
+      "今日軍回身獨歿，去時鞍馬別人騎。"
+    ]
+  },
+  {
+    "uid": "QTS_386_051_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和崔駙馬聞蟬",
+    "poem": [
+      "鳯凰樓下多歡樂，不覺秋風暮雨天。",
+      "應為昨來身暫病，蟬聲得到耳傍邊。"
+    ]
+  },
+  {
+    "uid": "QTS_386_052_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和裴僕射看櫻桃花",
+    "poem": [
+      "昨日南園新雨後，櫻桃花發舊枝柯。",
+      "天明不待人同看，遶樹重重履跡多。"
+    ]
+  },
+  {
+    "uid": "QTS_386_053_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "和長安郭明府與友人縣中會飲",
+    "poem": [
+      "一尊清酒兩人同，好在街西水縣中。",
+      "自恨病身相去遠，此時閒坐對秋風。"
+    ]
+  },
+  {
+    "uid": "QTS_386_054_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "唐昌觀看花",
+    "poem": [
+      "新紅舊紫不相宜，看覺從前兩月遲。",
+      "更向同來詩客道，明年到此莫過時。"
+    ]
+  },
+  {
+    "uid": "QTS_386_055_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "九華觀看花",
+    "poem": [
+      "街西無數閒逰處，不似九華仙觀中。",
+      "花裏可憐池上景，幾重墻壁貯春風。"
+    ]
+  },
+  {
+    "uid": "QTS_386_056_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈姚合",
+    "poem": [
+      "丹鳯城門向暁開，千官相次入朝來。",
+      "唯君獨走衝塵土，下馬橋邊報直迴。"
+    ]
+  },
+  {
+    "uid": "QTS_386_057_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "同韋員外開元觀尋時道士",
+    "poem": [
+      "觀裏初晴竹樹涼，閑行共到最高房。",
+      "昨來官罷無生計，欲就師求斷穀方。"
+    ]
+  },
+  {
+    "uid": "QTS_386_058_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "同韓侍御南溪夜賞",
+    "poem": [
+      "喜作閑人得出城，南溪兩月逐君行。",
+      "忽聞新命須歸去，一夜船中語到明。"
+    ]
+  },
+  {
+    "uid": "QTS_386_059_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "使行望悟真寺",
+    "poem": [
+      "採玉峰連佛寺幽，高高斜對驛門樓。",
+      "無端來去騎官馬，寸步教身不得逰。"
+    ]
+  },
+  {
+    "uid": "QTS_386_060_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "重陽至峽道",
+    "poem": [
+      "無限青山行已盡，廻看忽覺遠離家。",
+      "逢高欲飲重陽酒，山菊今朝未有花。"
+    ]
+  },
+  {
+    "uid": "QTS_386_061_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈主客劉郎中",
+    "poem": [
+      "憶昔君登南省日，老夫猶是褐衣身。",
+      "誰知二十餘年後，來作客曹相替人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_062_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "同嚴給事聞唐昌觀玉蘂近有仙過，因成絶句二首 其一",
+    "poem": [
+      "千枝花裏玉塵飛，阿母宮中見亦稀。",
+      "應共諸仙鬬百草，獨來偷得一枝歸。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_386_062_02",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "同嚴給事聞唐昌觀玉蘂近有仙過，因成絶句二首 其二",
+    "poem": [
+      "九色雲中紫鳯車，尋仙來到洞仙家。",
+      "飛輪廻處無蹤跡，唯有斑斑滿地花。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_386_063_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "秋思",
+    "poem": [
+      "洛陽城裏見秋風，欲作歸書意萬重。",
+      "忽恐匆匆說不盡，行人臨發又開封。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "歸",
+        "variant": "家",
+        "source": "一作「家」"
+      },
+      {
+        "line": 2,
+        "text": "忽",
+        "variant": "復",
+        "source": "一作「復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_064_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "憶遠",
+    "poem": [
+      "行人猶未有歸期，萬里初程日暮時。",
+      "唯愛門前雙柳樹，枝枝葉葉不相離。"
+    ]
+  },
+  {
+    "uid": "QTS_386_065_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "玉仙館",
+    "poem": [
+      "長溪新雨色如泥，野水陰雲盡向西。",
+      "楚客天南行漸遠，山山樹裏鷓鴣啼。"
+    ]
+  },
+  {
+    "uid": "QTS_386_066_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄府吏",
+    "poem": [
+      "野外尋花共作期，今朝出郭不相隨。",
+      "待君公事有閒日，此地春風應過時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "風",
+        "variant": "光",
+        "source": "一作「光」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_067_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "弟蕭遠雪夜同宿",
+    "poem": [
+      "數卷新逰蜀客詩，長安僻巷得相隨。",
+      "草堂雪夜攜琴宿，說是青城館裏時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "是",
+        "variant": "似",
+        "source": "一作「似」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_068_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "涼州詞三首 其一",
+    "poem": [
+      "邊城暮雨雁飛低，蘆筍初生漸欲齊。",
+      "無數鈴聲遙過磧，應䭾白練到安西。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_386_068_02",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "涼州詞三首 其二",
+    "poem": [
+      "古鎮城門白磧開，胡兵往往傍沙堆。",
+      "巡邊使客行應早，欲問平安無使來。"
+    ],
+    "part_index": 2,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 2,
+        "text": "欲問平安無使來",
+        "variant": "每待平安火到來",
+        "source": "一作「每待平安火到來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_068_03",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "涼州詞三首 其三",
+    "poem": [
+      "鳯林關裏水東流，白草黃榆六十秋。",
+      "邊將皆承主恩澤，無人解道取涼州。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_386_069_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "宮詞",
+    "poem": [
+      "新鷹初放兔猶肥，白日君王在內稀。",
+      "薄暮千門臨欲鎖，紅妝飛騎向前歸。",
+      "黃金捍撥紫檀槽，絃索初張調更高。",
+      "盡理昨來新上曲，內官簾外送櫻桃。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "猶",
+        "variant": "初",
+        "source": "一作「初」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_070_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "華清宮",
+    "poem": [
+      "溫泉流入漢離宮，宮樹行行浴殿空。",
+      "武帝時人今欲盡，青山空閉御墻中。"
+    ]
+  },
+  {
+    "uid": "QTS_386_071_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "崔駙馬養鶴",
+    "poem": [
+      "身閑無事稱高情，已有人間章句名。",
+      "求得鶴來教翦翅，望仙臺下亦將行。"
+    ]
+  },
+  {
+    "uid": "QTS_386_072_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "閒逰",
+    "poem": [
+      "老身不計人間事，野寺秋晴每獨過。",
+      "病眼校來猶斷酒，卻嫌行處菊花多。"
+    ]
+  },
+  {
+    "uid": "QTS_386_073_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "劉兵曹贈酒",
+    "poem": [
+      "一缾顔色似甘泉，閒向新栽小竹前。",
+      "飲罷身中更無事，移牀獨就夕陽眠。"
+    ]
+  },
+  {
+    "uid": "QTS_386_074_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送梧州王使君",
+    "poem": [
+      "楚江亭上秋風起，看發蒼梧太守船。",
+      "千里同行從此別，相逢又隔㡬多年。"
+    ]
+  },
+  {
+    "uid": "QTS_386_075_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "春日早朝",
+    "poem": [
+      "暁陌春寒朝騎來，瑞雲深處見樓臺。",
+      "夜來新雨沙堤濕，東上閤門應未開。"
+    ]
+  },
+  {
+    "uid": "QTS_386_076_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄朱闞二山人",
+    "poem": [
+      "為箇朝章束此身，眼看東路去無因。",
+      "歴陽舊客今應少，轉憶鄰家二老人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "路",
+        "variant": "洛",
+        "source": "一作「洛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_077_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄李渤",
+    "poem": [
+      "五度溪頭躑躅紅，嵩陽寺裏講時鐘。",
+      "春山處處行應好，一月看花到幾峰。"
+    ]
+  },
+  {
+    "uid": "QTS_386_078_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "尋仙",
+    "poem": [
+      "溪頭一徑入青崖，處處仙居隔杏花。",
+      "更見峰西幽客說，雲中猶有兩三家。"
+    ]
+  },
+  {
+    "uid": "QTS_386_079_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "同白侍郎杏園贈劉郎中",
+    "poem": [
+      "一去瀟湘頭欲白，今朝始見杏花春。",
+      "從來遷客應無數，重到花前有㡬人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "欲",
+        "variant": "己",
+        "source": "一作「己」"
+      },
+      {
+        "line": 1,
+        "text": "花",
+        "variant": "園",
+        "source": "一作「園」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_080_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "答鄱陽客藥名詩",
+    "poem": [
+      "江皋歲暮相逢地，黃葉霜前半夏枝。",
+      "子夜吟詩向松桂，心中萬事喜君知。"
+    ]
+  },
+  {
+    "uid": "QTS_386_081_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄宋景",
+    "poem": [
+      "詔發官兵取亂臣，將軍弓箭不離身。",
+      "今君獨在征東府，莫遣功名屬別人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_082_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寄王待御",
+    "poem": [
+      "愛君紫閣峰前好，新作書堂藥竈成。",
+      "見欲移居相近住，有田多與種黃精。"
+    ]
+  },
+  {
+    "uid": "QTS_386_083_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題渭北寺上方",
+    "poem": [
+      "昔祭郊壇今謁陵，寺中高處最來登。",
+      "十餘年後人多別，喜見當時轉讀僧。"
+    ]
+  },
+  {
+    "uid": "QTS_386_084_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "閒逰",
+    "poem": [
+      "老身不計人間事，野寺秋晴每獨過。",
+      "病眼校來猶斷酒，卻嫌行處菊花多。"
+    ],
+    "notes": [
+      {
+        "content": "一作題山寺僧院",
+        "context": "閒逰",
+        "original_title": "閒逰〈一作題山寺僧院〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_085_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "倡女詞",
+    "poem": [
+      "輕鬢叢梳闊掃眉，為嫌風日下樓稀。",
+      "畫羅金縷難相稱，故著尋常淡薄衣。"
+    ]
+  },
+  {
+    "uid": "QTS_386_086_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "答元遺紗帽",
+    "poem": [
+      "黒紗方帽君邊得，稱對山前坐竹牀。",
+      "唯恐被人偷剪様，不曾閒戴出書堂。"
+    ]
+  },
+  {
+    "uid": "QTS_386_087_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題僧院",
+    "poem": [
+      "聞師行講青龍疏，本寺住來多少年。",
+      "靜掃空房唯獨坐，千莖秋竹在簷前。"
+    ]
+  },
+  {
+    "uid": "QTS_386_088_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "送元八",
+    "poem": [
+      "百神齋祭相隨徧，尋竹看山亦共行。",
+      "明日城西送君去，舊遊重到獨題名。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "竹",
+        "variant": "水",
+        "source": "一作「水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_089_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "吳楚歌詞",
+    "poem": [
+      "庭前春鳥啄林聲，紅夾羅襦縫未成。",
+      "今朝社日停針線，起向朱櫻樹下行。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "酒",
+        "source": "一作「酒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_090_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題方睦上人月臺觀",
+    "poem": [
+      "一身清浄無童子，獨坐空堂得㡬年。",
+      "每夜焚香通月觀，可憐光影最團圓。"
+    ]
+  },
+  {
+    "uid": "QTS_386_091_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "華山廟",
+    "poem": [
+      "金天廟下西京道，巫女紛紛走似煙。",
+      "手把紙錢迎過客，遣求恩福到神前。"
+    ]
+  },
+  {
+    "uid": "QTS_386_092_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "病中酬元宗簡",
+    "poem": [
+      "東風漸暖滿城春，獨占幽居養病身。",
+      "莫說櫻桃花己發，今年不作看花人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "占",
+        "variant": "向",
+        "source": "一作「向」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_093_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寺宿齋",
+    "poem": [
+      "晚到金光門外寺，寺中新竹隔簾多。",
+      "齋官禁與僧相見，院院開門不得過。"
+    ]
+  },
+  {
+    "uid": "QTS_386_094_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈施肩吾",
+    "poem": [
+      "世間漸覺無多事，雖有空名未著身。",
+      "合取藥成相待喫，不須先作上天人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "有",
+        "variant": "得",
+        "source": "一作「得」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_095_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈王建",
+    "poem": [
+      "白君去後交逰少，東野亡來篋笥貧。",
+      "賴有白頭王建在，眼前猶見詠詩人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_096_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "逢賈島",
+    "poem": [
+      "僧房逢着欵冬花，出寺行吟日已斜。",
+      "十二街中春雪遍，馬蹄今去入誰家。"
+    ]
+  },
+  {
+    "uid": "QTS_386_097_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "山中酬人",
+    "poem": [
+      "山中日暖春鳩鳴，逐水看花任意行。",
+      "向晚歸來石窗下，菖蒲葉上見題名。"
+    ]
+  },
+  {
+    "uid": "QTS_386_098_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "弱栢院僧影堂",
+    "poem": [
+      "弱栢倒垂如線蔓，簷頭不見有枝柯。",
+      "影堂香火長相續，應得人來禮拜多。"
+    ]
+  },
+  {
+    "uid": "QTS_386_099_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "題故僧影堂",
+    "poem": [
+      "香消雲鎖舊僧家，僧剎殘形半壁斜。",
+      "日暮松煙寒漠漠，秋風吹破紙蓮花。"
+    ]
+  },
+  {
+    "uid": "QTS_386_100_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "無題",
+    "poem": [
+      "桃溪柳陌好經過，燈下妝成月下歌。",
+      "為是襄王故宮地，至今猶有細腰多。"
+    ],
+    "notes": [
+      {
+        "content": "一作劉禹錫詩，題雲《踏歌詞》",
+        "context": "無題",
+        "original_title": "無題〈一作劉禹錫詩，題雲《踏歌詞》〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "有",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_101_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "山禽",
+    "poem": [
+      "山禽毛如白練帶，棲我庭前栗樹枝。",
+      "獼猴半夜來取栗，一雙中林向月飛。"
+    ]
+  },
+  {
+    "uid": "QTS_386_102_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "秋山",
+    "poem": [
+      "秋山無雲復無風，溪頭看月出深松。",
+      "草堂不閉石牀靜，葉間墜露聲重重。"
+    ]
+  },
+  {
+    "uid": "QTS_386_103_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "玉真觀",
+    "poem": [
+      "臺殿曾為貴主家，春風吹盡竹窗紗。",
+      "院中仙女脩香火，不許閒人入看花。"
+    ]
+  },
+  {
+    "uid": "QTS_386_104_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "蠻中",
+    "poem": [
+      "銅柱南邊毒草春，行人幾日到金麟。",
+      "玉鐶穿耳誰家女，自抱琵琶迎海神。"
+    ]
+  },
+  {
+    "uid": "QTS_386_105_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "贈道士",
+    "poem": [
+      "芽山近別剡溪逢，玉節青旄十二重。",
+      "自說年年上天去，羅浮最近海邊峰。"
+    ],
+    "notes": [
+      {
+        "content": "一作剡溪逢芽山道士",
+        "context": "贈道士",
+        "original_title": "贈道士〈一作剡溪逢芽山道士〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_106_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "重平驛作",
+    "poem": [
+      "茫茫菰草平如地，渺渺長堤曲似城。",
+      "日暮未知投宿處，逢人更問向前程。"
+    ]
+  },
+  {
+    "uid": "QTS_386_107_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "宿天竺寺寄靈隱寺僧",
+    "poem": [
+      "夜向靈溪息此身，風泉竹露浄衣塵。",
+      "月明石上堪同宿，那作山南山北人。"
+    ]
+  },
+  {
+    "uid": "QTS_386_108_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "酬朱慶餘",
+    "poem": [
+      "越女新妝出鏡心，自知明豔更沈吟。",
+      "齊紈未是人間貴，一曲菱歌敵萬金。"
+    ]
+  },
+  {
+    "uid": "QTS_386_109_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寒食憶歸",
+    "poem": [
+      "京中曹局無多事，寒食貧兒要在家。",
+      "遮莫杏園勝別處，亦須歸看傍村花。"
+    ],
+    "notes": [
+      {
+        "content": "以下二首見《歲時雜詠》",
+        "context": "寒食憶歸",
+        "original_title": "寒食憶歸〈以下二首見《歲時雜詠》〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_386_110_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "寒食",
+    "poem": [
+      "綠楊枝上五絲繩，枝弱春多欲不勝。",
+      "唯有一年寒食日，女郎相喚擺階𤺩。"
+    ]
+  },
+  {
+    "uid": "QTS_386_111_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "賦花",
+    "poem": [
+      "花，花。",
+      "落早，開賖。",
+      "對酒客，興詩家。",
+      "能廻逰騎，每駐行車。",
+      "宛宛清風起，茸茸麗日斜。",
+      "且碩相留懽洽，惟愁虛棄光華。",
+      "明年攀折知不遠，對此誰能更歎嗟。"
+    ],
+    "notes": [
+      {
+        "content": "並序",
+        "context": "賦花",
+        "original_title": "賦花〈並序〉"
+      }
+    ],
+    "preface": "白樂天分司東洛，朝賢悉會興化亭送別，酒酣，各賦一字至七字詩，以題為韻。"
+  },
+  {
+    "uid": "QTS_386_112_01",
+    "volume": 386,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "句",
+    "poem": [
+      "韓公國大賢，道德赫已聞。",
+      "時出為陽山，爾區來趨奔。",
+      "韓官遷掾曹，子隨至荊門。",
+      "韓入為博士，崎嶇送歸輪。"
+    ]
+  }
+]

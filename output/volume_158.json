@@ -1,0 +1,491 @@
+[
+  {
+    "uid": "QTS_158_001_01",
+    "volume": 158,
+    "author": {
+      "canonical": "張巡",
+      "recorded": "張巡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Xun",
+      "wikidata_id": "Q708295"
+    },
+    "title": "聞笛",
+    "poem": [
+      "岧嶢試一臨，虜騎附城陰。",
+      "不辨風塵色，安知天地心。",
+      "營開邊月近，戰苦陣雲深。",
+      "旦夕更樓上，遙聞橫笛音。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "附",
+        "variant": "俯",
+        "source": "一作「俯」"
+      },
+      {
+        "line": 3,
+        "text": "營",
+        "variant": "門",
+        "source": "一作「門」"
+      },
+      {
+        "line": 4,
+        "text": "音",
+        "variant": "吟",
+        "source": "一作「吟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_002_01",
+    "volume": 158,
+    "author": {
+      "canonical": "張巡",
+      "recorded": "張巡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhang Xun",
+      "wikidata_id": "Q708295"
+    },
+    "title": "守睢陽作",
+    "poem": [
+      "接戰春來苦，孤城日漸危。",
+      "合圍侔月暈，分手若魚麗。",
+      "屢厭黃塵起，時將白羽揮。",
+      "裹瘡猶出陣，飲血更登陴。",
+      "忠信應難敵，堅貞諒不移。",
+      "無人報天子，心計欲何施。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "若",
+        "variant": "効",
+        "source": "一作「効」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_003_01",
+    "volume": 158,
+    "author": {
+      "canonical": "張抃",
+      "recorded": "張抃"
+    },
+    "title": "題衡陽泗州寺",
+    "poem": [
+      "一水悠悠百粵通，片帆無奈信秋風。",
+      "幾層峽浪寒舂月，盡日江天雨打篷。",
+      "漂泊漸搖青草外，鄉關誰念雪園東。",
+      "未知今夜依何處，一點漁燈出葦叢。"
+    ]
+  },
+  {
+    "uid": "QTS_158_004_01",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "古意二首 其一",
+    "poem": [
+      "秦庭初指鹿，羣盜滿山東。",
+      "忤意皆誅死，所言誰肯忠。",
+      "武關猶未啓，兵入望夷宮。",
+      "爲祟非涇水，人君道自窮。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_158_004_02",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "古意二首 其二",
+    "poem": [
+      "崇蘭生澗底，香氣滿幽林。",
+      "采采欲爲贈，何人是同心。",
+      "日暮徙盈把，裴回憂思深。",
+      "慨然紉雜佩，重奏丘中琴。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_158_005_01",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "行路難五首 其一",
+    "poem": [
+      "君不見巖下井，百尺不及泉。",
+      "君不見山上苗，數寸凌雲煙。",
+      "人生賦命亦如此，何苦太息自憂煎。",
+      "但願親友長含笑，相逢不乏杖頭錢。",
+      "寒夜邀歡須秉燭，豈得常思花柳年。"
+    ],
+    "part_index": 1,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "苗",
+        "variant": "蒿",
+        "source": "一作「蒿」"
+      },
+      {
+        "line": 4,
+        "text": "不乏",
+        "variant": "莫吝",
+        "source": "一作「莫吝」"
+      },
+      {
+        "line": 5,
+        "text": "得",
+        "variant": "不",
+        "source": "一作「不」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_005_02",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "行路難五首 其二",
+    "poem": [
+      "君不見門前柳，榮耀暫時蕭索久。",
+      "君不見陌上花，狂風吹去落誰家。",
+      "鄰家思婦見之歎，蓬首不梳心歷亂。",
+      "盛年夫壻長別離，歲暮相逢色已換。"
+    ],
+    "part_index": 2,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 1,
+        "text": "暫",
+        "variant": "幾",
+        "source": "一作「幾」"
+      },
+      {
+        "line": 3,
+        "text": "鄰",
+        "variant": "誰",
+        "source": "一作「誰」"
+      },
+      {
+        "line": 4,
+        "text": "已",
+        "variant": "凋",
+        "source": "一作「凋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_005_03",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "行路難五首 其三",
+    "poem": [
+      "君不見芳樹枝，春花落盡蜂不窺。",
+      "君不見梁上泥，秋風始高燕不棲。",
+      "蕩子從軍事征戰，蛾眉嬋娟守空閨。",
+      "獨宿自然堪下淚，況復時聞烏夜啼。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_158_005_04",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "行路難五首 其四",
+    "poem": [
+      "君不見雲中月，暫盈還復缺。",
+      "君不見林下風，聲遠意難窮。",
+      "親故平生或聚散，歡娛未盡尊酒空。",
+      "歎息青青陵上柏，歲寒能有幾人同。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_158_005_05",
+    "volume": 158,
+    "author": {
+      "canonical": "賀蘭進明",
+      "recorded": "賀蘭進明",
+      "gender": "male",
+      "english_name": "Helan Jinming",
+      "wikidata_id": "Q16510333"
+    },
+    "title": "行路難五首 其五",
+    "poem": [
+      "君不見東流水，一去無窮已。",
+      "君不見西郊雲，日夕空氛氳。",
+      "羣鴈裴回不能去，一鴈悲鳴復失羣。",
+      "人生結交在終始，莫以升沈中路分。"
+    ],
+    "part_index": 5,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 3,
+        "text": "悲",
+        "variant": "驚",
+        "source": "一作「驚」"
+      },
+      {
+        "line": 4,
+        "text": "以",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_006_01",
+    "volume": 158,
+    "author": {
+      "canonical": "閭丘曉",
+      "recorded": "閭丘曉",
+      "gender": "male",
+      "english_name": "Lvqiu Xiao",
+      "wikidata_id": "Q16076665"
+    },
+    "title": "夜渡江",
+    "poem": [
+      "舟人自相報，落日下芳潭。",
+      "夜火連淮市，春風滿客船。",
+      "水窮滄海畔，路盡小山南。",
+      "且喜鄉園近，言榮意未甘。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "言榮意未甘",
+        "variant": "能令意味甘",
+        "source": "一作「能令意味甘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_007_01",
+    "volume": 158,
+    "author": {
+      "canonical": "庾光先",
+      "recorded": "庾光先",
+      "gender": "male",
+      "wikidata_id": "Q18908887"
+    },
+    "title": "奉和劉採訪縉雲南嶺作",
+    "poem": [
+      "百越城池枕海圻，永嘉山水復相依。",
+      "懸蘿弱篠垂清淺，宿雨朝暾和翠微。",
+      "鳥訝山經傳不盡，花隨月令數仍稀。",
+      "幸陪謝客題詩句，誰與王孫此地歸。"
+    ]
+  },
+  {
+    "uid": "QTS_158_008_01",
+    "volume": 158,
+    "author": {
+      "canonical": "韋丹",
+      "recorded": "韋丹",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wei Dan",
+      "wikidata_id": "Q10566044"
+    },
+    "title": "思歸寄東林澈上人",
+    "poem": [
+      "王事紛紛無暇日，浮生冉冉只如雲。",
+      "已爲平子歸休計，五老巖前必共聞。"
+    ]
+  },
+  {
+    "uid": "QTS_158_009_01",
+    "volume": 158,
+    "author": {
+      "canonical": "韋丹",
+      "recorded": "韋丹",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wei Dan",
+      "wikidata_id": "Q10566044"
+    },
+    "title": "荅澈公",
+    "poem": [
+      "空山泉落松窗靜，閑地草生春日遲。",
+      "白髮漸多身未退，依依常在永禪師。"
+    ]
+  },
+  {
+    "uid": "QTS_158_010_01",
+    "volume": 158,
+    "author": {
+      "canonical": "蕭昕",
+      "recorded": "蕭昕",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Xiao Xin",
+      "wikidata_id": "Q18906562"
+    },
+    "title": "洛出書",
+    "poem": [
+      "海內昔凋瘵，天網斯浡潏。",
+      "龜靈啟聖圖，龍馬負書出。",
+      "大哉明德盛，遠矣彝倫秩。",
+      "地敷作乂功，人免為魚恤。",
+      "既彰千國理，豈止百川溢。",
+      "永賴至於今，疇庸未雲畢。"
+    ]
+  },
+  {
+    "uid": "QTS_158_011_01",
+    "volume": 158,
+    "author": {
+      "canonical": "蕭昕",
+      "recorded": "蕭昕",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Xiao Xin",
+      "wikidata_id": "Q18906562"
+    },
+    "title": "臨風舒錦",
+    "poem": [
+      "麗錦疋雲終，襜襜展向風。",
+      "花開翻覆翠，色亂動搖紅。",
+      "縷散悠揚裡，文迴照灼中。",
+      "低垂疑步障，吹起作晴虹。",
+      "既與丘遲夢，深知卓氏功。",
+      "還鄉將製服，從此表亨通。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "襜襜",
+        "variant": "當檐",
+        "source": "一作「當檐」"
+      },
+      {
+        "line": 3,
+        "text": "揚",
+        "variant": "颺",
+        "source": "一作「颺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_012_01",
+    "volume": 158,
+    "author": {
+      "canonical": "李希仲",
+      "recorded": "李希仲"
+    },
+    "title": "東皇太一詞",
+    "poem": [
+      "吉日初齊戒，靈巫穆上皇。",
+      "焚香布瑤席，鳴珮奠椒漿。",
+      "緩舞花飛滿，清歌水去長。",
+      "迴波送神曲，雲雨滿瀟湘。"
+    ]
+  },
+  {
+    "uid": "QTS_158_013_01",
+    "volume": 158,
+    "author": {
+      "canonical": "李希仲",
+      "recorded": "李希仲"
+    },
+    "title": "薊北行二首 其一",
+    "poem": [
+      "旄頭有精芒，胡騎獵秋草。",
+      "羽檄南渡河，邊庭用兵早。",
+      "漢家愛征戰，宿將今已老。",
+      "辛苦羽林兒，從戎榆關道。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_158_013_02",
+    "volume": 158,
+    "author": {
+      "canonical": "李希仲",
+      "recorded": "李希仲"
+    },
+    "title": "薊北行二首 其二",
+    "poem": [
+      "一身救邊速，烽火通薊門。",
+      "前軍飛鳥斷，格鬬塵沙昏。",
+      "寒日鼓聲急，單于夜將奔。",
+      "當須徇忠義，身死報國恩。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "通",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 3,
+        "text": "將",
+        "variant": "火",
+        "source": "一作「火」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_158_014_01",
+    "volume": 158,
+    "author": {
+      "canonical": "楊志堅",
+      "recorded": "楊志堅"
+    },
+    "title": "送妻",
+    "poem": [
+      "平生志業在琴詩，頭上如今有二絲。",
+      "漁父尚知谿谷暗，山妻不信出身遲。",
+      "荊釵任意撩新鬢，明鏡從他別畫眉。",
+      "今日便同行路客，相逢即是下山時。"
+    ]
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "uid": "QTS_121_001_01",
+    "volume": 121,
+    "author": {
+      "canonical": "李林甫",
+      "recorded": "李林甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Linfu",
+      "wikidata_id": "Q713000"
+    },
+    "title": "送賀監歸四明應制",
+    "poem": [
+      "掛冠知止足，豈獨漢疏賢。",
+      "入道求真侶，辭恩訪列仙。",
+      "睿文含日月，宸翰動雲煙。",
+      "鶴駕吳鄉遠，遙遙南斗邊。"
+    ]
+  },
+  {
+    "uid": "QTS_121_002_01",
+    "volume": 121,
+    "author": {
+      "canonical": "李林甫",
+      "recorded": "李林甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Linfu",
+      "wikidata_id": "Q713000"
+    },
+    "title": "奉和聖制次瓊岳應制",
+    "poem": [
+      "東幸從人望，西巡順物回。",
+      "雲收二華出，天轉五星來。",
+      "十月農初罷，三驅禮復開。",
+      "更看瓊岳上，佳氣接神臺。"
+    ]
+  },
+  {
+    "uid": "QTS_121_003_01",
+    "volume": 121,
+    "author": {
+      "canonical": "李林甫",
+      "recorded": "李林甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Linfu",
+      "wikidata_id": "Q713000"
+    },
+    "title": "秋夜望月憶韓席等諸侍郎因以投贈",
+    "poem": [
+      "秋天碧雲夜，明月懸東方。",
+      "皓皓庭際色，稍稍林下光。",
+      "桂華澄遠近，璧彩散池塘。",
+      "鴻雁飛難度，關山曲易長。",
+      "揆予秉孤直，虛薄忝文昌。",
+      "握鏡漸先照，持衡愧後行。",
+      "多才眾君子，載筆久詞場。",
+      "作賦推潘岳，題詩許謝康。",
+      "當時陪宴語，今夕恨相望。",
+      "願欲接高論，清晨朝建章。"
+    ]
+  },
+  {
+    "uid": "QTS_121_004_01",
+    "volume": 121,
+    "author": {
+      "canonical": "楊炎",
+      "recorded": "楊炎",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yang Yan",
+      "wikidata_id": "Q1284055"
+    },
+    "title": "流崖州至鬼門關作",
+    "poem": [
+      "一去一萬里，千知千不還。",
+      "崖州何處在？生度鬼門關。"
+    ]
+  },
+  {
+    "uid": "QTS_121_005_01",
+    "volume": 121,
+    "author": {
+      "canonical": "楊炎",
+      "recorded": "楊炎",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yang Yan",
+      "wikidata_id": "Q1284055"
+    },
+    "title": "贈元載歌妓",
+    "poem": [
+      "雪面淡眉天上女，鳳簫鸞翅欲飛去。",
+      "玉山翹翠步無塵，楚腰如柳不勝春。"
+    ]
+  },
+  {
+    "uid": "QTS_121_006_01",
+    "volume": 121,
+    "author": {
+      "canonical": "元載",
+      "recorded": "元載",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Zai",
+      "wikidata_id": "Q5947402"
+    },
+    "title": "別妻王韞秀",
+    "poem": [
+      "年來誰不厭龍鍾，雖在侯門似不容。",
+      "看取海山寒翠樹，苦遭霜霰到秦封。"
+    ]
+  },
+  {
+    "uid": "QTS_121_007_01",
+    "volume": 121,
+    "author": {
+      "canonical": "陳希烈",
+      "recorded": "陳希烈",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Xilie",
+      "wikidata_id": "Q432000"
+    },
+    "title": "賦得雲生棟梁間",
+    "poem": [
+      "一片蒼梧意，氤氳生棟梁。",
+      "下簾山足暗，開戶日添光。",
+      "偏使衣裘潤，能令枕簟涼。",
+      "無心伴行雨，何必夢荊王。"
+    ]
+  },
+  {
+    "uid": "QTS_121_008_01",
+    "volume": 121,
+    "author": {
+      "canonical": "陳希烈",
+      "recorded": "陳希烈",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Xilie",
+      "wikidata_id": "Q432000"
+    },
+    "title": "奉和聖制三月三日",
+    "poem": [
+      "上巳迂龍駕，中流泛羽觴。",
+      "酒因朝太子，詩爲樂賢王。",
+      "錦纜方舟渡，瓊筵大樂張。",
+      "風搖垂柳色，花發異林香。",
+      "野老歌無事，朝臣飲歲芳。",
+      "皇情被羣物，中外洽恩光。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "歌無事",
+        "variant": "無公事",
+        "source": "一作「無公事」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_121_009_01",
+    "volume": 121,
+    "author": {
+      "canonical": "陳希烈",
+      "recorded": "陳希烈",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Xilie",
+      "wikidata_id": "Q432000"
+    },
+    "title": "省試白雲起封中",
+    "poem": [
+      "千年泰山頂，雲起漢王封。",
+      "不作奇峰狀，寧分觸石容。",
+      "爲霖雖易得，表聖自難逢。",
+      "冉冉排空上，依依疊影重。",
+      "素光非曳練，靈貺是從龍。",
+      "豈學無心出，東西任所從。"
+    ]
+  },
+  {
+    "uid": "QTS_121_010_01",
+    "volume": 121,
+    "author": {
+      "canonical": "張漸",
+      "recorded": "張漸"
+    },
+    "title": "朗月行",
+    "poem": [
+      "朗月照簾幌，清夜有餘姿。",
+      "洞房怨孤枕，挾琴愛前墀。",
+      "萱草已數葉，梨花復徧枝。",
+      "去歲草始榮，與君新相知。",
+      "今年花未落，誰分生別離。",
+      "代情難重論，人事好乖移。",
+      "合比月華滿，分同月易虧。",
+      "虧月當再圓，人別星隕天。",
+      "吾欲竟此曲，意深不可傳。",
+      "歎息孤鸞鳥，傷心明鏡前。"
+    ]
+  },
+  {
+    "uid": "QTS_121_011_01",
+    "volume": 121,
+    "author": {
+      "canonical": "宋昱",
+      "recorded": "宋昱",
+      "gender": "male",
+      "wikidata_id": "Q18908385"
+    },
+    "title": "曉次荊江",
+    "poem": [
+      "孤舟大江水，水涉無昏曙。",
+      "雨暗迷津時，雲生望鄉處。",
+      "漁翁閑自樂，樵客紛多慮。",
+      "秋色湖上山，歸心日邊樹。",
+      "徒稱竹箭美，未得楓林趣。",
+      "向夕垂釣還，吾從落潮去。"
+    ]
+  },
+  {
+    "uid": "QTS_121_012_01",
+    "volume": 121,
+    "author": {
+      "canonical": "宋昱",
+      "recorded": "宋昱",
+      "gender": "male",
+      "wikidata_id": "Q18908385"
+    },
+    "title": "題石窟寺",
+    "poem": [
+      "梵宇開金地，香龕鑿鐵圍。",
+      "影中羣象動，空裏衆靈飛。",
+      "簷牖籠朱旭，房廊挹翠微。",
+      "瑞蓮生佛步，瑤樹掛天衣。",
+      "邀福功雖在，興王代久非。",
+      "誰知雲朔外，更覩化胡歸。"
+    ]
+  },
+  {
+    "uid": "QTS_121_013_01",
+    "volume": 121,
+    "author": {
+      "canonical": "宋昱",
+      "recorded": "宋昱",
+      "gender": "male",
+      "wikidata_id": "Q18908385"
+    },
+    "title": "樟亭觀濤",
+    "poem": [
+      "濤來勢轉雄，獵獵駕長風。",
+      "雷震雲霓裏，山飛霜雪中。",
+      "激流起平地，吹澇上侵空。",
+      "翕闢乾坤異，盈虛日月同。",
+      "艅艎從陸起，洲浦隔阡通。",
+      "跳沫噴巖翠，翻波帶景紅。",
+      "怒湍初抵北，卻浪復歸東。",
+      "寂聽堪增勇，晴看自發蒙。",
+      "伍生傳或謬，枚叟說難窮。",
+      "來信應無已，申威亦匪躬。",
+      "衝騰如決勝，迴合似相攻。",
+      "委質任平視，誰能涯始終。"
+    ]
+  }
+]

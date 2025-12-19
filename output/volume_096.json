@@ -1,0 +1,1842 @@
+[
+  {
+    "uid": "QTS_096_001_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "立春日內出綵花應制",
+    "poem": [
+      "合殿春應早，開箱綵預知。",
+      "花迎宸翰發，葉待御筵披。",
+      "梅訝香全少，桃驚色頓移。",
+      "輕生承剪拂，長伴萬年枝。"
+    ]
+  },
+  {
+    "uid": "QTS_096_002_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "晦日滻水應制",
+    "poem": [
+      "素滻接宸居，青門盛祓除。",
+      "摘蘭喧鳳野，浮藻溢龍渠。",
+      "苑蝶飛殊懶，宮鶯囀不疎。",
+      "星移天上入，歌舞向儲胥。"
+    ]
+  },
+  {
+    "uid": "QTS_096_003_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "奉和洛陽翫雪應制",
+    "poem": [
+      "周王甲子旦，漢后德陽宮。",
+      "灑瑞天庭裏，驚春御苑中。",
+      "氛氳生浩氣，颯杳舞回風。",
+      "宸藻光盈尺，賡歌樂歲豐。"
+    ]
+  },
+  {
+    "uid": "QTS_096_004_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "三日梨園侍宴",
+    "poem": [
+      "九重馳道出，三巳禊堂開。",
+      "畫鷁中流動，青龍上苑來。",
+      "野花飄御座，河柳拂天杯。",
+      "日晚迎祥處，笙鏞下帝臺。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "三",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_005_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "幸梨園亭觀打毬應制",
+    "poem": [
+      "今春芳苑遊，接武上瓊樓。",
+      "宛轉縈香騎，飄颻拂畫毬。",
+      "俯身迎未落，迴轡逐傍流。",
+      "秖爲看花鳥，時時誤失籌。"
+    ]
+  },
+  {
+    "uid": "QTS_096_006_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "九日臨渭亭侍宴應制得長字",
+    "poem": [
+      "御氣幸金方，憑高薦羽觴。",
+      "魏文頒菊蕋，漢武賜萸房。",
+      "秋變銅池色，晴添銀樹光。",
+      "年年重九慶，日月奉天長。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "房",
+        "variant": "囊",
+        "source": "一作「囊」"
+      },
+      {
+        "line": 3,
+        "text": "秋變銅池色，晴添銀樹光",
+        "variant": "去鶴留笙吹，歸鴻識舞行",
+        "source": "一作「去鶴留笙吹，歸鴻識舞行」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_007_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "歲夜安樂公主滿月侍宴",
+    "poem": [
+      "除夜子星回，天孫滿月杯。",
+      "詠歌麟趾合，簫管鳳雛來。",
+      "歲炬常然桂，春盤預折梅。",
+      "聖皇千萬壽，垂曉御樓開。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "樓開",
+        "variant": "明臺",
+        "source": "一作「明臺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_008_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "安樂公主移入新宅",
+    "poem": [
+      "初聞衡漢來，移住斗城隈。",
+      "錦帳迎風轉，瓊筵拂霧開。",
+      "馬香遺舊埒，鳳吹繞新臺。"
+    ]
+  },
+  {
+    "uid": "QTS_096_009_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "仙萼亭初成侍宴應制",
+    "poem": [
+      "山中氣色和，宸賞第中過。",
+      "輦路披仙掌，帷宮拂帝蘿。",
+      "泉臨香澗落，峰入翠雲多。",
+      "無異登玄圃，東南望白河。"
+    ]
+  },
+  {
+    "uid": "QTS_096_010_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "送金城公主適西蕃應制",
+    "poem": [
+      "金牓扶丹掖，銀河屬紫閽。",
+      "那堪將鳳女，還以嫁烏孫。",
+      "玉就歌中怨，珠辭掌上恩。",
+      "西戎非我匹，明主至公存。"
+    ]
+  },
+  {
+    "uid": "QTS_096_011_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "幸白鹿觀應制",
+    "poem": [
+      "紫鳳真人府，斑龍太上家。",
+      "天流芝蓋下，山轉桂旗斜。",
+      "聖藻垂寒露，仙杯落晚霞。",
+      "唯應問王母，桃作幾時花。"
+    ]
+  },
+  {
+    "uid": "QTS_096_012_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "洛陽道",
+    "poem": [
+      "九門開洛邑，雙闕對河橋。",
+      "白日青春道，軒裳半下朝。",
+      "乘羊稚子看，拾翠美人嬌。",
+      "行樂歸恆晚，香塵撲地遙。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "夏",
+        "source": "一作「夏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_013_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "驄馬",
+    "poem": [
+      "西北五花驄，來時道向東。",
+      "四蹄碧玉片，雙眼黃金瞳。",
+      "鞍上留明月，嘶間動朔風。",
+      "借君馳沛艾，一戰取雲中。"
+    ]
+  },
+  {
+    "uid": "QTS_096_014_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "銅雀臺",
+    "poem": [
+      "昔年分鼎地，今日望陵臺。",
+      "一旦雄圖盡，千秋遺令開。",
+      "綺羅君不見，歌舞妾空來。",
+      "恩共漳河水，東流無重回。"
+    ]
+  },
+  {
+    "uid": "QTS_096_015_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "長門怨",
+    "poem": [
+      "月皎風泠泠，長門次掖庭。",
+      "玉階聞墜葉，羅幌見飛螢。",
+      "清露凝珠綴，流塵下翠屏。",
+      "妾心君未察，愁歎劇繁星。"
+    ]
+  },
+  {
+    "uid": "QTS_096_016_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "巫山高二首 其一",
+    "poem": [
+      "巫山峯十二，合沓隱昭回。",
+      "俯眺琵琶峽，平看雲雨臺。",
+      "古槎天外倚，瀑水日邊來。",
+      "何忍猿啼夜，荆王枕席開。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "合沓隱",
+        "variant": "環合象",
+        "source": "一作「環合象」"
+      },
+      {
+        "line": 2,
+        "text": "眺",
+        "variant": "聽",
+        "source": "一作「聽」"
+      },
+      {
+        "line": 3,
+        "text": "倚",
+        "variant": "落",
+        "source": "一作「落」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_016_02",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "巫山高二首 其二",
+    "poem": [
+      "神女向高唐，巫山下夕陽。",
+      "裴回作行雨，婉孌逐荆王。",
+      "電影江前落，雷聲峽外長。",
+      "霽雲無處所，臺館曉蒼蒼。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_096_017_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "巫山高",
+    "poem": [
+      "巫山高不極，合沓狀奇新。",
+      "暗谷疑風雨，陰崖若鬼神。",
+      "月明三峽曙，潮滿九江春。",
+      "爲問陽臺客，應知入夢人。"
+    ]
+  },
+  {
+    "uid": "QTS_096_018_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "七夕",
+    "poem": [
+      "秋近雁行稀，天高鵲夜飛。",
+      "妝成應懶織，今夕渡河歸。",
+      "月皎宜穿線，風輕得曝衣。",
+      "來時不可覺，神驗有光輝。"
+    ]
+  },
+  {
+    "uid": "QTS_096_019_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "春閨",
+    "poem": [
+      "鐵馬三軍去，金閨二月還。",
+      "邊愁離上國，春夢失陽關。",
+      "池水琉璃淨，園花玳瑁斑。",
+      "歲華空自擲，憂思不勝顏。"
+    ],
+    "preface": "〈一本連後雜詩三首作雜詩四首〉"
+  },
+  {
+    "uid": "QTS_096_020_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "奉和聖制同皇太子遊慈恩寺應制",
+    "poem": [
+      "肅肅蓮花界，熒熒貝葉宮。",
+      "金人來夢裏，白馬出城中。",
+      "湧塔初從地，焚香欲遍空。",
+      "天歌應春籥，非是爲春風。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "春",
+        "variant": "秋",
+        "source": "一作「秋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_021_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "和洛州康士曹庭芝望月有懷",
+    "poem": [
+      "天使下西樓，光含萬象秋。",
+      "臺前疑挂鏡，簾外似懸鉤。",
+      "張尹將眉學，班姬取扇儔。",
+      "佳期應借問，爲報在刀頭。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "象",
+        "variant": "里",
+        "source": "一作「里」"
+      },
+      {
+        "line": 2,
+        "text": "簾",
+        "variant": "簷",
+        "source": "一作「簷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_022_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "壽陽王花燭",
+    "poem": [
+      "仙媛乘龍夕，天孫捧雁來。",
+      "可憐桃李樹，更遶鳳皇臺。",
+      "燭送香車入，花臨寶扇開。",
+      "莫令銀箭曉，爲盡合歡杯。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "夕",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 4,
+        "text": "箭",
+        "variant": "漏",
+        "source": "一作「漏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_023_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "隴頭水",
+    "poem": [
+      "隴山飛落葉，隴雁度寒天。",
+      "愁見三秋水，分爲兩地泉。",
+      "西流入羗郡，東下向秦川。",
+      "征客重回首，肝腸空自憐。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "郡",
+        "variant": "部",
+        "source": "一作「部」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_024_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "關山月",
+    "poem": [
+      "漢月生遼海，朣朧出半暉。",
+      "合昏玄菟郡，中夜白登圍。",
+      "暈落關山迥，光含霜霰微。",
+      "將軍聽曉角，戰馬欲南歸。"
+    ]
+  },
+  {
+    "uid": "QTS_096_025_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "折楊柳",
+    "poem": [
+      "玉窗朝日暎，羅帳春風吹。",
+      "拭淚攀楊柳，長條踠地垂。",
+      "白花飛歷亂，黃鳥思參差。",
+      "妾自肝腸斷，傍人那得知。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "踠",
+        "variant": "宛",
+        "source": "一作「宛」，又作「匝」"
+      },
+      {
+        "line": 3,
+        "text": "思",
+        "variant": "度",
+        "source": "一作「度」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_026_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "梅花落",
+    "poem": [
+      "鐵騎幾時回，金閨怨早梅。",
+      "雪寒花已落，風暖葉應開。",
+      "夕逐新春管，香迎小歲杯。",
+      "盛時何足貴，書裏報輪臺。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "寒",
+        "variant": "中",
+        "source": "一作「中」"
+      },
+      {
+        "line": 4,
+        "text": "盛",
+        "variant": "感",
+        "source": "一作「感」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_027_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "紫騮馬",
+    "poem": [
+      "青玉紫騮鞍，驕多影屢盤。",
+      "荷君能剪拂，躞蹀噴桑乾。",
+      "踠足追奔易，長鳴遇賞難。",
+      "摐金一萬里，霜露不辭寒。"
+    ]
+  },
+  {
+    "uid": "QTS_096_028_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "上之回",
+    "poem": [
+      "制書下關右，天子問回中。",
+      "壇墠經過遠，威儀侍從雄。",
+      "黃麾搖晝日，青幰曳松風。",
+      "迴望甘泉道，龍山隱漢宮。"
+    ]
+  },
+  {
+    "uid": "QTS_096_029_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "王昭君",
+    "poem": [
+      "非君惜鸞殿，非妾妬蛾眉。",
+      "薄命由驕虜，無情是畫師。",
+      "嫁來胡地日，不並漢宮時。",
+      "心苦無聊賴，何堪馬上辭。"
+    ]
+  },
+  {
+    "uid": "QTS_096_030_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "被試出塞",
+    "poem": [
+      "十年通大漠，萬里出長平。",
+      "寒日生戈劒，陰雲拂斾旌。",
+      "飢烏啼舊壘，疲馬戀空城。",
+      "辛苦臯蘭北，胡霜損漢兵。"
+    ]
+  },
+  {
+    "uid": "QTS_096_031_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "牛女",
+    "poem": [
+      "粉席秋期緩，針樓別怨多。",
+      "奔龍爭度日，飛鵲亂填河。",
+      "失喜先臨鏡，含羞未解羅。",
+      "誰能留夜色，來夕倍還梭。"
+    ]
+  },
+  {
+    "uid": "QTS_096_032_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "雜詩三首 其一",
+    "poem": [
+      "落葉驚秋婦，高砧促暝機。",
+      "蜘蛛尋月度，螢火傍人飛。",
+      "清鏡紅埃入，孤燈綠焰微。",
+      "怨啼能至曉，獨自懶縫衣。"
+    ],
+    "preface": "〈一本連前春閨作雜詩四首〉",
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_096_032_02",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "雜詩三首 其二",
+    "poem": [
+      "妾家臨渭北，春夢著遼西。",
+      "何苦朝鮮郡，年年事鼓鼙。",
+      "燕來紅壁語，鶯向綠窗啼。",
+      "爲許長相憶，闌干玉筯齊。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_096_032_03",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "雜詩三首 其三",
+    "poem": [
+      "聞道黃龍戍，頻年不解兵。",
+      "可憐閨裏月，長在漢家營。",
+      "少婦今春意，良人昨夜情。",
+      "誰能將旗鼓，一爲取龍城。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "龍戍",
+        "variant": "花塞",
+        "source": "一作「花塞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_033_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "剪綵",
+    "poem": [
+      "宮女憐芳樹，裁花競早榮。",
+      "寒依刀尺盡，春向綺羅生。",
+      "弱蔕盤絲發，香蕤結素成。",
+      "纖枝幸不棄，長就玉階傾。"
+    ]
+  },
+  {
+    "uid": "QTS_096_034_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "和中書侍郎楊再思春夜宿直",
+    "poem": [
+      "西禁青春滿，南端皓月微。",
+      "千廬宵駕合，五夜曉鐘稀。",
+      "星斗橫綸閣，天河度瑣闈。",
+      "煙光章奏裏，紛向夕郎飛。"
+    ]
+  },
+  {
+    "uid": "QTS_096_035_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "和常州崔使君寒食夜",
+    "poem": [
+      "聞道清明近，春闈向夕闌。",
+      "行遊晝不厭，風物夜宜看。",
+      "斗柄更初轉，梅香暗裏殘。",
+      "無勞秉華燭，晴月在南端。"
+    ]
+  },
+  {
+    "uid": "QTS_096_036_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "和崔正諫登秋日早朝",
+    "poem": [
+      "雞鳴朝謁滿，露白禁門秋。",
+      "爽氣臨旌戟，朝光暎冕旒。",
+      "河宗來獻寶，天子命焚裘。",
+      "獨負池陽議，言從建禮遊。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "池",
+        "variant": "津",
+        "source": "一作「津」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_037_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "答甯處州書",
+    "poem": [
+      "書報天中赦，人從海上聞。",
+      "九泉開白日，六翮起青雲。",
+      "質幸恩先貸，情孤枉未分。",
+      "自憐涇渭別，誰與奏明君。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "起",
+        "variant": "奮",
+        "source": "一作「奮」"
+      },
+      {
+        "line": 3,
+        "text": "質幸",
+        "variant": "命偶",
+        "source": "一作「命偶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_038_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "李舍人山園送龐邵",
+    "poem": [
+      "符傳有光輝，諠諠出帝畿。",
+      "東隣借山水，南陌駐驂騑。",
+      "握手涼風至，當歌秋日微。",
+      "高幨去勿緩，人吏待霜威。"
+    ]
+  },
+  {
+    "uid": "QTS_096_039_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "送陸侍御餘慶北使",
+    "poem": [
+      "古人貴將命，之子出輶軒。",
+      "受委當不辱，隨時敢贈言。",
+      "朔途際遼海，春思繞轘轅。",
+      "安得回白日，留歡盡綠樽。"
+    ]
+  },
+  {
+    "uid": "QTS_096_040_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "洛州蕭司兵謁兄還赴洛成禮",
+    "poem": [
+      "棠棣日光輝，高襟應序歸。",
+      "來成鴻雁聚，去作鳳皇飛。",
+      "細草乘輕傳，驚花慘別衣。",
+      "灞亭春有酒，岐路惜芬菲。"
+    ]
+  },
+  {
+    "uid": "QTS_096_041_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "餞高唐州詢",
+    "poem": [
+      "弱冠相知早，中年不見多。",
+      "生涯在王事，客鬢各蹉跎。",
+      "良守初分岳，嘉聲即潤河。",
+      "還從漢闕下，傾耳聽中和。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "客",
+        "variant": "容",
+        "source": "一作「容」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_042_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "餞唐郎中洛陽令",
+    "poem": [
+      "一臺推往妙，三史佇來修。",
+      "應宰鳧還集，辭郎雉少留。",
+      "郊筵乘落景，亭傳理殘秋。",
+      "願以弦歌暇，芝蘭想舊遊。"
+    ]
+  },
+  {
+    "uid": "QTS_096_043_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "樂城白鶴寺",
+    "poem": [
+      "碧海開龍藏，青雲起雁堂。",
+      "潮聲迎法鼓，雨氣濕天香。",
+      "樹接前山暗，溪承瀑水涼。",
+      "無言謫居遠，清淨得空王。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "迎",
+        "variant": "應",
+        "source": "一作「應」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_044_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "遊少林寺",
+    "poem": [
+      "長歌遊寶地，徙倚對珠林。",
+      "雁塔風霜古，龍池歲月深。",
+      "紺園澄夕霽，碧殿下秋陰。",
+      "歸路煙霞晚，山蟬處處吟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "風霜",
+        "variant": "丹青",
+        "source": "一作「丹青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_045_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "嶽館",
+    "poem": [
+      "洞壑仙人館，孤峰玉女臺。",
+      "空濛朝氣合，窈窕夕陽開。",
+      "流澗含輕雨，虛巖應薄雷。",
+      "正逢鸞與鶴，歌舞出天來。"
+    ]
+  },
+  {
+    "uid": "QTS_096_046_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "早發平昌島",
+    "poem": [
+      "解纜春風後，鳴榔曉漲前。",
+      "陽烏出海樹，雲雁下江煙。",
+      "積氣衝長島，浮光溢大川。",
+      "不能懷魏闕，心賞獨泠然。"
+    ]
+  },
+  {
+    "uid": "QTS_096_047_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "夜宿七盤嶺",
+    "poem": [
+      "獨遊千里外，高臥七盤西。",
+      "曉月臨窗近，天河入戶低。",
+      "芳春平仲綠，清夜子規啼。",
+      "浮客空留聽，褒城聞曙雞。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "曉",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 2,
+        "text": "窗",
+        "variant": "牀",
+        "source": "一作「牀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_048_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "十三四時嘗從巫峽過他日偶然有思",
+    "poem": [
+      "小度巫山峽，荆南春欲分。",
+      "使君灘上草，神女館前雲。",
+      "樹悉江中見，猿多天外聞。",
+      "別來如夢裏，一想一氛氳。"
+    ]
+  },
+  {
+    "uid": "QTS_096_049_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "初達驩州",
+    "poem": [
+      "自昔聞銅柱，行來向一年。",
+      "不知林邑地，猶隔道明天。",
+      "雨露何時及？京華若個邊。",
+      "思君無限淚，堪作日南泉。"
+    ]
+  },
+  {
+    "uid": "QTS_096_050_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "嶺表逢寒食",
+    "poem": [
+      "嶺外無寒食，春來不見餳。",
+      "洛陽新甲子，何日是清明？花柳爭朝發，軒車滿路迎。",
+      "帝鄉遙可念，腸斷報親情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "無",
+        "variant": "逢",
+        "source": "一作「逢」，「誤」"
+      },
+      {
+        "line": 2,
+        "text": "陽",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_051_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "驩州南亭夜望",
+    "poem": [
+      "昨夜南亭望，分明夢洛中。",
+      "室家誰道別，兒女案嘗同。",
+      "忽覺猶言是，沈思始悟空。",
+      "肝腸餘幾寸，拭淚坐春風。"
+    ]
+  },
+  {
+    "uid": "QTS_096_052_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "少遊荆湘因有是題",
+    "poem": [
+      "峴北焚蛟浦，巴東射雉田。",
+      "歲時宜楚俗，耆舊在襄川。",
+      "憶昨經過處，離今二十年。",
+      "因君訪生死，相識幾人全。"
+    ]
+  },
+  {
+    "uid": "QTS_096_053_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "咸陽覽古",
+    "poem": [
+      "咸陽秦帝居，千載坐盈虛。",
+      "版築林光盡，壇場霤聽疎。",
+      "野橋疑望日，山火類焚書。",
+      "唯有驪峰在，空聞厚葬餘。"
+    ]
+  },
+  {
+    "uid": "QTS_096_054_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "覽鏡",
+    "poem": [
+      "霏霏日搖蕙，騷騷風灑蓮。",
+      "時芳固相奪，俗態豈恆堅。",
+      "恍忽夜川裏，蹉跎朝鏡前。",
+      "紅顏與壯志，太息此流年。"
+    ]
+  },
+  {
+    "uid": "QTS_096_055_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "題椰子樹",
+    "poem": [
+      "日南椰子樹，香褭出風塵。",
+      "叢生調木首，圓實檳榔身。",
+      "玉房九霄露，碧葉四時春。",
+      "不及塗林果，移根隨漢臣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "調",
+        "variant": "雕",
+        "source": "一作「雕」"
+      },
+      {
+        "line": 2,
+        "text": "檳",
+        "variant": "白",
+        "source": "一作「白」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_056_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "同獄者歎獄中無燕",
+    "poem": [
+      "何許乘春燕，多知辨夏臺。",
+      "三時欲併盡，雙影未嘗來。",
+      "食蕋嫌叢棘，銜泥怯死灰。",
+      "不如黃雀語，能雪冶長猜。"
+    ]
+  },
+  {
+    "uid": "QTS_096_057_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "則天門赦改年",
+    "poem": [
+      "聖人宥天下，幽鑰動圜狴。",
+      "六甲迎黃氣，三元降紫泥。",
+      "籠僮上西鼓，振迅廣陽雞。",
+      "歌舞將金帛，汪洋被遠黎。"
+    ]
+  },
+  {
+    "uid": "QTS_096_058_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "喜赦",
+    "poem": [
+      "去歲投荒客，今春肆眚歸。",
+      "律通幽谷暖，盆舉太陽輝。",
+      "喜氣迎冤氣，青衣報白衣。",
+      "還將合浦葉，俱向洛城飛。"
+    ]
+  },
+  {
+    "uid": "QTS_096_059_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "秦州薛都督挽詞",
+    "poem": [
+      "十里絳山幽，千年汾水流。",
+      "碑傳門客建，劒是故人留。",
+      "隴樹烟含夕，山門月對秋。",
+      "古來鐘鼎盛，共盡一蒿丘。"
+    ]
+  },
+  {
+    "uid": "QTS_096_060_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "天官崔侍郎夫人盧氏挽歌",
+    "poem": [
+      "偕老言何謬，香魂事永違。",
+      "潘魚從此隔，陳鳳宛然飛。",
+      "埋鏡泉中暗，藏鐙地下微。",
+      "猶憑少君術，彷彿覩容輝。"
+    ]
+  },
+  {
+    "uid": "QTS_096_061_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "章懷太子靖妃挽詞",
+    "poem": [
+      "彤史佳聲載，青宮懿範留。",
+      "形將鸞鏡隱，魂伴鳳笙遊。",
+      "送馬嘶殘日，新螢落晚秋。",
+      "不知蒿里曙，空見隴雲愁。"
+    ]
+  },
+  {
+    "uid": "QTS_096_062_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "奉和立春遊苑迎春",
+    "poem": [
+      "東郊暫轉迎春仗，上苑初飛行慶杯。",
+      "風射蛟冰千片斷，氣衝魚鑰九關開。",
+      "林中覓草纔生蕙，殿裏爭花併是梅。",
+      "歌吹銜恩歸路晚，棲烏半下鳳城來。"
+    ]
+  },
+  {
+    "uid": "QTS_096_063_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "人日重宴大明宮賜綵縷人勝應制",
+    "poem": [
+      "拂旦雞鳴仙衞陳，憑高龍首帝城春。",
+      "千官黼帳杯前壽，百福香匳勝裏人。",
+      "山鳥初來猶怯囀，林花未發已偷新。",
+      "天文正應韶光轉，設報懸知用此辰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "城",
+        "variant": "庭",
+        "source": "一作「庭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_064_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "奉和春初幸太平公主南莊應制",
+    "poem": [
+      "主家山第早春歸，御輦春遊繞翠微。",
+      "買地鋪金曾作埒，尋河取石舊支機。",
+      "雲間樹色千花滿，竹裏泉聲百道飛。",
+      "自有神仙鳴鳳曲，併將歌舞報恩暉。"
+    ]
+  },
+  {
+    "uid": "QTS_096_065_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "奉和春日幸望春宮應制",
+    "poem": [
+      "芳郊綠野散春晴，複道離宮煙霧生。",
+      "楊柳千條花欲綻，蒲萄百丈蔓初縈。",
+      "林香酒氣元相入，鳥囀歌聲各自成。",
+      "定是風光牽宿醉，來晨復得幸昆明。"
+    ]
+  },
+  {
+    "uid": "QTS_096_066_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "侍宴安樂公主新宅應制",
+    "poem": [
+      "皇家貴主好神仙，別業初開雲漢邊。",
+      "山出盡如鳴鳳嶺，池成不讓飲龍川。",
+      "妝樓翠幌教春住，舞閣金鋪借日懸。",
+      "敬從乘輿來此地，稱觴獻壽樂鈞天。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "好",
+        "variant": "學",
+        "source": "一作「學」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_067_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "龍池篇",
+    "poem": [
+      "龍池躍龍龍已飛，龍德先天天不違。",
+      "池開天漢分黃道，龍向天門入紫微。",
+      "邸第樓臺多氣色，君王鳧雁有光輝。",
+      "爲報寰中百川水，來朝此地莫東歸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "先",
+        "variant": "光",
+        "source": "一作「光」"
+      },
+      {
+        "line": 2,
+        "text": "黃",
+        "variant": "皇",
+        "source": "一作「皇」"
+      },
+      {
+        "line": 4,
+        "text": "此",
+        "variant": "北",
+        "source": "一作「北」，又一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_068_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "興慶池侍宴應制",
+    "poem": [
+      "碧水澄潭暎遠空，紫雲香駕御微風。",
+      "漢家城闕疑天上，秦地山川似鏡中。",
+      "向浦回舟萍已綠，分林蔽殿槿初紅。",
+      "古來徒羨橫汾賞，今日宸遊聖藻雄。"
+    ]
+  },
+  {
+    "uid": "QTS_096_069_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "從幸香山寺應制",
+    "poem": [
+      "南山奕奕通丹禁，北闕峨峨連翠雲。",
+      "嶺上樓臺千地起，城中鐘鼓四天聞。",
+      "旃檀曉閣金輿度，鸚鵡晴林采眊分。",
+      "願以醍醐參聖酒，還將衹苑當秋汾。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "衹",
+        "variant": "祗",
+        "source": "一作「祗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_070_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "紅樓院應制",
+    "poem": [
+      "紅樓疑見白毫光，寺逼宸居福盛唐。",
+      "支遁愛山情謾切，曇摩泛海路空長。",
+      "經聲夜息聞天語，爐氣晨飄接御香。",
+      "誰謂此中難可到，自憐深院得徊翔。"
+    ]
+  },
+  {
+    "uid": "QTS_096_071_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "再入道場紀事應制",
+    "poem": [
+      "南方歸去再生天，內殿今年異昔年。",
+      "見闢乾坤新定位，看題日月更高懸。",
+      "行隨香輦登仙路，坐近爐煙講法筵。",
+      "自喜恩深陪侍從，兩朝長在聖人前。"
+    ]
+  },
+  {
+    "uid": "QTS_096_072_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "嵩山石淙侍宴應制",
+    "poem": [
+      "金輿旦下綠雲衢，綵殿晴臨碧澗隅。",
+      "溪水泠泠雜行漏，山煙片片繞香爐。",
+      "仙人六膳調神鼎，玉女三漿捧帝壺。",
+      "自惜汾陽紆道駕，無如太室覽真圖。"
+    ]
+  },
+  {
+    "uid": "QTS_096_073_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "古意呈補闕喬知之",
+    "poem": [
+      "盧家少婦鬱金堂，海燕雙棲玳瑁梁。",
+      "九月寒砧催木葉，十年征戍憶遼陽。",
+      "白狼河北音書斷，丹鳳城南秋夜長。",
+      "誰謂含愁獨不見，更教明月照流黃。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "堂",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 3,
+        "text": "音",
+        "variant": "軍",
+        "source": "一作「軍」"
+      },
+      {
+        "line": 4,
+        "text": "更教明月照流黃",
+        "variant": "使妾明月對流黃",
+        "source": "一作「使妾明月對流黃」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_074_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "遙同杜員外審言過嶺",
+    "poem": [
+      "天長地闊嶺頭分，去國離家見白雲。",
+      "洛浦風光何所似，崇山瘴癘不堪聞。",
+      "南浮漲海人何處？北望衡陽雁幾羣。",
+      "兩地江山萬餘里，何時重謁聖明君？"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "風光何所似",
+        "variant": "肝腸無用說",
+        "source": "一作「肝腸無用說」"
+      },
+      {
+        "line": 3,
+        "text": "人",
+        "variant": "鳶",
+        "source": "一作「鳶」"
+      },
+      {
+        "line": 4,
+        "text": "江山",
+        "variant": "春光",
+        "source": "一作「春光」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_096_075_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "和上巳連寒食有懷京洛",
+    "poem": [
+      "天津御柳碧遙遙，軒騎相從半下朝。",
+      "行樂光輝寒食借，太平歌舞晚春饒。",
+      "紅妝樓下東迴輦，青草洲邊南渡橋。",
+      "坐見司空掃西第，看君侍從落花朝。"
+    ]
+  },
+  {
+    "uid": "QTS_096_076_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "陪幸太平公主南莊詩",
+    "poem": [
+      "主第山門起灞川，宸遊風景入初年。",
+      "鳳皇樓下交天仗，烏鵲橋頭敞御筵。",
+      "往往花間逢綵石，時時竹裏見紅泉。",
+      "今朝扈蹕平陽館，不羨乘槎雲漢邊。"
+    ]
+  },
+  {
+    "uid": "QTS_096_077_01",
+    "volume": 96,
+    "author": {
+      "canonical": "沈佺期",
+      "recorded": "沈佺期",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Shen Quanqi",
+      "wikidata_id": "Q370043"
+    },
+    "title": "守歲應制",
+    "poem": [
+      "南渡輕冰解渭橋，東方樹色起招搖。",
+      "天子迎春取今夜，王公獻壽用明朝。",
+      "殿上燈人爭烈火，宮中侲子亂驅妖。",
+      "宜將歲酒調神藥，聖祚千春萬國朝。"
+    ]
+  }
+]

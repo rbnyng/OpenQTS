@@ -1,0 +1,930 @@
+[
+  {
+    "uid": "QTS_011_001_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 黃帝宮音",
+    "poem": [
+      "黃中正位，含章居貞。",
+      "既長六律，兼和五聲。",
+      "畢陳萬舞，乃薦斯牲。",
+      "神其下降，永祚休平。"
+    ]
+  },
+  {
+    "uid": "QTS_011_002_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 肅和",
+    "poem": [
+      "眇眇方輿，蒼蒼圜蓋。",
+      "至哉樞紐，宅中圖大。",
+      "氣調四序，風和萬籟。",
+      "祚我明德，時雍道泰。"
+    ]
+  },
+  {
+    "uid": "QTS_011_003_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 雍和",
+    "poem": [
+      "金縣夕肆，玉俎朝陳。",
+      "饗薦黃道，芬流紫宸。",
+      "廼誠廼敬，載享載禋。",
+      "崇薦斯在，惟皇是賓。"
+    ]
+  },
+  {
+    "uid": "QTS_011_004_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 舒和",
+    "poem": [
+      "御徵乘宮出郊甸，安歌率舞遞將迎。",
+      "自有雲門符帝賞，猶持雷鼓荅天成。"
+    ]
+  },
+  {
+    "uid": "QTS_011_005_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 青帝角音",
+    "poem": [
+      "鶴雲旦起，鳥星昏集。",
+      "律候新風，陽開初蟄。",
+      "至德可饗，行潦斯挹。",
+      "錫以無疆，蒸人乃粒。"
+    ]
+  },
+  {
+    "uid": "QTS_011_006_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 肅和",
+    "poem": [
+      "玄鳥司春，蒼龍登歲。",
+      "節物變柳，光風轉蕙。",
+      "瑤席降神，朱弦饗帝。",
+      "誠備祝嘏，禮殫珪幣。"
+    ]
+  },
+  {
+    "uid": "QTS_011_007_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 雍和",
+    "poem": [
+      "大樂稀音，至誠簡禮。",
+      "文物棣棣，聲明濟濟。",
+      "六變有成，三登無體。",
+      "乃眷豐潔，恩覃愷悌。"
+    ]
+  },
+  {
+    "uid": "QTS_011_008_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 舒和",
+    "poem": [
+      "笙歌籥舞屬年韶，鷺鼓鳧鐘展時豫。",
+      "調露初迎綺春節，承雲遽踐蒼霄馭。"
+    ]
+  },
+  {
+    "uid": "QTS_011_009_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 赤帝徵音",
+    "poem": [
+      "青陽告謝，朱明戒序。",
+      "延長是祈，敬陳椒醑。",
+      "博碩斯薦，笙鏞備舉。",
+      "庶盡肅恭，非馨稷黍。"
+    ]
+  },
+  {
+    "uid": "QTS_011_010_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 肅和",
+    "poem": [
+      "離位克明，火中宵見。",
+      "峰雲暮起，景風晨扇。",
+      "木槿初榮，含桃可薦。",
+      "芬馥百品，鏗鏘三變。"
+    ]
+  },
+  {
+    "uid": "QTS_011_011_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 雍和",
+    "poem": [
+      "昭昭丹陸，奕奕炎方。",
+      "禮陳牲幣，樂備篪簧。",
+      "瓊羞溢俎，玉醑浮觴。",
+      "恭惟正直，歆此馨香。"
+    ]
+  },
+  {
+    "uid": "QTS_011_012_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 舒和",
+    "poem": [
+      "千里溫風飄絳羽，十枝炎景賸朱干。",
+      "陳觴薦俎歌三獻，拊石摐金會七盤。"
+    ]
+  },
+  {
+    "uid": "QTS_011_013_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 白帝商音",
+    "poem": [
+      "白藏應節，天高氣清。",
+      "歲功既阜，庶類收成。",
+      "萬方靜謐，九土和平。",
+      "馨香是薦，受祚聰明。"
+    ]
+  },
+  {
+    "uid": "QTS_011_014_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 肅和",
+    "poem": [
+      "金行在節，素靈居正。",
+      "氣肅霜嚴，林彫草勁。",
+      "豺祭隼擊，潦收川鏡。",
+      "九穀已登，萬箱流詠。"
+    ]
+  },
+  {
+    "uid": "QTS_011_015_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 雍和",
+    "poem": [
+      "律應西成，氣躔南呂。",
+      "珪幣咸列，笙竽備舉。",
+      "苾苾蘭羞，芬芬桂醑。",
+      "式資宴貺，用調霜序。"
+    ]
+  },
+  {
+    "uid": "QTS_011_016_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 舒和",
+    "poem": [
+      "璿儀氣爽驚緹籥，玉呂灰飛含素商。",
+      "鳴鞞奏管芳羞薦，會舞安歌葆眊揚。"
+    ]
+  },
+  {
+    "uid": "QTS_011_017_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 黑帝羽音",
+    "poem": [
+      "嚴冬季月，星迴風厲。",
+      "享祀報功，方祚來歲。"
+    ]
+  },
+  {
+    "uid": "QTS_011_018_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 肅和",
+    "poem": [
+      "律回玉琯，星周金度。",
+      "次極陽烏，紀窮陰兎。",
+      "火林霰雪，陽泉凝沍。",
+      "八蜡已登，三農息務。"
+    ]
+  },
+  {
+    "uid": "QTS_011_019_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 雍和",
+    "poem": [
+      "陽月斯紀，應鍾在候。",
+      "載潔牲牷，爰登俎豆。",
+      "既高既遠，無聲無臭。",
+      "靜言格思，惟神保祐。"
+    ]
+  },
+  {
+    "uid": "QTS_011_020_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 舒和",
+    "poem": [
+      "執籥持羽初終曲，朱干玉鏚始分行。",
+      "七德九功咸已暢，明靈降福具穰穰。"
+    ]
+  },
+  {
+    "uid": "QTS_011_021_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 黃郊迎神",
+    "poem": [
+      "朱明季序，黃郊王辰。",
+      "厚以載物，甘以養人。",
+      "毓金為體，稟火成身。",
+      "宮音式奏，奏以迎神。"
+    ]
+  },
+  {
+    "uid": "QTS_011_022_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 送神",
+    "poem": [
+      "春末冬暮，徂夏杪秋。",
+      "土王四月，時季一周。",
+      "黍稷已享，籩豆宜收。",
+      "送神有樂，神其賜休。"
+    ]
+  },
+  {
+    "uid": "QTS_011_023_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 青郊迎神",
+    "poem": [
+      "緹幕移候，青郊啟蟄。",
+      "淑景遲遲，和風習習。",
+      "璧玉宵備，旌旄曙立。",
+      "張樂以迎，帝神其入。"
+    ]
+  },
+  {
+    "uid": "QTS_011_024_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 送神",
+    "poem": [
+      "文物流彩，聲明動色。",
+      "人竭其恭，靈昭其飭。",
+      "歆薦不已，垂禎無極。",
+      "送禮有章，惟神還軾。"
+    ]
+  },
+  {
+    "uid": "QTS_011_025_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 赤郊迎神",
+    "poem": [
+      "青陽節謝，朱明候改。",
+      "靡草彫華，含桃流彩。",
+      "虡列鐘磬，筵陳脯醢。",
+      "樂以迎神，神其如在。"
+    ]
+  },
+  {
+    "uid": "QTS_011_026_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 送神",
+    "poem": [
+      "炎精式降，蒼生攸仰。",
+      "羞列豆籩，酒陳犧象。",
+      "昭祀有應，冥期不爽。",
+      "送樂張音，惟靈之往。"
+    ]
+  },
+  {
+    "uid": "QTS_011_027_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 白郊迎神",
+    "poem": [
+      "序移玉律，節應金商。",
+      "天嚴殺氣，吹警秋方。",
+      "槱燎既積，稷奠並芳。",
+      "樂以迎奏，庶降神光。"
+    ]
+  },
+  {
+    "uid": "QTS_011_028_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 送神",
+    "poem": [
+      "祀遵五禮，時屬三秋。",
+      "人懷肅敬，靈降禎休。",
+      "奠歆旨酒，薦享珍羞。",
+      "載張送樂，神其上遊。"
+    ]
+  },
+  {
+    "uid": "QTS_011_029_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 黑郊迎神",
+    "poem": [
+      "玄英戒序，黑郊臨候。",
+      "掌禮陳彝，司筵執豆。",
+      "寒氛斂色，沍泉凝漏。",
+      "樂以迎神，八音斯奏。"
+    ]
+  },
+  {
+    "uid": "QTS_011_030_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 五郊樂章 送神",
+    "poem": [
+      "北郊時冽，南陸輝處。",
+      "奠本虔誠，獻彌恭慮。",
+      "上延祉福，下承歡豫。",
+      "廣樂送神，神其整馭。"
+    ]
+  },
+  {
+    "uid": "QTS_011_031_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 朝日樂章 肅和",
+    "poem": [
+      "惟聖格天，惟明饗日。",
+      "帝郊肆類，王宮戒吉。",
+      "珪奠春舒，鐘歌曉溢。",
+      "禮雲克備，斯文有秩。"
+    ]
+  },
+  {
+    "uid": "QTS_011_032_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 朝日樂章 雍和",
+    "poem": [
+      "晨儀式薦，明祀惟光。",
+      "神物爰止，靈暉載揚。",
+      "玄端肅事，紫幄興祥。",
+      "福履攸假，於昭允王。"
+    ]
+  },
+  {
+    "uid": "QTS_011_033_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 朝日樂章 舒和",
+    "poem": [
+      "崇牙樹羽延調露，旋宮扣律掩承雲。",
+      "誕敷懿德昭神武，載集豐功表睿文。"
+    ]
+  },
+  {
+    "uid": "QTS_011_034_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 朝日樂章 迎神",
+    "poem": [
+      "太陽朝序，王宮有儀。",
+      "蟠桃彩駕，細柳光馳。",
+      "軒祥表合，漢曆彰奇。",
+      "禮和樂備，神其降斯。"
+    ]
+  },
+  {
+    "uid": "QTS_011_035_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 朝日樂章 送神",
+    "poem": [
+      "五齊兼酌，百羞具陳。",
+      "樂終廣奏，禮畢崇禋。",
+      "明鑑萬㝢，照臨兆人。",
+      "永流洪慶，式動曦輪。"
+    ]
+  },
+  {
+    "uid": "QTS_011_036_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 夕月樂章 肅和",
+    "poem": [
+      "測妙為神，通微曰聖。",
+      "坎祀貽則，郊禋展敬。",
+      "璧薦登光，金歌動映。",
+      "以載嘉德，以流曾慶。"
+    ]
+  },
+  {
+    "uid": "QTS_011_037_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 夕月樂章 雍和",
+    "poem": [
+      "朏晨爭舉，天宗禮闢。",
+      "夜典涼秋，陰明湛夕。",
+      "有𨣧斯旨，有牲斯碩。",
+      "穆穆其暉，穰穰是積。"
+    ]
+  },
+  {
+    "uid": "QTS_011_038_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 夕月樂章 舒和",
+    "poem": [
+      "合吹八風金奏動，分容萬舞玉鞘驚。",
+      "詞昭茂典光前列，夕曜乘功表盛明。"
+    ]
+  },
+  {
+    "uid": "QTS_011_039_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "於昭上穹，臨下有光。",
+      "羽翼五佐，周流八荒。",
+      "誰其饗之，時文對敭。",
+      "虞經夏典，茲禮未遑。"
+    ]
+  },
+  {
+    "uid": "QTS_011_040_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "黑帝旋馭，青躔導日。",
+      "金籙上玄，玉堂初吉。",
+      "鉤陳夕次，鑾和先蹕。",
+      "藹藹羣靈，昭昭咸秩。"
+    ]
+  },
+  {
+    "uid": "QTS_011_041_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "帝臨中壇，受釐元神。",
+      "皇靈萃止，羽旄肅陳。",
+      "攝提運衡，招搖移輪。",
+      "光光宇宙，電耀雷震。"
+    ]
+  },
+  {
+    "uid": "QTS_011_042_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "夜如何其，明星煌煌。",
+      "天清容衞，露結壇場。",
+      "樹羽幢幢，佩玉鏘鏘。",
+      "凝精駐目，瞻望神光。"
+    ]
+  },
+  {
+    "uid": "QTS_011_043_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "九位既肅，萬靈畢會。",
+      "天門啟扄，日馭飛蓋。",
+      "煥兮棽離，儐兮暗靄。",
+      "如山之福，惟聖時對。"
+    ]
+  },
+  {
+    "uid": "QTS_011_044_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "崇崇泰壇，靈具臨兮。",
+      "鏗鍠大樂，振動心兮。",
+      "神之降矣，卿雲郁兮。",
+      "神之至止，清風肅兮。"
+    ]
+  },
+  {
+    "uid": "QTS_011_045_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 太和",
+    "poem": [
+      "帝在靈壇，大明登光。",
+      "天回雲粹，穆穆皇皇。",
+      "金奏九夏，圭陳八薌。",
+      "曠哉動植，如熙春陽。"
+    ]
+  },
+  {
+    "uid": "QTS_011_046_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 肅和",
+    "poem": [
+      "歌工既奏，神位既秩。",
+      "天符衆星，運行太一。",
+      "聲和十管，氣應中律。",
+      "肅肅明廷，介茲元吉。"
+    ]
+  },
+  {
+    "uid": "QTS_011_047_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 雍和",
+    "poem": [
+      "俎豆有踐，黃流在尊。",
+      "九宮之祀，三代莫存。",
+      "樂變六宮，壇開八門。",
+      "聖皇昭對，祐我黎元。"
+    ]
+  },
+  {
+    "uid": "QTS_011_048_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 壽和",
+    "poem": [
+      "時文哲後，肅事嚴禋。",
+      "馨我明德，享於貴神。",
+      "大庖載盈，旨酒斯醇。",
+      "精意所屬，期於利人。"
+    ]
+  },
+  {
+    "uid": "QTS_011_049_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 福和",
+    "poem": [
+      "祀既雲畢，明靈告旋。",
+      "禮洽和應，神歆福延。",
+      "動植咸若，陰陽不愆。",
+      "錫茲純嘏，天子萬年。"
+    ]
+  },
+  {
+    "uid": "QTS_011_050_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 舒和",
+    "poem": [
+      "羽籥既闋干戚陳，八音克諧六變新。",
+      "愉貴神兮般以樂，保皇祚兮萬斯春。"
+    ]
+  },
+  {
+    "uid": "QTS_011_051_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 凱安",
+    "poem": [
+      "盛德陳萬舞，威稜暢九垓。",
+      "風雲交律候，日月麗昭回。",
+      "行慶休祥發，乘和春氣來。",
+      "百神肅臨享，蕩蕩天門開。"
+    ]
+  },
+  {
+    "uid": "QTS_011_052_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 肅和",
+    "poem": [
+      "精意嚴恭，明祠豐潔。",
+      "獻酬既備，俎豆斯撤。",
+      "日麗天儀，風和樂節。",
+      "事光祀典，福覃有截。"
+    ]
+  },
+  {
+    "uid": "QTS_011_053_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀九宮貴神樂章 豫和",
+    "poem": [
+      "享申百禮，慶洽百靈。",
+      "上排閶闔，洞入杳冥。",
+      "奠玉高壇，燔柴廣庭。",
+      "神之降福，萬國咸寧。"
+    ]
+  },
+  {
+    "uid": "QTS_011_054_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀風師樂章 迎神",
+    "poem": [
+      "太皞御氣，句芒肇功。",
+      "蒼龍青旗，爰候祥風。",
+      "律以和應，神以感通。",
+      "鼎俎修蠁，時惟禮崇。"
+    ]
+  },
+  {
+    "uid": "QTS_011_055_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀風師樂章 奠幣登歌",
+    "poem": [
+      "旨酒告絜，青蘋應候。",
+      "禮陳瑤幣，樂獻金奏。",
+      "彈弦自昔，解凍惟舊。",
+      "仰瞻肸蠁，羣祥來湊。"
+    ]
+  },
+  {
+    "uid": "QTS_011_056_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀風師樂章 迎俎酌獻",
+    "poem": [
+      "德盛昭臨，迎拜巽方。",
+      "爰候發生，式薦馨香。",
+      "酌醴具舉，工歌載揚。",
+      "神歆六律，恩降百祥。"
+    ]
+  },
+  {
+    "uid": "QTS_011_057_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀風師樂章 亞獻終獻",
+    "poem": [
+      "膋薌備，玉帛陳。",
+      "風動物，樂感神。",
+      "三獻終，百神臻。",
+      "草木榮，天下春。"
+    ]
+  },
+  {
+    "uid": "QTS_011_058_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀風師樂章 送神",
+    "poem": [
+      "微穆敷華能應節，飄揚發彩宜行慶。",
+      "送迎靈駕神心享，跪拜靈壇禮容盛。",
+      "氣和草木發萌芽，德暢禽魚遂翔泳。",
+      "永望翠蓋逐流雲，自茲率土調春令。"
+    ]
+  },
+  {
+    "uid": "QTS_011_059_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀雨師樂章 迎神",
+    "poem": [
+      "陟降左右，誠達幽圜。",
+      "作解之功，樂惟有年。",
+      "雲軿戾止，灑霧飄煙。",
+      "惟馨展禮，爰列豆籩。"
+    ]
+  },
+  {
+    "uid": "QTS_011_060_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀雨師樂章 奠幣登歌",
+    "poem": [
+      "歲正朱明，禮布元制。",
+      "惟樂能感，與神合契。",
+      "陰霧離翍，靈馭搖裔。",
+      "膏澤之慶，期於稔歲。"
+    ]
+  },
+  {
+    "uid": "QTS_011_061_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀雨師樂章 迎俎酌獻",
+    "poem": [
+      "陽開幽蟄，躬奉鬱鬯。",
+      "禮備節應，震來靈降。",
+      "動植求聲，飛沈允望。",
+      "時康氣茂，惟神之貺。"
+    ]
+  },
+  {
+    "uid": "QTS_011_062_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀雨師樂章 亞獻終獻",
+    "poem": [
+      "奠既備，獻將終。",
+      "神行令，瑞飛空。",
+      "迎乾德，祈歲功。",
+      "乘煙燎，儼從風。"
+    ]
+  },
+  {
+    "uid": "QTS_011_063_01",
+    "volume": 11,
+    "author": {
+      "canonical": "Unknown",
+      "recorded": "Unknown"
+    },
+    "title": "郊廟歌辭 祀雨師樂章 送神",
+    "poem": [
+      "整駕昇車望寥廓，垂陰薦祉蕩昏氛。",
+      "饗時靈貺僾如在。",
+      "樂罷餘聲遙可聞。",
+      "飲福陳誠禮容備，撤俎終獻曙光分。",
+      "跪拜臨壇結空想，年年應節候油雲。"
+    ]
+  }
+]

@@ -1,0 +1,869 @@
+[
+  {
+    "uid": "QTS_793_001_01",
+    "volume": 793,
+    "author": {
+      "canonical": "皮日休",
+      "recorded": "皮日休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Pi Rixiu",
+      "wikidata_id": "Q855797"
+    },
+    "title": "北禪院避暑聯句",
+    "poem": [
+      "歊蒸何處避，來入戴顒宅。",
+      "逍遙脫單絞，放曠拋輕策。",
+      "爬搔林下風，偃仰澗中石。",
+      "殘蟬煙外響，野鶴沙中跡。",
+      "到此失煩襟，蕭然揖禪伯。",
+      "藤懸疊霜蛻，桂倚支雲錫。",
+      "清陰豎毛髮，爽氣舒筋脈。",
+      "逐幽隨竹書，選勝鋪苮席。",
+      "魚跳上紫芡，蝶化緣青壁。",
+      "心是玉蓮徒，耳為金磬敵。",
+      "吾宗昔高尚，志在羲皇易。",
+      "豈獨斷韋編，幾將刓鐵擿。",
+      "天書既屢降，野抱難自適。",
+      "一入承明廬，盱衡論今昔。",
+      "流光不容寸，斯道甘枉尺。",
+      "既起謝儒玄，亦翻商羽翼。",
+      "封章帷幄遍，夢寐江湖白。",
+      "擺落函谷塵，高欹華陽幘。",
+      "詔去雲無信，歸來鶴相識。",
+      "半病奪牛公，全慵捕魚客。",
+      "少微光一點，落此芒磔索。",
+      "釋子問池塘，門人廢幽賾。",
+      "堪悲東序寶，忽變西方籍。",
+      "不見步兵詩，空懷康樂屐。",
+      "高名不可效，勝境徒堪惜。",
+      "墨沼轉疏蕪，玄齋逾闃寂。",
+      "遲遲不可去，涼颸滿杉柏。",
+      "日下洲島清，煙生苾芻碧。",
+      "俱懷出塵想，共有吟詩癖。",
+      "終與淨名遊，還來雪山覓。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皮日休",
+        "context": "逍遙脫單絞，放曠拋輕策。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皮日休",
+        "context": "爬搔林下風，偃仰澗中石。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "陸龜蒙",
+        "context": "到此失煩襟，蕭然揖禪伯。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "陸龜蒙",
+        "context": "藤懸疊霜蛻，桂倚支雲錫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皮日休",
+        "context": "逐幽隨竹書，選勝鋪苮席。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皮日休",
+        "context": "魚跳上紫芡，蝶化緣青壁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "陸龜蒙",
+        "context": "吾宗昔高尚，志在羲皇易。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "陸龜蒙",
+        "context": "豈獨斷韋編，幾將刓鐵擿。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "皮日休",
+        "context": "一入承明廬，盱衡論今昔。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "皮日休",
+        "context": "流光不容寸，斯道甘枉尺。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 17,
+        "content": "陸龜蒙",
+        "context": "封章帷幄遍，夢寐江湖白。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "陸龜蒙",
+        "context": "擺落函谷塵，高欹華陽幘。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 20,
+        "content": "皮日休",
+        "context": "半病奪牛公，全慵捕魚客。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 21,
+        "content": "皮日休",
+        "context": "少微光一點，落此芒磔索。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 23,
+        "content": "陸龜蒙",
+        "context": "堪悲東序寶，忽變西方籍。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 24,
+        "content": "陸龜蒙",
+        "context": "不見步兵詩，空懷康樂屐。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 26,
+        "content": "皮日休",
+        "context": "墨沼轉疏蕪，玄齋逾闃寂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 27,
+        "content": "皮日休",
+        "context": "遲遲不可去，涼颸滿杉柏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 29,
+        "content": "陸龜蒙",
+        "context": "俱懷出塵想，共有吟詩癖。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 30,
+        "content": "陸龜蒙",
+        "context": "終與淨名遊，還來雪山覓。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_002_01",
+    "volume": 793,
+    "author": {
+      "canonical": "皮日休",
+      "recorded": "皮日休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Pi Rixiu",
+      "wikidata_id": "Q855797"
+    },
+    "title": "寂上人院聯句",
+    "poem": [
+      "癭床空默坐，清景不知斜。",
+      "暗數菩提子，閑看薜荔花。",
+      "有情惟墨客，無語是禪家。",
+      "背日聊依桂，嘗泉欲試茶。",
+      "石形蹲玉虎，池影閃金蛇。",
+      "經笥安岩匼，瓶囊掛樹椏。",
+      "書傳滄海外，龕寄白雲涯。",
+      "竹色寒淩箔，燈光靜隔紗。",
+      "趁幽翻小品，逐勝講南華。",
+      "莎彩融黃露，蓮衣染素霞。",
+      "水堪傷聚沫，風合落天葩。",
+      "若許傳心印，何辭古堞賒。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皮日休",
+        "context": "暗數菩提子，閑看薜荔花。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸龜蒙",
+        "context": "背日聊依桂，嘗泉欲試茶。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皮日休",
+        "context": "經笥安岩匼，瓶囊掛樹椏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "陸龜蒙",
+        "context": "竹色寒淩箔，燈光靜隔紗。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皮日休",
+        "context": "莎彩融黃露，蓮衣染素霞。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "陸龜蒙",
+        "context": "若許傳心印，何辭古堞賒。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_003_01",
+    "volume": 793,
+    "author": {
+      "canonical": "皮日休",
+      "recorded": "皮日休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Pi Rixiu",
+      "wikidata_id": "Q855797"
+    },
+    "title": "獨在開元寺避暑，頗懷魯望，因飛筆聯句",
+    "poem": [
+      "煩暑雖難避，僧家自有期。",
+      "泉甘於馬乳，苔滑似龍漦。",
+      "任誕襟全散，臨幽榻旋移。",
+      "松行將雅拜，篁陣欲交麾。",
+      "望塔青髇識，登樓白鴿知。",
+      "石經森欲動，珠像儼將怡。",
+      "筠簟臨杉穗，紗巾透雨絲。",
+      "靜譚蟬噪少，涼步鶴隨遲。",
+      "煙重回蕉扇，輕風拂桂帷。",
+      "對碑吳地說，開卷梵天詞。",
+      "積水魚梁壞，殘花病枕欹。",
+      "懷君瀟灑處，孤夢繞罘罳。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皮日休",
+        "context": "泉甘於馬乳，苔滑似龍漦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸龜蒙",
+        "context": "松行將雅拜，篁陣欲交麾。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皮日休",
+        "context": "石經森欲動，珠像儼將怡。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皮日休",
+        "context": "靜譚蟬噪少，涼步鶴隨遲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "陸龜蒙",
+        "context": "對碑吳地說，開卷梵天詞。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "陸龜蒙",
+        "context": "懷君瀟灑處，孤夢繞罘罳。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_004_01",
+    "volume": 793,
+    "author": {
+      "canonical": "皮日休",
+      "recorded": "皮日休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Pi Rixiu",
+      "wikidata_id": "Q855797"
+    },
+    "title": "寒夜文宴聯句",
+    "poem": [
+      "文星今夜聚，應在鬥牛間。",
+      "載石人方至，乘槎客未還。",
+      "送觴繁露曲，征句白雲顏。",
+      "節奏惟聽竹，從容只話山。",
+      "理窮傾秘藏，論猛折玄關。",
+      "酃酒分中綠，巴箋擘處殷。",
+      "清言聞後醒，強韻壓來艱。",
+      "犀柄當風揖，瓊枝向月攀。",
+      "松吟方㗫㗫，泉夢憶潺潺。",
+      "一會文章草，昭明不可刪。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皮日休",
+        "context": "文星今夜聚，應在鬥牛間。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "張賁",
+        "context": "載石人方至，乘槎客未還。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "陸龜蒙",
+        "context": "送觴繁露曲，征句白雲顏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皮日休",
+        "context": "節奏惟聽竹，從容只話山。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "張賁",
+        "context": "理窮傾秘藏，論猛折玄關。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "陸龜蒙",
+        "context": "酃酒分中綠，巴箋擘處殷。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皮日休",
+        "context": "清言聞後醒，強韻壓來艱。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "張賁",
+        "context": "犀柄當風揖，瓊枝向月攀。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "陸龜蒙",
+        "context": "松吟方㗫㗫，泉夢憶潺潺。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皮日休",
+        "context": "一會文章草，昭明不可刪。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_005_01",
+    "volume": 793,
+    "author": {
+      "canonical": "皮日休",
+      "recorded": "皮日休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Pi Rixiu",
+      "wikidata_id": "Q855797"
+    },
+    "title": "藥名聯句",
+    "poem": [
+      "為待防風餅，須添薏苡杯。",
+      "香然柏子後，尊泛菊花來。",
+      "石耳泉能洗，垣衣雨為裁。",
+      "從容犀局靜，斷續玉琴哀。",
+      "白芷寒猶采，青箱醉尚開。",
+      "馬銜衰草臥，烏啄蠹根回。",
+      "雨過蘭芳好，霜多桂末摧。",
+      "朱兒應作粉，雲母詎成灰。",
+      "藝可屠龍膽，家曾近燕胎。",
+      "牆高牽薜荔，障軟撼玫瑰。",
+      "鸓鼠啼書戶，蝸牛上研台。",
+      "誰能將槁本，封與玉泉才。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "張賁",
+        "context": "為待防風餅，須添薏苡杯。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皮日休",
+        "context": "香然柏子後，尊泛菊花來。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "陸龜蒙",
+        "context": "石耳泉能洗，垣衣雨為裁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "張賁",
+        "context": "從容犀局靜，斷續玉琴哀。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "皮日休",
+        "context": "白芷寒猶采，青箱醉尚開。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "陸龜蒙",
+        "context": "馬銜衰草臥，烏啄蠹根回。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "張賁",
+        "context": "雨過蘭芳好，霜多桂末摧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皮日休",
+        "context": "朱兒應作粉，雲母詎成灰。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "陸龜蒙",
+        "context": "藝可屠龍膽，家曾近燕胎。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "張賁",
+        "context": "牆高牽薜荔，障軟撼玫瑰。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "皮日休",
+        "context": "鸓鼠啼書戶，蝸牛上研台。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "陸龜蒙",
+        "context": "誰能將槁本，封與玉泉才。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_006_01",
+    "volume": 793,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "寒夜聯句",
+    "poem": [
+      "靜境揖神凝，寒華射林缺。",
+      "清知思緒斷，爽覺心源徹。",
+      "高唱戛金奏，朗詠鏗玉節。",
+      "我思方泬寥，君詞複淒切。",
+      "況聞風篁上，擺落殘凍雪。",
+      "寂爾萬籟清，皎然諸靄滅。",
+      "西窗客無夢，南浦波應結。",
+      "河光正如劍，月魄方似玦。",
+      "短燼不禁挑，冷毫看欲折。",
+      "何夕重相期，濁醪還為設。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "陸龜蒙",
+        "context": "靜境揖神凝，寒華射林缺。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皮日休",
+        "context": "清知思緒斷，爽覺心源徹。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "陸龜蒙",
+        "context": "高唱戛金奏，朗詠鏗玉節。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皮日休",
+        "context": "我思方泬寥，君詞複淒切。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "陸龜蒙",
+        "context": "況聞風篁上，擺落殘凍雪。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皮日休",
+        "context": "寂爾萬籟清，皎然諸靄滅。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "陸龜蒙",
+        "context": "西窗客無夢，南浦波應結。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皮日休",
+        "context": "河光正如劍，月魄方似玦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "陸龜蒙",
+        "context": "短燼不禁挑，冷毫看欲折。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皮日休",
+        "context": "何夕重相期，濁醪還為設。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_007_01",
+    "volume": 793,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "開元寺樓看雨聯句",
+    "poem": [
+      "海上風雨來，掀轟雜飛電。",
+      "登樓一憑檻，滿眼蛟龍戰。",
+      "須臾造化慘，倏忽堪輿變。",
+      "萬戶響戈鋋，千家披組練。",
+      "群飛拋輪石，雜下攻城箭。",
+      "點急似摧胸，行斜如中面。",
+      "細灑魂空冷，橫飄目能眩。",
+      "垂簷珂佩喧，㩧瓦珠璣濺。",
+      "無言九陔遠，瞬息馳應遍。",
+      "密處正垂縆，微時又懸線。",
+      "寫作玉界破，吹為羽林旋。",
+      "翻傷列缺勞，卻怕豐隆倦。",
+      "遙瞻山露色，漸覺雲成片。",
+      "遠樹欲鳴蟬，深簷尚藏燕。",
+      "殘雷隱轔盡，反照依微見。",
+      "天光潔似磨，湖彩熟於練。",
+      "疏帆逗前渚，晚磬分涼殿。",
+      "接思強揮毫，窺詞幾焚研。",
+      "佶栗烏皮幾，輕明白羽扇。",
+      "畢景好疏吟，餘涼可清宴。",
+      "君攜下高磴，僧引還深院。",
+      "駁蘚淨鋪筵，低松濕垂鬋。",
+      "齋明乍虛豁，林霽逾蔥蒨。",
+      "早晚重登臨，欲去多離戀。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "陸龜蒙",
+        "context": "登樓一憑檻，滿眼蛟龍戰。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皮日休",
+        "context": "萬戶響戈鋋，千家披組練。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "陸龜蒙",
+        "context": "點急似摧胸，行斜如中面。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皮日休",
+        "context": "垂簷珂佩喧，㩧瓦珠璣濺。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "陸龜蒙",
+        "context": "密處正垂縆，微時又懸線。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皮日休",
+        "context": "翻傷列缺勞，卻怕豐隆倦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "陸龜蒙",
+        "context": "遠樹欲鳴蟬，深簷尚藏燕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 16,
+        "content": "皮日休",
+        "context": "天光潔似磨，湖彩熟於練。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "陸龜蒙",
+        "context": "接思強揮毫，窺詞幾焚研。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 20,
+        "content": "皮日休",
+        "context": "畢景好疏吟，餘涼可清宴。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 22,
+        "content": "陸龜蒙",
+        "context": "駁蘚淨鋪筵，低松濕垂鬋。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 24,
+        "content": "皮日休",
+        "context": "早晚重登臨，欲去多離戀。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_008_01",
+    "volume": 793,
+    "author": {
+      "canonical": "陸龜蒙",
+      "recorded": "陸龜蒙",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Lu Guimeng",
+      "wikidata_id": "Q855663"
+    },
+    "title": "報恩寺南池聯句",
+    "poem": [
+      "古岸涵碧落，",
+      "虛軒明素波。",
+      "坐來魚陣變，",
+      "吟久菊□多。",
+      "秋草分杉露，",
+      "危橋下竹坡。",
+      "遠峰青髻並，",
+      "□□□髯和。",
+      "趙論寒仍講，",
+      "支硎僻亦過。",
+      "齋心曾養鶴，",
+      "揮翰好邀鵝。",
+      "倚石收奇藥，",
+      "臨溪藉淺莎。",
+      "桂花晴似拭，",
+      "荷鏡曉如磨。",
+      "翠出牛頭聳，",
+      "苔深馬跡跛。",
+      "傘欹從野醉，",
+      "巾側任田歌。",
+      "跁跒松形矮，",
+      "般跚檜樾矬。",
+      "香飛僧印火，",
+      "泉急使鑣珂。",
+      "菱鈿真堪帖，",
+      "蓴絲亦好拖。",
+      "幾時無一事，",
+      "相伴著煙蘿。",
+      "張賁蒿起"
+    ],
+    "notes": [
+      {
+        "line": 44,
+        "content": "詩一首",
+        "context": "張賁蒿起"
+      },
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "陸龜蒙",
+        "context": "古岸涵碧落，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皮日休",
+        "context": "坐來魚陣變，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "嵩起",
+        "context": "秋草分杉露，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "陸龜蒙",
+        "context": "遠峰青髻並，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皮日休",
+        "context": "趙論寒仍講，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "嵩起",
+        "context": "齋心曾養鶴，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 13,
+        "content": "陸龜蒙",
+        "context": "倚石收奇藥，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "皮日休",
+        "context": "桂花晴似拭，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 17,
+        "content": "嵩起",
+        "context": "翠出牛頭聳，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 19,
+        "content": "陸龜蒙",
+        "context": "傘欹從野醉，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 21,
+        "content": "皮日休",
+        "context": "跁跒松形矮，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 23,
+        "content": "嵩起",
+        "context": "香飛僧印火，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 25,
+        "content": "陸龜蒙",
+        "context": "菱鈿真堪帖，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 27,
+        "content": "皮日休",
+        "context": "幾時無一事，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 28,
+        "content": "嵩起",
+        "context": "相伴著煙蘿。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_793_009_01",
+    "volume": 793,
+    "author": {
+      "canonical": "安守范",
+      "recorded": "安守范"
+    },
+    "title": "天臺禪院聯句",
+    "poem": [
+      "偶到天臺院，因逢物外僧。",
+      "忘機同一祖，出語離三乘。",
+      "樹老中庭寂，窗虛外境澄。",
+      "片時松影下，聯續百千燈。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "安守範",
+        "context": "偶到天臺院，因逢物外僧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "楊鼎夫",
+        "context": "忘機同一祖，出語離三乘。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "周述",
+        "context": "樹老中庭寂，窗虛外境澄。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "李仁肇",
+        "context": "片時松影下，聯續百千燈。"
+      }
+    ]
+  }
+]

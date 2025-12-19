@@ -1,0 +1,1811 @@
+[
+  {
+    "uid": "QTS_052_001_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和立春日侍宴內出剪綵花應制",
+    "poem": [
+      "金閣妝新杏，瓊筵弄綺梅。",
+      "人間都未識，天上忽先開。",
+      "蝶繞香絲住，蜂憐艷粉迴。",
+      "今年春色早，應為剪刀催。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "新",
+        "variant": "仙",
+        "source": "一作「仙」"
+      },
+      {
+        "line": 3,
+        "text": "艷粉",
+        "variant": "彩艷",
+        "source": "一作「彩艷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_002_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "春日芙蓉園侍宴應制",
+    "poem": [
+      "芙蓉秦地沼，盧橘漢家園。",
+      "谷轉斜盤徑，川迴曲抱原。",
+      "風來花自舞，春入鳥能言。",
+      "侍宴瑤池夕，歸途笳吹繁。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "笳",
+        "variant": "騎",
+        "source": "一作「騎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_003_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "夏日仙萼亭應制",
+    "poem": [
+      "高嶺逼星河，乘輿此日過。",
+      "野含時雨潤，山雜夏雲多。",
+      "睿藻光巖穴，宸襟洽薜蘿。",
+      "悠然小天下，歸路滿笙歌。"
+    ]
+  },
+  {
+    "uid": "QTS_052_004_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和九月九日登慈恩寺浮屠應制",
+    "poem": [
+      "鳳剎侵雲半，虹旌倚日邊。",
+      "散花多寶塔，張樂布金田。",
+      "時菊芳仙醞，秋蘭動睿篇。",
+      "香街稍欲晚，清蹕扈歸天。"
+    ]
+  },
+  {
+    "uid": "QTS_052_005_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得歡字",
+    "poem": [
+      "令節三秋晚，重陽九日歡。",
+      "仙杯還泛菊，寶饌且調蘭。",
+      "御氣雲霄近，乘高宇宙寬。",
+      "今朝萬壽引，宜向曲中彈。"
+    ]
+  },
+  {
+    "uid": "QTS_052_006_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和聖制閏九月九日登莊嚴總持二寺閣",
+    "poem": [
+      "閏月再重陽，仙輿歷寶坊。",
+      "帝歌雲稍白，御酒菊猶黃。",
+      "風鐸喧行漏，天花拂舞行。",
+      "豫游多景福，梵宇日生光。"
+    ]
+  },
+  {
+    "uid": "QTS_052_007_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "麟趾殿侍宴應制",
+    "poem": [
+      "北闕層城峻，西宮復道懸。",
+      "乘輿歷萬戶，置酒望三川。",
+      "花柳含丹日，山河入綺筵。",
+      "欲知陪賞處，空外有飛煙。"
+    ]
+  },
+  {
+    "uid": "QTS_052_008_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "上陽宮侍宴應制得林字",
+    "poem": [
+      "廣樂張前殿，重裘感聖心。",
+      "砌蓂霜月盡，庭樹雪雲深。",
+      "舊渥驂宸御，慈恩忝翰林。",
+      "微臣一何幸，再得聽瑤琴。"
+    ]
+  },
+  {
+    "uid": "QTS_052_009_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "幸少林寺應制",
+    "poem": [
+      "紺宇橫天室，回鑾指帝休。",
+      "曙陰迎日盡，春氣抱巖流。",
+      "空樂繁行漏，香煙薄綵斿。",
+      "玉膏從此泛，仙馭接浮丘。"
+    ]
+  },
+  {
+    "uid": "QTS_052_010_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "幸嶽寺應制",
+    "poem": [
+      "蹔幸珠筵地，俱憐石瀨清。",
+      "泛流張翠幕，拂迥掛紅旌。",
+      "雅曲龍調管，芳樽蟻汎觥。",
+      "陪歡玉座晚，復得聽金聲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "金",
+        "variant": "鐘",
+        "source": "一作「鐘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_011_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "扈從登封途中作",
+    "poem": [
+      "帳殿鬱崔嵬，仙遊實壯哉。",
+      "曉雲連幕捲，夜火雜星回。",
+      "谷暗千旗出，山鳴萬乘來。",
+      "扈從良可賦，終乏掞天才。"
+    ]
+  },
+  {
+    "uid": "QTS_052_012_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "扈從登封告成頌",
+    "poem": [
+      "復道開行殿，鉤陳列禁兵。",
+      "和風吹鼓角，佳氣動旗旌。",
+      "後騎迴天苑，前山入御營。",
+      "萬方俱下拜，相與樂昇平。"
+    ]
+  },
+  {
+    "uid": "QTS_052_013_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "松山嶺應制",
+    "poem": [
+      "翼翼高旌轉，鏘鏘鳳輦飛。",
+      "塵銷清蹕路，雲濕從臣衣。",
+      "白羽搖丹壑，天營逼翠微。",
+      "芳聲耀今古，四海警宸威。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "營",
+        "variant": "宮",
+        "source": "一作「宮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_014_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "緱山廟",
+    "poem": [
+      "王子賓仙去，飄颻笙鶴飛。",
+      "徒聞滄海變，不見白雲歸。",
+      "天路何其遠，人間此會稀。",
+      "空歌日雲暮，霜月漸微微。"
+    ]
+  },
+  {
+    "uid": "QTS_052_015_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和梁王宴龍泓應教得微字",
+    "poem": [
+      "水府淪幽壑，星軺下紫微。",
+      "鳥驚司僕馭，花落侍臣衣。",
+      "芳樹搖春晚，晴雲繞座飛。",
+      "淮王正留客，不醉莫言歸。"
+    ]
+  },
+  {
+    "uid": "QTS_052_016_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "壽陽王花燭圖",
+    "poem": [
+      "仙媛乘龍日，天孫捧雁來。",
+      "可憐桃李樹，更繞鳳皇臺。",
+      "燭照香車入，花臨寶扇開。",
+      "莫令銀箭曉，爲盡合歡杯。"
+    ],
+    "preface": "〈一作沈佺期詩〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "日",
+        "variant": "夕",
+        "source": "一作「夕」"
+      },
+      {
+        "line": 2,
+        "text": "樹",
+        "variant": "逕",
+        "source": "一作「逕」"
+      },
+      {
+        "line": 4,
+        "text": "箭",
+        "variant": "漏",
+        "source": "一作「漏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_017_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "江南曲",
+    "poem": [
+      "妾住越城南，離居不自堪。",
+      "採花驚曙鳥，摘葉餧春蠶。",
+      "懶結茱萸帶，愁安玳瑁簪。",
+      "待君消瘦盡，日暮碧江潭。"
+    ]
+  },
+  {
+    "uid": "QTS_052_018_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "牛女",
+    "poem": [
+      "粉席秋期緩，針樓別怨多。",
+      "奔龍爭渡月，飛鵲亂填河。",
+      "失喜先臨鏡，含羞未解羅。",
+      "誰能留夜色，來夕倍還梭。"
+    ],
+    "preface": "〈一作沈佺期詩〉"
+  },
+  {
+    "uid": "QTS_052_019_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "冬夜寓直麟閣",
+    "poem": [
+      "直事披三省，重關閉七門。",
+      "廣庭憐雪淨，深屋喜爐溫。",
+      "月幌花虛馥，風窗竹暗喧。",
+      "東山白雲意，茲夕寄琴尊。"
+    ],
+    "preface": "〈一作王維詩〉"
+  },
+  {
+    "uid": "QTS_052_020_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "登禪定寺閣",
+    "poem": [
+      "梵宇出三天，登臨望八川。",
+      "開襟坐霄漢，揮手拂雲煙。",
+      "函谷青山外，昆池落日邊。",
+      "東京楊柳陌，少別已經年。"
+    ],
+    "preface": "〈一作登總持寺閣〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "拂",
+        "variant": "拍",
+        "source": "一作「拍」"
+      },
+      {
+        "line": 3,
+        "text": "青",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 4,
+        "text": "已",
+        "variant": "幾",
+        "source": "一作「幾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_021_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "陸渾山莊",
+    "poem": [
+      "歸來物外情，負杖閱巖耕。",
+      "源水看花入，幽林採藥行。",
+      "野人相問姓，山鳥自呼名。",
+      "去去獨吾樂，無然愧此生。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "然",
+        "variant": "能",
+        "source": "一作「能」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_022_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "藍田山莊",
+    "poem": [
+      "宦遊非吏隱，心事好幽偏。",
+      "考室先依地，爲農且用天。",
+      "輞川朝伐木，藍水暮澆田。",
+      "獨與秦山老，相歡春酒前。"
+    ]
+  },
+  {
+    "uid": "QTS_052_023_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "春日山家",
+    "poem": [
+      "今日遊何處？春泉洗藥歸。",
+      "悠然紫芝曲，晝掩白雲扉。",
+      "魚樂偏尋藻，人閑屢採薇。",
+      "丘中無俗事，身世兩相違。"
+    ],
+    "preface": "〈一作春泉洗藥〉"
+  },
+  {
+    "uid": "QTS_052_024_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "春日宴宋主簿山亭得寒字",
+    "poem": [
+      "公子正邀歡，林亭春未蘭。",
+      "攀巖踐苔易，迷路出花難。",
+      "窗覆垂楊煖，階侵瀑水寒。",
+      "帝城歸路直，留興接鵷鸞。"
+    ]
+  },
+  {
+    "uid": "QTS_052_025_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "江亭晚望",
+    "poem": [
+      "浩渺浸雲根，煙嵐出遠村。",
+      "鳥歸沙有跡，帆過浪無痕。",
+      "望水知柔性，看山欲斷魂。",
+      "縱情猶未已，回馬欲黃昏。"
+    ]
+  },
+  {
+    "uid": "QTS_052_026_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "秋晚遊普耀寺",
+    "poem": [
+      "薄暮曲江頭，仁祠暫可留。",
+      "山形無隱霽，野色遍呈秋。",
+      "荷覆香泉密，藤緣寶樹幽。",
+      "平生厭塵事，過此忽悠悠。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "過",
+        "variant": "遇",
+        "source": "一作「遇」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_027_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "答李司戶夔",
+    "poem": [
+      "遠方來下客，輶軒攝使臣。",
+      "弄琴宜在夜，傾酒貴逢春。",
+      "駟馬留孤館，雙魚贈故人。",
+      "明朝散雲雨，遙仰德為鄰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "攝",
+        "variant": "揖",
+        "source": "一作「揖」"
+      },
+      {
+        "line": 4,
+        "text": "雲",
+        "variant": "行",
+        "source": "一作「行」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_028_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "寄天台司馬道士",
+    "poem": [
+      "臥來生白髮，覽鏡忽成絲。",
+      "遠愧餐霞子，童顏且自持。",
+      "舊遊惜疎曠，微尚日磷緇。",
+      "不寄西山藥，何由東海期。"
+    ]
+  },
+  {
+    "uid": "QTS_052_029_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "使往天平軍馬約與陳子昂新鄉為期及還而不相遇",
+    "poem": [
+      "入衛期之子，吁嗟不少留。",
+      "情人去何處，淇水日悠悠。",
+      "恆碣青雲斷，衡漳白露秋。",
+      "知君心許國，不是愛封侯。"
+    ]
+  },
+  {
+    "uid": "QTS_052_030_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "過函谷關",
+    "poem": [
+      "二百四十載，海內何紛紛。",
+      "六國兵同合，七雄勢未分。",
+      "從成拒秦帝，策決問蘇君。",
+      "雞鳴將狗盜，論德不論勳。"
+    ]
+  },
+  {
+    "uid": "QTS_052_031_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送朔方何侍郎",
+    "poem": [
+      "聞道雲中使，乘驄往復還。",
+      "河兵守陽月，塞虜失陰山。",
+      "拜職嘗隨驃，銘功不讓班。",
+      "旋聞受降日，歌舞入蕭關。"
+    ]
+  },
+  {
+    "uid": "QTS_052_032_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送田道士使蜀投龍",
+    "poem": [
+      "風馭忽冷然，雲臺路幾千。",
+      "蜀門峰勢斷，巴字水形連。",
+      "人隔壺中地，龍遊洞裡天。",
+      "贈言回馭日，圖畫彼山川。"
+    ]
+  },
+  {
+    "uid": "QTS_052_033_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送許州宋司馬赴任",
+    "poem": [
+      "潁郡水東流，荀陳兄弟遊。",
+      "偏傷茲日遠，獨向聚星州。",
+      "河潤在明德，人康非外求。",
+      "當聞力為政，遙慰我心愁。"
+    ]
+  },
+  {
+    "uid": "QTS_052_034_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送趙司馬赴蜀州",
+    "poem": [
+      "餞子西南望，煙綿劍道微。",
+      "橋寒金雁落，林曙碧雞飛。",
+      "職拜輿方遠，仙成履會歸。",
+      "定知和氏璧，遙掩玉輪輝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "落",
+        "variant": "並",
+        "source": "一作「並」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_035_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送永昌蕭贊府",
+    "poem": [
+      "柳變曲江頭，送君函谷遊。",
+      "弄琴寬別意，酌醴醉春愁。",
+      "戀本亦何極，贈言微所求。",
+      "莫令金谷水，不入故園流。"
+    ]
+  },
+  {
+    "uid": "QTS_052_036_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送李侍御",
+    "poem": [
+      "行李戀庭闈，乘軺振綵衣。",
+      "南登指吳服，北走出秦畿。",
+      "去國夏雲斷，還鄉秋雁飛。",
+      "旋聞郡計入，更有使臣歸。"
+    ]
+  },
+  {
+    "uid": "QTS_052_037_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "餞湖州薛司馬",
+    "poem": [
+      "別駕促嚴程，離筵多故情。",
+      "交深季作友，義重伯爲兄。",
+      "鎮靜移吳俗，風流在漢京。",
+      "會看陳仲舉，從此拜公卿。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "看",
+        "variant": "逢",
+        "source": "一作「逢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_038_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送杜審言",
+    "poem": [
+      "臥病人事絕，嗟君萬里行。",
+      "河橋不相送，江樹遠含情。",
+      "別路追孫楚，維舟弔屈平。",
+      "可惜龍泉劍，流落在豐城。"
+    ]
+  },
+  {
+    "uid": "QTS_052_039_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送武進鄭明府",
+    "poem": [
+      "弦歌試宰日，城闕賞心違。",
+      "北謝蒼龍去，南隨黃鵠飛。",
+      "夏雲海中出，吳山江上微。",
+      "甿謠豈雲遠，從此慶緇衣。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "謠",
+        "variant": "歌",
+        "source": "一作「歌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_040_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送姚侍御出使江東",
+    "poem": [
+      "帝憂河朔郡，南發海陵倉。",
+      "坐嘆青春別，逶迤碧水長。",
+      "飲冰朝受命，衣錦晝還鄉。",
+      "為問東山桂，無人何自芳。"
+    ]
+  },
+  {
+    "uid": "QTS_052_041_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "留別之望舍弟",
+    "poem": [
+      "同氣有三人，分飛在此晨。",
+      "西馳巴嶺徼，東去洛陽濱。",
+      "強飲離前酒，終傷別後神。",
+      "誰憐散}花萼，獨赴日南春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "洛",
+        "variant": "汶",
+        "source": "一作「汶」"
+      },
+      {
+        "line": 4,
+        "text": "誰",
+        "variant": "雖",
+        "source": "一作「雖」"
+      },
+      {
+        "line": 4,
+        "text": "散",
+        "variant": "敗",
+        "source": "一作「敗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_042_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "漢江宴別",
+    "poem": [
+      "漢廣不分天，舟移杳若仙。",
+      "秋虹暎晚日，江鶴弄晴煙。",
+      "積水浮冠蓋，遙風逐管弦。",
+      "嬉遊不可極，留恨此山川。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "秋",
+        "variant": "林",
+        "source": "一作「林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_043_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "初發荊府贈長史",
+    "poem": [
+      "□□□□□，□□□□□。",
+      "仍隨五馬謫，載與兩禽奔。",
+      "明主無由見，羣公莫與言。",
+      "幸君逢聖日，何惜理虞翻。"
+    ]
+  },
+  {
+    "uid": "QTS_052_044_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "晚泊湘江",
+    "poem": [
+      "五嶺恓惶客，三湘憔悴顏。",
+      "況復秋雨霽，表裡見衡山。",
+      "路逐鵬南轉，心依雁北還。",
+      "唯餘望鄉淚，更染竹成斑。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "鵬",
+        "variant": "江",
+        "source": "一作「江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_045_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "過蠻洞",
+    "poem": [
+      "越嶺千重合，蠻谿十里斜。",
+      "竹迷樵子徑，萍匝釣人家。",
+      "林暗交楓葉，園香覆橘花。",
+      "誰憐在荒外，孤賞足雲霞。"
+    ]
+  },
+  {
+    "uid": "QTS_052_046_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "經梧州",
+    "poem": [
+      "南國無霜霰，連年見物華。",
+      "青林暗換葉，紅蕊續開花。",
+      "春去聞山鳥，秋來見海槎。",
+      "流芳雖可悅，會自泣長沙。"
+    ]
+  },
+  {
+    "uid": "QTS_052_047_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "渡吳江別王長史",
+    "poem": [
+      "倚櫂望茲川，銷魂獨黯然。",
+      "鄉連江北樹，雲斷日南天。",
+      "劍別龍初沒，書成雁不傳。",
+      "離舟意無限，催渡復催年。"
+    ]
+  },
+  {
+    "uid": "QTS_052_048_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "泛鏡湖南溪",
+    "poem": [
+      "乘興入幽棲，舟行日向低。",
+      "巖花候冬發，谷鳥作春啼。",
+      "沓嶂開天小，叢篁夾路迷。",
+      "猶聞可憐處，更在若邪溪。"
+    ]
+  },
+  {
+    "uid": "QTS_052_049_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "途中寒食題黃梅臨江驛寄崔融",
+    "poem": [
+      "馬上逢寒食，愁中屬暮春。",
+      "可憐江浦望，不見洛陽人。",
+      "北極懷明主，南溟作逐臣。",
+      "故園腸斷處，日夜柳條新。"
+    ]
+  },
+  {
+    "uid": "QTS_052_050_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "遊韶州廣界寺",
+    "poem": [
+      "影殿臨丹壑，香臺隱翠霞。",
+      "巢飛銜象鳥，砌蹋雨空花。",
+      "寶鐸搖初霽，金池暎晚沙。",
+      "莫愁歸路遠，門外有三車。"
+    ]
+  },
+  {
+    "uid": "QTS_052_051_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "宿清遠峽山寺",
+    "poem": [
+      "香岫懸金剎，飛泉屆石門。",
+      "空山唯習靜，中夜寂無喧。",
+      "說法初聞鳥，看心欲定猿。",
+      "寥寥隔塵市，何異武陵源。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "屆",
+        "variant": "界",
+        "source": "一作「界」"
+      },
+      {
+        "line": 4,
+        "text": "市",
+        "variant": "事",
+        "source": "一作「事」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_052_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "題大庾嶺北驛",
+    "poem": [
+      "陽月南飛雁，傳聞至此回。",
+      "我行殊未已，何日復歸來？",
+      "江靜潮初落，林昏瘴不開。",
+      "明朝望鄉處，應見隴頭梅。"
+    ]
+  },
+  {
+    "uid": "QTS_052_053_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "度大庾嶺",
+    "poem": [
+      "度嶺方辭國，停軺一望家。",
+      "魂隨南翥鳥，淚盡北枝花。",
+      "山雨初含霽，江雲欲變霞。",
+      "但令歸有日，不敢恨長沙。"
+    ]
+  },
+  {
+    "uid": "QTS_052_054_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "端州別袁侍郎",
+    "poem": [
+      "合浦途未極，端溪行蹔臨。",
+      "淚來空泣臉，愁至不知心。",
+      "客醉山月靜，猿啼江樹深。",
+      "明朝共分手，之子愛千金。"
+    ]
+  },
+  {
+    "uid": "QTS_052_055_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "過史正議宅",
+    "poem": [
+      "舊交此零落，雨泣訪遺塵。",
+      "劒幾傳好事，池臺傷故人。",
+      "國香蘭已歇，里樹橘猶新。",
+      "不見吳中隱，空餘江海濱。"
+    ]
+  },
+  {
+    "uid": "QTS_052_056_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "梁宣王挽詞三首 其一",
+    "poem": [
+      "貴藩堯母族，外戚漢家親。",
+      "業重興王際，功高復辟辰。",
+      "愛賢唯報國，樂善不防身。",
+      "今日衣冠送，空傷置醴人。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_056_02",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "梁宣王挽詞三首 其二",
+    "poem": [
+      "金精何日閉，玉匣此時開。",
+      "東望連吾子，南瞻近帝臺。",
+      "地形龜食報，墳土燕銜來。",
+      "可歎虞歌夕，紛紛騎吹回。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_056_03",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "梁宣王挽詞三首 其三",
+    "poem": [
+      "像設千年在，平生萬事違。",
+      "綵旌翻葆吹，圭翣奠靈衣。",
+      "壟日寒無影，郊雲凍不飛。",
+      "君王留此地，駟馬欲何歸。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_057_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "魯忠王挽詞三首 其一",
+    "poem": [
+      "同盟會五月，歸葬出三條。",
+      "日慘咸陽樹，天寒渭水橋。",
+      "稍看朱鷺轉，尚識紫騮驕。",
+      "寂寂泉臺恨，從茲罷玉簫。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_057_02",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "魯忠王挽詞三首 其二",
+    "poem": [
+      "邦家錫寵光，存沒貴忠良。",
+      "遂裂山河地，追尊父子王。",
+      "人悲槐里月，馬踏槿原霜。",
+      "別向天京北，悠悠此路長。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_057_03",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "魯忠王挽詞三首 其三",
+    "poem": [
+      "樹羽迎朝日，撞鐘望早霞。",
+      "故人悲宿草，中使慘晨笳。",
+      "氣有衝天劒，星無犯斗槎。",
+      "唯餘孔公宅，長接魯王家。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_052_058_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "范陽王挽詞二首 其一",
+    "poem": [
+      "賢相稱邦傑，清流舉代推。",
+      "公才掩諸夏，文體變當時。",
+      "賓弔飜成鶴，人亡惜喻龜。",
+      "洛陽今紙貴，猶寫太沖詞。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_052_058_02",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "范陽王挽詞二首 其二",
+    "poem": [
+      "贈秩徽章洽，求書秘草成。",
+      "客隨朝露盡，人逐夜舟驚。",
+      "蒿裡衣冠送，松門印綬迎。",
+      "誰知楊伯起，今日重哀榮。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "秩",
+        "variant": "袞",
+        "source": "一作「袞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_059_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "故趙王屬贈黃門侍郎上官公挽詞二首 其一",
+    "poem": [
+      "韋門旌舊德，班氏業前書。",
+      "謫去因丞相，歸來爲倢伃。",
+      "周原烏相冢，越嶺雁隨車。",
+      "冥漠辭昭代，空憐賦子虛。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_052_059_02",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "故趙王屬贈黃門侍郎上官公挽詞二首 其二",
+    "poem": [
+      "綠車隨帝子，青瑣翊宸機。",
+      "昔枉朝歌騎，今虛夕拜闈。",
+      "柳河悽輓曲，薤露濕靈衣。",
+      "一厝窮泉閉，雙鸞遂不飛。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_052_060_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "藥",
+    "poem": [
+      "有卉祕神仙，君臣有禮焉。",
+      "忻當苦口喻，不畏入腸偏。",
+      "扁鵲功成日，神農定品年。",
+      "丹成如可待，雞犬自聞天。"
+    ]
+  },
+  {
+    "uid": "QTS_052_061_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和九日登慈恩寺浮圖應制",
+    "poem": [
+      "瑞塔千尋起，仙輿九日來。",
+      "萸房陳寶席，菊蕊散花臺。",
+      "御氣鵬霄近，升高鳳野開。",
+      "天歌將梵樂，空裡共裴回。"
+    ]
+  },
+  {
+    "uid": "QTS_052_062_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "送沙門泓景道俊玄奘還荊州應制",
+    "poem": [
+      "三乘歸淨域，萬騎餞通莊。",
+      "就日離亭近，彌天別路長。",
+      "荊南旋杖缽，渭北限津梁。",
+      "何日紆真果，還來入帝鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_052_063_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "春日芙蓉園侍宴應制",
+    "poem": [
+      "年光竹裏遍，春色杏間遙。",
+      "煙氣籠青閣，流文蕩畫橋。",
+      "飛花隨蝶舞，豔曲伴鶯嬌。",
+      "今日陪歡豫，還疑陟紫霄。"
+    ]
+  },
+  {
+    "uid": "QTS_052_064_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "詠笛",
+    "poem": [
+      "羌笛寫龍聲，長吟入夜清。",
+      "關山孤月下，來向隴頭鳴。",
+      "逐吹梅花落，含春柳色驚。",
+      "行觀向子賦，坐憶舊鄰情。"
+    ]
+  },
+  {
+    "uid": "QTS_052_065_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "詠鐘",
+    "poem": [
+      "既接南鄰磬，還隨北里笙。",
+      "平陵通曙響，長樂警宵聲。",
+      "秋至含霜動，春歸應律鳴。",
+      "豈惟恆待扣，金簴有餘清。"
+    ]
+  },
+  {
+    "uid": "QTS_052_066_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "花落",
+    "poem": [
+      "鐵騎幾時迴，金閨怨早梅。",
+      "雪寒花已落，風暖葉還開。",
+      "夕逐新春管，香迎小歲桮。",
+      "盛時何足貴，書裏報輪臺。"
+    ],
+    "preface": "〈一作沈佺期詩，題雲梅花落〉"
+  },
+  {
+    "uid": "QTS_052_067_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "旅宿淮陽亭口號",
+    "poem": [
+      "日暮風亭上，悠悠旅思多。",
+      "故鄉臨桂水，今夜渺星河。",
+      "暗草霜華發，空亭鴈影過。",
+      "興來誰與語，勞者自爲歌。"
+    ]
+  },
+  {
+    "uid": "QTS_052_068_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "內題賦得巫山雨",
+    "poem": [
+      "神女向高唐，巫山下夕陽。",
+      "裴回作行雨，婉戀逐荊王。",
+      "電影江前落，雷聲峽外長。",
+      "霽雲無處所，臺館曉蒼蒼。"
+    ],
+    "preface": "〈一作沈佺期詩，題雲巫山高〉"
+  },
+  {
+    "uid": "QTS_052_069_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "王昭君",
+    "poem": [
+      "非君惜鸞殿，非妾妬娥眉。",
+      "薄命由驕虜，無情是畫師。",
+      "嫁來胡地日，不竝漢宮時。",
+      "辛苦無聊賴，何堪上馬辭。"
+    ],
+    "preface": "〈一作沈佺期詩〉"
+  },
+  {
+    "uid": "QTS_052_070_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "銅雀臺",
+    "poem": [
+      "昔年分鼎地，今日望陵臺。",
+      "一旦雄圖盡，千秋遺令開。",
+      "綺羅君不見，歌舞妾空來。",
+      "恩共漳河水，東流無重回。"
+    ],
+    "preface": "〈一作沈佺期詩〉"
+  },
+  {
+    "uid": "QTS_052_071_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "巫山高",
+    "poem": [
+      "巫山峰十二，環合象昭回。",
+      "俯聽琵琶峽，平看雲雨臺。",
+      "古槎天外落，瀑水日邊來。",
+      "何忍猿啼夜，荊王枕席開。"
+    ],
+    "preface": "〈一作沈佺期詩〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "環合象昭回",
+        "variant": "合沓隱昭回",
+        "source": "一作「合沓隱昭回」"
+      },
+      {
+        "line": 2,
+        "text": "聽",
+        "variant": "眺",
+        "source": "一作「眺」"
+      },
+      {
+        "line": 3,
+        "text": "落",
+        "variant": "倚",
+        "source": "一作「倚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_072_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "望月有懷",
+    "poem": [
+      "天使下西樓，含光萬里秋。",
+      "臺前似掛鏡，簾外如懸鉤。",
+      "張尹將眉學，班姬取扇儔。",
+      "佳期應借問，爲報大刀頭。"
+    ],
+    "preface": "〈一作康庭芝詩，一作沈佺期詩〉"
+  },
+  {
+    "uid": "QTS_052_073_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "駕出長安",
+    "poem": [
+      "聖德超千古，皇風扇九圍。",
+      "天回萬象出，駕動六龍飛。",
+      "淑氣來黃道，祥雲覆紫微。",
+      "太平多扈從，文物有光輝。"
+    ],
+    "preface": "〈一作王昌齡詩〉"
+  },
+  {
+    "uid": "QTS_052_074_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "餞中書侍郎來濟",
+    "poem": [
+      "曖曖去塵昏灞岸，飛飛輕蓋指河梁。",
+      "雲峰衣結千重葉，雪岫花開幾樹粧。",
+      "深悲黃鶴孤舟遠，獨對青山別路長。",
+      "卻將分手霑襟淚，還用持添離席觴。"
+    ],
+    "preface": "〈一作太宗詩〉"
+  },
+  {
+    "uid": "QTS_052_075_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "奉和春初幸太平公主南莊應制",
+    "poem": [
+      "青門路接鳳凰臺，素滻宸遊龍騎來。",
+      "澗草自迎香輦合，巖花應待御筵開。",
+      "文移北鬥成天象，酒遞南山作壽杯。",
+      "此日侍臣將石去，共歡明主賜金回。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遞",
+        "variant": "近",
+        "source": "一作「近」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_052_076_01",
+    "volume": 52,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "三陽宮侍宴應制得幽字",
+    "poem": [
+      "離宮祕苑勝瀛洲，別有仙人洞壑幽。",
+      "巖邊樹色含風冷，石上泉聲帶雨秋。",
+      "鳥向歌筵來度曲，雲依帳殿結爲樓。",
+      "微臣昔忝方明御，今日還陪八駿遊。"
+    ]
+  }
+]

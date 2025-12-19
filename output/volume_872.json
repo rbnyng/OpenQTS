@@ -1,0 +1,530 @@
+[
+  {
+    "uid": "QTS_872_001_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "廣州三樵歌",
+    "poem": [
+      "奉敕追三樵，隨侯傍道走。",
+      "回頭語李郎，喚取爾朱九。"
+    ],
+    "notes": [
+      {
+        "type": "title_note",
+        "content": "詩三十三首",
+        "context": "無名氏"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_872_002_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "三禦史詠",
+    "poem": [
+      "韋子凝而密，任生直且狂。",
+      "可憐元福慶，也學坐凝床。"
+    ]
+  },
+  {
+    "uid": "QTS_872_003_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "台中裏行詠",
+    "poem": [
+      "柱下雖為史，台中未是官。",
+      "何時聞必也，早晚見任端。"
+    ]
+  },
+  {
+    "uid": "QTS_872_004_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "譏裴休",
+    "poem": [
+      "趙氏兒皆尼氏女，師翁兒即晉公兒。",
+      "卻教術士難推算，胎月分張與阿誰。"
+    ]
+  },
+  {
+    "uid": "QTS_872_005_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲四相",
+    "poem": [
+      "確確無餘事，錢財總被收。",
+      "商人都不管，貨賂幾時休。"
+    ]
+  },
+  {
+    "uid": "QTS_872_006_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "放榜詩",
+    "poem": [
+      "乞兒還有大通年，三十三人碗杖全。",
+      "薛庶准前騎瘦馬，范酇依舊蓋番氈。"
+    ]
+  },
+  {
+    "uid": "QTS_872_007_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "改魏扶詩",
+    "poem": [
+      "葉落滿庭陰，朱門試院深。",
+      "昔年辛苦地，今日負前心。"
+    ]
+  },
+  {
+    "uid": "QTS_872_008_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲舉子騎驢",
+    "poem": [
+      "今年敕下盡騎驢，短軸長秋滿九衢。",
+      "清瘦兒郎猶自可，就中愁殺鄭昌圖。"
+    ]
+  },
+  {
+    "uid": "QTS_872_009_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲崔垂休",
+    "poem": [
+      "慈恩塔下親泥壁，滑膩光華玉不如。",
+      "何事博陵崔四十，金陵腿上逞歐書。"
+    ]
+  },
+  {
+    "uid": "QTS_872_010_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲主司崔澹",
+    "poem": [
+      "主司何事厭吾王，解把黃巢比武王。"
+    ]
+  },
+  {
+    "uid": "QTS_872_011_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "朝士戲任轂",
+    "poem": [
+      "雲林應訝鶴書遲，自入京來探事宜。",
+      "從此見山須合眼，被山相賺已多時。"
+    ]
+  },
+  {
+    "uid": "QTS_872_012_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "題房魯題名後",
+    "poem": [
+      "姚家新婿是房郎，未解芳顏意欲狂。",
+      "見說正調穿羽箭，莫教射破寺家牆。"
+    ]
+  },
+  {
+    "uid": "QTS_872_013_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "洛陽人嘲跋異",
+    "poem": [
+      "赫赫洛下，唯說異畫。",
+      "張氏出頭，跋異無價。"
+    ]
+  },
+  {
+    "uid": "QTS_872_014_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "又嘲",
+    "poem": [
+      "李生來，跋君怕。",
+      "不意今日卻增價，不畫羅漢畫駝馬。"
+    ]
+  },
+  {
+    "uid": "QTS_872_015_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "蜀選人嘲韓昭",
+    "poem": [
+      "嘉眉邛蜀，侍郎骨肉。",
+      "導江青城，侍郎情親。",
+      "果閬二州，侍郎自留。",
+      "巴蓬集壁，侍郎不識。"
+    ]
+  },
+  {
+    "uid": "QTS_872_016_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲傴僂人",
+    "poem": [
+      "拄杖欲似乃，播笏還似及。",
+      "逆風蕩雨行，面幹頂額濕。",
+      "著衣床上坐，肚緩脊皮急。",
+      "城門爾許高，故自匍匐入。"
+    ]
+  },
+  {
+    "uid": "QTS_872_017_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "曲中唱語",
+    "poem": [
+      "張公吃酒李公顛，盛六生兒鄭九憐。",
+      "捨下雄雞傷一德，南頭小鳳納三千。"
+    ]
+  },
+  {
+    "uid": "QTS_872_018_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "改唱",
+    "poem": [
+      "張公吃酒李公顛，盛六生兒鄭九憐。",
+      "捨下雄雞失一足，街頭小福拉三拳。"
+    ]
+  },
+  {
+    "uid": "QTS_872_019_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "街中又唱",
+    "poem": [
+      "莫將龐大作荍團，龐大皮中的不幹。",
+      "不怕鳳凰當額打，更將雞腳用筋纏。"
+    ]
+  },
+  {
+    "uid": "QTS_872_020_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "吹火詩",
+    "poem": [
+      "吹火朱唇動，添薪玉腕斜。",
+      "遙看煙裏面，大似霧中花。",
+      "吹火青唇動，添薪黑腕斜。",
+      "遙看煙裏面，恰似鳩盤荼。"
+    ]
+  },
+  {
+    "uid": "QTS_872_021_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "劉黑闥解嘲人語",
+    "poem": [
+      "水惡，頭如鐮杓尾如鑿，河裏搦魚無僻錯。",
+      "駱駝，項曲綠蹄，被他負物多。"
+    ]
+  },
+  {
+    "uid": "QTS_872_022_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "村人學解嘲人語",
+    "poem": [
+      "綿絹，割兩耳，只有面。"
+    ]
+  },
+  {
+    "uid": "QTS_872_023_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲劉師老",
+    "poem": [
+      "大府朝天升穆老，尚書倒地落劉郎。"
+    ]
+  },
+  {
+    "uid": "QTS_872_024_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲鄭熏",
+    "poem": [
+      "主司頭腦太冬烘，錯認顏標作魯公。"
+    ]
+  },
+  {
+    "uid": "QTS_872_025_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲蔣蟠金丹",
+    "poem": [
+      "張鵠只消千馱絹，蔣蟠惟用一丸丹。"
+    ]
+  },
+  {
+    "uid": "QTS_872_026_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "注苗張二進士題名",
+    "poem": [
+      "一雙前進士，兩個阿孩兒。"
+    ]
+  },
+  {
+    "uid": "QTS_872_027_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "袁州人謔彭伉",
+    "poem": [
+      "湛賁及第，彭伉落驢。"
+    ]
+  },
+  {
+    "uid": "QTS_872_028_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "洛中人語",
+    "poem": [
+      "昔婁師德園，今袁德師樓。"
+    ]
+  },
+  {
+    "uid": "QTS_872_029_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "嘲毛炳、彭會",
+    "poem": [
+      "彭生作賦茶三片，毛氏傳詩酒半升。"
+    ]
+  },
+  {
+    "uid": "QTS_872_030_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "右威衛嘲語",
+    "poem": [
+      "門緣禦史塞，廳被校書侵。"
+    ]
+  },
+  {
+    "uid": "QTS_872_031_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "南唐伶人獻先主詞",
+    "poem": [
+      "惟願普天多瑞慶，柳條結絮鵝雙生。"
+    ]
+  },
+  {
+    "uid": "QTS_872_032_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "閩伶官戲主延政語",
+    "poem": [
+      "只聞有泗州和尚，不見有五縣天子。"
+    ]
+  },
+  {
+    "uid": "QTS_872_033_01",
+    "volume": 872,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "言志",
+    "poem": [
+      "腰纏十萬貫，騎鶴上揚州。"
+    ]
+  }
+]
