@@ -1,0 +1,317 @@
+[
+  {
+    "uid": "QTS_105_001_01",
+    "volume": 105,
+    "author": {
+      "canonical": "辛替否",
+      "recorded": "辛替否",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xin Tipi",
+      "wikidata_id": "Q18905344"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "洪慈均動植，至德俯深玄。",
+      "出豫從初地，登高適梵天。",
+      "白雲飛御藻，慧日暖皇編。",
+      "別有秋原藿，長傾雨露緣。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "暖",
+        "variant": "曖",
+        "source": "一作「曖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_002_01",
+    "volume": 105,
+    "author": {
+      "canonical": "王景",
+      "recorded": "王景"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "玉輦移中禁，珠梯覽四禪。",
+      "重階清漢接，飛竇紫霄懸。",
+      "綴葉披天藻，吹花散御筵。",
+      "無因鑾蹕暇，俱舞鶴林前。"
+    ]
+  },
+  {
+    "uid": "QTS_105_003_01",
+    "volume": 105,
+    "author": {
+      "canonical": "畢乾泰",
+      "recorded": "畢乾泰"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "鸚林花塔啟，鳳輦順時遊。",
+      "重九昭皇慶，大千揚帝休。",
+      "耆闍妙法闡，王舍睿文流。",
+      "至德覃無極，小臣歌詎酬。"
+    ]
+  },
+  {
+    "uid": "QTS_105_004_01",
+    "volume": 105,
+    "author": {
+      "canonical": "麴瞻",
+      "recorded": "麴瞻"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "扈蹕遊玄地，陪仙瞰紫微。",
+      "似邁銖衣刼，將同羽化飛。",
+      "雕戈秋日麗，寶劒曉霜霏。",
+      "獻觴乘菊序，長願奉天暉。"
+    ]
+  },
+  {
+    "uid": "QTS_105_005_01",
+    "volume": 105,
+    "author": {
+      "canonical": "樊忱",
+      "recorded": "樊忱"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "淨境重陽節，仙遊萬乘來。",
+      "插萸登鷲嶺，把菊坐蜂臺。",
+      "十地祥雲合，三天瑞景開。",
+      "秋風詞更遠，竊抃樂康哉。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "雲",
+        "variant": "煙",
+        "source": "一作「煙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_006_01",
+    "volume": 105,
+    "author": {
+      "canonical": "孫佺",
+      "recorded": "孫佺",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Sun Quan",
+      "wikidata_id": "Q45489094"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "應節萸房滿，初寒菊圃新。",
+      "龍旗煥辰極，鳳駕儼香闉。",
+      "蓮井偏宜夏，梅梁更若春。",
+      "一忻陪鴈塔，還似得天身。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "房",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 3,
+        "text": "梁",
+        "variant": "渠",
+        "source": "一作「渠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_007_01",
+    "volume": 105,
+    "author": {
+      "canonical": "李從遠",
+      "recorded": "李從遠"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "九月從時豫，三乘爲法開。",
+      "中霄日天子，半座寶如來。",
+      "摘果珠盤獻，攀萸玉輦迴。",
+      "願將塵露點，遙奉光明臺。"
+    ]
+  },
+  {
+    "uid": "QTS_105_008_01",
+    "volume": 105,
+    "author": {
+      "canonical": "周利用",
+      "recorded": "周利用"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "出豫乘金節，飛文煥日宮。",
+      "萸房開聖酒，杏苑被玄功。",
+      "塔向三天迥，禪收八解空。",
+      "叨恩奉蘭藉，終愧洽薰風。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "杏",
+        "variant": "菊",
+        "source": "一作「菊」，一作「柰」"
+      },
+      {
+        "line": 3,
+        "text": "禪",
+        "variant": "池",
+        "source": "一作「池」"
+      },
+      {
+        "line": 3,
+        "text": "收",
+        "variant": "將",
+        "source": "一作「將」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_009_01",
+    "volume": 105,
+    "author": {
+      "canonical": "張景源",
+      "recorded": "張景源",
+      "gender": "male",
+      "english_name": "Zhang Jingyuan",
+      "wikidata_id": "Q18909240"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "飛塔凌霄起，宸遊一屆焉。",
+      "金壺新泛菊，寶座即披蓮。",
+      "就日搖香輦，憑雲出梵天。",
+      "祥氛與佳色，相伴雜鑪煙。"
+    ]
+  },
+  {
+    "uid": "QTS_105_010_01",
+    "volume": 105,
+    "author": {
+      "canonical": "李恆",
+      "recorded": "李恆",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Emperor Muzong of Tang",
+      "wikidata_id": "Q9763"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "寶地隣丹掖，香臺瞰碧雲。",
+      "河山天外出，城闕樹中分。",
+      "睿藻蘭英秀，仙杯菊蘂薰。",
+      "願將今日樂，長奉聖明君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "隣",
+        "variant": "臨",
+        "source": "一作「臨」"
+      },
+      {
+        "line": 2,
+        "text": "河",
+        "variant": "關",
+        "source": "一作「關」"
+      },
+      {
+        "line": 2,
+        "text": "天",
+        "variant": "江",
+        "source": "一作「江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_011_01",
+    "volume": 105,
+    "author": {
+      "canonical": "張錫",
+      "recorded": "張錫",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Xi",
+      "wikidata_id": "Q8070339"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "九秋霜景淨，千門曉望通。",
+      "仙遊光御路，瑞塔迥凌空。",
+      "菊彩揚堯日，萸香遶舜風。",
+      "天文麗辰象，竊抃仰層穹。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遶",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_105_012_01",
+    "volume": 105,
+    "author": {
+      "canonical": "張錫",
+      "recorded": "張錫",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Xi",
+      "wikidata_id": "Q8070339"
+    },
+    "title": "晦日宴高文學林亭",
+    "poem": [
+      "雪盡銅駝路，花照石崇家。",
+      "年光開柳色，池影汎雲華。",
+      "賞洽情方遠，春歸景未賒。",
+      "欲知多暇日，尊酒漬澄霞。"
+    ]
+  },
+  {
+    "uid": "QTS_105_013_01",
+    "volume": 105,
+    "author": {
+      "canonical": "解琬",
+      "recorded": "解琬",
+      "gender": "male",
+      "wikidata_id": "Q19825790"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "瑞塔臨初地，金輿幸上方。",
+      "空邊有清淨，覺處無馨香。",
+      "雨霽微塵歛，風秋定水涼。",
+      "茲辰采仙菊，薦壽慶重陽。"
+    ]
+  },
+  {
+    "uid": "QTS_105_014_01",
+    "volume": 105,
+    "author": {
+      "canonical": "解琬",
+      "recorded": "解琬",
+      "gender": "male",
+      "wikidata_id": "Q19825790"
+    },
+    "title": "晦日宴高氏林亭",
+    "poem": [
+      "主第簪裾出，王畿春照華。",
+      "山亭一以眺，城闕帶煙霞。",
+      "橫堤列錦帳，傍浦駐香車。",
+      "歡娛屬晦節，酩酊未還家。"
+    ]
+  }
+]

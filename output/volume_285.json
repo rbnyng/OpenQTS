@@ -1,0 +1,3323 @@
+[
+  {
+    "uid": "QTS_285_001_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "關山月",
+    "poem": [
+      "露溼月蒼蒼，關頭榆葉黃。",
+      "迴輪照海遠，分彩上樓長。",
+      "水凍頻移幕，兵疲數望鄉。",
+      "只應城影外，萬里共胡霜。"
+    ]
+  },
+  {
+    "uid": "QTS_285_002_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "度關山",
+    "poem": [
+      "雁塞日初睛，狐關雪復平。",
+      "危樓緣廣漠，古竇傍長城。",
+      "拂劍金星出，彎弧玉羽鳴。",
+      "誰知係虜者，賈誼是書生。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "狐",
+        "variant": "孤",
+        "source": "一作「孤」"
+      },
+      {
+        "line": 1,
+        "text": "雪復",
+        "variant": "覆雪",
+        "source": "一作「覆雪」"
+      },
+      {
+        "line": 2,
+        "text": "樓",
+        "variant": "竿",
+        "source": "一作「竿」"
+      },
+      {
+        "line": 3,
+        "text": "鳴",
+        "variant": "輕",
+        "source": "一作「輕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_003_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "巫山高",
+    "poem": [
+      "巫山十二峯，皆在碧虛中。",
+      "迴合雲藏月，霏微雨帶風。",
+      "猿聲寒過澗，樹色暮連空。",
+      "愁向高唐望，清秋見楚宮。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "峯",
+        "variant": "重",
+        "source": "一作「重」"
+      },
+      {
+        "line": 2,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 3,
+        "text": "過澗",
+        "variant": "度水",
+        "source": "一作「度水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_004_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雨雪曲",
+    "poem": [
+      "天山一丈雪，雜雨夜霏霏。",
+      "溼馬胡歌亂，經烽漢火微。",
+      "丁零蘇武別，疏勒范羌歸。",
+      "若看關頭下，長榆葉定稀。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "別",
+        "variant": "住",
+        "source": "一作「住」"
+      },
+      {
+        "line": 4,
+        "text": "看",
+        "variant": "著",
+        "source": "一作「著」"
+      },
+      {
+        "line": 4,
+        "text": "下",
+        "variant": "過",
+        "source": "一作「過」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_005_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "春遊樂",
+    "poem": [
+      "柘彈連錢馬，銀鉤妥墮鬟。",
+      "摘桑春陌上，踏草夕陽間。",
+      "意合辭先露，心誠貌卻閒。",
+      "明朝若相憶，雲雨出巫山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "妥",
+        "variant": "倭",
+        "source": "一作「倭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_006_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "山下泉",
+    "poem": [
+      "碧水映丹霞，濺濺度淺沙。",
+      "暗通山下草，流出洞中花。",
+      "淨色和雲落，喧聲繞石斜。",
+      "明朝更尋去，應到阮郎家。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "阮",
+        "variant": "劉",
+        "source": "一作「劉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_007_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送客赴洪州",
+    "poem": [
+      "草色隨驄馬，悠悠共出秦。",
+      "水傳雲夢曉，山接洞庭春。",
+      "帆影連三峽，猿聲在四鄰。",
+      "青門一分手，難見杜陵人。"
+    ]
+  },
+  {
+    "uid": "QTS_285_008_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "與鄭錫遊春",
+    "poem": [
+      "東門垂柳長，迴首獨心傷。",
+      "日煖臨芳草，天睛憶故鄉。",
+      "映花鶯上下，過水蝶飛揚。",
+      "借問同行客，今朝淚幾行。"
+    ]
+  },
+  {
+    "uid": "QTS_285_009_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友人",
+    "poem": [
+      "聞說湘川路，年年古木多。",
+      "猿啼巫峽夜，月照洞庭波。",
+      "窮海人還去，孤城雁與過。",
+      "青山不同賞，來往自蹉跎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "古木",
+        "variant": "弔古",
+        "source": "一作「弔古」"
+      },
+      {
+        "line": 4,
+        "text": "不同賞",
+        "variant": "不可到",
+        "source": "一作「不可到」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_010_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "題從叔沆林園",
+    "poem": [
+      "阮宅閒園暮，窗中見樹陰。",
+      "樵歌依遠草，僧語過長林。",
+      "鳥哢花間曲，人彈竹裏琴。",
+      "自嫌身未老，已有住山心。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "哢",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 3,
+        "text": "曲",
+        "variant": "井",
+        "source": "一作「井」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_011_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送少微上人入蜀",
+    "poem": [
+      "削髮本求道，何方不是歸。",
+      "松風開法席，江月濯禪衣。",
+      "飛閣蟬鳴早，漫天客過稀。",
+      "戴顒常執筆，不覺此身非。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "席",
+        "variant": "逕",
+        "source": "一作「逕」"
+      },
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "蓮",
+        "source": "一作「蓮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_012_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雨後遊輞川",
+    "poem": [
+      "驟雨歸山盡，頹陽入輞川。",
+      "看虹登晚墅，踏石過春泉。",
+      "紫葛藏仙井，黃花出野田。",
+      "自知無路去，迴步就人煙。"
+    ]
+  },
+  {
+    "uid": "QTS_285_013_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "同皇甫侍御題惟一上人房",
+    "poem": [
+      "焚香居一室，盡日見空林。",
+      "得道輕年暮，安禪愛夜深。",
+      "東西皆是夢，存沒豈關心。",
+      "唯羨諸童子，持經在竹陰。"
+    ]
+  },
+  {
+    "uid": "QTS_285_014_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "同苗員外宿薦福寺僧舍",
+    "poem": [
+      "潘安秋興動，涼夜宿僧房。",
+      "倚杖雲離月，垂簾竹有霜。",
+      "迴風生遠逕，落葉颯長廊。",
+      "一與交親會，空貽別後傷。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "生",
+        "variant": "吹",
+        "source": "一作「吹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_015_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送客往湘江",
+    "poem": [
+      "識君年已老，孤棹向瀟湘。",
+      "素髮臨高鏡，清晨入遠鄉。",
+      "三山分夏口，五兩映涔陽。",
+      "更逐巴東客，南行淚幾行。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "東",
+        "variant": "江",
+        "source": "一作「江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_016_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友人遊蜀",
+    "poem": [
+      "嘉陵天氣好，百里見雙流。",
+      "帆影緣巴字，鐘聲出漢州。",
+      "綠原春草晚，青木暮猿愁。",
+      "本是風流地，遊人易白頭。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "字",
+        "variant": "寺",
+        "source": "一作「寺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_017_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友人遊江東",
+    "poem": [
+      "江上花開盡，南行見杪春。",
+      "鳥聲悲古木，雲影入通津。",
+      "返景斜連草，迴潮暗動蘋。",
+      "謝公今在郡，應喜得詩人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "見杪",
+        "variant": "少見",
+        "source": "一作「少見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_018_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送樂平苗明府得家字",
+    "poem": [
+      "本自求彭澤，誰雲道里賒。",
+      "山從石壁斷，江向弋陽斜。",
+      "暮色隨楓樹，陰雲暗荻花。",
+      "諸侯舊調鼎，應重宰臣家。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "石",
+        "variant": "古",
+        "source": "一作「古」"
+      },
+      {
+        "line": 3,
+        "text": "暮",
+        "variant": "草",
+        "source": "一作「草」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_019_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "過宋州",
+    "poem": [
+      "睢陽陷虜日，外絕救兵來。",
+      "世亂忠臣死，時清明主哀。",
+      "荒郊春草徧，故壘野花開。",
+      "欲爲將軍哭，東流水不迴。"
+    ]
+  },
+  {
+    "uid": "QTS_285_020_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "茂陵山行陪韋金部",
+    "poem": [
+      "宿雨朝來歇，空山秋氣清。",
+      "盤雲雙鶴下，隔水一蟬鳴。",
+      "古道黃花落，平蕪赤燒生。",
+      "茂陵雖有病，猶得伴君行。"
+    ]
+  },
+  {
+    "uid": "QTS_285_021_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "江上逢司空曙",
+    "poem": [
+      "共爾髫年故，相逢萬里餘。",
+      "新春兩行淚，故國一封書。",
+      "夏口帆初落，涔陽雁正疏。",
+      "唯當執杯酒，暫食漢江魚。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "爾",
+        "variant": "有",
+        "source": "一作「有」"
+      },
+      {
+        "line": 2,
+        "text": "故",
+        "variant": "舊",
+        "source": "一作「舊」"
+      },
+      {
+        "line": 3,
+        "text": "落",
+        "variant": "泊",
+        "source": "一作「泊」"
+      },
+      {
+        "line": 3,
+        "text": "涔",
+        "variant": "潯",
+        "source": "一作「潯」，一作「衡」"
+      },
+      {
+        "line": 3,
+        "text": "正",
+        "variant": "已",
+        "source": "一作「已」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_022_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "逢王泌自東京至",
+    "poem": [
+      "逢君自鄉至，雪涕問田園。",
+      "幾處生喬木，誰家在舊村。",
+      "山峰橫二室，水色映千門。",
+      "愁見游從處，如今花正繁。"
+    ]
+  },
+  {
+    "uid": "QTS_285_023_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "山中期吉中孚",
+    "poem": [
+      "行人路不同，花落到山中。",
+      "水暗蒹葭霧，月明楊柳風。",
+      "年華驚已擲，志業颯然空。",
+      "何必龍鍾後，方期事遠公。"
+    ]
+  },
+  {
+    "uid": "QTS_285_024_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "酬前大理寺評事張芬",
+    "poem": [
+      "君家舊林壑，寄在亂峰西。",
+      "近日春雲滿，相思路亦迷。",
+      "聞鐘投野寺，待月過前溪。",
+      "悵望成幽夢，依依識故蹊。"
+    ]
+  },
+  {
+    "uid": "QTS_285_025_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "賦得山泉送房造",
+    "poem": [
+      "泉水山邊去，高人月下看。",
+      "潤松秋色淨，落澗夜聲寒。",
+      "委曲穿深竹，潺湲過遠灘。",
+      "聖朝無隱者，旱晚罷漁竿。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遠",
+        "variant": "淺",
+        "source": "一作「淺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_026_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿興善寺後堂池",
+    "poem": [
+      "草堂高樹下，月向後池生。",
+      "野客如僧靜，新荷共水平。",
+      "錦鱗沉不食，繡羽亂相鳴。",
+      "即事思江海，誰能萬里行。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "如",
+        "variant": "同",
+        "source": "一作「同」"
+      },
+      {
+        "line": 2,
+        "text": "靜",
+        "variant": "坐",
+        "source": "一作「坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_027_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "憶皎然上人",
+    "poem": [
+      "未得從師去，人間萬事勞。",
+      "雲門不可見，山木已應高。",
+      "向日開柴戶，驚秋問敝袍。",
+      "何由宿峰頂，窗裏望波濤。"
+    ]
+  },
+  {
+    "uid": "QTS_285_028_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "贈衡岳隱禪師",
+    "poem": [
+      "舊住衡州寺，隨緣偶北來。",
+      "夜禪山雪下，朝汲竹門開。",
+      "半偈傳初盡，群生意未迴。",
+      "唯當與樵者，杖錫入天台。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "禪",
+        "variant": "寒",
+        "source": "一作「寒」"
+      },
+      {
+        "line": 3,
+        "text": "傳初",
+        "variant": "空皆",
+        "source": "一作「空皆」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_029_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雲陽觀寄袁稠",
+    "poem": [
+      "花洞晚陰陰，仙壇隔杏林。",
+      "漱泉春谷冷，擣藥夜窗深。",
+      "石上開仙酌，松間對玉琴。",
+      "戴家溪北住，雪後去相尋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚陰陰",
+        "variant": "滿沉沉",
+        "source": "一作「滿沉沉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_030_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "晚遊東田寄司空曙",
+    "poem": [
+      "暮來思遠客，獨立在東田。",
+      "片雨無妨景，殘虹不映天。",
+      "別愁逢夏果，歸興入秋蟬。",
+      "莫作隳官意，陶潛未必賢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "雨",
+        "variant": "影",
+        "source": "一作「影」"
+      },
+      {
+        "line": 2,
+        "text": "景",
+        "variant": "雨",
+        "source": "一作「雨」"
+      },
+      {
+        "line": 4,
+        "text": "潛",
+        "variant": "公",
+        "source": "一作「公」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_031_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "題崔端公園林",
+    "poem": [
+      "上士愛清輝，開門向翠微。",
+      "抱琴看鶴去，枕石待雲歸。",
+      "野坐苔生席，高眠竹掛衣。",
+      "舊山東望遠，惆悵暮花飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_032_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "早春雪夜寄盧綸兼呈秘書元丞",
+    "poem": [
+      "聞君隨謝朓，春夜宿前川。",
+      "看竹雲垂地，尋僧月滿田。",
+      "熊寒方入樹，魚樂稍離船。",
+      "獨夜羇愁客，惟知惜故年。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "前川",
+        "variant": "山前",
+        "source": "一作「山前」"
+      },
+      {
+        "line": 2,
+        "text": "地",
+        "variant": "嶺",
+        "source": "一作「嶺」"
+      },
+      {
+        "line": 2,
+        "text": "月滿田",
+        "variant": "雪滿船",
+        "source": "一作「雪滿船」"
+      },
+      {
+        "line": 4,
+        "text": "故",
+        "variant": "暮",
+        "source": "一作「暮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_033_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "早春夜集耿拾遺宅",
+    "poem": [
+      "如何逋客會，忽在侍臣家。",
+      "新草猶停雪，寒梅未放花。",
+      "銜杯雞欲唱，逗月雁應斜。",
+      "年齒俱憔悴，誰堪故國賒。"
+    ]
+  },
+  {
+    "uid": "QTS_285_034_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "元丞宅送胡濬及第東歸覲省",
+    "poem": [
+      "登龍兼折桂，歸去當高車。",
+      "舊楚楓猶在，前隋柳已疏。",
+      "月中逢海客，浪裡得鄉書。",
+      "見說江邊住，知君不厭魚。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "當",
+        "variant": "賞",
+        "source": "一作「賞」"
+      },
+      {
+        "line": 1,
+        "text": "車",
+        "variant": "居",
+        "source": "一作「居」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_035_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送魏廣下第歸揚州寧親",
+    "poem": [
+      "遊宦今空返，浮淮一雁秋。",
+      "白雲陰澤國，青草遶揚州。",
+      "調膳過花下，張筵到水頭。",
+      "崑山仍有玉，歲晏莫淹留。"
+    ]
+  },
+  {
+    "uid": "QTS_285_036_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "歸山與酒徒別",
+    "poem": [
+      "野客本無事，此來非有求。",
+      "煩君徵樂餞，未免憶山愁。",
+      "紅燭侵明月，青娥促白頭。",
+      "童心久已盡，豈為豔歌留。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "樂餞",
+        "variant": "藥送",
+        "source": "一作「藥送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_037_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "冬夜寄韓弇",
+    "poem": [
+      "獨坐知霜下，開門見木衰。",
+      "壯應隨日去，老豈與人期。",
+      "廢井蟲鳴早，陰階菊發遲。",
+      "興來空憶戴，不似剡溪時。"
+    ]
+  },
+  {
+    "uid": "QTS_285_038_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "聞吉道士還俗因而有贈",
+    "poem": [
+      "聞有華陽客，儒裳謁紫微。",
+      "舊山連藥賣，孤鶴帶雲歸。",
+      "柳市名猶在，桃源夢已稀。",
+      "還鄉見鷗鳥，應愧背船飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_039_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "韋員外東齋看花",
+    "poem": [
+      "入花凡幾步，此樹獨相留。",
+      "發豔紅枝合，垂煙綠水幽。",
+      "併開偏覺好，未落已成愁。",
+      "一到芳菲下，空招兩鬢秋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "相",
+        "variant": "將",
+        "source": "一作「將」"
+      },
+      {
+        "line": 3,
+        "text": "成",
+        "variant": "看",
+        "source": "一作「看」"
+      },
+      {
+        "line": 4,
+        "text": "招",
+        "variant": "貽",
+        "source": "一作「貽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_040_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "邊頭作",
+    "poem": [
+      "邠郊泉脈動，落日上城樓。",
+      "羊馬水草足，羌胡帳幕稠。",
+      "射鵰過海岸，傳箭怯邊州。",
+      "何事歸朝將，今年又拜侯。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "傳",
+        "variant": "殘",
+        "source": "一作「殘」"
+      },
+      {
+        "line": 3,
+        "text": "怯",
+        "variant": "脅",
+        "source": "一作「脅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_041_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿深上人院聽遠泉",
+    "poem": [
+      "泉聲宜遠聽，入夜對支公。",
+      "斷續來方盡，潺湲咽又通。",
+      "何年出石下，幾里在山中。",
+      "君問窮源處，禪心與此同。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "君",
+        "variant": "若",
+        "source": "一作「若」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_042_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "茂陵村行贈何兆",
+    "poem": [
+      "春天黃鳥囀，野逕白雲間。",
+      "解帶依芳草，支頤想故山。",
+      "人行九州路，樹老五陵間。",
+      "誰道臨邛遠，相如自憶還。"
+    ]
+  },
+  {
+    "uid": "QTS_285_043_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友人還洛",
+    "poem": [
+      "去國渡關河，蟬鳴古樹多。",
+      "平原正超忽，行子復蹉跎。",
+      "去事不可想，舊遊難再過。",
+      "何當嵩岳下，相見在煙蘿。"
+    ]
+  },
+  {
+    "uid": "QTS_285_044_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送戴徵士還山",
+    "poem": [
+      "柔桑錦臆雉，相送到煙霞。",
+      "獨隱空山裏，閒門幾樹花。",
+      "草生楊柳岸，鳥囀竹林家。",
+      "不是謀生拙，無為末路賒。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "不是謀生拙，無為末路賒",
+        "variant": "肥遯超然逝，優游興味賒",
+        "source": "一作「肥遯超然逝，優游興味賒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_045_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "秋日旅舍別司空文明",
+    "poem": [
+      "涼風颯窮巷，秋思滿高雲。",
+      "吏隱俱不就，此心仍別君。",
+      "素懷宗淡泊，羈旅念功勳。",
+      "轉憶西林寺，江聲月下聞。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "高",
+        "variant": "同",
+        "source": "一作「同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_046_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "旅舍對雪贈考功王員外",
+    "poem": [
+      "楊花驚滿路，麵市忽狂風。",
+      "驟下搖蘭葉，輕飛集竹叢。",
+      "欲將瓊樹比，不共玉人同。",
+      "獨望徽之棹，青山在雪中。"
+    ]
+  },
+  {
+    "uid": "QTS_285_047_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送丁少府往唐上",
+    "poem": [
+      "因君灞陵別，故國一迴看。",
+      "共食田文飯，先之梅福官。",
+      "江風轉日暮，山月滿潮寒。",
+      "不得同舟望，淹留歲月闌。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "轉",
+        "variant": "薄",
+        "source": "一作「薄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_048_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "贈李龜年",
+    "poem": [
+      "青春事漢主，白首入秦城。",
+      "遍識才人字，多知舊曲名。",
+      "風流隨故事，語笑合新聲。",
+      "獨有垂楊樹，偏傷日暮情。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "才人字",
+        "variant": "時人號",
+        "source": "一作「時人號」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_049_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送郭補闕歸江陽",
+    "poem": [
+      "東門春尚淺，楊柳未成陰。",
+      "雁影愁斜日，鶯聲怨故林。",
+      "隋宮江上遠，梁苑雪中深。",
+      "獨有懷歸客，難為欲別心。"
+    ]
+  },
+  {
+    "uid": "QTS_285_050_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "早春會王逵主人得蓬字",
+    "poem": [
+      "今年華鬢色，半在故人中。",
+      "欲寫無窮恨，先期一醉同。",
+      "綠叢猶覆雪，紅萼已凋風。",
+      "莫負歸山契，君看陌上蓬。"
+    ]
+  },
+  {
+    "uid": "QTS_285_051_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿山寺思歸",
+    "poem": [
+      "僧房秋雨歇，愁臥夜更深。",
+      "欹枕聞鴻雁，迴燈見竹林。",
+      "歸螢入草盡，落月映窗沉。",
+      "拭淚無人覺，長謠向壁陰。"
+    ]
+  },
+  {
+    "uid": "QTS_285_052_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送客赴江陵寄郢州郎士元",
+    "poem": [
+      "露下晚蟬愁，詩人舊怨秋。",
+      "沅湘莫留滯，宛洛好遨遊。",
+      "飲馬逢黃菊，離家值白頭。",
+      "竟陵明月夜，為上庾公樓。"
+    ]
+  },
+  {
+    "uid": "QTS_285_053_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送客賦得巴江夜猿",
+    "poem": [
+      "巴水天邊路，啼猿傷客情。",
+      "遲遲雲外盡，杳杳樹中生。",
+      "殘月暗將落，空霜寒欲明。",
+      "楚人皆掩淚，聞到第三聲。"
+    ]
+  },
+  {
+    "uid": "QTS_285_054_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "秋日憶暕上人",
+    "poem": [
+      "一從持缽別，更未到人間。",
+      "好靜居貧寺，遺名棄近山。",
+      "雨前縫百衲，葉下閉重關。",
+      "若便潯陽去，須將舊客還。"
+    ]
+  },
+  {
+    "uid": "QTS_285_055_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "寄上舍人叔",
+    "poem": [
+      "車馬朝初下，看山憶獨尋。",
+      "會知逢水盡，且愛入雲深。",
+      "殘雨開斜日，新蟬發迥林。",
+      "阮咸雖別巷，遙識此時心。"
+    ]
+  },
+  {
+    "uid": "QTS_285_056_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送古之奇赴安西幕",
+    "poem": [
+      "疇昔十年兄，相逢五校營。",
+      "今宵舉杯酒，隴月見軍城。",
+      "堠火經陰絕，邊人接曉行。",
+      "殷勤送書記，強虜幾時平。"
+    ]
+  },
+  {
+    "uid": "QTS_285_057_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送張芬歸江東兼寄柳中庸",
+    "poem": [
+      "久是天涯客，偏傷落木時。",
+      "如何故國見，更欲異鄉期。",
+      "鳥暮東西急，波寒上下遲。",
+      "空將滿眼淚，千里怨相思。"
+    ]
+  },
+  {
+    "uid": "QTS_285_058_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送丘丹歸江東",
+    "poem": [
+      "故山霜落久，才子憶荊扉。",
+      "旅舍尋人別，秋風逐雁歸。",
+      "夢愁楓葉盡，醉惜菊花稀。",
+      "肯學求名者，經年未拂衣。"
+    ]
+  },
+  {
+    "uid": "QTS_285_059_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "臥病寄苗員外",
+    "poem": [
+      "故人初未貴，相見得淹留。",
+      "一自朝天去，因成計日遊。",
+      "月明應獨醉，葉下肯同愁。",
+      "因恨劉楨病，空園臥見秋。"
+    ]
+  },
+  {
+    "uid": "QTS_285_060_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送楊臯擢第歸江東",
+    "poem": [
+      "隋堤望楚國，江上一歸人。",
+      "綠氣千檣暮，青風萬里春。",
+      "試才初得桂，泊渚肯傷蘋。",
+      "拜手終悽愴，恭承中外親。"
+    ]
+  },
+  {
+    "uid": "QTS_285_061_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "題鄭少府林園",
+    "poem": [
+      "謝家今日晚，詞客願抽毫。",
+      "櫪馬方迴影，池鵝正理毛。",
+      "竹筒傳水遠，麈尾坐僧高。",
+      "獨有宗雷賤，過君著敝袍。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "暖",
+        "source": "一作「暖」"
+      },
+      {
+        "line": 4,
+        "text": "著",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_062_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送吉中孚拜官歸業",
+    "poem": [
+      "南入華陽洞，無人古樹寒。",
+      "吟詩開舊帙，帶綬上荒壇。",
+      "因病求歸易，霑恩更隱難。",
+      "孟宗應獻鮓，家近守漁官。"
+    ]
+  },
+  {
+    "uid": "QTS_285_063_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送楊少府赴陽翟",
+    "poem": [
+      "冠帶仁兄後，光輝壽母前。",
+      "陸雲還入洛，潘岳更張筵。",
+      "井邑嵩山對，園林潁水連。",
+      "東人慾相送，旅舍已潸然。"
+    ]
+  },
+  {
+    "uid": "QTS_285_064_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "慈恩寺暕上人房招耿拾遺",
+    "poem": [
+      "悠然對惠遠，共結故山期。",
+      "汲井樹陰下，閉門亭午時。",
+      "地閒花落厚，石淺水流遲。",
+      "願與神仙客，同來事本師。"
+    ]
+  },
+  {
+    "uid": "QTS_285_065_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿山寺雪夜寄吉中孚",
+    "poem": [
+      "獨愛僧房竹，春來長到池。",
+      "雲遮皆晃朗，雪壓半低垂。",
+      "不見侵山葉，空聞拂地枝。",
+      "鄙夫今夜興，唯有子猷知。"
+    ]
+  },
+  {
+    "uid": "QTS_285_066_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "贈趙神童",
+    "poem": [
+      "聖朝殊漢令，才子少登科。",
+      "每見先鳴早，常驚後進多。",
+      "獨居方寂寞，相對覺蹉跎。",
+      "不是通家舊，頻勞文舉過。"
+    ]
+  },
+  {
+    "uid": "QTS_285_067_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿雲際寺贈深上人",
+    "poem": [
+      "暫別青藍寺，今來髮欲斑。",
+      "獨眠孤燭下，風雨在前山。",
+      "壞宅終須去，空門不易還。",
+      "支公有方便，一願啟玄關。"
+    ]
+  },
+  {
+    "uid": "QTS_285_068_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送從兄赴洪州別駕兄善琴",
+    "poem": [
+      "援琴兼愛竹，遙夜在湘沅。",
+      "鶴舞月將下，烏啼霜正繁。",
+      "亂流喧橘岸，飛雪暗荊門。",
+      "佐郡無辭屈，其如相府恩。"
+    ]
+  },
+  {
+    "uid": "QTS_285_069_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "山中期張芬不至",
+    "poem": [
+      "石堤春草碧，雙燕向西飛。",
+      "悵望雲天暮，佳人何處歸。",
+      "藥欄蟲網遍，苔井水痕稀。",
+      "誰道嵇康懶，山中自掩扉。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "石",
+        "variant": "古",
+        "source": "一作「古」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_070_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "寄暢當",
+    "poem": [
+      "麥秀草芊芊，幽人好晝眠。",
+      "雲霞生嶺上，猿鳥下床前。",
+      "顏子方敦行，支郎久住禪。",
+      "中林輕暫別，約略已經年。"
+    ]
+  },
+  {
+    "uid": "QTS_285_071_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送義興元少府",
+    "poem": [
+      "逢君惠連第，初命便光輝。",
+      "已得群公祖，終妨太傅譏。",
+      "路長人反顧，草斷燕迴飛。",
+      "本是江南客，還同衣錦歸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "第",
+        "variant": "弟",
+        "source": "一作「弟」"
+      },
+      {
+        "line": 1,
+        "text": "便",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_072_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "臥病別鄭錫",
+    "poem": [
+      "病來喜無事，多臥竹林間。",
+      "此日一相見，明朝還掩關。",
+      "幽人愛芳草，志士惜頹顏。",
+      "歲晏不我棄，期君在故山。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "愛",
+        "variant": "怨",
+        "source": "一作「怨」"
+      },
+      {
+        "line": 4,
+        "text": "晏",
+        "variant": "宴",
+        "source": "一作「宴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_073_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "書志贈暢當",
+    "poem": [
+      "少喜神仙術，未去已蹉跎。",
+      "壯志一爲累，浮生事漸多。",
+      "衰顏不相識，歲暮定相過。",
+      "請問宗居士，君其奈老何。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "喜",
+        "variant": "嘉",
+        "source": "一作「嘉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_074_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送諸曁裴少府",
+    "poem": [
+      "山公訪嵇紹，趙武見韓侯。",
+      "事去恩猶在，名成淚卻流。",
+      "一官同北去，千里赴南州。",
+      "才子清風後，無貽相府憂。"
+    ]
+  },
+  {
+    "uid": "QTS_285_075_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送鄭宥入蜀迎覲",
+    "poem": [
+      "寧親西陟險，君去異王陽。",
+      "在世誰非客，還家即是鄉。",
+      "劍門千轉盡，巴水一支長。",
+      "請語愁猿道，無煩促淚行。"
+    ]
+  },
+  {
+    "uid": "QTS_285_076_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送耿拾遺湋使江南括圖書",
+    "poem": [
+      "驅傳草連天，回風滿樹蟬。",
+      "將過夫子宅，前問孝廉船。",
+      "漢使收三篋，周詩採百篇。",
+      "別來將有淚，不是怨流年。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "前",
+        "variant": "亦",
+        "source": "一作「亦」"
+      },
+      {
+        "line": 4,
+        "text": "來將",
+        "variant": "君終",
+        "source": "一作「君終」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_077_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送王少府遊河南",
+    "poem": [
+      "馬卿方失意，東去謁諸侯。",
+      "過宋人應少，遊梁客獨愁。",
+      "鳥翻千室暮，蟬急兩河秋。",
+      "僕本無媒者，因君淚亦流。"
+    ]
+  },
+  {
+    "uid": "QTS_285_078_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送別駕赴晉陵即舍人叔之兄",
+    "poem": [
+      "諸宗稱叔父，從子亦光輝。",
+      "謝朓中書直，王祥別乘歸。",
+      "江帆衝雨上，海樹隔潮微。",
+      "南阮貧無酒，唯將淚溼衣。"
+    ]
+  },
+  {
+    "uid": "QTS_285_079_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "臥病寄閻寀",
+    "poem": [
+      "病中貪好景，強步出幽居。",
+      "紫葛垂山徑，黃花繞野渠。",
+      "荒林飛老鶴，敗堰過遊魚。",
+      "縱憶同年友，無人可寄書。"
+    ]
+  },
+  {
+    "uid": "QTS_285_080_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "晚夏聞蟬寄廣文",
+    "poem": [
+      "昨日鶯囀聲，今朝蟬忽鳴。",
+      "朱顏向華髮，定是幾年程。",
+      "故國白雲遠，閒居青草生。",
+      "因垂數行淚，書報十年兄。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鶯囀聲",
+        "variant": "始聞鶯",
+        "source": "一作「始聞鶯」"
+      },
+      {
+        "line": 1,
+        "text": "忽",
+        "variant": "又",
+        "source": "一作「又」"
+      },
+      {
+        "line": 4,
+        "text": "報",
+        "variant": "寄",
+        "source": "一作「寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_081_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "歸山居寄錢起",
+    "poem": [
+      "悵望青山下，回頭淚滿巾。",
+      "故鄉多古樹，落日少行人。",
+      "髮鬢將回色，簪纓未到身。",
+      "誰知武陵路，亦有漢家臣。"
+    ]
+  },
+  {
+    "uid": "QTS_285_082_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "曉發瓜州",
+    "poem": [
+      "曉發悲行客，停橈獨未前。",
+      "寒江半有月，野戍漸無煙。",
+      "棹唱臨高岸，鴻嘶發遠田。",
+      "誰知避徒御，對酒一潸然。"
+    ]
+  },
+  {
+    "uid": "QTS_285_083_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "江上喜逢司空文明",
+    "poem": [
+      "秦人江上見，握手淚沾巾。",
+      "落日見秋草，暮年逢故人。",
+      "非夫長作客，多病淺謀身。",
+      "臺閣舊親友，誰曾見苦辛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_084_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "同苗發慈恩寺避暑",
+    "poem": [
+      "追涼尋寶剎，畏日望璇題。",
+      "臥草同鴛侶，臨池似虎溪。",
+      "樹閒人跡外，山晚鳥行西。",
+      "若問無心法，蓮花隔淤泥。"
+    ]
+  },
+  {
+    "uid": "QTS_285_085_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送潘述宏詞下第歸江外",
+    "poem": [
+      "唱高人不和，此去淚難收。",
+      "上國經年住，長江滿目流。",
+      "弈棋知勝偶，射策請焚舟。",
+      "應是田□□，玄成許爾遊。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "田",
+        "variant": "由",
+        "source": "一作「由」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_086_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送張少府赴夏縣",
+    "poem": [
+      "雖為州縣職，還欲抱琴過。",
+      "樹古聞風草，山枯見雪多。",
+      "雞聲連絳市，馬色傍黃河。",
+      "太守新臨郡，還逢五歌。"
+    ]
+  },
+  {
+    "uid": "QTS_285_087_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "酬秘書元丞郊園臥疾見寄",
+    "poem": [
+      "聞說漳濱臥，題詩怨歲華。",
+      "求醫主高手，報疾到貧家。",
+      "撒枕銷行蟻，移杯失畫蛇。",
+      "明朝九衢上，應見玉人車。"
+    ]
+  },
+  {
+    "uid": "QTS_285_088_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送成都韋丞還蜀",
+    "poem": [
+      "蜀門雲樹合，高棧有猿愁。",
+      "驅傳加新命，之官向舊遊。",
+      "晨裝逢酒雨，夜夢見刀州。",
+      "遠別長相憶，當年莫滯留。"
+    ]
+  },
+  {
+    "uid": "QTS_285_089_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "秋晚旅舍寄苗員外",
+    "poem": [
+      "爭途苦不前，貧病遂連牽。",
+      "向暮同行客，當秋獨長年。",
+      "晚花唯有菊，寒葉已無蟬。",
+      "吏部逢今日，還應甕下眠。"
+    ]
+  },
+  {
+    "uid": "QTS_285_090_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送惟良上人歸潤州",
+    "poem": [
+      "擬詩偏不類，又送上人歸。",
+      "寄世同高鶴，尋仙稱壞衣。",
+      "雨行江草短，露坐海帆稀。",
+      "正被空門縛，臨岐乞解圍。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "仙稱",
+        "variant": "山補",
+        "source": "一作「山補」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_091_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送何兆下第還蜀",
+    "poem": [
+      "重江不可涉，孤客莫晨裝。",
+      "高木莎城小，殘星棧道長。",
+      "褭猿楓子落，過雨荔枝香。",
+      "勸爾成都住，文翁有草堂。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "高",
+        "variant": "古",
+        "source": "一作「古」"
+      },
+      {
+        "line": 2,
+        "text": "小",
+        "variant": "下",
+        "source": "一作「下」"
+      },
+      {
+        "line": 2,
+        "text": "星",
+        "variant": "霞",
+        "source": "一作「霞」"
+      },
+      {
+        "line": 3,
+        "text": "過",
+        "variant": "送",
+        "source": "一作「送」"
+      },
+      {
+        "line": 4,
+        "text": "草堂",
+        "variant": "學堂",
+        "source": "一作「學堂」，一作「舊房」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_092_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友人宰湘陰",
+    "poem": [
+      "從宦舟行遠，浮湘又入閩。",
+      "蒹葭無朔雁，檉栝有蠻神。",
+      "傳吏閒調象，山精暗訟人。",
+      "唯須千樹橘，暫救李衡貧。"
+    ]
+  },
+  {
+    "uid": "QTS_285_093_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送元晟歸江東舊居",
+    "poem": [
+      "澤國舟車接，關門雨雪乖。",
+      "春天行故楚，夜月下清淮。",
+      "講易居山寺，論詩到郡齋。",
+      "蔣家人暫別，三路草連階。"
+    ]
+  },
+  {
+    "uid": "QTS_285_094_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送黎少府赴陽翟",
+    "poem": [
+      "詩禮稱才子，神仙是丈人。",
+      "玉山那惜醉，金谷已無春。",
+      "白馬如風疾，青袍奪草新。",
+      "不嫌鳴吠客，願用百年身。"
+    ]
+  },
+  {
+    "uid": "QTS_285_095_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送夏侯審遊蜀",
+    "poem": [
+      "西望煙綿樹，愁君上蜀時。",
+      "同林息商客，隔棧見罛師。",
+      "石滑羊腸險，山空杜宇悲。",
+      "琴心正幽怨，莫奏鳳凰詩。"
+    ]
+  },
+  {
+    "uid": "QTS_285_096_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "單推官廳前雙桐詠",
+    "poem": [
+      "封植因高興，孤貞契素期。",
+      "由來得地早，何事結花遲。",
+      "葉重凝煙後，條寒過雨時。",
+      "還同李家樹，爭賦角弓詩。"
+    ]
+  },
+  {
+    "uid": "QTS_285_097_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送宋校書赴宣州幕",
+    "poem": [
+      "浮舟壓芳草，容裔逐江春。",
+      "遠避看書吏，行當入幕賓。",
+      "夜潮衝老樹，曉雨破輕蘋。",
+      "鴛鷺多傷別，欒家德在人。"
+    ]
+  },
+  {
+    "uid": "QTS_285_098_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送趙給事姪尉丹陽",
+    "poem": [
+      "太傅憐群從，門人亦賤回。",
+      "入官先愛子，賜酒許同杯。",
+      "淮海春多雨，蒹葭夜有雷。",
+      "遙知拜慶後，梅尉稱仙才。"
+    ]
+  },
+  {
+    "uid": "QTS_285_099_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿瓜州寄柳中庸",
+    "poem": [
+      "懷人同不寐，清夜起論文。",
+      "月魄正出海，雁行斜上雲。",
+      "寒潮來灩灩，秋葉下紛紛。",
+      "便送江東去，徘徊祗待君。"
+    ]
+  },
+  {
+    "uid": "QTS_285_100_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "夜宴虢縣張明府宅逢宇文評事",
+    "poem": [
+      "虢田留古宅，入夜足秋風。",
+      "月影來窗裡，燈光落水中。",
+      "徵詩逢謝客，飲酒得陶公。",
+      "更愛疏籬下，繁霜溼菊叢。"
+    ]
+  },
+  {
+    "uid": "QTS_285_101_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "冬夜集張尹後閣",
+    "poem": [
+      "乘龜兼戴豸，白面映朱衣。",
+      "安石還須起，泉明不得歸。",
+      "應門常吏在，登席舊寮稀。",
+      "遠客長先醉，那知亞相威。"
+    ]
+  },
+  {
+    "uid": "QTS_285_102_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "將之澤潞留別王郎中",
+    "poem": [
+      "弱年知己少，前路主人稀。",
+      "貧病期相惜，艱難又憶歸。",
+      "事成應未卜，身賤又無機。",
+      "幸到龍門下，須因羽翼飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_103_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "晚次巴陵",
+    "poem": [
+      "雪後柳條新，巴陵城下人。",
+      "烹魚邀水客，載酒奠山神。",
+      "雲去低斑竹，波迴動白蘋。",
+      "不堪逢楚老，日暮正江春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 3,
+        "text": "低",
+        "variant": "歸",
+        "source": "一作「歸」"
+      },
+      {
+        "line": 3,
+        "text": "波迴",
+        "variant": "風來",
+        "source": "一作「風來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_104_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送荀道士歸廬山",
+    "poem": [
+      "先生歸有處，欲別笑無言。",
+      "綠水到山口，青林連洞門。",
+      "月明尋石路，雲霽望花源。",
+      "早晚還乘鶴，悲歌向故園。"
+    ]
+  },
+  {
+    "uid": "QTS_285_105_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送張淑歸覲叔父",
+    "poem": [
+      "日慘長亭暮，天高大澤閒。",
+      "風中聞草木，雪裡見江山。",
+      "馬向塞雲去，人隨古道還。",
+      "阮家今夜樂，應在竹林間。"
+    ]
+  },
+  {
+    "uid": "QTS_285_106_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送郭參軍赴絳州",
+    "poem": [
+      "登車君莫望，故絳柳條春。",
+      "蒲澤逢胡雁，桃源見晉人。",
+      "佐軍髯尚短，擲地思還新。",
+      "小謝常攜手，因之醉路塵。"
+    ]
+  },
+  {
+    "uid": "QTS_285_107_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送袁稠游江南",
+    "poem": [
+      "江南衰草遍，十里見長亭。",
+      "客去逢搖落，鴻飛入杳冥。",
+      "空城寒雨細，深院曉燈青。",
+      "欲去行人起，徘徊恨酒醒。"
+    ]
+  },
+  {
+    "uid": "QTS_285_108_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送夏中丞赴寧國任",
+    "poem": [
+      "楚縣入青楓，長江一派通。",
+      "板橋尋謝客，古邑事陶公。",
+      "片雨收山外，連雲上漢東。",
+      "陸機猶滯洛，念子望南鴻。"
+    ]
+  },
+  {
+    "uid": "QTS_285_109_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送衞雄下第歸同州",
+    "poem": [
+      "不才先上第，詞客卻空還。",
+      "邊地行人少，平蕪盡日閒。",
+      "一蟬陂樹裡，眾火隴雲間。",
+      "羨汝歸茅屋，書窗見遠山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "不",
+        "variant": "下",
+        "source": "一作「下」"
+      },
+      {
+        "line": 3,
+        "text": "雲間",
+        "variant": "頭關",
+        "source": "一作「頭關」"
+      },
+      {
+        "line": 4,
+        "text": "遠山",
+        "variant": "晚山",
+        "source": "一作「晚山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_110_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送單少府赴扶風",
+    "poem": [
+      "少年趨盛府，顏色比花枝。",
+      "范丐非童子，楊修豈小兒。",
+      "叨陪丈人行，常恐阿戎欺。",
+      "此去雲霄近，看君逸足馳。"
+    ]
+  },
+  {
+    "uid": "QTS_285_111_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "題山中別業",
+    "poem": [
+      "舊宅在山中，閒門與寺通。",
+      "往來黃葉路，交結白頭翁。",
+      "晚筍難成竹，秋花不滿叢。",
+      "生涯祗粗糲，吾豈諱言窮。"
+    ]
+  },
+  {
+    "uid": "QTS_285_112_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送司空文明歸江上舊居",
+    "poem": [
+      "野菊有黃花，送君千里還。",
+      "鴻來燕又去，離別惜容顏。",
+      "流水通歸夢，行雲失故關。",
+      "江風正搖落，宋玉莫登山。"
+    ]
+  },
+  {
+    "uid": "QTS_285_113_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送新城戴叔倫明府",
+    "poem": [
+      "遙想隋堤路，春天楚國情。",
+      "白雲當海斷，青草隔淮生。",
+      "雁起斜還直，潮回遠復平。",
+      "萊蕪不可到，一醉送君行。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "情",
+        "variant": "晴",
+        "source": "一作「晴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_114_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送雍丘任少府",
+    "poem": [
+      "叢車餞才子，路走許東偏。",
+      "遠水同春色，繁花勝雪天。",
+      "鳥行侵楚邑，樹影向殷田。",
+      "莫學生鄉思，梅真正少年。"
+    ]
+  },
+  {
+    "uid": "QTS_285_115_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送雍郢州",
+    "poem": [
+      "厭郎思出守，遂領漢東軍。",
+      "望月逢殷浩，緣江送范雲。",
+      "城閒煙草遍，浦迥雪林分。",
+      "誰伴樓中宿，吟詩估客聞。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "守",
+        "variant": "寺",
+        "source": "一作「寺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_116_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "寄王密卿",
+    "poem": [
+      "酒樂今年少，僧期近日頻。",
+      "買山多為竹，卜宅不緣貧。",
+      "志業歸初地，文章寄此身。",
+      "嵇康雖有病，猶得見情人。"
+    ]
+  },
+  {
+    "uid": "QTS_285_117_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "與蕭遠上人游少華山寄皇甫侍御",
+    "poem": [
+      "尋危兼採藥，渡水又登山。",
+      "獨與高僧去，逍遙落日間。",
+      "漸看閭里遠，自覺性情閒。",
+      "迴首知音在，因令悵望還。"
+    ]
+  },
+  {
+    "uid": "QTS_285_118_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "代村中老人答",
+    "poem": [
+      "京洛風塵後，村鄉煙火稀。",
+      "少年曾失所，衰暮欲何依。",
+      "夜靜臨江哭，天寒踏雪歸。",
+      "時清應不見，言罷淚盈衣。"
+    ]
+  },
+  {
+    "uid": "QTS_285_119_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "贈故將軍",
+    "poem": [
+      "平生在邊日，鞍馬若星流。",
+      "獨出間千里，相知滿九州。",
+      "恃功凌主將，作氣見王侯。",
+      "誰道廉頗老，猶能報遠讎。"
+    ]
+  },
+  {
+    "uid": "QTS_285_120_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送陸郎中歸田司空幕",
+    "poem": [
+      "漢家分列宿，東土佐諸侯。",
+      "結束還軍府，光輝過御溝。",
+      "農桑連紫陌，分野入青州。",
+      "覆被恩難報，西看成白頭。"
+    ]
+  },
+  {
+    "uid": "QTS_285_121_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "酬晉侍御見寄",
+    "poem": [
+      "野客蒙詩贈，殊恩欲報難。",
+      "本求文舉識，不在子真官。",
+      "細雨雙林暮，重陽九日寒。",
+      "貧齋一叢菊，願與上賓看。"
+    ]
+  },
+  {
+    "uid": "QTS_285_122_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送銅澤王歸城",
+    "poem": [
+      "昔聞公族出，其從亦高車。",
+      "為善唯求樂，分貧必及疏。",
+      "身承漢枝葉，手習魯詩書。",
+      "尚說無功德，三年在石渠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "其",
+        "variant": "賓",
+        "source": "一作「賓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_123_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "江上別柳中庸",
+    "poem": [
+      "秦人江上見，握手便霑衣。",
+      "近日相知少，往年親故稀。",
+      "遠遊何處去，舊業幾時歸。",
+      "更向巴陵宿，堪聞雁北飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_124_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "喜皇甫郎中拜諭德兼集賢學士",
+    "poem": [
+      "為郎三載後，寵命一朝新。",
+      "望苑遷詞客，儒林拜丈人。",
+      "鶯飛綺閣曙，柳拂畫堂春。",
+      "幾日調金鼎，諸君欲望塵。"
+    ]
+  },
+  {
+    "uid": "QTS_285_125_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送黎兵曹往陝府結婚",
+    "poem": [
+      "東方發車騎，君是上頭人。",
+      "奠雁逢良日，行媒及仲春。",
+      "時稱渡河婦，宜配坦床賓。",
+      "安得同門吏，揚鞭入後塵。"
+    ]
+  },
+  {
+    "uid": "QTS_285_126_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送竇兵曹",
+    "poem": [
+      "梨花開上苑，遊女著羅衣。",
+      "聞道情人怨，應須走馬歸。",
+      "御橋遲日暖，官渡早鶯稀。",
+      "莫遣佳期過，看看蝴蝶飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_127_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "留別故人",
+    "poem": [
+      "此別不可道，此心當語誰。",
+      "春風灞水上，飲馬桃花時。",
+      "誤作好文士，祗應遊宦遲。",
+      "留書下朝客，我有故山期。"
+    ]
+  },
+  {
+    "uid": "QTS_285_128_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "奉送宋中丞使河源",
+    "poem": [
+      "東周遣戍役，才子欲離群。",
+      "部領河源去，悠悠隴水分。",
+      "笳聲悲塞草，馬首渡關雲。",
+      "辛苦逢炎熱，何時及漢軍。"
+    ]
+  },
+  {
+    "uid": "QTS_285_129_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "都亭驛送郭判官之幽州幕府",
+    "poem": [
+      "幕府參戎事，承明伏奏歸。",
+      "都亭使者出，杯酒故人違。",
+      "細雨霑官騎，輕風拂客衣。",
+      "還從大夫後，吾黨亦光輝。"
+    ]
+  },
+  {
+    "uid": "QTS_285_130_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送王羽林往秦州",
+    "poem": [
+      "秦州貴公子，漢日羽林郎。",
+      "事主來中禁，榮親上北堂。",
+      "輶車花擁路，寶劍雪生光。",
+      "直掃三邊靖，承恩向建章。"
+    ]
+  },
+  {
+    "uid": "QTS_285_131_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送友入關",
+    "poem": [
+      "聞君帝城去，西望一沾巾。",
+      "落日見秋草，暮年逢故人。",
+      "非才長作客，有命懶謀身。",
+      "近更嬰衰疾，空思老漢濱。"
+    ]
+  },
+  {
+    "uid": "QTS_285_132_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "代宗輓歌",
+    "poem": [
+      "祖庭三獻罷，嚴衞百靈朝。",
+      "警蹕移前殿，宮車上渭橋。",
+      "寒霜凝羽葆，野吹咽笳簫。",
+      "已向新京兆，誰雲天路遙。"
+    ]
+  },
+  {
+    "uid": "QTS_285_133_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "張左丞輓歌二首 其一",
+    "poem": [
+      "素旆低寒水，清笳出曉風。",
+      "鳥來傷賈傅，馬立葬滕公。",
+      "松柏青山上，城池白日中。",
+      "一朝今古隔，唯有月明同。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_285_133_02",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "張左丞輓歌二首 其二",
+    "poem": [
+      "禍集鉤方失，災生劍忽飛。",
+      "無由就日拜，空憶自天歸。",
+      "門吏看還葬，宮官識賜衣。",
+      "東堂哀贈畢，從此故臣稀。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_285_134_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "奉和王元二相避暑懷杜太尉",
+    "poem": [
+      "艱難嘗共理，海晏更相悲。",
+      "況復登堂處，分明避暑時。",
+      "綠槐千穗綻，丹藥一番遲。",
+      "蓬蓽今何幸，先朝大雅詩。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "朝",
+        "variant": "聞",
+        "source": "一作「聞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_285_135_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "青龍寺題故曇上人房",
+    "poem": [
+      "遠公留故院，一徑雪中微。",
+      "童子逢皆老，門人問亦稀。",
+      "翻經徒有處，攜履遂無歸。",
+      "空念尋巢鶴，時來傍影飛。"
+    ]
+  },
+  {
+    "uid": "QTS_285_136_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "早春夜望",
+    "poem": [
+      "舊雪逐泥沙，新雷發草芽。",
+      "曉霜應傍鬢，夜雨莫催花。",
+      "行矣前途晚，歸歟故國賒。",
+      "不勞報春盡，從此惜年華。"
+    ]
+  },
+  {
+    "uid": "QTS_285_137_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宴伊東岸",
+    "poem": [
+      "晴洲無遠近，一樹一潭春。",
+      "芳草留歸騎，朱櫻擲舞人。",
+      "空花對酒落，小翠隔林新。",
+      "竟日皆攜手，何由遇此辰。"
+    ]
+  },
+  {
+    "uid": "QTS_285_138_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雲際中峰居喜見苗發",
+    "poem": [
+      "自得中峰住，深林亦閉關。",
+      "經秋無客到，入夜有僧還。",
+      "暗澗泉聲小，荒村樹影閑。",
+      "高窗不可望，星月滿空山。"
+    ]
+  },
+  {
+    "uid": "QTS_285_139_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "宿洞庭",
+    "poem": [
+      "白水連天暮，洪波帶日流。",
+      "風高雲夢夕，月滿洞庭秋。",
+      "沙上漁人火，煙中賈客舟。",
+      "西園與南浦，萬里共悠悠。"
+    ]
+  },
+  {
+    "uid": "QTS_285_140_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "江上賽神",
+    "poem": [
+      "疎鼓應繁絲，送神歸九疑。",
+      "蒼龍隨赤鳳，帝子上天時。",
+      "驟雨歸山疾，長江下日遲。",
+      "獨憐遊宦子，今夜泊天涯。"
+    ]
+  },
+  {
+    "uid": "QTS_285_141_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "奉和元丞侍從遊南城別業",
+    "poem": [
+      "垂朱領孫子，從宴在池塘。",
+      "獻壽回龜顧，和羹躍鯉香。",
+      "高松先草晚，平石助泉涼。",
+      "餘橘期相及，門生有陸郎。"
+    ]
+  },
+  {
+    "uid": "QTS_285_142_01",
+    "volume": 285,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "送從舅成都丞廣南歸蜀",
+    "poem": [
+      "巴字天邊水，秦人去是歸。",
+      "棧長山雨響，溪亂火田稀。",
+      "俗富行應樂，官雄祿豈微。",
+      "魏舒終有淚，還溼甯家衣。"
+    ]
+  }
+]

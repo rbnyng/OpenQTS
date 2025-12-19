@@ -1,0 +1,1980 @@
+[
+  {
+    "uid": "QTS_005_001_01",
+    "volume": 5,
+    "author": {
+      "canonical": "長孫氏",
+      "recorded": "文德皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Empress Zhangsun",
+      "wikidata_id": "Q1152149"
+    },
+    "title": "春遊曲",
+    "poem": [
+      "上苑桃花朝日明",
+      "蘭閨豔妾動春情",
+      "井上新桃偷面色",
+      "檐邊嫩柳學身輕",
+      "花中來去看舞蝶",
+      "樹上長短聽啼鶯",
+      "林下何須遠借問",
+      "出衆風流舊有名"
+    ]
+  },
+  {
+    "uid": "QTS_005_002_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "曳鼎歌",
+    "poem": [
+      "羲農首出",
+      "軒昊膺期",
+      "唐虞繼踵",
+      "湯禹乘時",
+      "天下光宅",
+      "海內雍熙",
+      "上玄降鑒",
+      "方建隆基"
+    ]
+  },
+  {
+    "uid": "QTS_005_003_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第一",
+    "poem": [
+      "太陰凝至化，貞耀蘊軒儀。",
+      "德邁娥臺敞，仁高姒幄披。",
+      "捫天遂啟極，夢日乃昇曦。"
+    ],
+    "part_index": 1,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_02",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第二",
+    "poem": [
+      "瞻紫極，望玄穹。",
+      "翹至懇，罄深衷。",
+      "聽雖遠，誠必通。",
+      "垂厚澤，降雲宮。"
+    ],
+    "part_index": 2,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_03",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第三",
+    "poem": [
+      "乾儀混成沖邃，天道下濟高明。",
+      "闓陽晨披紫闕，太一曉降黃庭。",
+      "圓壇敢申昭報，方璧冀展虔情。",
+      "丹襟式敷衷懇，玄鑒庶察微誠。"
+    ],
+    "part_index": 3,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_04",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第四",
+    "poem": [
+      "巍巍叡業廣，赫赫聖基隆。",
+      "菲德承先顧，禎符萃眇躬。",
+      "銘開武巖側，圖薦洛川中。",
+      "微誠詎幽感，景命忽昭融。",
+      "有懷慚紫極，無以謝玄穹。"
+    ],
+    "part_index": 4,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_05",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第五",
+    "poem": [
+      "朝壇霧卷，曙嶺煙沈。",
+      "爰設筐幣，式表誠心。",
+      "筵輝麗璧，樂暢和音。",
+      "仰惟靈鑒，俯察翹襟。"
+    ],
+    "part_index": 5,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_06",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第六",
+    "poem": [
+      "昭昭上帝，穆穆下臨。",
+      "禮崇備物，樂奏鏘金。",
+      "蘭羞委薦，桂醑盈斟。",
+      "敢希明德，聿罄莊心。"
+    ],
+    "part_index": 6,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_07",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第七",
+    "poem": [
+      "樽浮九醖，禮備三周。",
+      "陳誠菲奠，契福神猷。"
+    ],
+    "part_index": 7,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_08",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第八",
+    "poem": [
+      "奠璧郊壇昭大禮，鏘金拊石表虔誠。",
+      "始奏《承雲》娛帝賞，復歌《調露》暢《韶》《英》。"
+    ],
+    "part_index": 8,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_09",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第九",
+    "poem": [
+      "荷恩承顧托，執契恭臨撫。",
+      "廟略靜邊荒，天兵曜神武。",
+      "有截資先化，無為遵舊矩。",
+      "禎符降昊穹，大業光寰宇。"
+    ],
+    "part_index": 9,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_10",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第十",
+    "poem": [
+      "肅肅祀典，邕邕禮秩。",
+      "三獻已周，九成斯畢。",
+      "爰撤其俎，載遷其實。",
+      "或升或降，唯誠唯質。"
+    ],
+    "part_index": 10,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_11",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第十一",
+    "poem": [
+      "禮終肆類，樂闋九成。",
+      "仰惟明德，敢薦非馨。",
+      "顧慚菲奠，久駐雲軿。",
+      "瞻荷靈澤，悚戀兼盈。"
+    ],
+    "part_index": 11,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_003_12",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐享昊天樂十二首 第十二",
+    "poem": [
+      "式乾路，辟天扉。",
+      "回日馭，動雲衣。",
+      "登金闕，入紫微。",
+      "望仙駕，仰恩徽。"
+    ],
+    "part_index": 12,
+    "total_parts": 12
+  },
+  {
+    "uid": "QTS_005_004_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:外辦將出",
+    "poem": [
+      "總章陳昔典",
+      "衢室禮惟神",
+      "宏規則天地",
+      "神用葉陶鈞",
+      "負扆三春旦",
+      "充庭萬宇賓",
+      "顧己誠虛薄",
+      "空慚馭兆人"
+    ]
+  },
+  {
+    "uid": "QTS_005_005_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:皇帝行",
+    "poem": [
+      "仰膺曆數",
+      "俯順謳歌",
+      "遠安邇肅",
+      "俗阜時和",
+      "化光玉鏡",
+      "訟息金科",
+      "方興典禮",
+      "永戢干戈"
+    ]
+  },
+  {
+    "uid": "QTS_005_006_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:皇嗣出入升降",
+    "poem": [
+      "至人光俗",
+      "大孝通神",
+      "謙以表性",
+      "恭惟立身",
+      "洪規載啓",
+      "茂典方陳",
+      "譽隆三善",
+      "祥開萬春"
+    ]
+  },
+  {
+    "uid": "QTS_005_007_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:迎送王公",
+    "poem": [
+      "千官肅事",
+      "萬國朝宗",
+      "載延百辟",
+      "爰集三宮",
+      "君臣德合",
+      "魚水斯同",
+      "睿圖方永",
+      "周曆長隆"
+    ]
+  },
+  {
+    "uid": "QTS_005_008_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:登歌",
+    "poem": [
+      "禮崇宗祀",
+      "志表嚴禋",
+      "笙鏞合奏",
+      "文物惟新",
+      "敬遵茂典",
+      "敢擇良辰",
+      "絜誠斯著",
+      "奠謁方申"
+    ]
+  },
+  {
+    "uid": "QTS_005_009_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:配饗",
+    "poem": [
+      "笙鏞間玉宇",
+      "文物昭清輝",
+      "晬影臨芳奠",
+      "休光下太微",
+      "孝思期有感",
+      "明絜庶無違"
+    ]
+  },
+  {
+    "uid": "QTS_005_010_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:宮音",
+    "poem": [
+      "履艮包羣望",
+      "居中冠百靈",
+      "萬方資廣運",
+      "庶品荷財成",
+      "神功諒匪測",
+      "盛德實難名",
+      "藻奠申誠敬",
+      "恭祀表惟馨"
+    ]
+  },
+  {
+    "uid": "QTS_005_011_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:角音",
+    "poem": [
+      "出震位，開平秩",
+      "扇條風，乘甲乙",
+      "龍德盛，鳥星出",
+      "薦珪篚，陳誠實"
+    ]
+  },
+  {
+    "uid": "QTS_005_012_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:徵音",
+    "poem": [
+      "赫赫離精御炎陸",
+      "滔滔熾景開隆暑",
+      "冀延神鑒俯蘭尊",
+      "式表虔襟陳桂俎"
+    ]
+  },
+  {
+    "uid": "QTS_005_013_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:商音",
+    "poem": [
+      "律中夷則",
+      "序應收成",
+      "功宣建武",
+      "義表惟明",
+      "爰申禮奠",
+      "庶展翹誠",
+      "九秋是式",
+      "百穀斯盈"
+    ]
+  },
+  {
+    "uid": "QTS_005_014_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐明堂樂章:羽音",
+    "poem": [
+      "葭律肇啓隆冬",
+      "蘋藻攸陳饗祭",
+      "黃鍾既陳玉燭",
+      "紅粒方殷稔歲"
+    ]
+  },
+  {
+    "uid": "QTS_005_015_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:昭和二首 其一",
+    "poem": [
+      "九玄眷命",
+      "三聖基隆",
+      "奉成先旨",
+      "明臺畢功",
+      "宗祀展敬",
+      "冀表深衷",
+      "永昌帝業",
+      "式播淳風"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_005_015_02",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:昭和二首 其二",
+    "poem": [
+      "舒雲致養",
+      "合大資生",
+      "德以恆固",
+      "功由永貞",
+      "升歌薦序",
+      "垂幣翹誠",
+      "虹開玉照",
+      "鳳引金聲"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_005_016_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:致和",
+    "poem": [
+      "神功不測兮運陰陽",
+      "包藏萬宇兮孕八荒",
+      "天符既出兮帝業昌",
+      "願臨明祀兮降禎祥"
+    ]
+  },
+  {
+    "uid": "QTS_005_017_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:咸和",
+    "poem": [
+      "坎澤祠容備舉",
+      "坤壇祭典爰申",
+      "靈睠遙行祕躅",
+      "嘉貺薦委殊珍",
+      "肅禮恭禋載展",
+      "翹襟邈志逾殷",
+      "方期交際懸應"
+    ]
+  },
+  {
+    "uid": "QTS_005_018_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:九和",
+    "poem": [
+      "祗荷坤德",
+      "欽若乾靈",
+      "慚惕罔寘",
+      "興居匪寧",
+      "恭崇禮則",
+      "肅奉儀形",
+      "惟憑展敬",
+      "敢薦非馨"
+    ]
+  },
+  {
+    "uid": "QTS_005_019_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:拜洛",
+    "poem": [
+      "菲躬承睿顧",
+      "薄德忝坤儀",
+      "乾乾遵後命",
+      "翼翼奉先規",
+      "撫俗勤雖切",
+      "還淳化尚虧",
+      "未能弘至道",
+      "何以契明祇"
+    ]
+  },
+  {
+    "uid": "QTS_005_020_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:顯和",
+    "poem": [
+      "顧德有慚虛菲",
+      "明祇屢降禎符",
+      "汜水初呈祕象",
+      "溫洛薦表昌圖",
+      "玄澤流恩載洽",
+      "丹襟荷渥增愉"
+    ]
+  },
+  {
+    "uid": "QTS_005_021_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:敬和",
+    "poem": [
+      "蘭俎既升",
+      "蘋羞可薦",
+      "金石載設",
+      "咸英已變",
+      "林澤斯總",
+      "山川是徧",
+      "敢用敷誠",
+      "實惟忘倦"
+    ]
+  },
+  {
+    "uid": "QTS_005_022_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:齊和",
+    "poem": [
+      "沈潛演貺分三極",
+      "廣大凝禎總萬方",
+      "既薦羽旌文化啓",
+      "還呈干戚武威揚"
+    ]
+  },
+  {
+    "uid": "QTS_005_023_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:德和",
+    "poem": [
+      "夕惕同龍契",
+      "晨兢當鳳扆",
+      "崇儒習舊規",
+      "偃伯循先旨",
+      "絕壤飛冠蓋",
+      "遐區麗山水",
+      "幸承三聖餘",
+      "忻屬千年始"
+    ]
+  },
+  {
+    "uid": "QTS_005_024_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:禋和",
+    "poem": [
+      "百禮崇容",
+      "千官肅事",
+      "靈降舞兆",
+      "神凝有粹",
+      "奠享咸周",
+      "威儀畢備",
+      "奏夏登列",
+      "歌雍撤肆"
+    ]
+  },
+  {
+    "uid": "QTS_005_025_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:通和",
+    "poem": [
+      "皇皇靈睠",
+      "穆穆神心",
+      "暫動凝質",
+      "還歸積陰",
+      "功玄樞紐",
+      "理寂高深",
+      "銜恩佩德",
+      "聳志翹襟"
+    ]
+  },
+  {
+    "uid": "QTS_005_026_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:歸和二首 其一",
+    "poem": [
+      "言旋雲洞兮躡煙塗",
+      "永寧中宇兮安下都",
+      "包涵動植兮順榮枯",
+      "長貽寶貺兮贊璇圖"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_005_026_02",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐大饗拜洛樂章:歸和二首 其二",
+    "poem": [
+      "調雲闋兮神座興",
+      "驂雲駕兮儼將升",
+      "騰絳霄兮垂景祜",
+      "翹丹懇兮荷休徵"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_005_027_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "唐武氏享先廟樂章",
+    "poem": [
+      "先德謙撝冠昔",
+      "嚴規節素超今",
+      "奉國忠誠每竭",
+      "承家至孝純深",
+      "追崇懼乖尊意",
+      "顯號恐玷徽音",
+      "既迫王公屢請",
+      "方乃俯遂羣心",
+      "有限無由展敬",
+      "奠醑每闕親斟",
+      "大禮虔申典冊",
+      "蘋藻敬薦翹襟"
+    ]
+  },
+  {
+    "uid": "QTS_005_028_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "早春夜宴",
+    "poem": [
+      "九春開上節",
+      "千門敞夜扉",
+      "蘭燈吐新燄",
+      "桂魄朗圓輝",
+      "送酒惟須滿",
+      "流杯不用稀",
+      "務使霞漿興",
+      "方乘汎洛歸"
+    ]
+  },
+  {
+    "uid": "QTS_005_029_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "遊九龍潭",
+    "poem": [
+      "山窗遊玉女",
+      "澗戶對瓊峯",
+      "巖頂翔雙鳳",
+      "潭心倒九龍",
+      "酒中浮竹葉",
+      "杯上寫芙蓉",
+      "故驗家山賞",
+      "惟有風入松"
+    ]
+  },
+  {
+    "uid": "QTS_005_030_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "贈胡天師",
+    "poem": [
+      "高人葉高志",
+      "山服往山家",
+      "迢迢間風月",
+      "去去隔煙霞",
+      "碧岫窺玄洞",
+      "玉竈鍊丹砂",
+      "今日星津上",
+      "延首望靈槎"
+    ]
+  },
+  {
+    "uid": "QTS_005_031_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "從駕幸少林寺",
+    "poem": [
+      "陪鑾遊禁苑",
+      "侍賞出蘭闈",
+      "雲偃攢峯蓋",
+      "霞低插浪旂",
+      "日宮疏澗戶",
+      "月殿啓巖扉",
+      "金輪轉金地",
+      "香閣曳香衣",
+      "鐸吟輕吹發",
+      "幡搖薄霧霏",
+      "昔遇焚芝火",
+      "山紅連野飛",
+      "花臺無半影",
+      "蓮塔有全輝",
+      "實賴能仁力",
+      "攸資善世威",
+      "慈緣興福緒",
+      "於此罄歸依",
+      "風枝不可靜",
+      "泣血竟何追"
+    ],
+    "preface": "覩先妃營建之所，倍切煢衿，逾悽遠慕，聊題既事，用述悲懷。"
+  },
+  {
+    "uid": "QTS_005_032_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "石淙",
+    "poem": [
+      "若夫圓嶠方壺，",
+      "涉滄波而靡際；",
+      "金台玉闕，陟縣圃而無階。",
+      "唯聞山海之經，空覽神仙之記。",
+      "爰有石淙者，即平樂澗也。",
+      "爾其近接嵩嶺，俯屆箕峰，瞻少室兮若蓮，睇潁川兮如帶。",
+      "既而躡崎嶇之山徑，蔭蒙密之藤蘿。",
+      "洶湧洪湍，",
+      "落虛潭而送響；",
+      "高低翠壁，列幽澗而開筵。",
+      "密葉舒帷，",
+      "屏梅氛而盪燠；",
+      "疏鬆引吹，清麥候以含涼。",
+      "就林藪而王心神，對煙霞而滌塵累。",
+      "森沈邱壑，",
+      "即是桃源；",
+      "淼漫平流，還浮竹箭。",
+      "紉薜荔而成帳，聳蓮石而如樓。",
+      "洞口全開，",
+      "溜千年之芳髓；",
+      "山腰半坼，吐十里之香粳。",
+      "無煩昆閬之遊，自然形勝之所，當使人題彩翰，各寫瓊篇。",
+      "庶無滯於幽棲，冀不孤於泉石。",
+      "各題四韻，咸賦七言。"
+    ]
+  },
+  {
+    "uid": "QTS_005_033_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "石淙",
+    "poem": [
+      "三山十洞光玄籙",
+      "玉嶠金巒鎮紫微",
+      "均露均霜標勝壤",
+      "交風交雨列皇畿",
+      "萬仞高巖藏日色",
+      "千尋幽澗浴雲衣",
+      "且駐歡筵賞仁智",
+      "琱鞍薄晚雜塵飛"
+    ]
+  },
+  {
+    "uid": "QTS_005_034_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "臘日宣詔幸上苑",
+    "poem": [
+      "明朝遊上苑",
+      "火急報春知",
+      "花須連夜發",
+      "莫待曉風吹"
+    ]
+  },
+  {
+    "uid": "QTS_005_035_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "如意娘",
+    "poem": [
+      "看朱成碧思紛紛",
+      "憔悴支離爲憶君",
+      "不信比來長下淚",
+      "開箱驗取石榴裙"
+    ]
+  },
+  {
+    "uid": "QTS_005_036_01",
+    "volume": 5,
+    "author": {
+      "canonical": "武則天",
+      "recorded": "則天皇后",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Wu Zetian",
+      "wikidata_id": "Q9738"
+    },
+    "title": "製袍字賜狄仁傑",
+    "poem": [
+      "敷政術",
+      "守清勤",
+      "升顯位",
+      "勵相臣"
+    ]
+  },
+  {
+    "uid": "QTS_005_037_01",
+    "volume": 5,
+    "author": {
+      "canonical": "徐惠",
+      "recorded": "徐賢妃",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Xu Hui",
+      "wikidata_id": "Q855999"
+    },
+    "title": "擬小山篇",
+    "poem": [
+      "仰幽巖而流盼",
+      "撫桂枝以凝想",
+      "將千齡兮此遇",
+      "荃何爲兮獨往"
+    ]
+  },
+  {
+    "uid": "QTS_005_038_01",
+    "volume": 5,
+    "author": {
+      "canonical": "徐惠",
+      "recorded": "徐賢妃",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Xu Hui",
+      "wikidata_id": "Q855999"
+    },
+    "title": "長門怨",
+    "poem": [
+      "舊愛柏梁臺",
+      "新寵昭陽殿",
+      "守分辭芳輦",
+      "含情泣團扇",
+      "一朝歌舞榮",
+      "夙昔詩書賤",
+      "頹恩誠已矣",
+      "覆水難重薦"
+    ]
+  },
+  {
+    "uid": "QTS_005_039_01",
+    "volume": 5,
+    "author": {
+      "canonical": "徐惠",
+      "recorded": "徐賢妃",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Xu Hui",
+      "wikidata_id": "Q855999"
+    },
+    "title": "秋風函谷應詔",
+    "poem": [
+      "秋風起函谷",
+      "勁氣動河山",
+      "偃松千嶺上",
+      "雜雨二陵間",
+      "低雲愁廣隰",
+      "落日慘重關",
+      "此時飄紫氣",
+      "應驗真人還"
+    ]
+  },
+  {
+    "uid": "QTS_005_040_01",
+    "volume": 5,
+    "author": {
+      "canonical": "徐惠",
+      "recorded": "徐賢妃",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Xu Hui",
+      "wikidata_id": "Q855999"
+    },
+    "title": "賦得北方有佳人",
+    "poem": [
+      "由來稱獨立",
+      "本自號傾城",
+      "柳葉眉間發",
+      "桃花臉上生",
+      "腕搖金釧響",
+      "步轉玉環鳴",
+      "纖腰宜寶襪",
+      "紅衫豔織成",
+      "懸知一顧重",
+      "別覺舞腰輕"
+    ]
+  },
+  {
+    "uid": "QTS_005_041_01",
+    "volume": 5,
+    "author": {
+      "canonical": "徐惠",
+      "recorded": "徐賢妃",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Xu Hui",
+      "wikidata_id": "Q855999"
+    },
+    "title": "進太宗",
+    "poem": [
+      "朝來臨鏡臺",
+      "妝罷暫裴回",
+      "千金始一笑",
+      "一召詎能來"
+    ]
+  },
+  {
+    "uid": "QTS_005_042_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "奉和聖制立春日侍宴內殿出翦綵花應制",
+    "poem": [
+      "密葉因裁吐",
+      "新花逐翦舒",
+      "攀條雖不謬",
+      "摘蕊詎知虛",
+      "春至由來發",
+      "秋還未肯疏",
+      "借問桃將李",
+      "相亂欲何如"
+    ]
+  },
+  {
+    "uid": "QTS_005_043_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "九月九日上幸慈恩寺登浮圖羣臣上菊花壽酒",
+    "poem": [
+      "帝里重陽節，香園萬乘來。",
+      "卻邪萸入佩，獻壽菊傳杯。",
+      "墖類承天湧，門疑待佛開。",
+      "睿詞懸日月，長得仰昭回。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "入",
+        "variant": "結",
+        "source": "一作「結」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_005_044_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "綵書怨",
+    "poem": [
+      "葉下洞庭初",
+      "思君萬里餘",
+      "露濃香被冷",
+      "月落錦屏虛",
+      "欲奏江南曲",
+      "貪封薊北書",
+      "書中無別意",
+      "惟悵久離居"
+    ]
+  },
+  {
+    "uid": "QTS_005_045_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "駕幸三會寺應制",
+    "poem": [
+      "釋子談經處",
+      "軒臣刻字留",
+      "故臺遺老識",
+      "殘簡聖皇求",
+      "駐蹕懷千古",
+      "開襟望九州",
+      "四山緣塞合",
+      "二水夾城流",
+      "宸翰陪瞻仰",
+      "天杯接獻酬",
+      "太平詞藻盛",
+      "長願紀鴻休"
+    ]
+  },
+  {
+    "uid": "QTS_005_046_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "駕幸新豐溫泉宮獻詩三首 一",
+    "poem": [
+      "三冬季月景龍年",
+      "萬乘觀風出灞川",
+      "遙看電躍龍爲馬",
+      "回矚霜原玉作田"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_005_046_02",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "駕幸新豐溫泉宮獻詩三首 二",
+    "poem": [
+      "鸞旂掣曳拂空回",
+      "羽騎驂驔躡景來",
+      "隱隱驪山雲外聳",
+      "迢迢御帳日邊開"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_005_046_03",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "駕幸新豐溫泉宮獻詩三首 三",
+    "poem": [
+      "翠幕珠幃敞月營",
+      "金罍玉斝泛蘭英",
+      "歲歲年年常扈蹕",
+      "長長久久樂升平"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_005_047_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 一",
+    "poem": [
+      "逐仙賞",
+      "展幽情",
+      "踰崑閬",
+      "邁蓬瀛"
+    ],
+    "part_index": 1,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_02",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二",
+    "poem": [
+      "遊魯館",
+      "陟秦臺",
+      "汚山壁",
+      "愧瓊瓌"
+    ],
+    "part_index": 2,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_03",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 三",
+    "poem": [
+      "檀欒竹影",
+      "飆䫻松聲",
+      "不煩歌吹",
+      "自足娛情"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "(音域)",
+        "context": "飆䫻松聲"
+      }
+    ],
+    "part_index": 3,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_04",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 四",
+    "poem": [
+      "仰循茅宇",
+      "俯眄喬枝",
+      "煙霞問訊",
+      "風月相知"
+    ],
+    "part_index": 4,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_05",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 五",
+    "poem": [
+      "枝條鬱鬱",
+      "文質彬彬",
+      "山林作伴",
+      "松桂爲鄰"
+    ],
+    "part_index": 5,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_06",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 六",
+    "poem": [
+      "清波洶湧",
+      "碧樹冥濛",
+      "莫怪留步",
+      "因攀桂叢"
+    ],
+    "part_index": 6,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_07",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 七",
+    "poem": [
+      "莫論圓嶠",
+      "休說方壺",
+      "何如魯館",
+      "即是仙都"
+    ],
+    "part_index": 7,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_08",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 八",
+    "poem": [
+      "玉環騰遠創",
+      "金埒荷殊榮",
+      "弗玩珠璣飾",
+      "仍留仁智情",
+      "鑿山便作室",
+      "憑樹即爲楹",
+      "公輸與班爾",
+      "從此遂韜聲"
+    ],
+    "part_index": 8,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_09",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 九",
+    "poem": [
+      "登山一長望",
+      "正遇九春初",
+      "結駟填街術",
+      "閭閻滿邑居",
+      "鬬雪梅先吐",
+      "驚風柳未舒",
+      "直愁斜日落",
+      "不畏酒尊虛"
+    ],
+    "part_index": 9,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_10",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十",
+    "poem": [
+      "霽曉氣清和",
+      "披襟賞薜蘿",
+      "玳瑁凝春色",
+      "琉璃漾水波",
+      "跂石聊長嘯",
+      "攀松乍短歌",
+      "除非物外者",
+      "誰就此經過"
+    ],
+    "part_index": 10,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_11",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十一",
+    "poem": [
+      "暫爾遊山第",
+      "淹留惜未歸",
+      "霞窗明月滿",
+      "澗戶白雲飛",
+      "書引藤爲架",
+      "人將薜作衣",
+      "此真攀玩所",
+      "臨睨賞光輝"
+    ],
+    "part_index": 11,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_12",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十二",
+    "poem": [
+      "放曠出煙雲",
+      "蕭條自不羣",
+      "漱流清意府",
+      "隱几避囂氛",
+      "石畫妝苔色",
+      "風梭織水文",
+      "山室何爲貴",
+      "唯餘蘭桂熏"
+    ],
+    "part_index": 12,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_13",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十三",
+    "poem": [
+      "策杖臨霞岫",
+      "危步下霜蹊",
+      "志逐深山靜",
+      "途隨曲澗迷",
+      "漸覺心神逸",
+      "俄看雲霧低",
+      "莫怪人題樹",
+      "祗爲賞幽棲"
+    ],
+    "part_index": 13,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_14",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十四",
+    "poem": [
+      "攀藤招逸客",
+      "偃桂協幽情",
+      "水中看樹影",
+      "風裏聽松聲"
+    ],
+    "part_index": 14,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_15",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十五",
+    "poem": [
+      "攜琴侍叔夜",
+      "負局訪安期",
+      "不應題石壁",
+      "爲記賞山時"
+    ],
+    "part_index": 15,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_16",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十六",
+    "poem": [
+      "泉石多仙趣",
+      "巖壑寫奇形",
+      "欲知堪悅耳",
+      "唯聽水泠泠"
+    ],
+    "part_index": 16,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_17",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十七",
+    "poem": [
+      "巖壑恣登臨",
+      "瑩目復怡心",
+      "風篁類長笛",
+      "流水當鳴琴"
+    ],
+    "part_index": 17,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_18",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十八",
+    "poem": [
+      "懶步天台路",
+      "惟登地肺山",
+      "幽巖仙桂滿",
+      "今日恣情攀"
+    ],
+    "part_index": 18,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_19",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 十九",
+    "poem": [
+      "暫遊仁智所",
+      "蕭然松桂情",
+      "寄言棲遯客",
+      "勿復訪蓬瀛"
+    ],
+    "part_index": 19,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_20",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十",
+    "poem": [
+      "瀑溜晴疑雨",
+      "叢篁晝似昏",
+      "山中真可玩",
+      "暫請報王孫"
+    ],
+    "part_index": 20,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_21",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十一",
+    "poem": [
+      "傍池聊試筆",
+      "倚石旋題詩",
+      "豫彈山水調",
+      "終擬從鍾期"
+    ],
+    "part_index": 21,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_22",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十二",
+    "poem": [
+      "橫鋪豹皮褥",
+      "側帶鹿胎巾",
+      "借問何爲者",
+      "山中有逸人"
+    ],
+    "part_index": 22,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_23",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十三",
+    "poem": [
+      "沁水田園先自多",
+      "齊城樓觀更無過",
+      "倩語張騫莫辛苦",
+      "人今從此識天河"
+    ],
+    "part_index": 23,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_24",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十四",
+    "poem": [
+      "參差碧岫聳蓮花",
+      "潺湲綠水瑩金沙",
+      "何須遠訪三山路",
+      "人今已到九仙家"
+    ],
+    "part_index": 24,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_047_25",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "遊長寧公主流杯池二十五首 二十五",
+    "poem": [
+      "憑高瞰險足怡心",
+      "菌閣桃源不暇尋",
+      "餘雪依林成玉樹",
+      "殘霙點岫即瑤岑"
+    ],
+    "part_index": 25,
+    "total_parts": 25
+  },
+  {
+    "uid": "QTS_005_048_01",
+    "volume": 5,
+    "author": {
+      "canonical": "上官婉兒",
+      "recorded": "上官昭容",
+      "gender": "female",
+      "period": "Early Tang",
+      "english_name": "Shangguan Wan'er",
+      "wikidata_id": "Q1285764"
+    },
+    "title": "句",
+    "poem": [
+      "勢如連璧友",
+      "心似臭蘭人"
+    ]
+  },
+  {
+    "uid": "QTS_005_049_01",
+    "volume": 5,
+    "author": {
+      "canonical": "楊玉環",
+      "recorded": "楊貴妃",
+      "gender": "female",
+      "period": "High Tang",
+      "english_name": "Yang Guifei",
+      "wikidata_id": "Q298046"
+    },
+    "title": "贈張雲容舞",
+    "poem": [
+      "羅袖動香香不已",
+      "紅蕖褭褭秋煙裏",
+      "輕雲嶺上乍搖風",
+      "嫩柳池邊初拂水"
+    ]
+  },
+  {
+    "uid": "QTS_005_050_01",
+    "volume": 5,
+    "author": {
+      "canonical": "江采蘋",
+      "recorded": "江妃",
+      "gender": "female",
+      "period": "High Tang",
+      "english_name": "Consort Mei",
+      "wikidata_id": "Q3540951"
+    },
+    "title": "謝賜珍珠",
+    "poem": [
+      "桂葉雙眉久不描",
+      "殘妝和淚汚紅綃",
+      "長門盡日無梳洗",
+      "何必珍珠慰寂寥"
+    ]
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "uid": "QTS_315_001_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "剡溪行卻寄新別者",
+    "poem": [
+      "潺湲寒溪上，自此成離別。",
+      "廻首望歸人，移舟逢暮雪。",
+      "頻行識草樹，漸老傷年髮。",
+      "唯有白雲心，爲向東山月。"
+    ]
+  },
+  {
+    "uid": "QTS_315_002_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "九日陪劉中丞宴昌樂寺送梁廷評",
+    "poem": [
+      "獨坐三臺妙，重陽百越間。",
+      "水心觀遠俗，霜氣入秋山。",
+      "不棄遺簮舊，寧辭落帽還。",
+      "仍聞西上客，咫尺謁天顔。"
+    ]
+  },
+  {
+    "uid": "QTS_315_003_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "經故賀賓客鏡湖道士觀",
+    "poem": [
+      "已得歸鄉里，逍遙一外臣。",
+      "那隨流水去，不待鏡湖春。",
+      "雪裏登山屐，林間漉酒巾。",
+      "空餘道士觀，誰是學仙人。"
+    ]
+  },
+  {
+    "uid": "QTS_315_004_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "送著公歸越",
+    "poem": [
+      "誰能愁此別，到越會相逄。",
+      "長憶雲門寺，門前千萬峰。",
+      "石牀埋積雪，山路倒枯松。",
+      "莫學白道士，無人知去蹤。"
+    ],
+    "notes": [
+      {
+        "content": "一作皇甫曾詩",
+        "context": "送著公歸越",
+        "original_title": "送著公歸越〈一作皇甫曾詩〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "道",
+        "variant": "衣",
+        "source": "一作「衣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_005_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "秣陵送客入京",
+    "poem": [
+      "秣陵春已至，君去學歸鴻。",
+      "綠水琴聲切，青袍草色同。",
+      "鳥喧金谷樹，花滿洛陽宮。",
+      "日日相思處，江邊楊柳風。"
+    ]
+  },
+  {
+    "uid": "QTS_315_006_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "靈門寺贈靈一上人",
+    "poem": [
+      "所思勞旦夕，惆悵去湘東。",
+      "禪客知何在？春山幾處同。",
+      "獨行殘雪裏，相見暮雲中。",
+      "請住東林寺，彌年事遠公。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "旦",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 1,
+        "text": "湘",
+        "variant": "湖",
+        "source": "一作「湖」"
+      },
+      {
+        "line": 4,
+        "text": "彌",
+        "variant": "窮",
+        "source": "一作「窮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_007_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "江上送別",
+    "poem": [
+      "浦邊新見柳揺時，北客相逄只自悲。",
+      "惆悵空知思後會，艱難不敢料前期。",
+      "行看漢月愁征戰，共折江花怨別離。",
+      "向夕孤城分首處，寂寥橫笛為君吹。"
+    ]
+  },
+  {
+    "uid": "QTS_315_008_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "歸桐廬舊居寄嚴長史",
+    "poem": [
+      "昨辭夫子櫂歸舟，家在桐廬憶舊丘。",
+      "三月暖時花競發，兩溪分處水爭流。",
+      "近聞江老傳鄉語，遙見家山減旅愁。",
+      "或在醉中逢夜雪，懷賢應向剡川遊。"
+    ],
+    "notes": [
+      {
+        "content": "一作章八元詩",
+        "context": "居寄嚴長史",
+        "original_title": "歸桐廬舊居寄嚴長史〈一作章八元詩〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_009_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "竹",
+    "poem": [
+      "青林何森然，沈沈獨曙前。",
+      "出墻同淅瀝，開戶滿嬋娟。",
+      "籜卷初呈粉，苔侵亂上錢。",
+      "踈中思水過，深處若山連。",
+      "疊夜常棲露，清朝乍有蟬。",
+      "砌陰迎緩䇿，簷翠對欹眠。",
+      "迸筍雙分箭，繁梢一向偏。",
+      "月過驚散雪，風動極聞泉。",
+      "幽谷添詩譜，高人慾製篇。",
+      "蕭蕭意何限，不獨往湘川。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "林",
+        "variant": "什",
+        "source": "一作「什」"
+      },
+      {
+        "line": 5,
+        "text": "露",
+        "variant": "鷺",
+        "source": "一作「鷺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_010_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "銅雀妓",
+    "poem": [
+      "恨唱歌聲咽，愁翻舞䄂遲。",
+      "西陵日欲暮，是妾斷腸時。"
+    ]
+  },
+  {
+    "uid": "QTS_315_011_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "毘陵留別",
+    "poem": [
+      "別離非一處，此處最傷情。",
+      "白髮將春草，相隨日日生。"
+    ]
+  },
+  {
+    "uid": "QTS_315_012_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "題竹林寺",
+    "poem": [
+      "歲月人間促，煙霞此地多。",
+      "殷勤竹林寺，能得幾廻過？"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "能",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_013_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "答陸灃",
+    "poem": [
+      "松葉堪為酒，春來釀幾多。",
+      "不辭山路遠，踏雪也相過。"
+    ]
+  },
+  {
+    "uid": "QTS_315_014_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "楊子津送人",
+    "poem": [
+      "今朝楊子津，忽見五溪人。",
+      "老病無餘事，丹砂乞五斤。"
+    ]
+  },
+  {
+    "uid": "QTS_315_015_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "山中謁皇甫曾",
+    "poem": [
+      "尋源路已盡，笑入白雲間。",
+      "不解乘軺客，那知有此山。"
+    ]
+  },
+  {
+    "uid": "QTS_315_016_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "剡山夜月",
+    "poem": [
+      "月在沃洲山上，人歸剡縣溪邊。",
+      "漠漠黃花覆水，時時白鷺驚船。"
+    ],
+    "notes": [
+      {
+        "content": "一題剡溪舟行",
+        "context": "剡山夜月",
+        "original_title": "剡山夜月〈一題剡溪舟行〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_017_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "九日與楊凝崔淑期登江上山會有故不得往因贈之",
+    "poem": [
+      "欲從攜手登高去，一到門前意已無。",
+      "那得更將頭上髮，學他年少插茱茰。"
+    ]
+  },
+  {
+    "uid": "QTS_315_018_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "山中聽子規",
+    "poem": [
+      "幽人自愛山中宿，又近葛洪丹井西。",
+      "窗中有箇長松樹，半夜子規來上啼。"
+    ],
+    "notes": [
+      {
+        "content": "一作顧況詩",
+        "context": "山中聽子規",
+        "original_title": "山中聽子規〈一作顧況詩〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_019_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "亂後經淮陰岸",
+    "poem": [
+      "荒村古岸誰家在，野水浮雲處處愁。",
+      "唯有河邊衰柳樹，蟬聲相送到揚州。"
+    ]
+  },
+  {
+    "uid": "QTS_315_020_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "送張山人",
+    "poem": [
+      "知君住處足風煙，古寺荒村在眼前。",
+      "便欲移家逐君去，唯愁未有買山錢。"
+    ]
+  },
+  {
+    "uid": "QTS_315_021_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "別李季蘭",
+    "poem": [
+      "古岸新花開一枝，岸傍花下有分離。",
+      "莫將羅袖拂花落，便是行人腸斷時。"
+    ]
+  },
+  {
+    "uid": "QTS_315_022_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "遊石澗寺",
+    "poem": [
+      "聞道幽深石澗寺，不逢流水亦難知。",
+      "莫道山僧無伴侶，獼猴長在古松枝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "獼猴",
+        "variant": "猴猿",
+        "source": "一作「猴猿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_023_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "新安所居答相訪人所居蕭使君為制",
+    "poem": [
+      "謝公見我多愁疾，為我開門對碧山。",
+      "君若欲來看猿鳥，不須爭把桂枝攀。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "疾",
+        "variant": "病",
+        "source": "一作「病」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_024_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "送魏校書",
+    "poem": [
+      "長恨江南足別離，幾廻相送復相隨。",
+      "楊花撩亂撲流水，愁殺人行知不知。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "楊",
+        "variant": "柳",
+        "source": "一作「柳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_315_025_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "送溫台",
+    "poem": [
+      "𦕈眇天涯君去時，浮雲流水自相隨。",
+      "人生一世長如客，何必今朝是別離。"
+    ]
+  },
+  {
+    "uid": "QTS_315_026_01",
+    "volume": 315,
+    "author": {
+      "canonical": "朱放",
+      "recorded": "朱放",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Zhu Fang",
+      "wikidata_id": "Q11002835"
+    },
+    "title": "句",
+    "poem": [
+      "愛彼雲外人，求取磵底泉。",
+      "風吹芭蕉拆，鳥啄梧桐落。"
+    ],
+    "part_index": 1
+  }
+]

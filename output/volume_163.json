@@ -1,0 +1,1141 @@
+[
+  {
+    "uid": "QTS_163_001_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "關山月",
+    "poem": [
+      "明月出天山，蒼茫雲海間。",
+      "長風幾萬里，吹度玉門關。",
+      "漢下白登道，胡窺青海灣。",
+      "由來征戰地，不見有人還。",
+      "戍客望邊色，思歸多苦顏。",
+      "高樓當此夜，歎息未應閑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蒼茫雲海間",
+        "variant": "蒼蒼蒞雲間",
+        "source": "一作「蒼蒼蒞雲間」"
+      },
+      {
+        "line": 5,
+        "text": "色",
+        "variant": "邑",
+        "source": "一作「邑」"
+      },
+      {
+        "line": 6,
+        "text": "閑",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_002_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "獨漉篇",
+    "poem": [
+      "獨漉水中泥，水濁不見月。",
+      "不見月尚可，水深行人沒。",
+      "越鳥從南來，胡鷹亦北渡。",
+      "我欲彎弓向天射，惜其中道失歸路。",
+      "落葉別樹，飄零隨風。",
+      "客無所託，悲與此同。",
+      "羅幃舒捲，似有人開。",
+      "明月直入，無心可猜。",
+      "雄劍掛壁，時時龍鳴。",
+      "不斷犀象，繡澀苔生。",
+      "國恥未雪，何由成名。",
+      "神鷹夢澤，不顧鴟鳶。",
+      "為君一擊，鵬搏九天。"
+    ]
+  },
+  {
+    "uid": "QTS_163_003_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "登高丘而望遠",
+    "poem": [
+      "登高丘，望遠海。",
+      "六鼇骨已霜，三山流安在。",
+      "扶桑半摧折，白日沈光彩。",
+      "銀臺金闕如夢中，秦皇漢武空相待。",
+      "精衛費木石，黿鼉無所憑。",
+      "君不見驪山茂陵盡灰滅，牧羊之子來攀登。",
+      "盜賊劫寶玉，精靈竟何能。",
+      "窮兵黷武今如此，鼎湖飛龍安可乘。"
+    ]
+  },
+  {
+    "uid": "QTS_163_004_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "陽春歌",
+    "poem": [
+      "長安白日照春空，綠楊結煙垂裊風。",
+      "披香殿前花始紅，流芳發色繡戶中。",
+      "繡戶中，相經過，飛燕皇后輕身舞，紫宮夫人絕世歌。",
+      "聖君三萬六千日，歲歲年年奈樂何？"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "世",
+        "variant": "代",
+        "source": "一作「代」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_005_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "楊叛兒",
+    "poem": [
+      "君歌楊叛兒，妾勸新豐酒。",
+      "何許最關人，烏啼白門柳。",
+      "烏啼隱楊花，君醉留妾家。",
+      "博山爐中沈香火，雙煙一氣凌紫霞。"
+    ]
+  },
+  {
+    "uid": "QTS_163_006_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雙燕離",
+    "poem": [
+      "雙燕復雙燕，雙飛令人羨。",
+      "玉樓珠閣不獨棲，金窗繡戶長相見。",
+      "柏梁失火去，因入吳王宮。",
+      "吳宮又焚蕩，雛盡巢亦空。",
+      "憔悴一身在，孀雌憶故雄。",
+      "雙飛難再得，傷我寸心中。"
+    ]
+  },
+  {
+    "uid": "QTS_163_007_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "山人勸酒",
+    "poem": [
+      "蒼蒼雲松，落落綺皓。",
+      "春風爾來爲阿誰，蝴蝶忽然滿芳草。",
+      "秀眉霜雪顏桃花，骨青髓綠長美好。",
+      "稱是秦時避世人，勸酒相歡不知老。",
+      "各守麋鹿志，恥隨龍虎爭。",
+      "歘起佐太子，漢王乃復驚。",
+      "顧謂戚夫人，彼翁羽翼成。",
+      "歸來商山下，泛若雲無情。",
+      "舉觴酹巢由，洗耳何獨清。",
+      "浩歌望嵩嶽，意氣還相傾。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "秀眉霜雪顏桃花，骨青髓綠長美好",
+        "variant": "秀眉雪霜桃花貌，青髓綠髮長美好",
+        "source": "一作「秀眉雪霜桃花貌，青髓綠髮長美好」"
+      },
+      {
+        "line": 5,
+        "text": "麋",
+        "variant": "兔",
+        "source": "一作「兔」"
+      },
+      {
+        "line": 6,
+        "text": "王",
+        "variant": "皇",
+        "source": "一作「皇」"
+      },
+      {
+        "line": 8,
+        "text": "商",
+        "variant": "南",
+        "source": "一作「南」"
+      },
+      {
+        "line": 9,
+        "text": "獨",
+        "variant": "太",
+        "source": "一作「太」"
+      },
+      {
+        "line": 10,
+        "text": "還",
+        "variant": "遙",
+        "source": "一作「遙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_008_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "于闐採花",
+    "poem": [
+      "于闐採花人，自言花相似。",
+      "明妃一朝西入胡，胡中美女多羞死。",
+      "乃知漢地多名姝，胡中無花可方比。",
+      "丹青能令醜者妍，無鹽翻在深宮裏。",
+      "自古妬蛾眉，胡沙埋皓齒。"
+    ]
+  },
+  {
+    "uid": "QTS_163_009_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "鞠歌行",
+    "poem": [
+      "玉不自言如桃李，魚目笑之卞和恥。",
+      "楚國青蠅何太多，連城白璧遭讒毀。",
+      "荊山長號泣血人，忠臣死爲刖足鬼。",
+      "聽曲知寧戚，夷吾因小妻。",
+      "秦穆五羊皮，買死百里奚。",
+      "洗拂青雲上，當時賤如泥。",
+      "朝歌鼓刀叟，虎變磻谿中。",
+      "一舉釣六合，遂荒營丘東。",
+      "平生渭水曲，誰識此老翁。",
+      "奈何今之人，雙目送飛鴻。"
+    ],
+    "variants": [
+      {
+        "line": 9,
+        "text": "識",
+        "variant": "數",
+        "source": "一作「數」"
+      },
+      {
+        "line": 10,
+        "text": "飛",
+        "variant": "征",
+        "source": "一作「征」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_010_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "幽澗泉",
+    "poem": [
+      "拂彼白石，彈吾素琴。",
+      "幽澗愀兮流泉深，善手明徽高張清。",
+      "心寂歷似千古，松颼飀兮萬尋。",
+      "中見愁猨弔影而危處兮，呌秋木而長吟。",
+      "客有哀時失職而聽者，淚淋浪以霑襟。",
+      "乃緝商輟羽，潺湲成音。",
+      "吾但寫聲發情於妙指，殊不知此曲之古今。",
+      "幽澗泉，鳴深林。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "職",
+        "variant": "志",
+        "source": "一作「志」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_011_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "王昭君二首 其一",
+    "poem": [
+      "漢家秦地月，流影照明妃。",
+      "一上玉關道，天涯去不歸。",
+      "漢月還從東海出，明妃西嫁無來日。",
+      "燕支長寒雪作花，蛾眉憔悴沒胡沙。",
+      "生乏黃金枉圖畫，死留青冢使人嗟。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "照",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_011_02",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "王昭君二首 其二",
+    "poem": [
+      "昭君拂玉鞍，上馬啼紅頰。",
+      "今日漢宮人，明朝胡地妾。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_163_012_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "中山孺子妾歌",
+    "poem": [
+      "中山孺子妾，特以色見珍。",
+      "雖然不如延年妹，亦是當時絕世人。",
+      "桃李出深井，花豔驚上春。",
+      "一貴復一賤，關天豈由身。",
+      "芙蓉老秋霜，團扇羞網塵。",
+      "戚姬髡髮入舂市，萬古共悲辛。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "髮",
+        "variant": "剪",
+        "source": "一作「剪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_013_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "荊州歌",
+    "poem": [
+      "白帝城邊足風波，瞿塘五月誰敢過。",
+      "荊州麥熟繭成蛾，繰絲憶君頭緒多。",
+      "撥穀飛鳴奈妾何。"
+    ]
+  },
+  {
+    "uid": "QTS_163_014_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雉子斑",
+    "poem": [
+      "辟邪伎作鼓吹驚，雉子班之奏曲成，喔咿振迅欲飛鳴。",
+      "扇錦翼，雄風生。",
+      "雙雌同飲啄，趫悍誰能爭。",
+      "乍向草中耿介死，不求黃金籠下生。",
+      "天地至廣大，何惜遂物情。",
+      "善卷讓天子，務光亦逃名。",
+      "所貴曠士懷，朗然合太清。"
+    ],
+    "preface": "〈一作「設辟邪伎鼓吹雉子斑曲辭」〉"
+  },
+  {
+    "uid": "QTS_163_015_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "相逢行",
+    "poem": [
+      "相逢紅塵內，高揖黃金鞭。",
+      "萬戶垂楊裡，君家阿那邊。"
+    ]
+  },
+  {
+    "uid": "QTS_163_016_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "有所思",
+    "poem": [
+      "我思仙人乃在碧海之東隅。",
+      "海寒多天風，白波連山倒蓬壺。",
+      "長鯨噴涌不可涉，撫心茫茫淚如珠。",
+      "西來青鳥東飛去，願寄一書謝麻姑。"
+    ],
+    "preface": "〈一作「古有所思行」〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "仙",
+        "variant": "佳",
+        "source": "一作「佳」"
+      },
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "天",
+        "source": "一作「天」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_017_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "久別離",
+    "poem": [
+      "別來幾春未還家，玉窗五見櫻桃花。",
+      "況有錦字書，開緘使人嗟。",
+      "至此腸斷彼心絕，雲鬟綠鬢罷梳結。",
+      "愁如回□亂白雪，去年寄書報陽台。",
+      "今年寄書重相催，東風兮東風，為我吹行雲使西來。",
+      "待來竟不來，落花寂寂委青苔。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "梳",
+        "variant": "攬",
+        "source": "一作「攬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_018_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "白頭吟",
+    "poem": [
+      "錦水東北流，波蕩雙鴛鴦。",
+      "雄巢漢宮樹，雌弄秦草芳。",
+      "寧同萬死碎綺翼，不忍雲間兩分張。",
+      "此時阿嬌正嬌妒，獨坐長門愁日暮。",
+      "但願君恩顧妾深，豈惜黃金買詞賦。",
+      "相如作賦得黃金，丈夫好新多異心。",
+      "一朝將聘茂陵女，文君因贈白頭吟。",
+      "東流不作西歸水，落花辭條羞故林。",
+      "兔絲固無情，隨風任傾倒。",
+      "誰使女蘿枝，而來強縈抱。",
+      "兩草猶一心，人心不如草。",
+      "莫卷龍鬚席，從他生網絲。",
+      "且留琥珀枕，或有夢來時。",
+      "覆水再收豈滿杯，棄妾已去難重回。",
+      "古來得意不相負，只今惟見青陵台。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "買詞",
+        "variant": "將買",
+        "source": "一作「將買」"
+      },
+      {
+        "line": 7,
+        "text": "贈",
+        "variant": "賦",
+        "source": "一作「賦」"
+      },
+      {
+        "line": 9,
+        "text": "固",
+        "variant": "本",
+        "source": "一作「本」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_019_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "采蓮曲",
+    "poem": [
+      "若耶溪旁采蓮女，笑隔荷花共人語。",
+      "日照新妝水底明，風飄香袂空中舉。",
+      "岸上誰家遊冶郎，三三五五映垂楊。",
+      "紫騮嘶入落花去，見此踟躕空斷腸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "袂",
+        "variant": "袖",
+        "source": "一作「袖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_020_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "臨江王節士歌",
+    "poem": [
+      "洞庭白波木葉稀，燕鴻始入吳雲飛。",
+      "吳雲寒，燕鴻苦，風號沙宿瀟湘浦。",
+      "節士悲秋淚如雨，白日當天心。",
+      "照之可以事明主，壯士憤，雄風生。",
+      "安得倚天劒，跨海斬長鯨。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "秋",
+        "variant": "感",
+        "source": "一作「感」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_021_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "司馬將軍歌",
+    "poem": [
+      "狂風吹古月，竊弄章華臺。",
+      "北落明星動光彩，南征猛將如雲雷。",
+      "手中電擊倚天劒，直斬長鯨海水開。",
+      "我見樓船壯心目，頗似龍驤下三蜀。",
+      "揚兵習戰張虎旗，江中白浪如銀屋。",
+      "身居玉帳臨河魁，紫髯若戟冠崔嵬。",
+      "細柳開營揖天子，始知灞上爲嬰孩。",
+      "羌笛橫吹阿嚲迴，向月樓中吹落梅。",
+      "將軍自起舞長劒，壯士呼聲動九垓。",
+      "功成獻凱見明主，丹青畫象麒麟臺。"
+    ],
+    "preface": "〈代隴上健兒陳安〉",
+    "variants": [
+      {
+        "line": 3,
+        "text": "擊",
+        "variant": "曳",
+        "source": "一作「曳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_022_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "君道曲",
+    "poem": [
+      "大君若天覆，廣運無不至。",
+      "軒後爪牙嘗先太山稽，如心之使臂。",
+      "小白鴻翼於夷吾，劉葛魚水本無二。",
+      "土校可成牆，積德爲厚地。"
+    ],
+    "preface": "〈梁之雅歌有五章，今作一章〉",
+    "variants": [
+      {
+        "line": 4,
+        "text": "校",
+        "variant": "扶",
+        "source": "一作「扶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_023_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "結襪子",
+    "poem": [
+      "燕南壯士吳門豪，築中置鉛魚隱刀。",
+      "感君恩重許君命，太山一擲輕鴻毛。"
+    ]
+  },
+  {
+    "uid": "QTS_163_024_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "結客少年場行",
+    "poem": [
+      "紫燕黃金瞳，啾啾搖綠鬉。",
+      "平明相馳逐，結客洛門東。",
+      "少年學劒術，凌轢白猨公。",
+      "珠袍曳錦帶，匕首插吳鴻。",
+      "由來萬夫勇，挾此生雄風。",
+      "託交從劇孟，買醉入新豐。",
+      "笑盡一杯酒，殺人都市中。",
+      "羞道易水寒，從令日貫虹。",
+      "燕丹事不立，虛沒秦帝宮。",
+      "舞陽死灰人，安可與成功。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "啾啾",
+        "variant": "稜稜",
+        "source": "一作「稜稜」"
+      },
+      {
+        "line": 8,
+        "text": "從",
+        "variant": "徒",
+        "source": "一作「徒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_025_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "長干行二首 其一",
+    "poem": [
+      "妾髮初覆額，折花門前劇。",
+      "郎騎竹馬來，遶牀弄青梅。",
+      "同居長干里，兩小無嫌猜。",
+      "十四爲君婦，羞顏未甞開。",
+      "低頭向暗壁，千喚不一回。",
+      "十五始展眉，願同塵與灰。",
+      "常存抱柱信，豈上望夫臺。",
+      "十六君遠行，瞿塘灩澦堆。",
+      "五月不可觸，猿聲天上哀。",
+      "門前遲行跡，一一生綠苔。",
+      "苔深不能掃，落葉秋風早。",
+      "八月胡蝶來，雙飛西園草。",
+      "感此傷妾心，坐愁紅顏老。",
+      "早晚下三巴，預將書報家。",
+      "相迎不道遠，直至長風沙。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 4,
+        "text": "未甞",
+        "variant": "尚不",
+        "source": "一作「尚不」"
+      },
+      {
+        "line": 7,
+        "text": "豈",
+        "variant": "恥",
+        "source": "一作「恥」"
+      },
+      {
+        "line": 9,
+        "text": "聲",
+        "variant": "鳴",
+        "source": "一作「鳴」"
+      },
+      {
+        "line": 10,
+        "text": "遲",
+        "variant": "舊",
+        "source": "一作「舊」"
+      },
+      {
+        "line": 10,
+        "text": "綠",
+        "variant": "蒼",
+        "source": "一作「蒼」"
+      },
+      {
+        "line": 12,
+        "text": "來",
+        "variant": "黃",
+        "source": "一作「黃」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_025_02",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "長干行二首 其二",
+    "poem": [
+      "憶妾深閨里，煙塵不曾識。",
+      "嫁與長干人，沙頭候風色。",
+      "五月南風興，思君下巴陵。",
+      "八月西風起，想君發揚子。",
+      "去來悲如何，見少離別多。",
+      "湘潭幾日到，妾夢越風波。",
+      "昨夜狂風度，吹折江頭樹。",
+      "淼淼暗無邊，行人在何處。",
+      "好乘浮雲驄，佳期蘭渚東。",
+      "鴛鴦綠蒲上，翡翠錦屏中。",
+      "自憐十五餘，顏色桃花紅。",
+      "那作商人婦，愁水復愁風。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "妾",
+        "variant": "昔",
+        "source": "一作「昔」"
+      },
+      {
+        "line": 3,
+        "text": "下",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_026_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "古朗月行",
+    "poem": [
+      "小時不識月，呼作白玉盤。",
+      "又疑瑤臺鏡，飛在青雲端。",
+      "仙人垂兩足，桂樹作團團。",
+      "白兔擣藥成，問言與誰餐。",
+      "蟾蜍蝕圓影，大明夜已殘。",
+      "羿昔落九烏，天人清且安。",
+      "陰精此淪惑，去去不足觀。",
+      "憂來其如何，悽愴摧心肝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "青",
+        "variant": "白",
+        "source": "一作「白」"
+      },
+      {
+        "line": 3,
+        "text": "作",
+        "variant": "何",
+        "source": "一作「何」"
+      },
+      {
+        "line": 4,
+        "text": "與誰",
+        "variant": "誰與",
+        "source": "一作「誰與」"
+      },
+      {
+        "line": 8,
+        "text": "悽",
+        "variant": "惻",
+        "source": "一作「惻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_027_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "上之回",
+    "poem": [
+      "三十六離宮，樓臺與天通。",
+      "閣道步行月，美人愁煙空。",
+      "恩疎寵不及，桃李傷春風。",
+      "淫樂意何極，金輿向回中。",
+      "萬乘出黃道，千旗揚彩虹。",
+      "前軍細柳北，後騎甘泉東。",
+      "豈問渭川老，寧邀襄野童。",
+      "但慕瑤池宴，歸來樂未窮。"
+    ],
+    "variants": [
+      {
+        "line": 8,
+        "text": "但慕",
+        "variant": "秋暮",
+        "source": "一作「秋暮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_028_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "獨不見",
+    "poem": [
+      "白馬誰家子，黃龍邊塞兒。",
+      "天山三丈雪，豈是遠行時。",
+      "春蕙忽秋草，莎雞鳴曲池。",
+      "風催寒梭響，月入霜閨悲。",
+      "憶與君別年，種桃齊蛾眉。",
+      "桃今百餘尺，花落成枯枝。",
+      "終然獨不見，流淚空自知。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "曲",
+        "variant": "西",
+        "source": "一作「西」"
+      },
+      {
+        "line": 4,
+        "text": "梭",
+        "variant": "椶",
+        "source": "一作「椶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_029_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "白紵辭三首 其一",
+    "poem": [
+      "揚清歌，發皓齒，北方佳人東隣子。",
+      "且吟白紵停綠水，長袖拂面爲君起。",
+      "寒雲夜卷霜海空，胡風吹天飄塞鴻。",
+      "玉顏滿堂樂未終，館娃日落歌吹濛。"
+    ],
+    "part_index": 1,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "歌",
+        "variant": "音",
+        "source": "一作「音」"
+      },
+      {
+        "line": 2,
+        "text": "且",
+        "variant": "旦",
+        "source": "一作「旦」"
+      },
+      {
+        "line": 4,
+        "text": "濛",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_029_02",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "白紵辭三首 其二",
+    "poem": [
+      "月寒江清夜沈沈，美人一笑千黃金。",
+      "垂羅舞縠揚哀音，郢中白雪且莫吟。",
+      "子夜吳歌動君心，動君心，冀君賞。",
+      "願作天池雙鴛鴦，一朝飛去青雲上。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_163_029_03",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "白紵辭三首 其三",
+    "poem": [
+      "吳刀剪綵縫舞衣，明妝麗服奪春暉。",
+      "揚眉轉袖若雪飛，傾城獨立世所稀。",
+      "激楚結風醉忘歸，高堂月落燭已微，玉釵掛纓君莫違。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "綵",
+        "variant": "綺",
+        "source": "一作「綺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_030_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "鳴雁行",
+    "poem": [
+      "胡雁鳴，辭燕山，昨發委羽朝度關。",
+      "一一銜蘆枝，南飛散落天地間。",
+      "連行接翼往復還，客居煙波寄湘吳。",
+      "凌霜觸雪毛體枯，畏逢矰繳驚相呼。",
+      "聞弦虛墜良可吁，君更彈射何爲乎。"
+    ]
+  },
+  {
+    "uid": "QTS_163_031_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "妾薄命",
+    "poem": [
+      "漢帝寵阿嬌，貯之黃金屋。",
+      "咳唾落九天，隨風生珠玉。",
+      "寵極愛還歇，妒深情卻疏。",
+      "長門一步地，不肯暫迴車。",
+      "雨落不上天，水覆難再收。",
+      "君情與妾意，各自東西流。",
+      "昔日芙蓉花，今成斷根草。",
+      "以色事他人，能得幾時好。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "寵",
+        "variant": "重",
+        "source": "一作「重」"
+      },
+      {
+        "line": 5,
+        "text": "難再",
+        "variant": "重難",
+        "source": "一作「重難」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_163_032_01",
+    "volume": 163,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "幽州胡馬客歌",
+    "poem": [
+      "幽州胡馬客，綠眼虎皮冠。",
+      "笑拂兩隻箭，萬人不可干。",
+      "彎弓若轉月，白雁落雲端。",
+      "雙雙掉鞭行，遊獵向樓蘭。",
+      "出門不顧後，報國死何難。",
+      "天驕五單于，狼戾好兇殘。",
+      "牛馬散北海，割鮮若虎餐。",
+      "雖居燕支山，不道朔雪寒。",
+      "婦女馬上笑，顏如赬玉盤。",
+      "飜飛射鳥獸，花月醉雕鞍。",
+      "旄頭四光芒，爭戰若蜂攢。",
+      "白刃灑赤血，流沙爲之丹。",
+      "名將古誰是，疲兵良可歎。",
+      "何時天狼滅，父子得閑安。"
+    ]
+  }
+]

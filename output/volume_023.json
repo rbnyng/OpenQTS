@@ -1,0 +1,1814 @@
+[
+  {
+    "uid": "QTS_023_001_01",
+    "volume": 23,
+    "author": {
+      "canonical": "貫休",
+      "recorded": "貫休",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Guan Xiu",
+      "wikidata_id": "Q3118758"
+    },
+    "title": "琴曲歌辭·白雪歌",
+    "poem": [
+      "列鼎佩金章，淚眼看風枝。",
+      "卻思食藜藿，身作屠沽兒。",
+      "負米無遠近，所希升斗歸。",
+      "為人無貴賤，莫學雞狗肥。",
+      "斯言如不忘，別更無光輝。",
+      "斯言如或忘，即安用人為。"
+    ]
+  },
+  {
+    "uid": "QTS_023_002_01",
+    "volume": 23,
+    "author": {
+      "canonical": "劉長卿",
+      "recorded": "劉長卿",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Zhangqing",
+      "wikidata_id": "Q717981"
+    },
+    "title": "琴曲歌辭·湘妃",
+    "poem": [
+      "帝子不可見，秋風來暮思。",
+      "嬋娟湘江月，千載空蛾眉。"
+    ]
+  },
+  {
+    "uid": "QTS_023_003_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "琴曲歌辭·湘妃",
+    "poem": [
+      "筠竹千年老不死，長伴秦娥蓋湘水。",
+      "蠻娘吟弄滿寒空，九山靜綠淚花紅。",
+      "離鸞別鳳煙梧中，巫雲蜀雨遙相通。",
+      "幽愁秋氣上青楓，涼夜波間吟古龍。"
+    ]
+  },
+  {
+    "uid": "QTS_023_004_01",
+    "volume": 23,
+    "author": {
+      "canonical": "孟郊",
+      "recorded": "孟郊",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Meng Jiao",
+      "wikidata_id": "Q1175924"
+    },
+    "title": "琴曲歌辭·湘妃怨",
+    "poem": [
+      "南巡竟不返，帝子怨逾積。",
+      "萬里喪蛾眉，瀟湘水空碧。",
+      "冥冥荒山下，古廟收貞魄。",
+      "喬木深青春，清光滿瑤席。",
+      "搴芳徒有薦，靈意殊脈脈。",
+      "玉佩不可親，裴回煙波夕。"
+    ]
+  },
+  {
+    "uid": "QTS_023_005_01",
+    "volume": 23,
+    "author": {
+      "canonical": "陳羽",
+      "recorded": "陳羽",
+      "gender": "male",
+      "wikidata_id": "Q22100892"
+    },
+    "title": "琴曲歌辭·湘妃怨",
+    "poem": [
+      "二妃怨處雲沉沉，二妃哭處湘水深。",
+      "商人酒滴廟前草，蕭颯風生斑竹林。"
+    ]
+  },
+  {
+    "uid": "QTS_023_006_01",
+    "volume": 23,
+    "author": {
+      "canonical": "鮑溶",
+      "recorded": "鮑溶",
+      "gender": "male",
+      "english_name": "Bao Rong",
+      "wikidata_id": "Q22773978"
+    },
+    "title": "琴曲歌辭·湘妃列女操",
+    "poem": [
+      "有虞夫人哭虞後，淑女何事又傷離。",
+      "竹上淚跡生不盡，寄哀雲和五十絲。",
+      "雲和經奏鈞天曲，乍聽寶琴遙嗣續。",
+      "三湘測測流急綠，秋夜露寒蜀帝飛。",
+      "楓林月斜楚臣宿，更疑川宮日黃昏。",
+      "暗攜女手殷勤言，環佩玲瓏有無間。",
+      "終疑既遠雙悄悄，蒼梧舊雲豈難召，老猿心寒不可嘯。",
+      "目眄眄兮意蹉跎，魂騰騰兮驚秋波。",
+      "曲一盡兮憶再奏，眾弦不聲且如何。"
+    ]
+  },
+  {
+    "uid": "QTS_023_007_01",
+    "volume": 23,
+    "author": {
+      "canonical": "鄒紹先",
+      "recorded": "鄒紹先"
+    },
+    "title": "琴曲歌辭·湘夫人",
+    "poem": [
+      "楓葉下秋渚，二妃愁渡湘。",
+      "疑山空杳藹，何處望君王。",
+      "日落水雲里，油油心自傷。"
+    ]
+  },
+  {
+    "uid": "QTS_023_008_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李頎",
+      "recorded": "李頎",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Qi",
+      "wikidata_id": "Q715369"
+    },
+    "title": "琴曲歌辭·湘夫人",
+    "poem": [
+      "九嶷日已暮，三湘雲復愁。",
+      "窅藹羅袂色，潺湲江水流。",
+      "佳期來北渚，捐玦在芳洲。"
+    ]
+  },
+  {
+    "uid": "QTS_023_009_01",
+    "volume": 23,
+    "author": {
+      "canonical": "郎士元",
+      "recorded": "郎士元",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Lang Shiyuan",
+      "wikidata_id": "Q11643069"
+    },
+    "title": "琴曲歌辭·湘夫人",
+    "poem": [
+      "娥眉對湘水，遙哭蒼梧間。",
+      "萬乘既已歿，孤舟誰忍還。",
+      "至今楚山上，猶有淚痕斑。",
+      "南有涔陽路，渺渺多新愁。",
+      "昔神降回時，風波江上秋。",
+      "彩雲忽無處，碧水空安流。"
+    ]
+  },
+  {
+    "uid": "QTS_023_010_01",
+    "volume": 23,
+    "author": {
+      "canonical": "沉佺期",
+      "recorded": "沉佺期"
+    },
+    "title": "琴曲歌辭·霹靂引",
+    "poem": [
+      "歲七月，火伏而金生。",
+      "客有鼓瑟於門者，奏霹靂之商聲。",
+      "始戛羽以騞砉，終扣宮而砰鈴。",
+      "電耀耀兮龍躍，雷闐闐兮雨冥。",
+      "氣嗚唅以會雅，態欻翕以橫生。",
+      "有如驅千旗，制五兵，截荒虺，斫長鯨。",
+      "孰與廣陵比，意別鶴儔精而已。",
+      "俾我雄子魄動，毅夫發立，懷恩不淺，武義雙輯。",
+      "視胡若芥，翦羯如拾。",
+      "豈徒慨慷中筵，備群娛之翕習哉。"
+    ]
+  },
+  {
+    "uid": "QTS_023_011_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·拘幽操",
+    "poem": [
+      "目掩掩兮其凝其盲，耳肅肅兮聽不聞聲。",
+      "朝不日出兮夜不見月與星，有知無知兮為死為生。",
+      "嗚呼！",
+      "臣罪當誅兮天王聖明。"
+    ]
+  },
+  {
+    "uid": "QTS_023_012_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·越裳操",
+    "poem": [
+      "雨之施，物以孳。",
+      "我何意於彼為？",
+      "自周之先，其艱其勤。",
+      "以有疆宇，私我後人。",
+      "我祖在上，四方在下。",
+      "厥臨孔威，敢戲以侮。",
+      "孰荒於門，孰治于田。",
+      "四海既均，越裳是臣。"
+    ]
+  },
+  {
+    "uid": "QTS_023_013_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·岐山操",
+    "poem": [
+      "我家於豳，自我先公。",
+      "伊我承緒，敢有不同。",
+      "今狄之人，將土我疆。",
+      "民為我戰，誰使死傷。",
+      "彼岐有岨，我往獨處。",
+      "人莫余追，無思我悲。"
+    ]
+  },
+  {
+    "uid": "QTS_023_014_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·履霜操",
+    "poem": [
+      "父兮兒寒，母兮兒飢。",
+      "兒罪當笞，逐兒何為。",
+      "兒在中野，以宿以處。",
+      "四無人聲，誰與兒語。",
+      "兒寒何衣，兒飢何食。",
+      "兒行於野，履霜以足。",
+      "母生眾兒，有母憐之。",
+      "獨無母憐，兒寧不悲。"
+    ]
+  },
+  {
+    "uid": "QTS_023_015_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·雉朝飛操",
+    "poem": [
+      "麥隴青青三月時，白雉朝飛挾兩雌。",
+      "錦衣綺翼何離𥛨，犢牧採薪感之悲。",
+      "春天和，白日暖，啄食飲泉勇氣滿，爭雄斗死繡頸斷。",
+      "雉子班奏急管弦，心傾美酒盡玉碗。",
+      "枯楊枯楊爾生荑，我獨七十而孤棲。",
+      "彈弦寫恨意不盡，瞑目歸黃泥。"
+    ]
+  },
+  {
+    "uid": "QTS_023_016_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·雉朝飛操",
+    "poem": [
+      "雉之飛，於朝日。",
+      "群雌孤雄，意氣橫出。",
+      "當東而西，當啄而飛。",
+      "隨飛隨啄，群雌粥粥。",
+      "嗟我雖人，曾不如彼雉雞。",
+      "生身七十年，無一妾與妃。"
+    ]
+  },
+  {
+    "uid": "QTS_023_017_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "琴曲歌辭·雉朝飛操",
+    "poem": [
+      "朝陽隴東泛暖景，雙啄雙飛雙顧影。",
+      "朱冠錦襦聊日整，漠漠霧中如衣絅。",
+      "傷心盧女弦，七十老翁長獨眠。",
+      "雄飛在草雌在田，衷腸結憤氣呵天。",
+      "聖人在上心不偏，翁得女妻甚可憐。"
+    ]
+  },
+  {
+    "uid": "QTS_023_018_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "琴曲歌辭·思歸引",
+    "poem": [
+      "重重作閨清旦鐍，兩耳深聲長不徹。",
+      "深宮坐愁百年身，一片玉中生憤血。",
+      "焦桐罷彈絲自絕，漠漠暗魂愁夜月。",
+      "故鄉不歸誰共穴，石上作蒲蒲九節。"
+    ]
+  },
+  {
+    "uid": "QTS_023_019_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·猗蘭操",
+    "poem": [
+      "蘭之猗猗，揚揚其香。",
+      "不採而佩，於蘭何傷。",
+      "今天之旋，其曷為然。",
+      "我行四方，以日以年。",
+      "雪霜貿貿，薺麥之茂。",
+      "子如不傷，我不爾覯。",
+      "薺麥之茂，薺麥之有。",
+      "君子之傷，君子之守。"
+    ]
+  },
+  {
+    "uid": "QTS_023_020_01",
+    "volume": 23,
+    "author": {
+      "canonical": "崔塗",
+      "recorded": "崔塗",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Cui Tu",
+      "wikidata_id": "Q3376455"
+    },
+    "title": "琴曲歌辭·幽蘭",
+    "poem": [
+      "幽植眾能知，貞芳只暗持。",
+      "自無君子佩，未是國香衰。",
+      "白露沾長早，青春每到遲。",
+      "不知當路草，芳馥欲何為。"
+    ]
+  },
+  {
+    "uid": "QTS_023_021_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·將歸操",
+    "poem": [
+      "秋之水兮其色幽幽，我將濟兮不得其由。",
+      "涉其淺兮石齧我足，乘其深兮龍入我舟。",
+      "我濟而悔兮將安歸尤。",
+      "歸乎歸乎，無與石斗兮無應龍求。"
+    ]
+  },
+  {
+    "uid": "QTS_023_022_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·龜山操",
+    "poem": [
+      "龜之氣兮不能雲雨，龜之木卉兮不中梁柱，龜之大兮只以奄魯。",
+      "知將隳兮哀莫余伍，周公有鬼兮嗟余歸輔。"
+    ]
+  },
+  {
+    "uid": "QTS_023_023_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·殘形操",
+    "poem": [
+      "有獸維狸兮我夢得之，其身孔明兮而頭不知。",
+      "吉凶何為兮覺坐而思，巫咸上天兮識者其誰。"
+    ]
+  },
+  {
+    "uid": "QTS_023_024_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·雙燕離",
+    "poem": [
+      "雙燕復雙燕，雙飛令人羨。",
+      "玉樓珠閣不獨棲，金窗繡戶長相見。",
+      "柏梁失火去，因入吳王宮。",
+      "吳宮又焚蕩，雛盡巢亦空。",
+      "憔悴一身在，孀雌憶故雄。",
+      "雙飛難再得，傷我寸心中。"
+    ]
+  },
+  {
+    "uid": "QTS_023_025_01",
+    "volume": 23,
+    "author": {
+      "canonical": "孟郊",
+      "recorded": "孟郊",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Meng Jiao",
+      "wikidata_id": "Q1175924"
+    },
+    "title": "琴曲歌辭·列女操",
+    "poem": [
+      "梧桐相待老，鴛鴦會雙死。",
+      "貞婦貴殉夫，捨生亦如此。",
+      "波瀾誓不起，妾心井中水。"
+    ]
+  },
+  {
+    "uid": "QTS_023_026_01",
+    "volume": 23,
+    "author": {
+      "canonical": "韓愈",
+      "recorded": "韓愈",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Han Yu",
+      "wikidata_id": "Q318998"
+    },
+    "title": "琴曲歌辭·別鵠操",
+    "poem": [
+      "雄鵠銜枝來，雌鵠啄泥歸。",
+      "巢成不生子，大義當乖離。",
+      "江漢水之大，鵠身鳥之微。",
+      "更無相逢日，安可相隨飛。"
+    ]
+  },
+  {
+    "uid": "QTS_023_027_01",
+    "volume": 23,
+    "author": {
+      "canonical": "楊巨源",
+      "recorded": "楊巨源"
+    },
+    "title": "琴曲歌辭·別鶴",
+    "poem": [
+      "海鶴一為別，高程方杳然。",
+      "影搖江海路，思結瀟湘天。",
+      "皎然仰白日，真姿棲紫煙。",
+      "含情九霄際，顧侶五雲前。",
+      "遐心屬清都，淒響激朱弦。",
+      "超搖間雲雨，迢遞各山川。",
+      "東南信多水，會合當有年。",
+      "雄飛戾冥寞，此意何由傳。"
+    ]
+  },
+  {
+    "uid": "QTS_023_028_01",
+    "volume": 23,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "琴曲歌辭·別鶴",
+    "poem": [
+      "主人一去池水絕，池鶴散飛不相別。",
+      "青天漫漫碧海重，知向何山風雪中。",
+      "萬里雖然音影在，向心終是死生同。",
+      "池邊巢破松樹死，樹頭年年烏生子。"
+    ]
+  },
+  {
+    "uid": "QTS_023_029_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "琴曲歌辭·別鶴",
+    "poem": [
+      "雙鶴出雲溪溪，分飛各自迷。",
+      "空巢在松杪，折羽落江泥。",
+      "尋水終不飲，逢林亦未棲。",
+      "別離應易老，萬里兩淒淒。"
+    ]
+  },
+  {
+    "uid": "QTS_023_030_01",
+    "volume": 23,
+    "author": {
+      "canonical": "杜牧",
+      "recorded": "杜牧",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Du Mu",
+      "wikidata_id": "Q334095"
+    },
+    "title": "琴曲歌辭·別鶴",
+    "poem": [
+      "分飛共所從，六翮勢摧風。",
+      "聲斷碧雲外，影孤明月中。",
+      "青田歸路遠，月桂舊巢空。",
+      "矯翼知何處，天涯不可窮。"
+    ]
+  },
+  {
+    "uid": "QTS_023_031_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "琴曲歌辭·走馬引",
+    "poem": [
+      "我有辭鄉劍，玉鋒堪截雲。",
+      "襄陽走馬客，意氣自生春。",
+      "朝嫌劍光靜，暮嫌劍花冷。",
+      "能持劍向人，不解持照身。"
+    ]
+  },
+  {
+    "uid": "QTS_023_032_01",
+    "volume": 23,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "琴曲歌辭·昭君怨",
+    "poem": [
+      "明妃風貌最娉婷，合在椒房應四星。",
+      "只得當年備宮掖，何曾專夜奉幃屏。",
+      "見疏從道迷圖畫，知屈那教配虜庭。",
+      "自是君恩薄如紙，不須一向恨丹青。"
+    ]
+  },
+  {
+    "uid": "QTS_023_033_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "琴曲歌辭·昭君怨二首 其一",
+    "poem": [
+      "萬裡邊城遠，千山行路難。",
+      "舉頭惟見月，何處是長安。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_033_02",
+    "volume": 23,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "琴曲歌辭·昭君怨二首 其二",
+    "poem": [
+      "漢庭無大議，戎虜幾先和。",
+      "莫羨傾城色，昭君恨最多。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_034_01",
+    "volume": 23,
+    "author": {
+      "canonical": "梁氏瓊",
+      "recorded": "梁氏瓊"
+    },
+    "title": "琴曲歌辭·昭君怨",
+    "poem": [
+      "自古無和親，貽災到妾身。",
+      "胡風嘶去馬，漢月吊行輪。",
+      "衣薄狼山雪，妝成虜塞春。",
+      "回看父母國，生死畢胡塵。"
+    ]
+  },
+  {
+    "uid": "QTS_023_035_01",
+    "volume": 23,
+    "author": {
+      "canonical": "楊凌",
+      "recorded": "楊凌"
+    },
+    "title": "琴曲歌辭·明妃怨",
+    "poem": [
+      "漢國明妃去不還，馬駝弦管向陰山。",
+      "匣中縱有菱花鏡，羞對單于照舊顏。"
+    ]
+  },
+  {
+    "uid": "QTS_023_036_01",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春曲二首 其一",
+    "poem": [
+      "萬樹江邊杏，新開一夜風。",
+      "滿園深淺色，照在綠波中。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_036_02",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春曲二首 其二",
+    "poem": [
+      "上苑何窮樹，花開次第新。",
+      "香車與絲騎，風靜亦生塵。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_037_01",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春辭二首 其一",
+    "poem": [
+      "曲江絲柳變煙條，寒骨冰隨暖氣銷。",
+      "才見春光生綺陌，已聞清樂動雲韶。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_037_02",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春辭二首 其二",
+    "poem": [
+      "經過柳陌與桃蹊，尋逐風光着處迷。",
+      "鳥度時時沖絮起，花繁袞袞壓枝低。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_038_01",
+    "volume": 23,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春辭三首 其一",
+    "poem": [
+      "晚游臨碧殿，日上望春亭。",
+      "芳樹羅仙仗，晴山展翠屏。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_023_038_02",
+    "volume": 23,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春辭三首 其二",
+    "poem": [
+      "一夜好風吹，新花一萬枝。",
+      "風前調玉管，花下簇金羈。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_023_038_03",
+    "volume": 23,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·遊春辭三首 其三",
+    "poem": [
+      "閶闔春風起，蓬萊雪水消。",
+      "相將折楊柳，爭取最長條。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_023_039_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·淥水曲",
+    "poem": [
+      "淥水明秋月，南湖采白蘋。",
+      "荷花嬌欲語，愁殺盪舟人。"
+    ]
+  },
+  {
+    "uid": "QTS_023_040_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·淥水辭",
+    "poem": [
+      "今宵好風月，阿侯在何處。",
+      "為有傾城色，翻成足愁苦。",
+      "東湖採蓮葉，南湖拔蒲根。",
+      "未持寄小姑，且持感愁魂。"
+    ]
+  },
+  {
+    "uid": "QTS_023_041_01",
+    "volume": 23,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·幽居弄",
+    "poem": [
+      "苔衣生，花露滴，月入西林蕩東壁。",
+      "扣商占角兩三聲，洞戶溪窗一冥寂。",
+      "獨去滄洲無四鄰，身嬰世網此何身。",
+      "關情命曲寄惆悵，久別江南山里人。"
+    ]
+  },
+  {
+    "uid": "QTS_023_042_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其一",
+    "poem": [
+      "春陽如昨日，碧樹鳴黃鸝。",
+      "蕪然蕙草暮，颯爾涼風吹。",
+      "天秋木葉下，月冷莎雞悲。",
+      "坐愁群芳歇，白露凋華滋。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_042_02",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其二",
+    "poem": [
+      "閼氏黃葉落，妾望白登台。",
+      "月出碧雲斷，蟬聲秋色來。",
+      "胡兵沙塞合，漢使玉關回。",
+      "征客無歸日，空悲蕙草摧。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_043_01",
+    "volume": 23,
+    "author": {
+      "canonical": "鮑溶",
+      "recorded": "鮑溶",
+      "gender": "male",
+      "english_name": "Bao Rong",
+      "wikidata_id": "Q22773978"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其一",
+    "poem": [
+      "胡風吹雁翼，遠別無人鄉。",
+      "君近雁來處，幾回斷君腸。",
+      "昔奉千日書，撫心怨星霜。",
+      "無書又千日，世路重茫茫。",
+      "燕國有佳麗，蛾眉富春光。",
+      "自然君歸晚，花落君空堂。",
+      "君其若不然，歲晚雙鴛鴦。",
+      "顧兔蝕殘月，幽光不如星。",
+      "女兒晚事夫，顏色同秋螢。",
+      "秋日邊馬思，武夫不遑寧。",
+      "燕歌易水怨，劍舞蛟龍腥。",
+      "風折連枝樹，水翻無蒂萍。",
+      "立身多戶門，何必燕山銘。",
+      "生世不如鳥，雙雙比翼翎。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_043_02",
+    "volume": 23,
+    "author": {
+      "canonical": "鮑溶",
+      "recorded": "鮑溶",
+      "gender": "male",
+      "english_name": "Bao Rong",
+      "wikidata_id": "Q22773978"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其二",
+    "poem": [
+      "季秋天地間，萬物生意足。",
+      "我憂長於生，安得及草木。",
+      "試從古人願，致酒歌秉燭。",
+      "燕趙皆世人，詎能長似玉。",
+      "俯憐老期近，仰視日車速。",
+      "蕭颯御風君，魂夢願相逐。",
+      "百年夜銷半，端為垂纓束。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_044_01",
+    "volume": 23,
+    "author": {
+      "canonical": "司空曙",
+      "recorded": "司空曙",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Sikong Shu",
+      "wikidata_id": "Q5953810"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思",
+    "poem": [
+      "靜與懶相偶，年將衰共催。",
+      "前途歡不集，往事恨空來。",
+      "晝景委紅葉，月華鋪綠苔。",
+      "沉思更何有，結坐玉琴哀。"
+    ]
+  },
+  {
+    "uid": "QTS_023_045_01",
+    "volume": 23,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思",
+    "poem": [
+      "身病時亦危，逢秋多慟哭。",
+      "風波一搖盪，天地幾翻覆。",
+      "孤螢出荒池，落葉穿破屋。",
+      "勢利長草草，何人訪幽獨。"
+    ]
+  },
+  {
+    "uid": "QTS_023_046_01",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其一",
+    "poem": [
+      "網軒涼吹動輕衣，夜聽更長玉漏稀。",
+      "月渡天河光轉濕，鵲驚秋樹葉頻飛。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_046_02",
+    "volume": 23,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "琴曲歌辭·蔡氏五弄·秋思二首 其二",
+    "poem": [
+      "宮連太液見蒼波，暑氣微清秋意多。",
+      "一夜輕風蘋末起，露珠翻盡滿池荷。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_047_01",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其一",
+    "poem": [
+      "漢室將衰兮四夷不賓，動干戈兮征戰頻。",
+      "哀哀父母生育我，見離亂兮當此辰。",
+      "紗窗對鏡未經事，將謂珠簾能蔽身。",
+      "一朝虜騎入中國，蒼黃處處逢胡人。",
+      "忽將薄命委鋒鏑，可惜紅顏隨虜塵。"
+    ],
+    "part_index": 1,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_02",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其二",
+    "poem": [
+      "馬上將余向絕域，厭生求死死不得。",
+      "戎羯腥膻豈是人，豺狼喜怒難姑息。",
+      "行盡天山足霜霰，風土蕭條近胡國。",
+      "萬里重陰鳥不飛，寒沙莽莽無南北。"
+    ],
+    "part_index": 2,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_03",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其三",
+    "poem": [
+      "如羈囚兮在縲紲，憂慮萬端無處說。",
+      "使餘力兮翦余發，食余肉兮飲余血。",
+      "誠知殺身願如此，以余為妻不如死。",
+      "早被蛾眉累此身，空悲弱質柔如水。"
+    ],
+    "part_index": 3,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_04",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其四",
+    "poem": [
+      "山川路長誰記得，何處天涯是鄉國。",
+      "自從驚怖少精神，不覺風霜損顏色。",
+      "夜中歸夢來又去，朦朧豈解傳消息。",
+      "漫漫胡天叫不聞，明明漢月應相識。"
+    ],
+    "part_index": 4,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_05",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其五",
+    "poem": [
+      "水頭宿兮草頭坐，風吹漢地衣裳破。",
+      "羊脂沐發長不梳，羔子皮裘領仍左。",
+      "狐襟貉袖腥復膻，晝披行兮夜披臥。",
+      "氈帳時移無定居，日月長兮不可過。"
+    ],
+    "part_index": 5,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_06",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其六",
+    "poem": [
+      "怪得春光不來久，胡中風土無花柳。",
+      "天翻地覆誰得知，如今正南看北斗。",
+      "姓名音信兩不通，終日經年常閉口。",
+      "是非取與在指撝，言語傳情不如手。"
+    ],
+    "part_index": 6,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_07",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其七",
+    "poem": [
+      "男兒婦人帶弓箭，塞馬蕃羊臥霜霰。",
+      "寸步東西豈自由，偷生乞死非情願。",
+      "龜茲篳篥愁中聽，碎葉琵琶夜深怨。",
+      "竟夕無雲月上天，故鄉應得重相見。"
+    ],
+    "part_index": 7,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_08",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其八",
+    "poem": [
+      "憶昔私家恣嬌小，遠取珍禽學馴擾。",
+      "如今淪棄念故鄉，悔不當初放林表。",
+      "朔風蕭蕭寒日暮，星河寥落胡天曉。",
+      "旦夕思歸不得歸，愁心想似籠中鳥。"
+    ],
+    "part_index": 8,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_09",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其九",
+    "poem": [
+      "當日蘇武單于問，道是賓鴻解傳信。",
+      "學他刺血寫得書，書上千重萬重恨。",
+      "髯鬍少年能走馬，彎弓射飛無遠近。",
+      "遂令邊雁轉怕人，絕域何由達方寸。"
+    ],
+    "part_index": 9,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_10",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十",
+    "poem": [
+      "恨凌辱兮惡腥膻，憎胡地兮怨胡天。",
+      "生得胡兒欲棄捐，及生母子情宛然。",
+      "貌殊語異憎還愛，心中不覺常相牽。",
+      "朝朝暮暮在眼前，腹生手養寧不憐。"
+    ],
+    "part_index": 10,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_11",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十一",
+    "poem": [
+      "日來月往相推遷，迢迢星歲欲周天。",
+      "無冬無夏臥霜霰，水凍草枯為一年。",
+      "漢家甲子有正朔，絕域三光空自懸。",
+      "幾回鴻雁來又去，腸斷蟾蜍虧復圓。"
+    ],
+    "part_index": 11,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_12",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十二",
+    "poem": [
+      "破瓶落井空永沉，故鄉望斷無歸心。",
+      "寧知遠使問姓名，漢語泠泠傳好音。",
+      "夢魂幾度到鄉國，覺後翻成哀怨深。",
+      "如今果是夢中事，喜過悲來情不任。"
+    ],
+    "part_index": 12,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_13",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十三",
+    "poem": [
+      "童稚牽衣雙在側，將來不可留又憶。",
+      "還鄉惜別兩難分，寧棄胡兒歸舊國。",
+      "山川萬里復邊戍，背面無由得消息。",
+      "淚痕滿面對殘陽，終日依依向南北。"
+    ],
+    "part_index": 13,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_14",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十四",
+    "poem": [
+      "莫以胡兒可羞恥，思情亦各言其子。",
+      "手中十指有長短，截之痛惜皆相似。",
+      "還鄉豈不見親族，念此飄零隔生死。",
+      "南風萬里吹我心，心亦隨風渡遼水。"
+    ],
+    "part_index": 14,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_15",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十五",
+    "poem": [
+      "嘆息襟懷無定分，當時怨來歸又恨。",
+      "不知愁怨意若何，似有鋒鋩擾方寸。",
+      "悲歡並行情未快，心意相尤自相問。",
+      "不緣生得天屬親，豈向仇讎結恩信。"
+    ],
+    "part_index": 15,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_16",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十六",
+    "poem": [
+      "去時只覺天蒼蒼，歸日始知胡地長。",
+      "重陰白日落何處，秋雁所向應南方。",
+      "平沙四顧自迷惑，遠近悠悠隨雁行。",
+      "征途未盡馬蹄盡，不見行人邊草黃。"
+    ],
+    "part_index": 16,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_17",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十七",
+    "poem": [
+      "行盡胡天千萬里，惟見黃沙白雲起。",
+      "馬飢跑雪銜草根，人渴敲冰飲流水。",
+      "燕山仿佛辨烽戍，鼙鼓如聞漢家壘。",
+      "努力前程是帝鄉，生前免向胡中死。"
+    ],
+    "part_index": 17,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_047_18",
+    "volume": 23,
+    "author": {
+      "canonical": "劉商",
+      "recorded": "劉商"
+    },
+    "title": "琴曲歌辭·胡笳十八拍 其十八",
+    "poem": [
+      "歸來故鄉見親族，田園半蕪春草綠。",
+      "明燭重然煨燼灰，寒泉更洗沉泥玉。",
+      "載持巾櫛禮儀好，一弄絲桐生死足。",
+      "出入關山十二年，哀情盡在胡笳曲。"
+    ],
+    "part_index": 18,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_023_048_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·飛龍引二首 其一",
+    "poem": [
+      "黃帝鑄鼎於荊山，煉丹砂，丹砂成黃金。",
+      "騎龍飛上太清家，雲愁海思令人嗟。",
+      "宮中彩女顏如花，飄然揮手凌紫霞。",
+      "從風縱體登鑾車。",
+      "登鑾車，侍軒轅，遨遊青天中，其樂不可言。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_048_02",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·飛龍引二首 其二",
+    "poem": [
+      "鼎湖流水清且閒，軒轅去時有弓劍。",
+      "古人傳道留其間，後宮嬋娟多花顏。",
+      "乘鸞飛煙亦不還，騎龍攀天造天關。",
+      "造天關，聞天語，長雲河車載玉女。",
+      "載玉女，過紫皇，紫皇乃賜白兔所搗之藥，後天而老凋三光。",
+      "下視瑤池見王母，蛾眉蕭颯如秋霜。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_049_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "琴曲歌辭·烏夜啼引",
+    "poem": [
+      "秦烏啼啞啞，夜啼長安吏人家。",
+      "吏人得罪囚在獄，傾家賣產將自贖。",
+      "少婦起聽夜啼烏，知是官家有赦書。",
+      "下床心喜不重寐，未明上堂賀舅姑。",
+      "少婦語啼烏，汝啼慎勿虛。",
+      "借汝庭樹作高巢，年年不令傷爾雛。"
+    ]
+  },
+  {
+    "uid": "QTS_023_050_01",
+    "volume": 23,
+    "author": {
+      "canonical": "郎大家宋氏",
+      "recorded": "郎大家宋氏"
+    },
+    "title": "琴曲歌辭·宛轉歌",
+    "poem": [
+      "風已清，月朗琴復鳴。",
+      "掩抑非千態，殷勤是一聲。",
+      "歌宛轉，宛轉和且長。",
+      "願為雙鴻鵠，比翼共翱翔。",
+      "日已暮，長檐鳥應度。",
+      "此時望君君不來，此時思君君不顧。",
+      "歌宛轉，宛轉那能異棲宿。",
+      "願為形與影，出入恆相逐。"
+    ]
+  },
+  {
+    "uid": "QTS_023_051_01",
+    "volume": 23,
+    "author": {
+      "canonical": "劉方平",
+      "recorded": "劉方平",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Fangping",
+      "wikidata_id": "Q6852559"
+    },
+    "title": "琴曲歌辭·宛轉歌二首 其一",
+    "poem": [
+      "星參差，月二八，燈五枝。",
+      "黃鶴瑤琴將別去，芙蓉羽帳惜空垂。",
+      "歌宛轉，宛轉恨無窮。",
+      "願為波與浪，俱起碧流中。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_051_02",
+    "volume": 23,
+    "author": {
+      "canonical": "劉方平",
+      "recorded": "劉方平",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Liu Fangping",
+      "wikidata_id": "Q6852559"
+    },
+    "title": "琴曲歌辭·宛轉歌二首 其二",
+    "poem": [
+      "曉將近，黃姑織女銀河盡。",
+      "九華錦衾無復情，千金寶鏡誰能引。",
+      "歌宛轉，宛轉傷別離。",
+      "願作楊與柳，同向玉窗垂。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_023_052_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張籍",
+      "recorded": "張籍",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Ji",
+      "wikidata_id": "Q836849"
+    },
+    "title": "琴曲歌辭·宛轉行",
+    "poem": [
+      "華屋重翠幄，綺席雕象床。",
+      "遠漏微更疏，薄衾中夜涼。",
+      "爐氳暗裴回，寒燈背斜光。",
+      "妍姿結宵態，寢臂幽夢長。",
+      "宛轉復宛轉，憶憶更未央。"
+    ]
+  },
+  {
+    "uid": "QTS_023_053_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "琴曲歌辭·王敬伯歌",
+    "poem": [
+      "妾本舟中客，聞君江上琴。",
+      "君初感妾嘆，妾亦感君心。",
+      "遂出合歡被，同為交頸禽。",
+      "傳杯惟畏淺，接膝猶嫌遠。",
+      "侍婢奏箜篌，女郎歌宛轉。",
+      "宛轉怨如何，中庭霜漸多。",
+      "霜多葉可惜，昨日非今夕。",
+      "徒結萬里歡，終成一宵客。",
+      "王敬伯，淥水青山從此隔。"
+    ]
+  },
+  {
+    "uid": "QTS_023_054_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李季蘭",
+      "recorded": "李季蘭",
+      "gender": "female",
+      "period": "High Tang",
+      "english_name": "Li Ye",
+      "wikidata_id": "Q11095991"
+    },
+    "title": "琴曲歌辭·三峽流泉歌",
+    "poem": [
+      "妾家本住巫山雲，巫山流水常自聞。",
+      "玉琴彈出轉寥夐，直似當時夢中聽。",
+      "三峽流泉幾千里，一時流入深閨里。",
+      "巨石奔崖指下生，飛波走浪弦中起。",
+      "初疑噴涌含雷風，又似嗚咽流不通。",
+      "回湍曲瀨勢將盡，時復滴瀝平沙中。",
+      "憶昔阮公為此曲，能使仲容聽不足。",
+      "一彈既罷復一彈，願似流泉鎮相續。"
+    ]
+  },
+  {
+    "uid": "QTS_023_055_01",
+    "volume": 23,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "琴曲歌辭·風入松歌",
+    "poem": [
+      "西嶺松聲落日秋，千枝萬葉風颼飀。",
+      "美人援琴弄成曲，寫得松間聲斷續。",
+      "聲斷續，清我魂，流波壞陵安足論。",
+      "美人夜坐月明里，含少商兮照清征。",
+      "風何淒兮飄鳳脊，攪寒松兮又夜起。",
+      "夜未央，曲何長，金徽更促聲泱泱。",
+      "何人此時不得意，意苦弦悲聞客堂。"
+    ]
+  },
+  {
+    "uid": "QTS_023_056_01",
+    "volume": 23,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "琴曲歌辭·秋風引",
+    "poem": [
+      "何處秋風至，蕭蕭送雁群。",
+      "朝來入庭樹，孤客最先聞。"
+    ]
+  },
+  {
+    "uid": "QTS_023_057_01",
+    "volume": 23,
+    "author": {
+      "canonical": "盧照鄰",
+      "recorded": "盧照鄰",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Lu Zhaolin",
+      "wikidata_id": "Q461800"
+    },
+    "title": "琴曲歌辭·明月引",
+    "poem": [
+      "洞庭波起兮鴻雁翔，風瑟瑟兮野蒼蒼。",
+      "浮雲卷靄，明月流光。",
+      "荊南兮趙北，碣石兮瀟湘。",
+      "澄清規於萬里，照離思於千行。",
+      "橫桂枝於西第，繞菱花於北堂。",
+      "高樓思婦，飛蓋君王。",
+      "文姬絕域，侍子他鄉。",
+      "見胡鞍之似練，知漢劍之如霜。",
+      "試登高而極目，莫不變而迴腸。"
+    ]
+  },
+  {
+    "uid": "QTS_023_058_01",
+    "volume": 23,
+    "author": {
+      "canonical": "閻朝隱",
+      "recorded": "閻朝隱",
+      "gender": "male",
+      "wikidata_id": "Q18906632"
+    },
+    "title": "琴曲歌辭·明月歌",
+    "poem": [
+      "梅花雪白柳葉黃，雲霧四起月蒼蒼，箭水泠泠刻漏長。",
+      "揮玉指，拂羅裳，為君一奏楚明光。"
+    ]
+  },
+  {
+    "uid": "QTS_023_059_01",
+    "volume": 23,
+    "author": {
+      "canonical": "宋之問",
+      "recorded": "宋之問",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Zhiwen",
+      "wikidata_id": "Q7561071"
+    },
+    "title": "琴曲歌辭·綠竹引",
+    "poem": [
+      "青溪綠潭潭水側，修竹嬋娟同一色。",
+      "徒生仙實鳳不游，老死空山人詎識。",
+      "妙年秉願逃俗紛，歸臥嵩丘弄白雲。",
+      "含情傲慰心目，何可一日無此君。"
+    ]
+  },
+  {
+    "uid": "QTS_023_060_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·山人勸酒",
+    "poem": [
+      "蒼蒼雲松，落落綺皓。",
+      "春風爾來為阿誰，胡蝶忽然滿芳草。",
+      "秀眉霜雪顏桃花，骨青髓綠長美好。",
+      "稱是秦時避世人，勸酒相歡不知老。",
+      "各守兔鹿志，恥隨龍虎爭。",
+      "欻起佐太子，漢王乃復驚。",
+      "顧謂戚夫人，彼翁羽翼成。",
+      "歸來南山下，泛若雲無情。",
+      "舉觴酹巢由，洗耳何獨清。",
+      "浩歌望嵩岳，意氣還相傾。"
+    ]
+  },
+  {
+    "uid": "QTS_023_061_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "琴曲歌辭·幽澗泉",
+    "poem": [
+      "拂彼白石，彈吾素琴。",
+      "幽澗愀兮流泉深，善手明徽高張清。",
+      "心寂歷似千古，松颼飀兮萬尋。",
+      "中見愁猿弔影而危處兮，叫秋木而長吟。",
+      "客有哀時失志而聽者，淚淋浪以沾襟。",
+      "乃緝商綴羽，潺湲成音。",
+      "吾但寫聲發情於妙指，殊不知此曲之古今。",
+      "幽澗泉，鳴深林。"
+    ]
+  },
+  {
+    "uid": "QTS_023_062_01",
+    "volume": 23,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "琴曲歌辭·龍宮操",
+    "poem": [
+      "龍宮月明光參差，精衛銜石東飛時，鮫人織綃采藕絲。",
+      "翻江倒海傾吳蜀，漢女江妃杳相續，龍王宮中水不足。"
+    ]
+  },
+  {
+    "uid": "QTS_023_063_01",
+    "volume": 23,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "琴曲歌辭·飛鳶操",
+    "poem": [
+      "鳶飛杳杳青雲里，鳶鳴蕭蕭風四起。",
+      "旗尾飄揚勢漸高，箭頭砉劃聲相似。",
+      "長空悠悠霽日懸，六翮不動凝飛煙。",
+      "游鵾翔雁出其下，慶雲清景相迴旋。",
+      "忽聞飢烏一噪聚，瞥下雲中爭腐鼠。",
+      "騰音礪吻相喧呼，仰天大嚇疑鴛雛。",
+      "畏人避犬投高處，俯啄無聲猶屢顧。",
+      "青鳥自愛玉山禾，仙禽徒貴華亭露。",
+      "朴𣙙危巢向暮時，毰毸飽腹蹲枯枝。",
+      "游童挾彈一麾肘，臆碎羽分人不悲。",
+      "天生眾禽各有類，威鳳文章在仁義。",
+      "鷹隼儀形螻蟻心，雖能戾天何足貴。"
+    ]
+  },
+  {
+    "uid": "QTS_023_064_01",
+    "volume": 23,
+    "author": {
+      "canonical": "李群玉",
+      "recorded": "李群玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "琴曲歌辭·升仙操",
+    "poem": [
+      "嬴女去秦宮，瓊簫生碧空。",
+      "鳳臺閉煙霧，鸞吹飄天風。",
+      "復聞周太子，亦遇浮丘公。",
+      "叢簧發仙弄，輕舉紫霞中。",
+      "濁世不久住，清都路何窮。",
+      "一去霄漢上，世人那得逢。"
+    ]
+  },
+  {
+    "uid": "QTS_023_065_01",
+    "volume": 23,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "琴曲歌辭·司馬相如琴歌",
+    "poem": [
+      "鳳兮鳳兮非無凰，山重水闊不可量。",
+      "梧桐結陰在朝陽，濯羽弱水鳴高翔。"
+    ]
+  },
+  {
+    "uid": "QTS_023_066_01",
+    "volume": 23,
+    "author": {
+      "canonical": "崔顥",
+      "recorded": "崔顥",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Cui Hao",
+      "wikidata_id": "Q715570"
+    },
+    "title": "琴曲歌辭·霍將軍",
+    "poem": [
+      "長安甲第高入雲，誰家居住霍將軍。",
+      "日晚朝回擁賓從，路傍揖拜何紛紛。",
+      "莫言炙手手可熱，須臾火盡灰亦滅。",
+      "莫言貧賤即可欺，人生富貴自有時。",
+      "一朝天子賜顏色，世上悠悠應自知。"
+    ]
+  },
+  {
+    "uid": "QTS_023_067_01",
+    "volume": 23,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "琴曲歌辭·琴歌",
+    "poem": [
+      "琴調秋些，胡風繞雪。",
+      "峽泉聲咽，佳人愁些。"
+    ]
+  }
+]

@@ -1,0 +1,4604 @@
+[
+  {
+    "uid": "QTS_028_001_01",
+    "volume": 28,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "帝子蒼梧不復歸，洞庭葉下荊雲飛。",
+      "巴人夜唱竹枝後，腸斷曉猨聲漸稀。"
+    ],
+    "preface": "〈《竹枝》本出於巴渝，唐貞元中，劉禹錫在沅湘以俚歌鄙陋，乃依騷人《九歌》作《竹枝新辭》九章，教里中兒歌之，由是盛於貞元、元和之間，其音協黃鍾羽末，如吳聲含思宛轉，有淇濮之豔。〉"
+  },
+  {
+    "uid": "QTS_028_002_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "白帝城頭春草生，白鹽山下蜀江清。",
+      "南人上來歌一曲，北人莫上動鄉情。"
+    ]
+  },
+  {
+    "uid": "QTS_028_003_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "山桃紅花滿上頭，蜀江春水拍江流。",
+      "花紅易衰似郎意，水流無限似儂愁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "江",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_004_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "江上朱樓新雨晴，瀼西春水縠文生。",
+      "橋東橋西好楊柳，人來人去唱歌行。"
+    ]
+  },
+  {
+    "uid": "QTS_028_005_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "日出三竿春霧消，江頭蜀客駐蘭橈。",
+      "凴寄狂夫書一紙，住在成都萬里橋。"
+    ]
+  },
+  {
+    "uid": "QTS_028_006_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "兩㟁山花似雪開，家家春酒滿銀杯。",
+      "昭君坊中多女伴，永安宮外踏青來。"
+    ]
+  },
+  {
+    "uid": "QTS_028_007_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "瞿塘嘈嘈十二灘，此中道路古來難。",
+      "長恨人心不如水，等閒平地起波瀾。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "此中",
+        "variant": "人言",
+        "source": "《集》作「人言」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_008_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "巫峽蒼蒼煙雨時，清猨啼在最高枝。",
+      "箇裏愁人腸自斷，由來不是此聲悲。"
+    ]
+  },
+  {
+    "uid": "QTS_028_009_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "城西門前灩澦堆，年年波浪不能摧。",
+      "懊惱人心不如石，少時東去復西來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "摧",
+        "variant": "推",
+        "source": "《集》作「推」"
+      },
+      {
+        "line": 2,
+        "text": "惱",
+        "variant": "恨",
+        "source": "《集》作「恨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_010_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "山上層層桃李花，雲間煙火是人家。",
+      "銀釧金釵來負水，長刀短笠去燒畬。"
+    ]
+  },
+  {
+    "uid": "QTS_028_011_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "楊柳青青江水平，聞郎江上唱歌聲。",
+      "東邊日出西邊雨，道是無情還有情。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "情",
+        "variant": "晴",
+        "source": "一作「晴」"
+      },
+      {
+        "line": 2,
+        "text": "還",
+        "variant": "卻",
+        "source": "《集》作「卻」"
+      },
+      {
+        "line": 2,
+        "text": "情",
+        "variant": "晴",
+        "source": "一作「晴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_012_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "楚水巴山江雨多，巴人能唱本鄉歌。",
+      "今朝北客思歸去，廻入紇那披綠蘿。"
+    ]
+  },
+  {
+    "uid": "QTS_028_013_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "瞿塘峽口冷煙低，白帝城頭月向西。",
+      "唱到竹枝聲咽處。",
+      "寒猨晴鳥一時啼。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "冷",
+        "variant": "水",
+        "source": "《集》作「水」"
+      },
+      {
+        "line": 2,
+        "text": "晴",
+        "variant": "闇",
+        "source": "《集》作「闇」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_014_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "竹枝苦怨怨何人，夜靜山空歇又聞。",
+      "蠻兒巴女齊聲唱，愁殺江樓病使君。"
+    ]
+  },
+  {
+    "uid": "QTS_028_015_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "巴東船舫上巴西，波面風生雨腳齊。",
+      "水蓼冷花紅簇蔟，江蘺溼葉碧萋萋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "萋萋",
+        "variant": "淒淒",
+        "source": "《集》作「淒淒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_016_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "江畔誰人唱竹枝，前聲斷咽後聲遲。",
+      "怪來調苦緣詞苦，多是通州司馬詩。"
+    ]
+  },
+  {
+    "uid": "QTS_028_017_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李涉",
+      "recorded": "李涉",
+      "gender": "male",
+      "english_name": "Li She",
+      "wikidata_id": "Q18909427"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "荊門灘急水潺潺，兩㟁猨啼煙滿山。",
+      "渡頭年少應官去，月落西陵望不還。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "年少",
+        "variant": "少年",
+        "source": "一作「少年」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_018_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李涉",
+      "recorded": "李涉",
+      "gender": "male",
+      "english_name": "Li She",
+      "wikidata_id": "Q18909427"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "巫峽雲開神女祠，綠潭紅樹影參差。",
+      "下牢戍口初相問，無義灘頭剰別離。"
+    ]
+  },
+  {
+    "uid": "QTS_028_019_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李涉",
+      "recorded": "李涉",
+      "gender": "male",
+      "english_name": "Li She",
+      "wikidata_id": "Q18909427"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "石壁千重樹萬重，白雲斜掩碧芙蓉。",
+      "昭君溪上年年月，獨自嬋娟色最濃。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "獨自",
+        "variant": "偏照",
+        "source": "《集》作「偏照」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_020_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李涉",
+      "recorded": "李涉",
+      "gender": "male",
+      "english_name": "Li She",
+      "wikidata_id": "Q18909427"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "十二峰頭月欲低，空濛江上子規啼。",
+      "孤舟一夜東歸客，泣向春風憶建溪。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "濛",
+        "variant": "聆",
+        "source": "《集》作「聆」"
+      },
+      {
+        "line": 2,
+        "text": "春",
+        "variant": "東",
+        "source": "《集》作「東」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_021_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "門前春水白蘋花，㟁上無人小艇斜。",
+      "商女經過江欲暮，散拋殘食飼神雅。"
+    ]
+  },
+  {
+    "uid": "QTS_028_022_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·竹枝",
+    "poem": [
+      "亂繩千結絆人深，越羅萬丈表長尋。",
+      "楊柳在身垂意緒，藕花落盡見蓮心。"
+    ]
+  },
+  {
+    "uid": "QTS_028_023_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "一樹春風萬萬枝，嫩於金色軟於絲。",
+      "永豐西角荒園裏，盡日無人屬阿誰？"
+    ],
+    "preface": "〈《楊柳枝》者，古題所謂《折楊柳》，本白居易洛中所製，宣宗朝國樂唱是辭，帝問「永豐在何處？」因取兩株植於禁中。居易又作辭一章。〉"
+  },
+  {
+    "uid": "QTS_028_024_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "一樹衰殘委泥土，雙枝榮耀植天庭。",
+      "定知玄象今春後，柳宿光中添兩星。"
+    ]
+  },
+  {
+    "uid": "QTS_028_025_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "六么水調家家唱，白雪梅花處處吹。",
+      "古歌舊曲君休聽，聽取新翻楊柳枝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_026_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "陶令門前四五樹，亞夫營裏百千條。",
+      "何似東都正二月，黃金枝映洛陽橋。"
+    ]
+  },
+  {
+    "uid": "QTS_028_027_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "依依嫋嫋復青青，句引清風無限情。",
+      "白雪花繁空撲地，綠絲條弱不勝鶯。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "清",
+        "variant": "春",
+        "source": "《集》作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_028_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "紅板江橋青酒旗，館娃宮暖日斜時。",
+      "可憐雨歇東風定，萬樹千條各自垂。"
+    ]
+  },
+  {
+    "uid": "QTS_028_029_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "蘇州楊柳任君誇，更有錢塘勝館娃。",
+      "若解多情尋小小，綠楊深處是蘇家。"
+    ]
+  },
+  {
+    "uid": "QTS_028_030_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "蘇家小女舊知名，楊柳風前別有情。",
+      "剝條盤作銀環様，卷葉吹為玊笛聲。"
+    ]
+  },
+  {
+    "uid": "QTS_028_031_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "葉含濃露如啼眼，枝嫋輕風似舞腰。",
+      "小樹不禁攀折苦，乞君留取兩三條。"
+    ]
+  },
+  {
+    "uid": "QTS_028_032_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "人言柳葉是愁眉，更有愁腸似柳絲。",
+      "柳絲挽斷腸牽斷，彼此應無續得期。"
+    ]
+  },
+  {
+    "uid": "QTS_028_033_01",
+    "volume": 28,
+    "author": {
+      "canonical": "盧貞",
+      "recorded": "盧貞",
+      "gender": "male",
+      "wikidata_id": "Q18905951"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "一樹依依在永豐，兩枝飛去杳無蹤。",
+      "玊皇曾采人間曲，應逐歌聲入九重。"
+    ]
+  },
+  {
+    "uid": "QTS_028_034_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "塞北梅花羌笛吹，淮南桂樹小山詞。",
+      "請君莫奏前朝曲，聽唱新翻楊柳枝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_035_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "南陌東城春早時，相逢何處不依依。",
+      "桃紅李白皆誇好，須得垂楊相發輝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_036_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "鳯闕輕遮翡翠帷，龍墀遙望麯塵絲。",
+      "御溝春水柳暉映，狂殺長安年少兒。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "柳",
+        "variant": "相",
+        "source": "《集》作「相」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_037_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "金谷園中鶯亂飛，銅駝陌上好風吹。",
+      "城東桃李須臾盡，爭似垂楊無限時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "東",
+        "variant": "中",
+        "source": "《集》作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_038_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "花蕚樓前初種時，美人樓上鬬腰支。",
+      "如今拋擲上街裏，露葉如啼欲恨誰。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "上",
+        "variant": "長",
+        "source": "一作「長」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_039_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "煬帝行宮汴水濱，數株殘柳不勝春。",
+      "昨來風起花如雪，飛入宮牆不見人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "株殘",
+        "variant": "枝楊",
+        "source": "《集》作「枝楊」"
+      },
+      {
+        "line": 2,
+        "text": "起",
+        "variant": "晚",
+        "source": "《集》作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_040_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "御陌青門拂地垂，千條金縷萬條絲。",
+      "如今綰作同心結，將贈行人知不知。"
+    ]
+  },
+  {
+    "uid": "QTS_028_041_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "城外春風滿酒旗，行人揮袂日西時。",
+      "長安陌上無窮樹，惟有垂楊管別離。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "滿",
+        "variant": "吹",
+        "source": "《集》作「吹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_042_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "輕盈嫋娜占春華，舞榭妝樓處處遮。",
+      "春盡絮飛留不得，隨風好去落誰家。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "飛",
+        "variant": "花",
+        "source": "《集》作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_043_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "楊子江頭煙景迷，隋家宮樹拂金堤。",
+      "嵯峨猶有當時，色半蘸波中水鳥棲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "有",
+        "variant": "是",
+        "source": "《集》作「是」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_044_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "迎得春光先到來，淺黃輕綠映樓臺。",
+      "只緣嫋娜多情思，便被春風長請挼。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "請挼",
+        "variant": "倩猜",
+        "source": "《集》作「倩猜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_045_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "巫峽巫山楊柳多，朝雲暮雨遠相和。",
+      "因想陽臺無限事，為君廻唱竹枝歌。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "竹",
+        "variant": "柳",
+        "source": "《集》作「柳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_046_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "暫憑樽酒送無憀，莫損愁眉與細腰。",
+      "人世死前惟有別，春風爭擬惜長條。"
+    ]
+  },
+  {
+    "uid": "QTS_028_047_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "含煙惹霧每依依，萬緒千條拂落暉。",
+      "為報行人休盡折，半留相送半迎歸。"
+    ]
+  },
+  {
+    "uid": "QTS_028_048_01",
+    "volume": 28,
+    "author": {
+      "canonical": "韓琮",
+      "recorded": "韓琮",
+      "gender": "male",
+      "wikidata_id": "Q15950624"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "梁苑隋堤事巳空，萬條猶舞舊春風。",
+      "那堪更想千年後，誰見楊花入漢宮。"
+    ]
+  },
+  {
+    "uid": "QTS_028_049_01",
+    "volume": 28,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "傷見路傍楊柳春，一枝折盡一重新。",
+      "今年還折去年處，不送去年離別人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "傍",
+        "variant": "邊",
+        "source": "《集》作「邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_050_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "宜春苑外最長條，閒嫋春風伴舞腰。",
+      "正是玉人腸斷處，一渠春水赤欄橋。"
+    ]
+  },
+  {
+    "uid": "QTS_028_051_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "南內牆東御路傍，預知春色柳絲黃。",
+      "杏花未肯無情思，何事情人最斷腸。"
+    ]
+  },
+  {
+    "uid": "QTS_028_052_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "蘇小門前柳萬條，毿毿金線拂平橋。",
+      "黃鶯不語東風起，深閉朱門伴細腰。"
+    ]
+  },
+  {
+    "uid": "QTS_028_053_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "金縷毿毿碧瓦溝，六宮眉黛惹春愁。",
+      "晚來更帶龍池雨，半拂欄干半入樓。"
+    ]
+  },
+  {
+    "uid": "QTS_028_054_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "館娃宮外鄴城西，遠映征帆近拂堤。",
+      "繫得王孫歸意切，不關春草綠萋萋。"
+    ]
+  },
+  {
+    "uid": "QTS_028_055_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "兩兩黃鸝色似金，嫋枝啼露動芳音。",
+      "春來幸自長如線，可惜牽纏蕩子心。"
+    ]
+  },
+  {
+    "uid": "QTS_028_056_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "御柳如絲映九重，鳯凰窗柱繡芙蓉。",
+      "景陽樓畔千條露，一面新妝待曉鍾。"
+    ]
+  },
+  {
+    "uid": "QTS_028_057_01",
+    "volume": 28,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "織錦機邊鶯語頻，停梭垂涙憶征人。",
+      "塞門三月猶蕭索，縦有垂楊未覺春。"
+    ]
+  },
+  {
+    "uid": "QTS_028_058_01",
+    "volume": 28,
+    "author": {
+      "canonical": "皇甫松",
+      "recorded": "皇甫松"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "春入行宮映翠微，玄宗侍女舞煙絲。",
+      "如今柳向空城綠，玊笛何人更把吹。"
+    ]
+  },
+  {
+    "uid": "QTS_028_059_01",
+    "volume": 28,
+    "author": {
+      "canonical": "皇甫松",
+      "recorded": "皇甫松"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "爛熳春歸水國時，吳王宮殿柳垂絲。",
+      "黃鶯長叫空閨畔，西子無因更得知。"
+    ]
+  },
+  {
+    "uid": "QTS_028_060_01",
+    "volume": 28,
+    "author": {
+      "canonical": "僧齊巳",
+      "recorded": "僧齊巳",
+      "gender": "male"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "鳯樓高映綠陰陰，凝碧多含雨露深。",
+      "莫謂一枝柔軟力，幾曾牽破別離心。"
+    ]
+  },
+  {
+    "uid": "QTS_028_061_01",
+    "volume": 28,
+    "author": {
+      "canonical": "僧齊巳",
+      "recorded": "僧齊巳",
+      "gender": "male"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "館娃宮畔響廊前，依託吳王養翠煙。",
+      "劍去國亡臺榭毀，卻隨紅樹噪秋蟬。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "榭",
+        "variant": "殿",
+        "source": "《集》作「殿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_062_01",
+    "volume": 28,
+    "author": {
+      "canonical": "僧齊巳",
+      "recorded": "僧齊巳",
+      "gender": "male"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "穠低似中陶潛酒，軟極如傷宋玊風。",
+      "多謝將軍遶營種，翠中閒卓戰旗紅。"
+    ]
+  },
+  {
+    "uid": "QTS_028_063_01",
+    "volume": 28,
+    "author": {
+      "canonical": "僧齊巳",
+      "recorded": "僧齊巳",
+      "gender": "male"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "高僧愛惜遮江寺，逰子傷殘露野橋。",
+      "爭似著行垂上苑，碧桃紅杏對揺揺。"
+    ]
+  },
+  {
+    "uid": "QTS_028_064_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "莫折宮前楊柳枝，玄宗曾向笛中吹。",
+      "傷心日暮煙霞起，無限春愁生翠眉。"
+    ]
+  },
+  {
+    "uid": "QTS_028_065_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張祜",
+      "recorded": "張祜",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Hu",
+      "wikidata_id": "Q11067506"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "凝碧池邊歛翠眉，景陽臺下綰青絲。",
+      "那勝妃子朝元閣，玉手和煙弄一枝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_066_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "靈和風暖太昌春，舞線揺絲向昔人。",
+      "何似曉來江雨後，一行如畫隔遙津。"
+    ]
+  },
+  {
+    "uid": "QTS_028_067_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "彭澤初栽五樹時，只應閒看一枝枝。",
+      "不知天意風流處，要與佳人學畫眉。"
+    ]
+  },
+  {
+    "uid": "QTS_028_068_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "暖傍離亭靜拂橋，入流穿檻綠揺揺。",
+      "不知落日誰相送，魂斷千條與萬條。"
+    ]
+  },
+  {
+    "uid": "QTS_028_069_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "春來綠樹遍天涯，未見垂楊未可誇。",
+      "晴日萬株煙一陣，閒坊兼是莫愁家。"
+    ]
+  },
+  {
+    "uid": "QTS_028_070_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "十首當年有舊詞，唱青歌翠幾無遺。",
+      "未曾得向行人道，不為離情莫折伊。"
+    ]
+  },
+  {
+    "uid": "QTS_028_071_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "華清高樹出離宮，南陌柔條帶暖風。",
+      "誰見輕陰是良夜，瀑泉聲畔月明中。"
+    ],
+    "preface": "〈乾符五年，能為許州刺史，令部伎作《楊柳枝》健舞，復賦其辭為新聲。〉"
+  },
+  {
+    "uid": "QTS_028_072_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "洛橋晴影覆江船，羌笛秋聲濕塞煙。",
+      "閒想習池公宴罷，水蒲風絮夕陽天。"
+    ]
+  },
+  {
+    "uid": "QTS_028_073_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "嫩綠輕懸似綴旒，路人遙見隔宮樓。",
+      "誰能更近丹墀種，解播皇風入九州。"
+    ]
+  },
+  {
+    "uid": "QTS_028_074_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "暖風晴日斷浮埃，廢路新條發釣臺。",
+      "處處輕輕可惆悵，後人攀處古人栽。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "輕",
+        "variant": "陰",
+        "source": "《集》作「陰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_075_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "潭上江邊嫋嫋垂，日高風靜絮相隨。",
+      "青樓一樹無人見，正是女郎眠覺時。"
+    ]
+  },
+  {
+    "uid": "QTS_028_076_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "汴水高懸百萬條，風清兩㟁一時揺。",
+      "隋家力盡虛栽得，無限春風屬聖朝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_077_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "和花煙樹九重城，夾路春陰十萬營。",
+      "惟向邊頭不堪望，一株顦顇少人行。"
+    ]
+  },
+  {
+    "uid": "QTS_028_078_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "窗外齊垂旭日初，樓邊輕好暖風徐。",
+      "逰人莫道栽無益，桃李清陰卻不如。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "好暖",
+        "variant": "暖好",
+        "source": "《集》作「暖好」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_079_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "衆木猶寒獨早青，御溝橋畔曲江亭。",
+      "陶家舊日應如此，一院春條綠遶㕔。"
+    ]
+  },
+  {
+    "uid": "QTS_028_080_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "帳偃纓垂細復繁，令人心想石家園。",
+      "風條月影皆堪重，何事侯門愛樹萱。"
+    ]
+  },
+  {
+    "uid": "QTS_028_081_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "數首新詞帶恨成，柳絲牽我我傷情。",
+      "柔娥幸有腰支穩，試踏吹聲作唱聲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "詞",
+        "variant": "詩",
+        "source": "《集》作「詩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_082_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "高出軍營遠映橋，賊兵曾斫火曾燒。",
+      "風流性在終難改，依舊春來萬萬條。"
+    ]
+  },
+  {
+    "uid": "QTS_028_083_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "縣依陶令想嫌迂，營伴將軍即大麤。",
+      "此日與君除萬恨，數篇風調更應無。"
+    ]
+  },
+  {
+    "uid": "QTS_028_084_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "狂似纎腰軟勝綿，自多情態更誰憐。",
+      "逰人不折還堪恨，拋向橋邊與路邊。"
+    ]
+  },
+  {
+    "uid": "QTS_028_085_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "朝陽晴照綠楊煙，一別通波十七年。",
+      "應有舊枝無處覓，萬株風裏卓旌旃。"
+    ]
+  },
+  {
+    "uid": "QTS_028_086_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "晴垂芳態吐牙新，雨擺輕條濕面春。",
+      "別有出牆高數尺，不知揺動是何人。"
+    ]
+  },
+  {
+    "uid": "QTS_028_087_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "暖梳簮朶事登樓，因掛垂楊立地愁。",
+      "牽斷綠絲攀不得，半空懸著玉搔頭。"
+    ]
+  },
+  {
+    "uid": "QTS_028_088_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "西園高樹後庭根，處處尋芳有摺痕。",
+      "終憶舊逰桃葉舍，一株斜映竹籬門。"
+    ]
+  },
+  {
+    "uid": "QTS_028_089_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "劉白蘇臺總近時，當初章句是誰推。",
+      "纎腰舞盡春楊柳，未有儂家一首詩。"
+    ]
+  },
+  {
+    "uid": "QTS_028_090_01",
+    "volume": 28,
+    "author": {
+      "canonical": "牛嶠",
+      "recorded": "牛嶠"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "解凍風來末上青，解垂羅袖拜卿卿。",
+      "無端嫋娜臨官路，舞送行人過一生。"
+    ]
+  },
+  {
+    "uid": "QTS_028_091_01",
+    "volume": 28,
+    "author": {
+      "canonical": "牛嶠",
+      "recorded": "牛嶠"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "吳王宮裏色偏深，一簇纎條萬縷金。",
+      "不憤錢塘蘇小小，引郎枝下結同心。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "枝",
+        "variant": "松",
+        "source": "《集》作「松」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_092_01",
+    "volume": 28,
+    "author": {
+      "canonical": "牛嶠",
+      "recorded": "牛嶠"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "橋北橋南千萬條，恨伊張緒不相饒。",
+      "金羈白馬臨風望，認得羊家靜婉腰。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "家",
+        "variant": "娘",
+        "source": "一作「娘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_093_01",
+    "volume": 28,
+    "author": {
+      "canonical": "牛嶠",
+      "recorded": "牛嶠"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "狂雪隨風撲馬飛，惹煙無力被風欹。",
+      "莫教移入靈和殿，宮女三千又妬伊。"
+    ]
+  },
+  {
+    "uid": "QTS_028_094_01",
+    "volume": 28,
+    "author": {
+      "canonical": "牛嶠",
+      "recorded": "牛嶠"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "裊翠籠煙拂暖波，舞裙新染麯塵羅。",
+      "章華臺畔隋堤上，倚得春風爾許多。"
+    ]
+  },
+  {
+    "uid": "QTS_028_095_01",
+    "volume": 28,
+    "author": {
+      "canonical": "和凝",
+      "recorded": "和凝",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "He Ning",
+      "wikidata_id": "Q10921370"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "軟碧揺煙似送人，映花時把翠眉嚬。",
+      "青青自是風流主，漫颭金絲待洛神。"
+    ]
+  },
+  {
+    "uid": "QTS_028_096_01",
+    "volume": 28,
+    "author": {
+      "canonical": "和凝",
+      "recorded": "和凝",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "He Ning",
+      "wikidata_id": "Q10921370"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "瑟瑟羅裙金縷腰，黛眉偎破未重描。",
+      "醉來咬損新花子，拽住仙郎儘放嬌。"
+    ]
+  },
+  {
+    "uid": "QTS_028_097_01",
+    "volume": 28,
+    "author": {
+      "canonical": "和凝",
+      "recorded": "和凝",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "He Ning",
+      "wikidata_id": "Q10921370"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "鵲橋初就咽銀河，今夜仙郎自性和。",
+      "不是昔年攀桂樹，豈能月裏索姮娥。"
+    ]
+  },
+  {
+    "uid": "QTS_028_098_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "閭門風暖落花乾，飛遍江南雪不寒。",
+      "獨有晩來臨水驛，閒人多憑赤䦨干。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "閭",
+        "variant": "閶",
+        "source": "《集》作「閶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_099_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "有池有榭即濛濛，浸潤翻成長養功。",
+      "恰似有人長㸃檢，著行排立向春風。"
+    ]
+  },
+  {
+    "uid": "QTS_028_100_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "根柢雖然傍濁河，無妨終日近笙歌。",
+      "驂驂金帶誰堪比，還笑黃鶯不較多。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "驂驂",
+        "variant": "毿毿",
+        "source": "《集》作「毿毿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_101_01",
+    "volume": 28,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "雜曲歌辭·楊柳枝",
+    "poem": [
+      "萬株枯槁怨亡隋，似弔吳臺各自垂。",
+      "好是淮陰明月裏，酒樓橫笛不勝吹。"
+    ]
+  },
+  {
+    "uid": "QTS_028_102_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "九曲黃河萬里沙，浪淘風簸自天涯。",
+      "如今直上銀河去，同到牽牛織女家。"
+    ]
+  },
+  {
+    "uid": "QTS_028_103_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "洛水橋邊春日斜，碧流輕淺見瓊沙。",
+      "無端陌上狂風急，驚起鴛鴦出浪花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "輕",
+        "variant": "清",
+        "source": "《集》作「清」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_104_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "汴水東流虎眼文，清淮曉色鴨頭春。",
+      "君看渡口淘沙處，渡卻人間多少人。"
+    ]
+  },
+  {
+    "uid": "QTS_028_105_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "鸚鵡洲頭浪颭沙，青樓春望日將斜。",
+      "銜泥燕子爭歸舍，獨自狂夫不憶家。"
+    ]
+  },
+  {
+    "uid": "QTS_028_106_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "濯錦江邊兩㟁花，春風吹浪正淘沙。",
+      "女郎剪下鴛鴦錦，將向中流匹晚霞。"
+    ]
+  },
+  {
+    "uid": "QTS_028_107_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "日照澄洲江霧開，淘金女伴滿江隈。",
+      "美人首飾侯王印，盡是沙中浪底來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "金",
+        "variant": "沙",
+        "source": "《集》作「沙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_108_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "八月濤聲吼地來，頭高數丈觸山迴。",
+      "須臾卻入海門去，捲起沙堆似雪堆。"
+    ]
+  },
+  {
+    "uid": "QTS_028_109_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "莫道讒言如浪深，莫言遷客似沙沉。",
+      "千淘萬漉雖辛苦，吹盡狂沙始到金。"
+    ]
+  },
+  {
+    "uid": "QTS_028_110_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "流水淘沙不暫停，前波未滅後波生。",
+      "令人忽憶瀟湘渚，迴唱迎神三兩聲。"
+    ]
+  },
+  {
+    "uid": "QTS_028_111_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "一泊沙來一泊去，一重浪滅一重生。",
+      "相攪相淘無歇日，會教山海一時平。"
+    ]
+  },
+  {
+    "uid": "QTS_028_112_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "白浪茫茫與海連，平沙浩浩四無邊。",
+      "暮去朝來淘不住，遂令東海變桑田。"
+    ]
+  },
+  {
+    "uid": "QTS_028_113_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "青草湖中萬里程，黃梅雨裏一人行。",
+      "愁見灘頭夜泊處，風翻暗浪打船聲。"
+    ]
+  },
+  {
+    "uid": "QTS_028_114_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "借問江湖與海水，何似君情與妾心。",
+      "相恨不如潮有信，相思始覺海非深。"
+    ]
+  },
+  {
+    "uid": "QTS_028_115_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "海底飛塵終有日，山頭化石豈無時。",
+      "誰道小郎拋小婦，船頭一去沒逥期。"
+    ]
+  },
+  {
+    "uid": "QTS_028_116_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "隨波逐浪到天涯，遷客生還有幾家。",
+      "卻到帝鄉重富貴，請君莫忘浪淘沙。"
+    ]
+  },
+  {
+    "uid": "QTS_028_117_01",
+    "volume": 28,
+    "author": {
+      "canonical": "皇甫松",
+      "recorded": "皇甫松"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "灘頭細草接疎林，浪惡罾船半欲沈。",
+      "宿鷺眠洲非舊浦，去年沙觜是江心。"
+    ]
+  },
+  {
+    "uid": "QTS_028_118_01",
+    "volume": 28,
+    "author": {
+      "canonical": "皇甫松",
+      "recorded": "皇甫松"
+    },
+    "title": "雜曲歌辭·浪淘沙",
+    "poem": [
+      "蠻歌豆蔻北人愁，松雨蒲風夜艇秋。",
+      "浪起鵁鶄眠不得，寒沙細細入江流。"
+    ]
+  },
+  {
+    "uid": "QTS_028_119_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·紇那曲",
+    "poem": [
+      "楊柳欎青青，竹枝無限情。",
+      "同郎一回顧，聽唱紇那聲。"
+    ]
+  },
+  {
+    "uid": "QTS_028_120_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·紇那曲",
+    "poem": [
+      "踏曲興無窮，調同詞不同。",
+      "願郎千萬壽，長作主人翁。"
+    ]
+  },
+  {
+    "uid": "QTS_028_121_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·瀟湘神二曲",
+    "poem": [
+      "湘水流，湘水流，九疑雲物至今愁。",
+      "君問二妃何處所，零陵香草露中秋。"
+    ]
+  },
+  {
+    "uid": "QTS_028_122_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·瀟湘神二曲",
+    "poem": [
+      "斑竹枝，斑竹枝，淚痕㸃㸃寄相思。",
+      "楚客欲聽瑤瑟怨，瀟湘深夜月明時。"
+    ]
+  },
+  {
+    "uid": "QTS_028_123_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·拋毬樂",
+    "poem": [
+      "五綵繡團團，登君玳瑁筵。",
+      "最宜紅燭下，偏稱落花前。",
+      "上客如先起，應須贈一船。"
+    ]
+  },
+  {
+    "uid": "QTS_028_124_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·拋毬樂",
+    "poem": [
+      "春早見花枝，朝朝恨發遲。",
+      "及看花落後，卻憶未開時。",
+      "幸有拋毬樂，一杯君莫辭。"
+    ]
+  },
+  {
+    "uid": "QTS_028_125_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·太平樂",
+    "poem": [
+      "歲豐仍節儉，時泰更銷兵。",
+      "聖念長如此，何憂不太平。"
+    ]
+  },
+  {
+    "uid": "QTS_028_126_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·太平樂",
+    "poem": [
+      "湛露浮堯酒，薰風起舜歌。",
+      "願同堯舜意，所樂在人和。"
+    ]
+  },
+  {
+    "uid": "QTS_028_127_01",
+    "volume": 28,
+    "author": {
+      "canonical": "王涯",
+      "recorded": "王涯",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wang Ya",
+      "wikidata_id": "Q258025"
+    },
+    "title": "雜曲歌辭·太平樂",
+    "poem": [
+      "風俗今和厚，君王在穆清。",
+      "行看採花曲，盡是太階平。"
+    ]
+  },
+  {
+    "uid": "QTS_028_128_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張仲素",
+      "recorded": "張仲素",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhongsu",
+      "wikidata_id": "Q11066470"
+    },
+    "title": "雜曲歌辭·太平樂",
+    "poem": [
+      "聖德超千古，皇威靜四方。",
+      "蒼生今息戰，無事覺時長。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "長",
+        "variant": "良",
+        "source": "《集》作「良」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_129_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "正氣遶宮樓，皇居信上逰。",
+      "遠岡延聖祚，平地載神州。",
+      "會合皆重譯，潺湲近八流。",
+      "中興豈假問，據此自千秋。"
+    ],
+    "preface": "〈商調曲也。〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "正",
+        "variant": "瑞",
+        "source": "《集》作「瑞」"
+      },
+      {
+        "line": 2,
+        "text": "延",
+        "variant": "連",
+        "source": "《集》作「連」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_130_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "寥泬敞延英，朝班立位橫。",
+      "宣傳無草動，拜舞有衣聲。",
+      "鴛瓦雲消濕，蟲絲日照明。",
+      "辛勤自不到，遙見似前生。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "生",
+        "variant": "程",
+        "source": "《集》作「程」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_131_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "處處足歡聲，時康歲巳深。",
+      "不同三尺劍，應似五絃琴。",
+      "壽笑山猶盡，明嫌日有陰。",
+      "何當憐一物，亦遣斷愁吟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "聲",
+        "variant": "心",
+        "source": "《集》作「心」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_132_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "曙質絶埃氛，彤庭列禁軍。",
+      "聖顔初對日，龍尾競緣雲。",
+      "珮響交成韻，簾陰暖帶紋。",
+      "逍遙豈有事，於此詠南薰。"
+    ]
+  },
+  {
+    "uid": "QTS_028_133_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "一物周天至，洪纎盡晏然。",
+      "車書無異俗，甲子竝豐年。",
+      "奇技皆歸朴，征夫亦服田。",
+      "君王故不有，台鼎合韋弦。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "周天至",
+        "variant": "至周天",
+        "source": "一作「至周天」"
+      },
+      {
+        "line": 4,
+        "text": "弦",
+        "variant": "賢",
+        "source": "一作「賢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_134_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "日日聽歌謡，區中盡祝堯。",
+      "蟲蝗初不害，夷狄近全銷。",
+      "史筆惟書瑞，天臺絶見祅。",
+      "因令匹夫志，轉欲事清朝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_135_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "品物盡昭蘇，神功復帝謨。",
+      "他時應有壽，當代且無虞。",
+      "賜歷通遐俗，移關入半胡。",
+      "鷦鷯一何幸，於此寄微軀。"
+    ]
+  },
+  {
+    "uid": "QTS_028_136_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "無戰復無私，堯時即此時。",
+      "焚香臨極早，待月卷簾遲。",
+      "端拱乾坤內，何言黈纊垂。",
+      "君看聖明驗，只此是神龜。"
+    ]
+  },
+  {
+    "uid": "QTS_028_137_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "旭日上清穹，明堂坐聖聰。",
+      "衣裳承瑞氣，冠冕蓋重瞳。",
+      "花木經宵露，旌旗立仗風。",
+      "何期於此地，見說似仙宮。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "立",
+        "variant": "入",
+        "source": "《集》作「入」"
+      },
+      {
+        "line": 4,
+        "text": "似仙",
+        "variant": "是神",
+        "source": "《集》作「是神」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_138_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·昇平樂",
+    "poem": [
+      "五帝三皇主，蕭曹魏邴臣。",
+      "文章惟反朴，戈甲盡生塵。",
+      "諫紙應無用，朝綱自有倫。",
+      "昇平不可紀，所見是閒人。"
+    ]
+  },
+  {
+    "uid": "QTS_028_139_01",
+    "volume": 28,
+    "author": {
+      "canonical": "薛能",
+      "recorded": "薛能",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Xue Neng",
+      "wikidata_id": "Q15941967"
+    },
+    "title": "雜曲歌辭·金縷衣",
+    "poem": [
+      "勸君莫惜金縷衣，勸君惜取少年時。",
+      "花開堪折直須折，莫待無花空折枝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_140_01",
+    "volume": 28,
+    "author": {
+      "canonical": "滕潛",
+      "recorded": "滕潛"
+    },
+    "title": "雜曲歌辭·鳯歸雲",
+    "poem": [
+      "金井欄邊見羽儀，梧桐樹上宿寒枝。",
+      "五陵公子憐文綵，畫與佳人刺繡衣。"
+    ]
+  },
+  {
+    "uid": "QTS_028_141_01",
+    "volume": 28,
+    "author": {
+      "canonical": "滕潛",
+      "recorded": "滕潛"
+    },
+    "title": "雜曲歌辭·鳯歸雲",
+    "poem": [
+      "飲啄蓬山最上頭，和煙飛下禁城秋。",
+      "曾將弄玊歸雲去，金翿斜開十二樓。"
+    ]
+  },
+  {
+    "uid": "QTS_028_142_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雜曲歌辭·拜新月",
+    "poem": [
+      "開簾見新月，便即下階拜。",
+      "細語人不聞，北風吹裙帶。"
+    ]
+  },
+  {
+    "uid": "QTS_028_143_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雜曲歌辭·拜新月",
+    "poem": [
+      "拜新月，拜月出堂前。",
+      "暗魄深籠桂，虛弓未引弦。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "深",
+        "variant": "初",
+        "source": "《集》作「初」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_144_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雜曲歌辭·拜新月",
+    "poem": [
+      "拜新月，拜月妝樓上。",
+      "鸞鏡未安臺，蛾眉已相向。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "未",
+        "variant": "始",
+        "source": "《集》作「始」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_145_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雜曲歌辭·拜新月",
+    "poem": [
+      "拜新月，拜月不勝情。",
+      "庭前風露清，月臨人自老。",
+      "望月更長生。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "前",
+        "variant": "花",
+        "source": "《集》作「花」"
+      },
+      {
+        "line": 3,
+        "text": "望月更",
+        "variant": "人望月",
+        "source": "《集》作「人望月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_146_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李端",
+      "recorded": "李端",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Duan",
+      "wikidata_id": "Q11097649"
+    },
+    "title": "雜曲歌辭·拜新月",
+    "poem": [
+      "東家阿母亦拜月，一拜一悲聲斷絶。",
+      "昔年拜月逞容儀，如今拜月雙淚垂。",
+      "回看衆女拜新月，卻憶紅閨年少時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "儀",
+        "variant": "輝",
+        "source": "《集》作「輝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_147_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·憶江南",
+    "poem": [
+      "江南好，風景舊曾諳。",
+      "日出江花紅勝火，春來江水綠如藍，能不憶江南？",
+      "江南憶，最憶是杭州。",
+      "山寺月中尋桂子，郡亭枕上看潮頭，何日更重逰？",
+      "江南憶，其次憶吳宮。",
+      "吳酒一杯春竹葉，吳娃雙舞醉芙蓉，早晚復相逢。"
+    ],
+    "preface": "〈一曰《望江南》，本名《謝秋娘》，李德裕鎮浙西為妾謝秋娘製。〉"
+  },
+  {
+    "uid": "QTS_028_148_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·憶江南",
+    "poem": [
+      "春過也，共惜艷陽年。",
+      "猶有桃花流水上，無辭竹葉醉樽前，惟待見青天。"
+    ]
+  },
+  {
+    "uid": "QTS_028_149_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·憶江南",
+    "poem": [
+      "春去也，多謝洛城人。",
+      "弱柳従風疑舉袂，叢蘭裛露似霑巾，獨笑亦含嚬。"
+    ]
+  },
+  {
+    "uid": "QTS_028_150_01",
+    "volume": 28,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "團扇，團扇，美人病來遮面。",
+      "玊顔憔悴三年，誰復商量管絃。",
+      "絃管，絃管，春草昭陽路斷。"
+    ],
+    "preface": "〈亦謂之轉應詞，商調曲也。〉"
+  },
+  {
+    "uid": "QTS_028_151_01",
+    "volume": 28,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "胡蝶，胡蝶，飛上金花枝葉。",
+      "君前對舞春風，百葉桃花樹紅。",
+      "紅樹，紅樹，燕語鶯啼日暮。"
+    ]
+  },
+  {
+    "uid": "QTS_028_152_01",
+    "volume": 28,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "羅袖，羅袖，暗舞春風依舊。",
+      "遙看歌舞玊樓，好日新妝坐愁。",
+      "愁坐，愁坐，一世虛生虛過。"
+    ]
+  },
+  {
+    "uid": "QTS_028_153_01",
+    "volume": 28,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "楊柳，楊柳，日暮白沙渡口。",
+      "船頭江水茫茫，商人少婦斷腸。",
+      "腸斷，腸斷，鷓鴣夜飛失伴。"
+    ]
+  },
+  {
+    "uid": "QTS_028_154_01",
+    "volume": 28,
+    "author": {
+      "canonical": "韋應物",
+      "recorded": "韋應物",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wei Yingwu",
+      "wikidata_id": "Q1021828"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "胡馬，胡馬，遠放燕支山下。",
+      "咆沙咆雪獨嘶，東望西望路迷。",
+      "迷路，迷路，邊草無窮日暮。"
+    ]
+  },
+  {
+    "uid": "QTS_028_155_01",
+    "volume": 28,
+    "author": {
+      "canonical": "韋應物",
+      "recorded": "韋應物",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wei Yingwu",
+      "wikidata_id": "Q1021828"
+    },
+    "title": "雜曲歌辭·宮中調笑",
+    "poem": [
+      "河漢，河漢，曉掛秋城漫漫。",
+      "愁人起望相思，江南塞北別離。",
+      "離別，離別，河漢雖同路絶。"
+    ]
+  },
+  {
+    "uid": "QTS_028_156_01",
+    "volume": 28,
+    "author": {
+      "canonical": "戴叔倫",
+      "recorded": "戴叔倫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Dai Shulun",
+      "wikidata_id": "Q11075245"
+    },
+    "title": "雜曲歌辭·轉應詞",
+    "poem": [
+      "邊草，邊草，邊草盡來兵老。",
+      "山南山北雪晴，千里萬里月明。",
+      "明月，明月，胡笳一聲愁絶。"
+    ]
+  },
+  {
+    "uid": "QTS_028_157_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "小小生金屋，盈盈在紫微。",
+      "山花挿寳髻，石竹繡羅衣。",
+      "每岀深宮裏，常隨步輦歸。",
+      "只愁歌舞散，化作綵雲飛。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "散",
+        "variant": "罷",
+        "source": "一作「罷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_158_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "柳色黃金嫩，梨花白雪香。",
+      "玊樓巢翡翠，金殿鎻鴛鴦。",
+      "選妓隨雕輦，徵歌出洞房。",
+      "宮中誰第一？飛燕在昭陽。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "巢",
+        "variant": "關",
+        "source": "一作「關」"
+      },
+      {
+        "line": 2,
+        "text": "金",
+        "variant": "珠",
+        "source": "一作「珠」"
+      },
+      {
+        "line": 3,
+        "text": "雕",
+        "variant": "朝",
+        "source": "一作「朝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_159_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "盧橘為秦樹，蒲萄出漢宮。",
+      "煙花宜落日，絲管醉春風。",
+      "笛奏龍鳴水，簫鳴鳯下空。",
+      "君王多樂事，何必向回中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "出",
+        "variant": "是",
+        "source": "一作「是」"
+      },
+      {
+        "line": 4,
+        "text": "何必向回中",
+        "variant": "還與萬方同",
+        "source": "《集》作「還與萬方同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_160_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "玊樹春歸日，金宮樂事多。",
+      "後庭朝未入，輕輦夜相過。",
+      "笑出花間語，嬌來燭下歌。",
+      "莫教明月去，留著醉姮娥。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "樹",
+        "variant": "殿",
+        "source": "一作「殿」"
+      },
+      {
+        "line": 1,
+        "text": "日",
+        "variant": "好",
+        "source": "一作「好」"
+      },
+      {
+        "line": 3,
+        "text": "燭",
+        "variant": "竹",
+        "source": "《集》作「竹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_161_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "繡戶香風暖，紗窗曙色新。",
+      "宮花爭笑日，池草暗生春。",
+      "綠樹聞歌鳥，青樓見舞人。",
+      "昭陽桃李月，羅綺自相親。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "自",
+        "variant": "坐",
+        "source": "一作「坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_162_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "今日明光裏，還須結伴逰。",
+      "春風開紫殿，天樂下珠樓。",
+      "豓舞全知巧，嬌歌半欲羞。",
+      "更憐花月夜，宮女笑藏鉤。"
+    ]
+  },
+  {
+    "uid": "QTS_028_163_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "寒雪梅中盡，春風柳上歸。",
+      "宮鶯嬌欲醉，簷燕語還飛。",
+      "遲日明歌席，新花豓舞衣。",
+      "晩來移綵仗，行樂泥光輝。"
+    ]
+  },
+  {
+    "uid": "QTS_028_164_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李白",
+      "recorded": "李白",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Bai",
+      "wikidata_id": "Q7071"
+    },
+    "title": "雜曲歌辭·宮中行樂詞",
+    "poem": [
+      "水綠南薫殿，花紅北闕樓。",
+      "鶯歌聞太液，鳯吹遶瀛洲。",
+      "素女鳴珠佩，天人弄綵毬。",
+      "今朝風日好，宜入未央逰。"
+    ]
+  },
+  {
+    "uid": "QTS_028_165_01",
+    "volume": 28,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "楚塞金陵靜，巴山玉壘空。",
+      "萬方無一事，端拱大明宮。"
+    ]
+  },
+  {
+    "uid": "QTS_028_166_01",
+    "volume": 28,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "霜霽長楊苑，冰開太液池。",
+      "宮中行樂日，天下盛明時。",
+      "柳色煙相似，梨花雪不如。",
+      "春風真有意，一一麗皇居。"
+    ]
+  },
+  {
+    "uid": "QTS_028_167_01",
+    "volume": 28,
+    "author": {
+      "canonical": "令狐楚",
+      "recorded": "令狐楚",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Linghu Chu",
+      "wikidata_id": "Q5955927"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "月上宮花靜，煙含苑樹深。",
+      "銀臺門已閉，仙漏夜沈沈。",
+      "九重青鎻闥，百尺碧雲樓。",
+      "明月秋風起，珠簾上玉鉤。"
+    ]
+  },
+  {
+    "uid": "QTS_028_168_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張仲素",
+      "recorded": "張仲素",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhongsu",
+      "wikidata_id": "Q11066470"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "網戶交如綺，紗窗薄似煙。",
+      "樂吹天上曲，人是月中仙。"
+    ]
+  },
+  {
+    "uid": "QTS_028_169_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張仲素",
+      "recorded": "張仲素",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhongsu",
+      "wikidata_id": "Q11066470"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "翠匣開寒鏡，珠釵掛步揺。",
+      "妝成秪畏曉，更漏促春宵。",
+      "江果瑤池實，金盤露井冰。",
+      "甘泉將避暑，臺殿曉光凝。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "江",
+        "variant": "紅",
+        "source": "《集》作「紅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_170_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張仲素",
+      "recorded": "張仲素",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Zhang Zhongsu",
+      "wikidata_id": "Q11066470"
+    },
+    "title": "雜曲歌辭·宮中樂",
+    "poem": [
+      "月彩浮鸞殿，砧聲隔鳯樓。",
+      "笙歌臨水檻，紅燭乍迎秋。",
+      "奇樹留寒翠，神池結夕波。",
+      "黃山一夜雪，渭水雁聲多。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "雁",
+        "variant": "瀉",
+        "source": "《集》作「瀉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_171_01",
+    "volume": 28,
+    "author": {
+      "canonical": "崔液",
+      "recorded": "崔液"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "綵女迎金屋，仙姬出畫堂。",
+      "鴛鴦裁錦袖，翡翠帖花黃。",
+      "歌響舞分行，豓色動流光。"
+    ]
+  },
+  {
+    "uid": "QTS_028_172_01",
+    "volume": 28,
+    "author": {
+      "canonical": "崔液",
+      "recorded": "崔液"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "庭際花微落，樓前漢已橫。",
+      "金壺催夜盡，羅䄂拂寒輕。",
+      "樂笑暢歡情，未半著天明。"
+    ]
+  },
+  {
+    "uid": "QTS_028_173_01",
+    "volume": 28,
+    "author": {
+      "canonical": "謝偃",
+      "recorded": "謝偃",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Xie Yan",
+      "wikidata_id": "Q10527622"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "春景嬌春臺，新露泣新梅。",
+      "春葉參差吐，新花重疊開。",
+      "花影飛鶯去，歌聲度鳥來。",
+      "倩看飄颻雪，何如舞袖廻。"
+    ]
+  },
+  {
+    "uid": "QTS_028_174_01",
+    "volume": 28,
+    "author": {
+      "canonical": "謝偃",
+      "recorded": "謝偃",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Xie Yan",
+      "wikidata_id": "Q10527622"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "逶迤度香閤，顧步出蘭閨。",
+      "欲遶鴛鴦殿，先過桃李蹊。",
+      "風帶舒還卷，簮花舉復低。",
+      "欲問今宵樂，但聽歌聲齊。"
+    ]
+  },
+  {
+    "uid": "QTS_028_175_01",
+    "volume": 28,
+    "author": {
+      "canonical": "謝偃",
+      "recorded": "謝偃",
+      "gender": "male",
+      "period": "Pre-Tang",
+      "english_name": "Xie Yan",
+      "wikidata_id": "Q10527622"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "夜久星沈沒，更深月影斜。",
+      "裙輕纔動佩，鬟薄不勝花。",
+      "細風吹寳襪，輕露濕紅紗。",
+      "相看樂未巳，蘭燈照九華。"
+    ]
+  },
+  {
+    "uid": "QTS_028_176_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·踏歌詞",
+    "poem": [
+      "花蕚樓前雨露新，長安城裏太平人。",
+      "龍銜火樹千燈豓，雞踏蓮花萬歲春。",
+      "帝宮三五戲春臺，行雨流風莫妒來。",
+      "西域燈輪千影合，東華金闕萬重開。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "燈",
+        "variant": "重",
+        "source": "《集》作「重」"
+      },
+      {
+        "line": 2,
+        "text": "踏",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_177_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·踏歌行",
+    "poem": [
+      "春江月出大堤平，堤上女郎連袂行。",
+      "唱盡新詞看不見，紅霞影樹鷓鴣鳴。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "看",
+        "variant": "歡",
+        "source": "一作「歡」"
+      },
+      {
+        "line": 2,
+        "text": "影",
+        "variant": "映",
+        "source": "《集》作「映」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_178_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·踏歌行",
+    "poem": [
+      "桃蹊柳陌好經過，燈下妝成月下歌。",
+      "為是㐮王故宮地，至今猶自細腰多。"
+    ]
+  },
+  {
+    "uid": "QTS_028_179_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·踏歌行",
+    "poem": [
+      "新詞宛轉遞相傳，振袖傾鬟風露前。",
+      "月落烏啼雲雨散，逰童陌上拾花鈿。"
+    ]
+  },
+  {
+    "uid": "QTS_028_180_01",
+    "volume": 28,
+    "author": {
+      "canonical": "劉禹錫",
+      "recorded": "劉禹錫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Liu Yuxi",
+      "wikidata_id": "Q706837"
+    },
+    "title": "雜曲歌辭·踏歌行",
+    "poem": [
+      "日暮江頭聞竹枝，南人行樂北人悲。",
+      "自従雪裏唱新曲，直至三春花盡時。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "頭",
+        "variant": "南",
+        "source": "《集》作「南」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_181_01",
+    "volume": 28,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "雜曲歌辭·天長地久詞",
+    "poem": [
+      "玊砌紅花樹，香風不敢吹。",
+      "春光解天意，偏發殿南枝。",
+      "虹橋千步廊，半在水中央。",
+      "天子方清暑，宮人重暮妝。",
+      "辭輦復當熊，傾心奉上宮。",
+      "君王若看貌，甘在衆妃中。"
+    ],
+    "preface": "〈其和雲「天長久，萬年昌」。〉",
+    "variants": [
+      {
+        "line": 4,
+        "text": "人重暮",
+        "variant": "娃起夜",
+        "source": "《集》作「娃起夜」"
+      },
+      {
+        "line": 5,
+        "text": "上",
+        "variant": "六",
+        "source": "《集》作「六」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_182_01",
+    "volume": 28,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "雜曲歌辭·天長地久詞",
+    "poem": [
+      "雲日呈祥禮物殊，北庭生獻五單于。",
+      "塞天萬里無飛鳥，可在邊城用郅都。",
+      "臺殿雲涼風日微，君王初賜六宮衣。",
+      "樓船罷泛歸猶早，行道才人鬭射飛。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "天",
+        "variant": "垣",
+        "source": "《集》作「垣」"
+      },
+      {
+        "line": 2,
+        "text": "在",
+        "variant": "是",
+        "source": "《集》作「是」"
+      },
+      {
+        "line": 3,
+        "text": "涼風日",
+        "variant": "深秋色",
+        "source": "《集》作「深秋色」"
+      },
+      {
+        "line": 4,
+        "text": "罷泛",
+        "variant": "泛罷",
+        "source": "《集》作「泛罷」"
+      },
+      {
+        "line": 4,
+        "text": "道",
+        "variant": "遣",
+        "source": "《集》作「遣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_183_01",
+    "volume": 28,
+    "author": {
+      "canonical": "元結",
+      "recorded": "元結",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Jie",
+      "wikidata_id": "Q10889796"
+    },
+    "title": "雜曲歌辭·欵乃曲",
+    "poem": [
+      "偏存名跡在人間，順俗與時未安閒。",
+      "來謁大官兼問政，扁舟卻入九疑山。"
+    ],
+    "preface": "〈欵乃，棹船聲也。〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "偏",
+        "variant": "偶",
+        "source": "《集》作「偶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_184_01",
+    "volume": 28,
+    "author": {
+      "canonical": "元結",
+      "recorded": "元結",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Jie",
+      "wikidata_id": "Q10889796"
+    },
+    "title": "雜曲歌辭·欵乃曲",
+    "poem": [
+      "湘江二月春水平，滿月和風宜夜行。",
+      "唱橈欲過平陽戍，守吏相呼問姓名。"
+    ]
+  },
+  {
+    "uid": "QTS_028_185_01",
+    "volume": 28,
+    "author": {
+      "canonical": "元結",
+      "recorded": "元結",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Jie",
+      "wikidata_id": "Q10889796"
+    },
+    "title": "雜曲歌辭·欵乃曲",
+    "poem": [
+      "千里楓林煙雨深，無朝無暮有猨吟。",
+      "停橈靜聽曲中意，好是雲山韶濩音。"
+    ]
+  },
+  {
+    "uid": "QTS_028_186_01",
+    "volume": 28,
+    "author": {
+      "canonical": "元結",
+      "recorded": "元結",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Jie",
+      "wikidata_id": "Q10889796"
+    },
+    "title": "雜曲歌辭·欵乃曲",
+    "poem": [
+      "零陵郡北湘水東，浯溪形勝滿湘中。",
+      "溪口石顛堪自逸，誰能相伴作漁翁。"
+    ]
+  },
+  {
+    "uid": "QTS_028_187_01",
+    "volume": 28,
+    "author": {
+      "canonical": "元結",
+      "recorded": "元結",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Jie",
+      "wikidata_id": "Q10889796"
+    },
+    "title": "雜曲歌辭·欵乃曲",
+    "poem": [
+      "下瀧船似入深淵，上瀧船似欲昇天。",
+      "瀧南始到九疑郡，應絶高人乘興船。"
+    ]
+  },
+  {
+    "uid": "QTS_028_188_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 正月",
+    "poem": [
+      "上樓迎春新春歸，暗黃著柳宮漏遲。",
+      "薄薄淡靄弄野姿，寒綠幽泥生短絲。",
+      "錦牀曉臥玊肌冷，露臉未開對朝暝。",
+      "官街柳帶不堪折，早晩菖蒲勝綰結。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "上樓迎春新春歸",
+        "variant": "正月上樓迎春歸",
+        "source": "一作「正月上樓迎春歸」"
+      },
+      {
+        "line": 2,
+        "text": "泥",
+        "variant": "風",
+        "source": "《集》作「風」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_189_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 二月",
+    "poem": [
+      "二月飲酒採桑津，宜男草生蘭笑人。",
+      "蒲如交劍風如薰，勞勞胡燕怨酣春。",
+      "薇帳逗煙生綠塵，金翅峨髻愁暮雲，沓颯起舞真珠裙。",
+      "津頭送別唱流水，酒客背寒南山死。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "交劍",
+        "variant": "絞刀",
+        "source": "一作「絞刀」"
+      },
+      {
+        "line": 3,
+        "text": "生綠塵",
+        "variant": "香綠昏",
+        "source": "一作「香綠昏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_190_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 三月",
+    "poem": [
+      "東方風來滿眼春，花城柳暗愁㡬人。",
+      "複宮深殿竹風起，新翠舞襟靜如水。",
+      "光風轉蕙百餘里，暖霧驅雲撲天地。",
+      "軍裝宮妓掃蛾淺，揺揺錦旗夾城暖。",
+      "曲水飄香去不歸，梨花落盡成秋苑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "暗",
+        "variant": "禁",
+        "source": "一作「禁」"
+      },
+      {
+        "line": 1,
+        "text": "㡬",
+        "variant": "殺",
+        "source": "一作「殺」"
+      },
+      {
+        "line": 2,
+        "text": "靜",
+        "variant": "浄",
+        "source": "《集》作「浄」"
+      },
+      {
+        "line": 5,
+        "text": "秋",
+        "variant": "愁",
+        "source": "一作「愁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_191_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 四月",
+    "poem": [
+      "曉涼暮涼樹如蓋，千山濃綠生雲外。",
+      "依微香雨青氛氳，膩葉蟠花照曲門。",
+      "金塘閒水揺碧漪，老景沈重無驚飛，墮紅殘蕚暗參差。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "青氛氳",
+        "variant": "過清氛",
+        "source": "一作「過清氛」"
+      },
+      {
+        "line": 3,
+        "text": "重",
+        "variant": "帖",
+        "source": "一作「帖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_192_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 五月",
+    "poem": [
+      "雕玉押簾上，輕縠籠虛門。",
+      "井汲鉛華水，扇織鴛鴦文。",
+      "回雪舞涼殿，甘露洗空綠。",
+      "羅袖従徊翔，香汗霑寳粟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雕玉押簾上",
+        "variant": "雕玉簾押上",
+        "source": "一作「雕玉簾押上」"
+      },
+      {
+        "line": 4,
+        "text": "羅袖従徊翔",
+        "variant": "羅綬従風翔",
+        "source": "一作「羅綬従風翔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_193_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 六月",
+    "poem": [
+      "裁生羅，伐湘竹，帔拂疎霜簟秋玉。",
+      "炎炎紅鏡東方開，暈如車輪上徘徊，啾啾赤帝騎龍來。"
+    ]
+  },
+  {
+    "uid": "QTS_028_194_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 七月",
+    "poem": [
+      "星依雲渚冷，露滴盤中圓。",
+      "好花生木末，衰蕙愁空園。",
+      "夜天如玉砌，池葉極青錢。",
+      "僅厭舞衫薄，稍知花簟寒。",
+      "曉風何拂拂，北斗光䦨干。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "空",
+        "variant": "故",
+        "source": "一作「故」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_195_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 八月",
+    "poem": [
+      "孀妾怨長夜，獨客夢歸家。",
+      "傍簷蟲緝絲，向壁燈垂花。",
+      "簷外月光吐簾，中樹影斜。",
+      "悠悠飛露姿，㸃綴池中荷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "孀",
+        "variant": "宮",
+        "source": "一作「宮」"
+      },
+      {
+        "line": 1,
+        "text": "長夜",
+        "variant": "夜長",
+        "source": "《集》作「夜長」"
+      },
+      {
+        "line": 2,
+        "text": "緝",
+        "variant": "織",
+        "source": "一作「織」"
+      },
+      {
+        "line": 3,
+        "text": "中",
+        "variant": "內",
+        "source": "《集》作「內」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_196_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 九月",
+    "poem": [
+      "離宮散螢天似水，竹黃池冷芙蓉死。",
+      "月綴金鋪光脈脈，涼苑虛庭空澹白。",
+      "霜花飛飛風草草，翠錦斕斑滿層道。",
+      "雞人罷唱曉瓏璁，鴉啼金井下踈桐。"
+    ]
+  },
+  {
+    "uid": "QTS_028_197_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 十月",
+    "poem": [
+      "玉壺銀箭稍難傾，釭花夜笑凝幽明。",
+      "碎霜斜舞上羅幕，燭籠兩行照飛閣。",
+      "珠帷怨臥不成眠，金鳯刺衣著體寒，長睂對月鬬彎環。"
+    ]
+  },
+  {
+    "uid": "QTS_028_198_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 十一月",
+    "poem": [
+      "宮城團廻凜嚴光，白天碎碎墮瓊芳。",
+      "撾鍾高飲千日酒，卻天凝寒作君壽。",
+      "御溝泉合如環素，火井溫水在何處。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "泉",
+        "variant": "冰",
+        "source": "一作「冰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_199_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 十二月",
+    "poem": [
+      "日腳淡光紅灑灑，薄霜不銷桂枝下。",
+      "依稀和氣解冬嚴，已就長日辭長夜。"
+    ]
+  },
+  {
+    "uid": "QTS_028_200_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李賀",
+      "recorded": "李賀",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li He",
+      "wikidata_id": "Q856223"
+    },
+    "title": "雜曲歌辭·十二月樂辭 閏月",
+    "poem": [
+      "帝重光，年重時，七十二候回環推。",
+      "天官玉琯灰剰飛，今歲何長來歲遲。",
+      "王母移桃獻天子，羲氏和氏迂龍轡。"
+    ]
+  },
+  {
+    "uid": "QTS_028_201_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李嶠",
+      "recorded": "李嶠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Jiao",
+      "wikidata_id": "Q1564707"
+    },
+    "title": "雜曲歌辭·桃花行",
+    "poem": [
+      "歲去無言忽顦顇，時來含笑吐氛氳。",
+      "不能擁路迷仙客，故欲開蹊侍聖君。"
+    ],
+    "preface": "〈張仁亶自朔方入朝，帝宴之西苑之桃花園，命李嶠等各賦絶句。明日宴承慶殿，令宮中善謳者唱之，樂府號《桃花行》。〉"
+  },
+  {
+    "uid": "QTS_028_202_01",
+    "volume": 28,
+    "author": {
+      "canonical": "李乂",
+      "recorded": "李乂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q18848389"
+    },
+    "title": "雜曲歌辭·桃花行",
+    "poem": [
+      "綺蕚成蹊遍籞芳，紅英撲地滿筵香。",
+      "莫將秋宴傳王母，來此春華壽聖皇。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "壽",
+        "variant": "奉",
+        "source": "《集》作「奉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_203_01",
+    "volume": 28,
+    "author": {
+      "canonical": "徐彥伯",
+      "recorded": "徐彥伯",
+      "gender": "male",
+      "period": "Early Tang",
+      "wikidata_id": "Q11070620"
+    },
+    "title": "雜曲歌辭·桃花行",
+    "poem": [
+      "源水叢花無數開，丹跗紅蕚間青梅。",
+      "從今結子三千歲，預喜仙遊復摘來。"
+    ]
+  },
+  {
+    "uid": "QTS_028_204_01",
+    "volume": 28,
+    "author": {
+      "canonical": "蘇頲",
+      "recorded": "蘇頲",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Su Ting",
+      "wikidata_id": "Q5956587"
+    },
+    "title": "雜曲歌辭·桃花行",
+    "poem": [
+      "桃花灼灼有光輝，無數成蹊㸃更飛。",
+      "為見芳林含笑待，遂同溫樹不言歸。"
+    ]
+  },
+  {
+    "uid": "QTS_028_205_01",
+    "volume": 28,
+    "author": {
+      "canonical": "趙彥昭",
+      "recorded": "趙彥昭",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhao Yanzhao",
+      "wikidata_id": "Q8070578"
+    },
+    "title": "雜曲歌辭·桃花行",
+    "poem": [
+      "紅蕚競妍春苑曙，粉茸新向御筵開。",
+      "長年願奉西王宴，近侍慙無東朔才。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "妍",
+        "variant": "然",
+        "source": "《集》作「然」"
+      },
+      {
+        "line": 1,
+        "text": "向",
+        "variant": "吐",
+        "source": "《集》作「吐」"
+      },
+      {
+        "line": 2,
+        "text": "宴",
+        "variant": "母",
+        "source": "《集》作「母」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_206_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·蘇摩遮",
+    "poem": [
+      "摩遮本出海西胡，琉璃寳服紫髯鬍。",
+      "聞道皇思遍宇宙，來時歌舞助歡娛。"
+    ],
+    "preface": "〈潑寒胡戲所歌，其和聲雲「億歲樂」。〉"
+  },
+  {
+    "uid": "QTS_028_207_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·蘇摩遮",
+    "poem": [
+      "繡裝帕額寳花冠，夷歌騎舞借人看。",
+      "自能激水成陰氣，不慮今年寒不寒。"
+    ]
+  },
+  {
+    "uid": "QTS_028_208_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·蘇摩遮",
+    "poem": [
+      "臘月凝陰積帝臺，豪歌擊鼓送寒來。",
+      "油囊取得天河水，將添上壽萬年杯。"
+    ]
+  },
+  {
+    "uid": "QTS_028_209_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·蘇摩遮",
+    "poem": [
+      "寒氣宜人最可憐，故將寒水散庭前。",
+      "惟願聖君無限壽，長取新年續舊年。"
+    ]
+  },
+  {
+    "uid": "QTS_028_210_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·蘇摩遮",
+    "poem": [
+      "昭成皇后帝家親，榮樂諸人不比倫。",
+      "往日霜前花委地，今年雪後樹逢春。"
+    ]
+  },
+  {
+    "uid": "QTS_028_211_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "萬玊朝宗鳯扆，千金率領龍媒。",
+      "眄鼓凝驕躞牒，聽歌弄影徘徊。"
+    ],
+    "preface": "〈其和聲前二曲雲「聖代昇平樂」，後四曲雲「四海和平樂」。〉"
+  },
+  {
+    "uid": "QTS_028_212_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "天祿遙徵衛叔，日龍上借羲和。",
+      "將共兩驂爭舞，來隨八駿齊歌。"
+    ]
+  },
+  {
+    "uid": "QTS_028_213_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "綵旄八佾成行，時龍五色因方。",
+      "屈膝銜杯赴節，傾心獻壽無疆。"
+    ]
+  },
+  {
+    "uid": "QTS_028_214_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "帝皁龍駒沛艾，星蘭驥子權奇。",
+      "騰倚驤洋應節，繁驕接跡不移。"
+    ]
+  },
+  {
+    "uid": "QTS_028_215_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "二聖先天合德，羣靈率土可封。",
+      "擊石驂驔紫燕，摐金顧步蒼龍。"
+    ]
+  },
+  {
+    "uid": "QTS_028_216_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬詞",
+    "poem": [
+      "聖君出震應籙，神馬浮河獻圖。",
+      "足踏天庭鼓舞，心將帝樂踟躕。"
+    ]
+  },
+  {
+    "uid": "QTS_028_217_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬千秋萬歲樂府詞",
+    "poem": [
+      "金天誕聖千秋節，玉醴還分萬壽觴。",
+      "試聽紫騮歌樂府，何如騄驥舞華岡。",
+      "連騫勢出魚龍變，蹀躞驕生鳥獸行。",
+      "歲歲相傳指樹日，翩翩來伴慶雲翔。"
+    ]
+  },
+  {
+    "uid": "QTS_028_218_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬千秋萬歲樂府詞",
+    "poem": [
+      "聖王至德與天齊，天馬來儀自海西。",
+      "踠足齊行拜兩膝，繁驕不進蹈千蹄。",
+      "䯱髵奮鬛時蹲踏，鼓怒驤身忽上躋。",
+      "更有銜杯終宴曲，垂頭掉尾醉如泥。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "王",
+        "variant": "皇",
+        "source": "《集》作「皇」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_219_01",
+    "volume": 28,
+    "author": {
+      "canonical": "張説",
+      "recorded": "張説",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Yue",
+      "wikidata_id": "Q701545"
+    },
+    "title": "雜曲歌辭·舞馬千秋萬歲樂府詞",
+    "poem": [
+      "遠聽明君愛逸才，玉鞭金翅引龍媒。",
+      "不因茲白人間有，定是飛黃天上來。",
+      "影弄日華相照耀，噴含雲色且徘徊。",
+      "莫言闕下桃花舞，別有河中蘭葉開。"
+    ]
+  },
+  {
+    "uid": "QTS_028_220_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·小曲新詞",
+    "poem": [
+      "霽色鮮宮殿，秋聲脆管絃。",
+      "聖明千歲樂，歲歲似今年。"
+    ],
+    "preface": "〈《小曲》及《閨怨》，竝元和中奉勑撰。〉"
+  },
+  {
+    "uid": "QTS_028_221_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·小曲新詞",
+    "poem": [
+      "紅裙明月夜，碧殿早秋時。",
+      "好向昭陽宿，天涼玉漏遲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "裙",
+        "variant": "裾",
+        "source": "《集》作「裾」"
+      },
+      {
+        "line": 1,
+        "text": "殿",
+        "variant": "簟",
+        "source": "《集》作「簟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_028_222_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·閨怨詞",
+    "poem": [
+      "朝憎鶯百囀，夜妒燕雙棲。",
+      "不慣絰春別，誰知到曉啼。"
+    ]
+  },
+  {
+    "uid": "QTS_028_223_01",
+    "volume": 28,
+    "author": {
+      "canonical": "白居易",
+      "recorded": "白居易",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Bai Juyi",
+      "wikidata_id": "Q313324"
+    },
+    "title": "雜曲歌辭·閨怨詞",
+    "poem": [
+      "珠箔籠寒月，紗窗背曉燈。",
+      "夜來巾上淚，一半是春冰。",
+      "關山征戍遠，閨閣別離難。",
+      "苦戰應顦顇，寒衣不要寛。"
+    ]
+  },
+  {
+    "uid": "QTS_028_224_01",
+    "volume": 28,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "雜曲歌辭·皇帝感詞",
+    "poem": [
+      "提劍雲雷動，垂衣日月明。",
+      "禁花呈瑞色，國老見星精。",
+      "發棹魚先躍，窺巢鳥不驚。",
+      "山呼一萬歲，直入九重城。",
+      "天衣五鳯彩，御馬六龍文。",
+      "雨露清馳道，風雷翊上軍。",
+      "高旍花外轉，行漏樂前聞。",
+      "時見金鞭舉，空中指瑞雲。",
+      "妙算干戈止，神謀宇宙清。",
+      "兩階文物盛，七德武功成。",
+      "校獵長楊苑，屯軍細柳營。",
+      "歸來獻明主，歌舞隘春城。",
+      "天樂下天中，雲軿儼在空。",
+      "鉛黃豓河漢，語笑合笙鏞。",
+      "已見長隨鳯，仍聞不避熊。",
+      "君王親試舞，閶闔靜無風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雲",
+        "variant": "風",
+        "source": "《集》作「風」"
+      },
+      {
+        "line": 5,
+        "text": "衣",
+        "variant": "香",
+        "source": "《集》作「香」"
+      },
+      {
+        "line": 12,
+        "text": "隘",
+        "variant": "溢",
+        "source": "《集》作「溢」"
+      }
+    ]
+  }
+]

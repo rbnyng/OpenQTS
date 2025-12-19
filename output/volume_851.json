@@ -1,0 +1,367 @@
+[
+  {
+    "uid": "QTS_851_001_01",
+    "volume": 851,
+    "author": {
+      "canonical": "慈恩寺沙門",
+      "recorded": "慈恩寺沙門",
+      "gender": "male"
+    },
+    "title": "和禦制遊慈恩寺",
+    "poem": [
+      "皇風扇祇樹，至德茂禪林。",
+      "仙華曜日彩，神幡曳遠陰。",
+      "綺殿籠霞影，飛閣出雲心。",
+      "細草希慈澤，恩光重更深。"
+    ]
+  },
+  {
+    "uid": "QTS_851_002_01",
+    "volume": 851,
+    "author": {
+      "canonical": "水心寺僧",
+      "recorded": "水心寺僧",
+      "gender": "male"
+    },
+    "title": "贈賈松先輩",
+    "poem": [
+      "嵯峨山上石，歲歲色長新。",
+      "若使盡成寶，誰為知己人。"
+    ]
+  },
+  {
+    "uid": "QTS_851_003_01",
+    "volume": 851,
+    "author": {
+      "canonical": "無名釋",
+      "recorded": "無名釋",
+      "gender": "male"
+    },
+    "title": "古梅",
+    "poem": [
+      "火虐風饕水漬根，霜皴雪皺古苔痕。",
+      "東風未肯隨寒暑，又櫱清香與返魂。"
+    ]
+  },
+  {
+    "uid": "QTS_851_004_01",
+    "volume": 851,
+    "author": {
+      "canonical": "南唐失名僧",
+      "recorded": "南唐失名僧",
+      "gender": "male"
+    },
+    "title": "月",
+    "poem": [
+      "徐徐東海出，漸漸上天衢。",
+      "此夜一輪滿，清光何處無。"
+    ]
+  },
+  {
+    "uid": "QTS_851_005_01",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其一",
+    "poem": [
+      "南有天臺事可尊，孕靈含秀獨超群。",
+      "重重曲澗侵危石，步步層岩踏碎雲。",
+      "金雀每從雲裏現，異香多向夜深聞。",
+      "當知此界非凡界，一道幽奇各自分。"
+    ],
+    "part_index": 1,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_005_02",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其二",
+    "poem": [
+      "仙源佛窟有天臺，今古嘉名遍九垓。",
+      "石磴嵌空神匠出，瀑泉雄壯雨聲來。",
+      "景強偏感高僧上，地勝能令遠思開。",
+      "一等翹誠依此處，自然靈貺作梯媒。"
+    ],
+    "part_index": 2,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_005_03",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其三",
+    "poem": [
+      "智泉福海莫能逾，親自王恩運睿謨。",
+      "感現盡冥心境界，資持全固道根株。",
+      "石樑低翥紅鸚鵡，煙嶺高翔碧鷓鴣。",
+      "勝妙重重惟禱祝，永資軍庶息災虞。"
+    ],
+    "part_index": 3,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_005_04",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其四",
+    "poem": [
+      "淩晨迎請倍精誠，親散鮮花異處清。",
+      "羅漢攀枝呈梵相，岩僧倚樹現真形。",
+      "神幡雙出紅霞動，寶塔全開白氣生。",
+      "都為王心標意切，滿空盈月瑞分明。"
+    ],
+    "part_index": 4,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_005_05",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其五",
+    "poem": [
+      "幡花寶蓋滿青川，祈禱迎來聖半千。",
+      "莫道勝緣無影響，須知嘉會有因緣。",
+      "空中長似聞天樂，岩畔常疑有地仙。",
+      "何必更尋兜率去，重重靈應事昭然。"
+    ],
+    "part_index": 5,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_005_06",
+    "volume": 851,
+    "author": {
+      "canonical": "吳越僧",
+      "recorded": "吳越僧",
+      "gender": "male"
+    },
+    "title": "武肅王有旨，石橋設齋會，進一詩，共六首 其六",
+    "poem": [
+      "登雲步嶺涉煙程，好景隨心次第生。",
+      "聖者已符祥瑞事，地靈全副禱祈情。",
+      "洞深重疊拖雲濕，灘淺潺湲漱水清。",
+      "願滿事圓歸去路，便風相送片帆輕。"
+    ],
+    "part_index": 6,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_851_006_01",
+    "volume": 851,
+    "author": {
+      "canonical": "唐末僧",
+      "recorded": "唐末僧",
+      "gender": "male"
+    },
+    "title": "題戶詩",
+    "poem": [
+      "枕有思鄉淚，門無問疾人。",
+      "塵埋床下履，風動架頭巾。"
+    ]
+  },
+  {
+    "uid": "QTS_851_007_01",
+    "volume": 851,
+    "author": {
+      "canonical": "神迥",
+      "recorded": "神迥",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "鴉鳴東牖曙，草秀南湖春。"
+    ]
+  },
+  {
+    "uid": "QTS_851_008_01",
+    "volume": 851,
+    "author": {
+      "canonical": "可隆",
+      "recorded": "可隆",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "萬般思後行，一失廢前功。"
+    ]
+  },
+  {
+    "uid": "QTS_851_009_01",
+    "volume": 851,
+    "author": {
+      "canonical": "爾鳥",
+      "recorded": "爾鳥",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "鯨目光燒半海紅，鼇頭浪蹙掀天白。"
+    ]
+  },
+  {
+    "uid": "QTS_851_010_01",
+    "volume": 851,
+    "author": {
+      "canonical": "元礎",
+      "recorded": "元礎",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "寺隔殘潮去。",
+      "采藥過泉聲。",
+      "林塘秋半宿，風雨夜深來。"
+    ]
+  },
+  {
+    "uid": "QTS_851_011_01",
+    "volume": 851,
+    "author": {
+      "canonical": "悟清",
+      "recorded": "悟清",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "鳥歸花影動，魚沒浪痕圓。"
+    ]
+  },
+  {
+    "uid": "QTS_851_012_01",
+    "volume": 851,
+    "author": {
+      "canonical": "契盈",
+      "recorded": "契盈",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "三千裏外一條水，十二時中兩度潮。"
+    ]
+  },
+  {
+    "uid": "QTS_851_013_01",
+    "volume": 851,
+    "author": {
+      "canonical": "澹然",
+      "recorded": "澹然",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "到處自鑿井，不能飲常流。"
+    ]
+  },
+  {
+    "uid": "QTS_851_014_01",
+    "volume": 851,
+    "author": {
+      "canonical": "庭實",
+      "recorded": "庭實",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "吟中雙鬢白，笑裏一生貧。"
+    ]
+  },
+  {
+    "uid": "QTS_851_015_01",
+    "volume": 851,
+    "author": {
+      "canonical": "知業",
+      "recorded": "知業",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "接岸橋通何處路，倚欄人是阿誰家。"
+    ]
+  },
+  {
+    "uid": "QTS_851_016_01",
+    "volume": 851,
+    "author": {
+      "canonical": "雲容",
+      "recorded": "雲容",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "木末上明星。"
+    ]
+  },
+  {
+    "uid": "QTS_851_017_01",
+    "volume": 851,
+    "author": {
+      "canonical": "玄幽",
+      "recorded": "玄幽",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "三萬蓮經三十春，半生不蹋院門塵。"
+    ]
+  },
+  {
+    "uid": "QTS_851_018_01",
+    "volume": 851,
+    "author": {
+      "canonical": "志定",
+      "recorded": "志定",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "惟有樽前今夜月，當時曾照墮樓人。",
+      "梧桐葉老蟬聲死，一夜洞庭波上風。"
+    ]
+  },
+  {
+    "uid": "QTS_851_019_01",
+    "volume": 851,
+    "author": {
+      "canonical": "靈準",
+      "recorded": "靈準",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "晴看漢水廣，秋覺峴山高。"
+    ]
+  },
+  {
+    "uid": "QTS_851_020_01",
+    "volume": 851,
+    "author": {
+      "canonical": "荊州僧",
+      "recorded": "荊州僧",
+      "gender": "male"
+    },
+    "title": "句",
+    "poem": [
+      "犬熟護鄰房。"
+    ]
+  }
+]

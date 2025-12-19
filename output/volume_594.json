@@ -1,0 +1,765 @@
+[
+  {
+    "uid": "QTS_594_001_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "登蕪城",
+    "poem": [
+      "昔人登此地，丘壟已前悲。",
+      "今日又非昔，春風能幾時。"
+    ]
+  },
+  {
+    "uid": "QTS_594_002_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "滄浪峽",
+    "poem": [
+      "滄浪臨古道，道上石成塵。",
+      "自有滄浪峽，誰為無事人。"
+    ]
+  },
+  {
+    "uid": "QTS_594_003_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "垓城",
+    "poem": [
+      "百戰未言非，孤軍驚夜圍。",
+      "山河意氣盡，淚濕美人衣。"
+    ]
+  },
+  {
+    "uid": "QTS_594_004_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "南陂遠望",
+    "poem": [
+      "閒門橫古塘，紅樹已驚霜。",
+      "獨立望秋草，野人耕夕陽。",
+      "孤煙起蝸舍，飛鷺下漁梁。",
+      "唯有田家事，依依似故鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_594_005_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "宿玉簫宮",
+    "poem": [
+      "塵飛不到空，露濕翠微宮。",
+      "鶴影石橋月，簫聲松殿風。",
+      "綠毛辭世女，白髮入壺翁。",
+      "借問燒丹處，桃花幾遍紅。"
+    ]
+  },
+  {
+    "uid": "QTS_594_006_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "晚眺徐州延福寺",
+    "poem": [
+      "杉風振旅塵，晚景藉芳茵。",
+      "片水明在野，萬花深見人。",
+      "靜依歸鶴思，遠惜舊山春。",
+      "今日惜攜手，寄懷吟白蘋。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "惜",
+        "variant": "誰",
+        "source": "一作「誰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_007_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "宿甘棠館",
+    "poem": [
+      "塵跡入門盡，悄然江海心。",
+      "水聲巫峽遠，山色洞庭深。",
+      "風桂落寒子，嵐煙凝夕陰。",
+      "前軒鶴歸處，蘿月思沉沉。"
+    ]
+  },
+  {
+    "uid": "QTS_594_008_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和茅山高拾遺憶山中雜題五首：山泉",
+    "poem": [
+      "香味清機仙府回，縈紆亂石便流杯。",
+      "春風莫泛桃花去，恐引凡人入洞來。"
+    ],
+    "part_index": 1,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "凡",
+        "variant": "漁",
+        "source": "一作「漁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_008_02",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和茅山高拾遺憶山中雜題五首：巢鶴",
+    "poem": [
+      "千萬雲間丁令威，殷勤仙骨莫先飛。",
+      "若逢茅氏傳消息，貞白先生不久歸。"
+    ],
+    "part_index": 2,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 1,
+        "text": "萬",
+        "variant": "歲",
+        "source": "一作「歲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_008_03",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和茅山高拾遺憶山中雜題五首：胡山",
+    "poem": [
+      "犬入五雲音信絕，鳳樓凝碧悄無聲。",
+      "焚香古洞步虛夜，露濕松花空月明。"
+    ],
+    "part_index": 3,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "花",
+        "variant": "枝",
+        "source": "一作「枝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_008_04",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和茅山高拾遺憶山中雜題五首：小樓",
+    "poem": [
+      "松杉風外亂山青，曲幾焚香對石屏。",
+      "空憶去年春雨後，燕泥時汙太玄經。"
+    ],
+    "part_index": 4,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "空憶",
+        "variant": "記得",
+        "source": "一作「記得」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_008_05",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和茅山高拾遺憶山中雜題五首：山鄰",
+    "poem": [
+      "石橋春澗已歸遲，夢入仙山山不知。",
+      "柱史從來非俗吏，青牛道士莫相疑。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_594_009_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "送道士",
+    "poem": [
+      "泠然御風客，與道自浮沉。",
+      "黃鶴有歸語，白雲無忌心。",
+      "藥爐經月淨，天路入壺深。",
+      "從此分桮後，相思何處尋。"
+    ]
+  },
+  {
+    "uid": "QTS_594_010_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "宿山館",
+    "poem": [
+      "寂寞對衰草，地涼凝露華。",
+      "蟬鳴月中樹，風落客前花。",
+      "山館無宿伴，秋琴初別家。",
+      "自憐千萬里，筆硯寄生涯。"
+    ]
+  },
+  {
+    "uid": "QTS_594_011_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "入浮石山",
+    "poem": [
+      "斜日出門去，殘花已過春。",
+      "鳥聲穿葉遠，虎跡渡溪新。",
+      "入洞幾時路，耕田何代人。",
+      "自慚非避俗，不敢問迷津。"
+    ]
+  },
+  {
+    "uid": "QTS_594_012_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "送人歸故園",
+    "poem": [
+      "遠節慘言別，況予心久違。",
+      "從來憶家淚，今日送君歸。",
+      "野路正風雪，還鄉猶布衣。",
+      "里中耕稼者，應笑讀書非。"
+    ]
+  },
+  {
+    "uid": "QTS_594_013_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "得越中書",
+    "poem": [
+      "芳草離離思，悠悠春夢餘。",
+      "池亭千里月，煙水一封書。",
+      "詩想懷康樂，文應弔子胥。",
+      "扁舟戀南越，豈獨為鱸魚。"
+    ]
+  },
+  {
+    "uid": "QTS_594_014_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "秋墅",
+    "poem": [
+      "欲暮候樵者，望山空翠微。",
+      "虹隨餘雨散，鵶帶夕陽歸。",
+      "窮巷長秋草，孤村時擣衣。",
+      "誰知多病客，寂寞掩柴扉。"
+    ]
+  },
+  {
+    "uid": "QTS_594_015_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "哭彭先生",
+    "poem": [
+      "谷口溪聲客自傷，那堪嗚咽弔殘陽。",
+      "空階鶴戀丹青影，秋雨苔封白石床。",
+      "主祭孤兒初學語，無媒旅櫬未還鄉。",
+      "門人遠赴心喪夜，月滿千山舊草堂。"
+    ]
+  },
+  {
+    "uid": "QTS_594_016_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "和顧非熊先生題茅山處士閒居",
+    "poem": [
+      "歸耕地肺絕塵喧，匣裏青萍未報恩。",
+      "濁酒自憐終日醉，古風時得野人言。",
+      "鳥啼碧樹閑臨水，花滿青山靜掩門。",
+      "唯有階前芳草色，年年惆悵憶王孫。"
+    ]
+  },
+  {
+    "uid": "QTS_594_017_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "長安懷古",
+    "poem": [
+      "禍稔蕭牆終不知，生人力屈盡邊陲。",
+      "赤龍已赴東方暗，黃犬徒懷上蔡悲。",
+      "面缺崩城山寂寂，土埋冤骨草離離。",
+      "秋風解怨扶蘇死，露泣煙愁紅樹枝。"
+    ]
+  },
+  {
+    "uid": "QTS_594_018_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "過王右丞書堂二首 其一",
+    "poem": [
+      "澄潭昔臥龍，章句世為宗。",
+      "獨步聲名在，千岩水石空。",
+      "野禽悲灌木，落日弔清風。",
+      "後學攀遺址，秋山聞草蟲。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_594_018_02",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "過王右丞書堂二首 其二",
+    "poem": [
+      "萬樹影參差，石牀藤半垂。",
+      "螢光雖散草，鳥跡尚臨池。",
+      "風雅傳今日，雲山想昔時。",
+      "感深蘇屬國，千載五言詩。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_594_019_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "孤鴈",
+    "poem": [
+      "孤鴈暮飛急，蕭蕭天地秋。",
+      "關河正黃葉，消息斷青樓。",
+      "湘渚煙波遠，驪山風雨愁。",
+      "此時萬里道，魂夢遶滄洲。"
+    ]
+  },
+  {
+    "uid": "QTS_594_020_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "贈隱者",
+    "poem": [
+      "盡室居幽谷，亂山為四鄰。",
+      "霧深知有術，窗靜似無人。",
+      "鶴語松上月，花明雲裏春。",
+      "生涯更何許，尊酒與垂綸。"
+    ]
+  },
+  {
+    "uid": "QTS_594_021_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "早春懷薛公裕",
+    "poem": [
+      "幽獨自成愚，柴門日漸蕪。",
+      "陸機初入洛，孫楚又游吳。",
+      "失意怨楊柳，異鄉聞鷓鴣。",
+      "相思複相望，春草滿南湖。"
+    ]
+  },
+  {
+    "uid": "QTS_594_022_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "村月",
+    "poem": [
+      "月午籬南道，前村半隱林。",
+      "田翁獨歸處，蕎麥露花深。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "南",
+        "variant": "邊",
+        "source": "一作「邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_594_023_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "早春",
+    "poem": [
+      "野樹花初發，空山獨見時。",
+      "踟躕歷陽道，鄉思滿南枝。"
+    ]
+  },
+  {
+    "uid": "QTS_594_024_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "送友人游吳",
+    "poem": [
+      "吳山青楚吟，草色異鄉心。",
+      "一酌水邊酒，數聲花下琴。",
+      "登樓舊國遠，探穴九疑深。",
+      "更想逢秋節，那堪聞夜砧。"
+    ]
+  },
+  {
+    "uid": "QTS_594_025_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "贈別",
+    "poem": [
+      "蘭澤傷秋色，臨風遠別期。",
+      "東城草雖綠，南浦柳無枝。",
+      "直道豈易枉，暗投誰不疑。",
+      "因君問行役，有淚濕江蘺。"
+    ]
+  },
+  {
+    "uid": "QTS_594_026_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "經故人舊居",
+    "poem": [
+      "萬里訪遺塵，鶯聲淚濕巾。",
+      "古書無主散，廢宅與山鄰。",
+      "宿草風悲夜，荒村月弔人。",
+      "淒涼問殘柳，今日為誰春。"
+    ]
+  },
+  {
+    "uid": "QTS_594_027_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "隨邊使過五原",
+    "poem": [
+      "偶逐星車犯虜塵，故鄉常恐到無因。",
+      "五原西去陽關廢，日漫平沙不見人。"
+    ]
+  },
+  {
+    "uid": "QTS_594_028_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "春懷寄秣陵知友",
+    "poem": [
+      "廬江城外柳堪攀，萬里行人尚未還。",
+      "借問景陽臺下客，謝家誰更臥東山。"
+    ]
+  },
+  {
+    "uid": "QTS_594_029_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "宋州月夜感懷",
+    "poem": [
+      "鴈池衰草露霑衣，河水東流萬事微。",
+      "寂寞青陵臺上月，秋風滿樹鵲南飛。"
+    ]
+  },
+  {
+    "uid": "QTS_594_030_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "吳宮",
+    "poem": [
+      "荒臺荊棘多，忠諫竟如何。",
+      "細草迷宮巷，閑花誤綺羅。",
+      "前溪徒自綠，子夜不聞歌。",
+      "悵望清江暮，悠悠東去波。"
+    ]
+  },
+  {
+    "uid": "QTS_594_031_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "春遊望仙谷",
+    "poem": [
+      "清無車馬塵，深洞百花春。",
+      "雞犬疑沾藥，耕桑似避秦。",
+      "登山採樵路，臨水浣紗人。",
+      "若得心無事，移家便卜鄰。"
+    ]
+  },
+  {
+    "uid": "QTS_594_032_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "聖女祠",
+    "poem": [
+      "石屏苔色涼，流水遶祠堂。",
+      "巢鵲疑天漢，潭花似鏡妝。",
+      "神來雲雨合，神去蕙蘭香。",
+      "不復聞雙佩，山門空夕陽。"
+    ]
+  },
+  {
+    "uid": "QTS_594_033_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "宿范水",
+    "poem": [
+      "行人倦遊宦，秋草宿湖邊。",
+      "露濕芙蓉渡，月明漁網船。",
+      "寒機深竹裏，遠浪到門前。",
+      "何處思鄉甚，歌聲聞採蓮。"
+    ]
+  },
+  {
+    "uid": "QTS_594_034_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "送顧陶校書歸錢塘",
+    "poem": [
+      "清苦月偏知，南歸瘦馬遲。",
+      "橐輕緣換酒，發白為吟詩。",
+      "水色西陵渡，松聲伍相祠。",
+      "聖朝思直諫，不是掛冠時。"
+    ]
+  },
+  {
+    "uid": "QTS_594_035_01",
+    "volume": 594,
+    "author": {
+      "canonical": "儲嗣宗",
+      "recorded": "儲嗣宗",
+      "gender": "male",
+      "english_name": "Chu Sizong",
+      "wikidata_id": "Q22100768"
+    },
+    "title": "題雲陽高少府衙齋",
+    "poem": [
+      "大隱能兼濟，軒窗逐勝開。",
+      "遠含雲水思，深得棟樑材。",
+      "吏散山逾靜，庭閒鳥自來。",
+      "更憐幽砌色，秋雨長莓苔。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「衙齋」二字",
+        "context": "高少府衙齋",
+        "original_title": "題雲陽高少府衙齋〈一本無「衙齋」二字〉"
+      }
+    ]
+  }
+]

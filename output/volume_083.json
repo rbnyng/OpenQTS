@@ -1,0 +1,2126 @@
+[
+  {
+    "uid": "QTS_083_001_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "慶雲章",
+    "poem": [
+      "崑崙元氣，實生慶雲。",
+      "大人作矣，五色氤氳。",
+      "昔在帝嬀，南風既薰。",
+      "叢芳爛熳，郁郁纷纷。",
+      "曠矣千祀，慶雲來止。",
+      "玉葉金柯，祚我天子。",
+      "非我天子，慶雲誰昌。",
+      "非我聖母，慶雲誰光。",
+      "慶雲光矣，周道昌矣。",
+      "九萬八千，天授皇年。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "氤",
+        "variant": "氛",
+        "source": "一作「氛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 一",
+    "poem": [
+      "微月生西海，幽陽始代昇。",
+      "圓光正東滿，陰魂已朝凝。",
+      "太極生天地，三元更廢興。",
+      "至精諒斯在，三五誰能徵。"
+    ],
+    "part_index": 1,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "生",
+        "variant": "出",
+        "source": "一作「出」"
+      },
+      {
+        "line": 1,
+        "text": "代",
+        "variant": "化",
+        "source": "一作「化」"
+      },
+      {
+        "line": 2,
+        "text": "正",
+        "variant": "恰",
+        "source": "一作「恰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_02",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二",
+    "poem": [
+      "蘭若生春夏，芊蔚何青青。",
+      "幽獨空林色，朱蕤冒紫莖。",
+      "遲遲白日晚，嫋嫋秋風生。",
+      "歲華盡搖落，芳意竟何成。"
+    ],
+    "part_index": 2,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_03",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三",
+    "poem": [
+      "蒼蒼丁零塞，今古緬荒途。",
+      "亭堠何摧兀，暴骨無全軀。",
+      "黃沙幕南起，白日隱西隅。",
+      "漢甲三十萬，曾以事匈奴。",
+      "但見沙場死，誰憐塞上孤。"
+    ],
+    "part_index": 3,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 5,
+        "text": "上",
+        "variant": "下",
+        "source": "一作「下」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_04",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 四",
+    "poem": [
+      "樂羊爲魏將，食子殉軍功。",
+      "骨肉且相薄，他人安得忠。",
+      "吾聞中山相，乃屬放麑翁。",
+      "孤獸猶不忍，況以奉君終。"
+    ],
+    "part_index": 4,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 2,
+        "text": "且",
+        "variant": "尚",
+        "source": "一作「尚」"
+      },
+      {
+        "line": 4,
+        "text": "猶",
+        "variant": "且",
+        "source": "一作「且」"
+      },
+      {
+        "line": 4,
+        "text": "況",
+        "variant": "矧",
+        "source": "一作「矧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_05",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 五",
+    "poem": [
+      "市人矜巧智，於道若童蒙。",
+      "傾奪相夸侈，不知身所終。",
+      "曷見玄真子，觀世玉壺中。",
+      "窅然遺天地，乘化入無窮。"
+    ],
+    "part_index": 5,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_06",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 六",
+    "poem": [
+      "吾觀龍變化，乃知至陽精。",
+      "石林何冥密，幽洞無留行。",
+      "古之得仙道，信與元化幷。",
+      "玄感非象識，誰能測沈冥。",
+      "世人拘目見，酣酒笑丹經。",
+      "崑崙有瑤樹，安得采其英。"
+    ],
+    "part_index": 6,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 4,
+        "text": "象",
+        "variant": "蒙",
+        "source": "一作「蒙」"
+      },
+      {
+        "line": 4,
+        "text": "沈",
+        "variant": "淪",
+        "source": "一作「淪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_07",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 七",
+    "poem": [
+      "白日每不歸，青陽時暮矣。",
+      "茫茫吾何思，林臥觀無始。",
+      "衆芳委時晦，鶗鴂鳴悲耳。",
+      "鴻荒古已頹，誰識巢居子。"
+    ],
+    "part_index": 7,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_08",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 八",
+    "poem": [
+      "吾觀崑崙化，日月淪洞冥。",
+      "精魄相交會，天壤以羅生。",
+      "仲尼推太極，老聃貴窈冥。",
+      "西方金仙子，崇義乃無明。",
+      "空色皆寂滅，緣業定何成。",
+      "名教信紛藉，死生俱未停。"
+    ],
+    "part_index": 8,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 5,
+        "text": "定",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_09",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 九",
+    "poem": [
+      "聖人秘元命，懼世亂其真。",
+      "如何嵩公輩，詼譎誤時人。",
+      "先天誠爲美，階亂禍誰因。",
+      "長城備胡寇，嬴禍發其親。",
+      "赤精既迷漢，子年何救秦。",
+      "去去桃李花，多言死如麻。"
+    ],
+    "part_index": 9,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 2,
+        "text": "詼",
+        "variant": "談",
+        "source": "一作「談」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_10",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十",
+    "poem": [
+      "深居觀元化，悱然爭朵頤。",
+      "讒說相啖食，利害紛㘈㘈。",
+      "便便夸毘子，榮耀更相持。",
+      "務光讓天下，商賈競刀錐。",
+      "已矣行采芝，萬世同一時。"
+    ],
+    "part_index": 10,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "元化",
+        "variant": "羣動",
+        "source": "一作「羣動」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_11",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十一",
+    "poem": [
+      "吾愛鬼谷子，青谿無垢氛。",
+      "囊括經世道，遺身在白雲。",
+      "七雄方龍鬬，天下久無君。",
+      "浮榮不足貴，遵養晦時文。",
+      "舒可彌宇宙，卷之不盈分。",
+      "豈徒山木壽，空與麋鹿羣。"
+    ],
+    "part_index": 11,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 3,
+        "text": "久",
+        "variant": "亂",
+        "source": "一作「亂」"
+      },
+      {
+        "line": 5,
+        "text": "可",
+        "variant": "之",
+        "source": "一作「之」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_12",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十二",
+    "poem": [
+      "呦呦南山鹿，罹罟以媒和。",
+      "招搖青桂樹，幽蠹亦成科。",
+      "世情甘近習，榮耀紛如何。",
+      "怨憎未相復，親愛生禍羅。",
+      "瑤臺傾巧笑，玉杯殞雙蛾。",
+      "誰見枯城蘖，青青成斧柯。"
+    ],
+    "part_index": 12,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 6,
+        "text": "枯",
+        "variant": "孤",
+        "source": "一作「孤」"
+      },
+      {
+        "line": 6,
+        "text": "蘖",
+        "variant": "樹",
+        "source": "一作「樹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_13",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十三",
+    "poem": [
+      "林居病時久，水木澹孤清。",
+      "閑臥觀物化，悠悠念無生。",
+      "青春始萌達，朱火已滿盈。",
+      "徂落方自此，感歎何時平。"
+    ],
+    "part_index": 13,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_14",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十四",
+    "poem": [
+      "臨岐泣世道，天命良悠悠。",
+      "昔日殷王子，玉馬遂朝周。",
+      "寶鼎淪伊穀，瑤臺成古丘。",
+      "西山傷遺老，東陵有故侯。"
+    ],
+    "part_index": 14,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 3,
+        "text": "古",
+        "variant": "故",
+        "source": "一作「故」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_15",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十五",
+    "poem": [
+      "貴人難得意，賞愛在須臾。",
+      "莫以心如玉，探他明月珠。",
+      "昔稱夭桃子，今爲舂市徒。",
+      "鴟鴞悲東國，麋鹿泣姑蘇。",
+      "誰見鴟夷子，扁舟去五湖。"
+    ],
+    "part_index": 15,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_16",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十六",
+    "poem": [
+      "聖人去已久，公道緬良難。",
+      "蚩蚩夸毘子，堯禹以爲謾。",
+      "驕榮貴工巧，勢利迭相干。",
+      "燕王尊樂毅，分國願同歡。",
+      "魯連讓齊爵，遺組去邯鄲。",
+      "伊人信往矣，感激爲誰歎。"
+    ],
+    "part_index": 16,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 3,
+        "text": "迭",
+        "variant": "遞",
+        "source": "一作「遞」"
+      },
+      {
+        "line": 5,
+        "text": "魯",
+        "variant": "仲",
+        "source": "一作「仲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_17",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十七",
+    "poem": [
+      "幽居觀天運，悠悠念羣生。",
+      "終古代興沒，豪聖莫能爭。",
+      "三季淪周赧，七雄滅秦嬴。",
+      "復聞赤精子，提劒入咸京。",
+      "炎光既無象，晉虜復縱橫。",
+      "堯禹道已昧，昏虐勢方行。",
+      "豈無當世雄，天道與胡兵。",
+      "咄咄安可言，時醉而未醒。",
+      "仲尼溺東魯，伯陽遁西溟。",
+      "大運自古來，旅人胡歎哉。"
+    ],
+    "part_index": 17,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_18",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十八",
+    "poem": [
+      "逶迤勢已久，骨鯁道斯窮。",
+      "豈無感激者，時俗頹此風。",
+      "灌園何其鄙，皎皎於陵中。",
+      "世道不相容，嗟嗟張長公。"
+    ],
+    "part_index": 18,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_19",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 十九",
+    "poem": [
+      "聖人不利己，憂濟在元元。",
+      "黃屋非堯意，瑤臺安可論。",
+      "吾聞西方化，清淨道彌敦。",
+      "奈何窮金玉，雕刻以爲尊。",
+      "雲構山林盡，瑤圖珠翠煩。",
+      "鬼工尚未可，人力安能存。",
+      "夸愚適增累，矜智道逾昏。"
+    ],
+    "part_index": 19,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_20",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十",
+    "poem": [
+      "玄天幽且默，羣議曷嗤嗤。",
+      "聖人教猶在，世運久陵夷。",
+      "一繩將何繫？憂醉不能持。",
+      "去去行采芝，勿爲塵所欺。"
+    ],
+    "part_index": 20,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_21",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十一",
+    "poem": [
+      "蜻蛉遊天地，與世本無患。",
+      "飛飛未能止，黃雀來相干。",
+      "穰侯富秦寵，金石比交歡。",
+      "出入咸陽裏，諸侯莫敢言。",
+      "寧知山東客，激怒秦王肝。",
+      "布衣取丞相，千載爲辛酸。"
+    ],
+    "part_index": 21,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 2,
+        "text": "止",
+        "variant": "去",
+        "source": "一作「去」"
+      },
+      {
+        "line": 6,
+        "text": "丞",
+        "variant": "卿",
+        "source": "一作「卿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_22",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十二",
+    "poem": [
+      "微霜知歲晏，斧柯始青青。",
+      "況乃金天夕，浩露沾羣英。",
+      "登山望宇宙，白日已西暝。",
+      "雲海方蕩潏，孤鱗安得寧。"
+    ],
+    "part_index": 22,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_23",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十三",
+    "poem": [
+      "翡翠巢南海，雄雌珠樹林。",
+      "何知美人意，驕愛比黃金。",
+      "殺身炎州裏，委羽玉堂陰。",
+      "旖旎光首飾，葳蕤爛錦衾。",
+      "豈不在遐遠，虞羅忽見尋。",
+      "多材信爲累，歎息此珍禽。"
+    ],
+    "part_index": 23,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_24",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十四",
+    "poem": [
+      "挈瓶者誰子，姣服當青春。",
+      "三五明月滿，盈盈不自珍。",
+      "高堂委金玉，微縷懸千鈞。",
+      "如何負公鼎，被敓笑時人。"
+    ],
+    "part_index": 24,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "姣",
+        "variant": "妖",
+        "source": "一作「妖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_25",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十五",
+    "poem": [
+      "玄蟬號白露，茲歲已蹉跎。",
+      "羣物從大化，孤英將奈何？",
+      "瑤臺有青鳥，遠食玉山禾。",
+      "崑崙見玄鳳，豈復虞雲羅。"
+    ],
+    "part_index": 25,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_26",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十六",
+    "poem": [
+      "荒哉穆天子，好與白雲期。",
+      "宮女多怨曠，層城閉蛾眉。",
+      "日耽瑤池樂，豈傷桃李時。",
+      "青苔空萎絕，白髮生羅帷。"
+    ],
+    "part_index": 26,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_27",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十七",
+    "poem": [
+      "朝發宜都渚，浩然思故鄉。",
+      "故鄉不可見，路隔巫山陽。",
+      "巫山綵雲沒，高丘正微茫。",
+      "佇立望已久，涕落沾衣裳。",
+      "豈茲越鄉感，憶昔楚襄王。",
+      "朝雲無處所，荆國亦淪亡。"
+    ],
+    "part_index": 27,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 4,
+        "text": "落",
+        "variant": "淚",
+        "source": "一作「淚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_28",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十八",
+    "poem": [
+      "昔日章華宴，荆王樂荒淫。",
+      "霓旌翠羽蓋，射兕雲夢林。",
+      "朅來高唐觀，悵望雲陽岑。",
+      "雄圖今何在？黃雀空哀吟。"
+    ],
+    "part_index": 28,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_29",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 二十九",
+    "poem": [
+      "丁亥歲云暮，西山事甲兵。",
+      "贏糧匝邛道，荷戟爭羗城。",
+      "嚴冬陰風勁，窮岫泄雲生。",
+      "昏噎無晝夜，羽檄復相驚。",
+      "拳跼競萬仞，崩危走九冥。",
+      "籍籍峰壑裏，哀哀冰雪行。",
+      "聖人御宇宙，聞道泰階平。",
+      "肉食謀何失，藜藿緬縱橫。"
+    ],
+    "part_index": 29,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 3,
+        "text": "泄",
+        "variant": "油",
+        "source": "一作「油」"
+      },
+      {
+        "line": 4,
+        "text": "噎",
+        "variant": "黷",
+        "source": "一作「黷」"
+      },
+      {
+        "line": 5,
+        "text": "走",
+        "variant": "遠",
+        "source": "一作「遠」"
+      },
+      {
+        "line": 6,
+        "text": "籍籍",
+        "variant": "寂寂",
+        "source": "一作「寂寂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_30",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十",
+    "poem": [
+      "可憐瑤臺樹，灼灼佳人姿。",
+      "碧華映朱實，攀折青春時。",
+      "豈不盛光寵，榮君白玉墀。",
+      "但恨紅芳歇，凋傷感所思。"
+    ],
+    "part_index": 30,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "憐",
+        "variant": "惜",
+        "source": "一作「惜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_31",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十一",
+    "poem": [
+      "朅來豪遊子，勢利禍之門。",
+      "如何蘭膏歎，感激自生冤。",
+      "衆趨明所避，時棄道猶存。",
+      "雲淵既已失，羅網與誰論。",
+      "箕山有高節，湘水有清源。",
+      "唯應白鷗鳥，可爲洗心言。"
+    ],
+    "part_index": 31,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 6,
+        "text": "爲",
+        "variant": "與",
+        "source": "一作「與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_32",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十二",
+    "poem": [
+      "索居猶幾日，炎夏忽然衰。",
+      "陽彩皆陰翳，親友盡暌違。",
+      "登山望不見，涕泣久漣洏。",
+      "宿夢感顏色，若與白雲期。",
+      "馬上驕豪子，驅逐正蚩蚩。",
+      "蜀山與楚水，攜手在何時？"
+    ],
+    "part_index": 32,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "猶",
+        "variant": "獨",
+        "source": "一作「獨」"
+      },
+      {
+        "line": 4,
+        "text": "夢",
+        "variant": "昔",
+        "source": "一作「昔」"
+      },
+      {
+        "line": 5,
+        "text": "馬上",
+        "variant": "世中",
+        "source": "一作「世中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_33",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十三",
+    "poem": [
+      "金鼎合神丹，世人將見欺。",
+      "飛飛騎羊子，胡乃在峨眉。",
+      "變化固幽類，芳菲能幾時。",
+      "疲痾苦淪世，憂痗日侵淄。",
+      "眷然顧幽褐，白雲空涕洟。"
+    ],
+    "part_index": 33,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 1,
+        "text": "神",
+        "variant": "還",
+        "source": "一作「還」"
+      },
+      {
+        "line": 3,
+        "text": "幽",
+        "variant": "非",
+        "source": "一作「非」"
+      },
+      {
+        "line": 4,
+        "text": "痗",
+        "variant": "悔",
+        "source": "一作「悔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_34",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十四",
+    "poem": [
+      "朔風吹海樹，蕭條邊已秋。",
+      "亭上誰家子，哀哀明月樓。",
+      "自言幽燕客，結髮事遠遊。",
+      "赤丸殺公吏，白刃報私讎。",
+      "避讎至海上，被役此邊州。",
+      "故鄉三千里，遼水復悠悠。",
+      "每憤胡兵入，常爲漢國羞。",
+      "何知七十戰，白首未封侯。"
+    ],
+    "part_index": 34,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 4,
+        "text": "刃",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_002_35",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十五",
+    "poem": [
+      "本爲貴公子，平生實愛才。",
+      "感時思報國，拔劒起蒿萊。",
+      "西馳丁零塞，北上單于臺。",
+      "登山見千里，懷古心悠哉。",
+      "誰言未忘禍，磨滅成塵埃。"
+    ],
+    "part_index": 35,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_36",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十六",
+    "poem": [
+      "浩然坐何慕，吾蜀有峨眉。",
+      "念與楚狂子，悠悠白雲期。",
+      "時哉悲不會，涕泣久漣洏。",
+      "夢登綏山穴，南采巫山芝。",
+      "探元觀羣化，遺世從雲螭。",
+      "婉變時永矣，感悟不見之。"
+    ],
+    "part_index": 36,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_37",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十七",
+    "poem": [
+      "朝入雲中郡，北望單于臺。",
+      "胡秦何密邇，沙朔氣雄哉。",
+      "藉藉天驕子，猖狂已復來。",
+      "塞垣無名將，亭堠空崔嵬。",
+      "咄嗟吾何歎，邊人塗草萊。"
+    ],
+    "part_index": 37,
+    "total_parts": 38
+  },
+  {
+    "uid": "QTS_083_002_38",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "感遇詩三十八首 三十八",
+    "poem": [
+      "仲尼探元化，幽鴻順陽和。",
+      "大運自盈縮，春秋遞來過。",
+      "盲飆忽號怒，萬物相紛劘。",
+      "溟海皆震蕩，孤鳳其如何。"
+    ],
+    "part_index": 38,
+    "total_parts": 38,
+    "variants": [
+      {
+        "line": 2,
+        "text": "遞",
+        "variant": "迭",
+        "source": "一作「迭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_003_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "觀荆玉篇",
+    "poem": [
+      "鴟夷雙白玉，此玉有緇磷。",
+      "懸之千金價，舉世莫知真。",
+      "丹青非異色，輕重有殊倫。",
+      "勿信玉工言，徒悲荆國人。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "勿信玉工言",
+        "variant": "勿信工言子",
+        "source": "一作「勿信工言子」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_004_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "鴛鴦篇",
+    "poem": [
+      "飛飛鴛鴦鳥，舉翼相蔽虧。",
+      "俱來綠潭裏，共向白雲涯。",
+      "音容相眷戀，羽翮兩逶迤。",
+      "蘋萍戲春渚，霜霰遶寒池。",
+      "浦沙連岸淨，汀樹拂潭垂。",
+      "年年此遊翫，歲歲來追隨。",
+      "鳳凰起丹穴，獨向梧桐枝。",
+      "鴻雁來紫塞，空憶稻粱肥。",
+      "烏啼倦依托，鶴鳴傷別離。",
+      "豈若此雙禽，飛翻不異林。",
+      "刷尾青江浦，交頸紫山岑。",
+      "文章負奇色，和鳴多好音。",
+      "聞有鴛鴦綺，復有鴛鴦衾。",
+      "持爲美人贈，勖此故交心。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "獨向",
+        "variant": "棲獨",
+        "source": "一作「棲獨」"
+      },
+      {
+        "line": 11,
+        "text": "青",
+        "variant": "清",
+        "source": "一作「清」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_005_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "與東方左史虬修竹篇",
+    "poem": [
+      "龍種生南嶽，孤翠鬱亭亭。",
+      "峰嶺上崇崒，煙雨下微冥。",
+      "夜聞鼯鼠呌，晝聒泉鶴聲。",
+      "春風正淡蕩，白露已清泠。",
+      "哀響激金奏，密色滋玉英。",
+      "歲寒霜雪苦，含彩獨青青。",
+      "豈不厭凝洌，羞比春木榮。",
+      "春木有榮歇，此節無凋零。",
+      "始願與金石，終古保堅貞。",
+      "不意伶倫子，吹之學鳳鳴。",
+      "遂偶雲和瑟，張樂奏天庭。",
+      "妙曲方千變，簫韶亦九成。",
+      "信蒙雕斲美，常願事仙靈。",
+      "驅馳翠虯駕，伊鬱紫鸞笙。",
+      "結交嬴臺女，吟弄昇天行。",
+      "攜手登白日，遠遊戲赤城。",
+      "低昂玄鶴舞，斷續綵雲生。",
+      "永隨衆仙逝，三山遊玉京。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "龍種",
+        "variant": "鐘龍",
+        "source": "一作「鐘龍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_006_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 軒轅臺",
+    "poem": [
+      "北登薊丘望，求古軒轅臺。",
+      "應龍已不見，牧馬空黃埃。",
+      "尚想廣成子，遺跡白雲隈。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_083_006_02",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 燕昭王",
+    "poem": [
+      "南登碣石坂，遙望黃金臺。",
+      "丘陵盡喬木，昭王安在哉。",
+      "霸圖悵已矣，驅馬復歸來。"
+    ],
+    "part_index": 2,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "坂",
+        "variant": "館",
+        "source": "一作「館」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_006_03",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 樂生",
+    "poem": [
+      "王道已淪昧，戰國競貪兵。",
+      "樂生何感激，仗義下齊城。",
+      "雄圖竟中夭，遺歎寄阿衡。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_083_006_04",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 燕太子",
+    "poem": [
+      "秦王日無道，太子怨亦深。",
+      "一聞田光義，匕首贈千金。",
+      "其事雖不立，千載爲傷心。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_083_006_05",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 田光先生",
+    "poem": [
+      "自古皆有死，狥義良獨稀。",
+      "奈何燕太子，尚使田生疑。",
+      "伏劒誠已矣，感我涕沾衣。"
+    ],
+    "part_index": 5,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "狥",
+        "variant": "循",
+        "source": "一作「循」"
+      },
+      {
+        "line": 2,
+        "text": "太",
+        "variant": "丹",
+        "source": "一作「丹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_006_06",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 鄒衍",
+    "poem": [
+      "大運淪三代，天人罕有窺。",
+      "鄒子何寥廓，漫說九瀛垂。",
+      "興亡已千載，今也則無推。"
+    ],
+    "part_index": 6,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 3,
+        "text": "推",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_006_07",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "薊丘覽古贈盧居士藏用七首 郭隗",
+    "poem": [
+      "逢時獨爲貴，歷代非無才。",
+      "隗君亦何幸，遂起黃金臺。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_083_007_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "西還至散關答喬補闕知之",
+    "poem": [
+      "葳蕤蒼梧鳳，嘹唳白露蟬。",
+      "羽翰本非匹，結交何獨全。",
+      "昔君事胡馬，余得奉戎旃。",
+      "攜手向沙塞，關河緬幽燕。",
+      "芳歲幾陽止，白日屢徂遷。",
+      "功業雲臺薄，平生玉佩捐。",
+      "歎此南歸日，猶聞北戍邊。",
+      "代水不可涉，巴江亦潺湲。",
+      "攬衣度函谷，銜涕望秦川。",
+      "蜀門自茲始，雲山方浩然。"
+    ]
+  },
+  {
+    "uid": "QTS_083_008_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "度峽口山贈喬補闕知之王二無競",
+    "poem": [
+      "峽口大漠南，橫絕界中國。",
+      "叢石何紛糺，赤山復翕赩。",
+      "遠望多衆容，逼之無異色。",
+      "崔崒乍孤斷，逶迤屢回直。",
+      "信關胡馬衝，亦距漢邊塞。",
+      "豈依河山險，將順休明德。",
+      "物壯誠有衰，勢雄良易極。",
+      "邐迤忽而盡，泱漭平不息。",
+      "之子黃金軀，如何此荒域。",
+      "雲臺盛多士，待君丹墀側。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "何",
+        "variant": "相",
+        "source": "一作「相」"
+      },
+      {
+        "line": 2,
+        "text": "赤",
+        "variant": "小",
+        "source": "一作「小」"
+      },
+      {
+        "line": 3,
+        "text": "逼",
+        "variant": "迫",
+        "source": "一作「迫」"
+      },
+      {
+        "line": 7,
+        "text": "雄",
+        "variant": "高",
+        "source": "一作「高」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_009_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "題居延古城贈喬十二知之",
+    "poem": [
+      "聞君東山意，宿昔紫芝榮。",
+      "滄洲今何在？華髪旅邊城。",
+      "還漢功既薄，逐胡策未行。",
+      "徒嗟白日暮，坐對黃雲生。",
+      "桂枝芳欲晚，薏苡謗誰明。",
+      "無爲空自老，含歎負生平。"
+    ]
+  },
+  {
+    "uid": "QTS_083_010_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "贈趙六貞固二首 其一",
+    "poem": [
+      "回中烽火入，塞上追兵起。",
+      "此時邊朔寒，登隴思君子。",
+      "東顧望漢京，南山雲霧裏。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "烽",
+        "variant": "峯",
+        "source": "一作「峯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_010_02",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "贈趙六貞固二首 其二",
+    "poem": [
+      "赤螭媚其彩，婉孌蒼梧泉。",
+      "昔者瑯琊子，躬耕亦慨然。",
+      "美人豈遐曠，之子乃前賢。",
+      "良辰在何許，白日屢頹遷。",
+      "道心固微密，神用無留連。",
+      "舒可彌宇宙，攬之不盈拳。",
+      "蓬萊久蕪沒，金石徒精堅。",
+      "良寶委短褐，閑琴獨嬋娟。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "彩",
+        "variant": "形",
+        "source": "一作「形」"
+      },
+      {
+        "line": 7,
+        "text": "萊",
+        "variant": "茅",
+        "source": "一作「茅」，又作「蒿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_011_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "答韓使同在邊",
+    "poem": [
+      "漢家失中策，胡馬屢南驅。",
+      "聞詔安邊使，曾是故人謨。",
+      "廢書悵懷古，負劒許良圖。",
+      "出關歲方晏，乘障日多虞。",
+      "虜入白登道，烽交紫塞途。",
+      "連兵屯北地，清野備東胡。",
+      "邊城方晏閉，斥堠始昭蘇。",
+      "復聞韓長孺，辛苦事匈奴。",
+      "雨雪顏容改，縱橫才位孤。",
+      "空懷老臣策，未獲趙軍租。",
+      "但蒙魏侯重，不受謗書誣。",
+      "當取金人祭，還歌凱入都。"
+    ]
+  },
+  {
+    "uid": "QTS_083_012_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "征東至淇門答宋十一參軍之問",
+    "poem": [
+      "南星中大火，將子涉清淇。",
+      "西林改微月，征斾空自持。",
+      "碧潭去已遠，瑤華折遺誰。",
+      "若問遼陽戍，悠悠天際旗。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "華",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 4,
+        "text": "若",
+        "variant": "君",
+        "source": "一作「君」"
+      },
+      {
+        "line": 4,
+        "text": "悠悠",
+        "variant": "搖搖",
+        "source": "一作「搖搖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_013_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "答洛陽主人",
+    "poem": [
+      "平生白雲志，早愛赤松遊。",
+      "事親恨未立，從宦此中州。",
+      "主人亦何問，旅客非悠悠。",
+      "方謁明天子，清宴奉良籌。",
+      "再取連城璧，三陟平津侯。",
+      "不然拂衣去，歸從海上鷗。",
+      "寧隨當代子，傾側且沈浮。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "亦何",
+        "variant": "何發",
+        "source": "一作「何發」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_014_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "酬暉上人秋夜山亭有贈",
+    "poem": [
+      "皎皎白林秋，微微翠山靜。",
+      "禪居感物變，獨坐開軒屏。",
+      "風泉夜聲雜，月露宵光冷。",
+      "多謝忘機人，塵憂未能整。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "雜",
+        "variant": "絕",
+        "source": "一作「絕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_015_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "酬李參軍崇嗣旅館見贈",
+    "poem": [
+      "昨夜銀河畔，星文犯遙漢。",
+      "今朝紫氣新，物色果逢真。",
+      "言從天上落，乃是地仙人。",
+      "白璧疑冤楚，烏裘似入秦。",
+      "摧藏多古意，歷覽備艱辛。",
+      "樂廣雲雖覩，夷吾風未春。",
+      "鳳歌空有問，龍性詎能馴。",
+      "寶劒終應出，驪珠會見珍。",
+      "未及馮公老，何驚孺子貧。",
+      "青雲儻可致，北海憶孫賓。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "遙",
+        "variant": "天",
+        "source": "一作「天」"
+      },
+      {
+        "line": 10,
+        "text": "致",
+        "variant": "效",
+        "source": "一作「效」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_016_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "酬暉上人夏日林泉",
+    "poem": [
+      "聞道白雲居，窈窕青蓮宇。",
+      "巖泉萬丈流，樹石千年古。",
+      "林臥對軒窗，山陰滿庭戶。",
+      "方釋塵事勞，從君襲蘭杜。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "萬丈流",
+        "variant": "流雜樹",
+        "source": "一作「流雜樹」"
+      },
+      {
+        "line": 2,
+        "text": "樹石",
+        "variant": "石室",
+        "source": "一作「石室」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_017_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "同宋參軍之問夢趙六贈盧陳二子之作",
+    "poem": [
+      "曉霽望嵩丘，白雲半巖足。",
+      "氛氳涵翠微，宛如嬴臺曲。",
+      "故人昔所尚，幽琴歌斷續。",
+      "變化竟無常，人琴遂兩亡。",
+      "白雲失處所，夢想曖容光。",
+      "疇昔疑緣業，儒道兩相妨。",
+      "前期許幽報，迨此尚茫茫。",
+      "晤言既已失，感歎情何一。",
+      "始憶攜手期，雲臺與峨眉。",
+      "達兼濟天下，窮獨善其時。",
+      "諸君推管樂，之子慕巢夷。",
+      "奈何蒼生望，卒爲黃綬欺。",
+      "銘鼎功未立，山林事亦微。",
+      "撫孤一流慟，懷舊日暌違。",
+      "盧子尚高節，終南臥松雪。",
+      "宋侯逢聖君，驂馭遊青雲。",
+      "而我獨蹭蹬，語默道猶屯。",
+      "征戍在遼陽，蹉跎草再黃。",
+      "丹丘恨不及，白露已蒼蒼。",
+      "遠聞山陽賦，感涕下沾裳。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "丘",
+        "variant": "嶽",
+        "source": "一作「嶽」"
+      },
+      {
+        "line": 2,
+        "text": "嬴",
+        "variant": "瀛",
+        "source": "一作「瀛」"
+      },
+      {
+        "line": 8,
+        "text": "歎",
+        "variant": "恨",
+        "source": "一作「恨」"
+      },
+      {
+        "line": 14,
+        "text": "日",
+        "variant": "且",
+        "source": "一作「且」"
+      },
+      {
+        "line": 16,
+        "text": "馭",
+        "variant": "御",
+        "source": "一作「御」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_018_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "送別出塞",
+    "poem": [
+      "平生聞高義，書劒百夫雄。",
+      "言登青雲去，非此白頭翁。",
+      "胡兵屯塞下，漢騎屬雲中。",
+      "君爲白馬將，腰佩騂角弓。",
+      "單于不敢射，天子佇深功。",
+      "蜀山余方隱，良會何時同。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "屬",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_019_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "登薊丘樓送賈兵曹入都",
+    "poem": [
+      "東山宿昔意，北征非我心。",
+      "孤負平生願，感涕下沾襟。",
+      "暮登薊樓上，永望燕山岑。",
+      "遼海方漫漫，胡沙飛且深。",
+      "峨眉杳如夢，仙子曷由尋。",
+      "擊劒起歎息，白日忽西沈。",
+      "聞君洛陽使，因子寄南音。"
+    ]
+  },
+  {
+    "uid": "QTS_083_020_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "夏日暉上人房別李參軍崇嗣",
+    "poem": [
+      "四十九變化，一十三死生。",
+      "翕忽玄黃裏，驅馳風雨情。",
+      "是非紛妄作，寵辱坐相驚。",
+      "至人獨幽鑒，窈窕隨昏明。",
+      "咫尺山河道，軒窗日月庭。",
+      "別離焉足問，悲樂固能幷。",
+      "我輩何爲爾，棲皇猶未平。",
+      "金臺可攀陟，寶界絕將迎。",
+      "戶牖觀天地，階基上杳冥。",
+      "自超三界樂，安知萬里征。",
+      "中國要荒內，人寰宇宙榮。",
+      "弦望如朝夕，寧嗟蜀道行。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "鑒",
+        "variant": "覽",
+        "source": "一作「覽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_021_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "秋園臥病呈暉上人",
+    "poem": [
+      "幽寂曠日遙，林園轉清密。",
+      "疲疴澹無豫，獨坐泛瑤瑟。",
+      "懷挾萬古情，憂虞百年疾。",
+      "綿綿多滯念，忽忽每如失。",
+      "緬想赤松遊，高尋白雲逸。",
+      "榮吝始都喪，幽人遂貞吉。",
+      "圖書紛滿床，山水藹盈室。",
+      "宿昔心所尚，平生自茲畢。",
+      "願言誰見知，梵筵有同術。",
+      "八月高秋晚，涼風正蕭瑟。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "白雲",
+        "variant": "紫庭",
+        "source": "一作「紫庭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_022_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "登澤州城北樓讌",
+    "poem": [
+      "平生倦遊者，觀化久無窮。",
+      "復來登此國，臨望與君同。",
+      "坐見秦兵壘，遙聞趙將雄。",
+      "武安君何在，長平事已空。",
+      "且歌玄雲曲，御酒舞薰風。",
+      "勿使青衿子，嗟爾白頭翁。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "御",
+        "variant": "銜",
+        "source": "一作「銜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_023_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "山水粉圖",
+    "poem": [
+      "山圖之白雲兮，若巫山之高丘。",
+      "紛羣翠之鴻溶，又似蓬瀛海水之周流。",
+      "信夫人之好道，愛雲山以幽求。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "山圖",
+        "variant": "仙圖",
+        "source": "一作「仙圖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_024_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "綵樹歌",
+    "poem": [
+      "嘉錦筵之珍樹兮，錯衆綵之氛氳。",
+      "狀瑤臺之微月，點巫山之朝雲。",
+      "青春兮不可逢，況蕙色之增芬。",
+      "結芳意而誰賞，怨絕世之無聞。",
+      "紅榮碧豔坐看歇，素華流年不待君。",
+      "故吾思崑崙之琪樹，厭桃李之繽紛。"
+    ]
+  },
+  {
+    "uid": "QTS_083_025_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "春臺引",
+    "poem": [
+      "感陽春兮生碧草之油油，懷宇宙以傷遠，登高臺而寫憂。",
+      "遲美人兮不見，恐青歲之遂遒。",
+      "從畢公以酣飲，寄林塘而一留。",
+      "採芳蓀於北渚，憶桂樹於南州。",
+      "何雲木之美麗，而池館之崇幽。",
+      "星臺秀士，月旦諸子。",
+      "嘉青鳥之辰，迎火龍之始。",
+      "挾寶書與瑤瑟，芳蕙華而蘭靡。",
+      "乃掩白蘋，藉綠芷。",
+      "酒既醉，樂未已。",
+      "擊青鐘，歌淥水。",
+      "怨青春之萎絕，贈瑤臺之旖旎。",
+      "願一見而道意，結衆芳之綢繆。",
+      "曷余情之蕩漾，矚青雲以增愁。",
+      "悵三山之飛鶴，憶海上之白鷗。",
+      "重曰：羣仙去兮青春頹，歲華歇兮黃鳥哀。",
+      "富貴榮樂幾時兮，朱宮碧堂生青苔，白雲兮歸來。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遂",
+        "variant": "還",
+        "source": "一作「還」"
+      },
+      {
+        "line": 12,
+        "text": "臺",
+        "variant": "華",
+        "source": "一作「華」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_083_026_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "登幽州臺歌",
+    "poem": [
+      "前不見古人，後不見來者。",
+      "念天地之悠悠，獨愴然而涕下。"
+    ]
+  },
+  {
+    "uid": "QTS_083_027_01",
+    "volume": 83,
+    "author": {
+      "canonical": "陳子昂",
+      "recorded": "陳子昂",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Chen Zi'ang",
+      "wikidata_id": "Q701302"
+    },
+    "title": "喜馬參軍相遇醉歌",
+    "poem": [
+      "獨幽默以三月兮，深林潛居。",
+      "時歲忽兮，孤憤遐吟。",
+      "誰知我心，孺子孺子，其可與理分。"
+    ]
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "uid": "QTS_742_001_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "惜花",
+    "poem": [
+      "蝶散鶯啼尚數枝，日斜風定更離披。",
+      "看多記得傷心事，金谷樓前委地時。"
+    ]
+  },
+  {
+    "uid": "QTS_742_002_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "寄人",
+    "poem": [
+      "別夢依依到謝家，小廊迴合曲闌斜。",
+      "多情只有春庭月，猶為離人照落花。"
+    ]
+  },
+  {
+    "uid": "QTS_742_003_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "寄人",
+    "poem": [
+      "酷憐風月為多情，還到春時別恨生。",
+      "倚柱尋思倍惆悵，一場春夢不分明。"
+    ]
+  },
+  {
+    "uid": "QTS_742_004_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "邊上",
+    "poem": [
+      "戍樓吹角起征鴻，獵獵寒旌背晚風。",
+      "千里暮煙愁不盡，一川秋草恨無窮。",
+      "山河慘澹關城閉，人物蕭條市井空。",
+      "只此旅魂招未得，更堪回首夕陽中。"
+    ]
+  },
+  {
+    "uid": "QTS_742_005_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "長安道中蚤行",
+    "poem": [
+      "客離孤館一燈殘，牢落星河欲曙天。",
+      "雞唱未沈函谷月，鴈聲新度㶚陵煙。",
+      "浮生已悟荘周蝶，壯志仍輸祖逖鞭。",
+      "何事悠悠策羸馬，此中辛苦過流年。"
+    ]
+  },
+  {
+    "uid": "QTS_742_006_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "洞庭阻風",
+    "poem": [
+      "空江浩蕩景蕭然，盡日菰蒲泊釣船。",
+      "青草浪高三月渡，綠楊花撲一溪煙。",
+      "情多莫舉傷春目，愁極兼無買酒錢。",
+      "猶有漁人數家住，不成村落夕陽邊。"
+    ]
+  },
+  {
+    "uid": "QTS_742_007_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "春日旅泊桂州",
+    "poem": [
+      "暖風芳草竟芊綿，多病多愁負少年。",
+      "弱柳未勝寒食雨，好花爭奈夕陽天。",
+      "溪邊物色堪圖畫，林畔鶯聲似管弦。",
+      "獨有離人開淚眼，強憑杯酒亦潸然。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "暖",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 3,
+        "text": "堪",
+        "variant": "宜",
+        "source": "一作「宜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_742_008_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "晚次湘源縣",
+    "poem": [
+      "煙郭遙聞向晚雞，水平舟靜浪聲齊。",
+      "高林帶雨楊梅熟，曲岸籠雲謝豹啼。",
+      "二女廟荒汀樹老，九疑山碧楚天低。",
+      "湘南自古多離怨，莫動哀吟易慘悽。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "汀",
+        "variant": "宮",
+        "source": "一作「宮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_742_009_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "惆悵吟",
+    "poem": [
+      "秋風丹葉動荒城，慘澹雲遮日半明。",
+      "晝夢卻因惆悵得，晩愁多為別離生。",
+      "江淹彩筆空留恨，荘叟元譚未及情。",
+      "千古怨魂銷不得，一江寒浪若為平。"
+    ]
+  },
+  {
+    "uid": "QTS_742_010_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "秋晚過洞庭",
+    "poem": [
+      "征帆初掛酒初酣，莫景離情兩不堪。",
+      "千里晚霞雲夢北，一洲霜橘洞庭南。",
+      "溪風送雨過秋寺，磵石驚龍落夜潭。",
+      "莫把羇魂弔湘魄，九疑愁絶鎻煙嵐。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "初",
+        "variant": "高",
+        "source": "一作「高」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_742_011_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "題華嚴寺木塔",
+    "poem": [
+      "六街晴色動秋光，雨霽憑高只易傷。",
+      "一曲晩煙浮渭水，半橋斜日照咸陽。",
+      "休將世路悲塵事，莫指雲山認故鄉。",
+      "回首漢宮樓閣暮，數聲鐘鼓自微茫。"
+    ]
+  },
+  {
+    "uid": "QTS_742_012_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "經舊逰",
+    "poem": [
+      "暫到高唐暁又還，丁香結夢水潺潺。",
+      "不知雲雨歸何處，歴歴空留十二山。"
+    ]
+  },
+  {
+    "uid": "QTS_742_013_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "碧戶",
+    "poem": [
+      "碧戶扄魚鏁，蘭窗掩鏡臺。",
+      "落花疑悵望，歸燕自裵囬。",
+      "詠絮知難敵，傷春不易裁。",
+      "恨從芳草起，愁為晚風來。",
+      "衣惹湘雲薄，眉分楚岫開。",
+      "香濃眠舊枕，夢好醉春杯。",
+      "小障眀金鳳，幽屏㸃翠苔。",
+      "寳箏橫塞雁，怨笛落江梅。",
+      "卓氏仍多酒，相如正富才。",
+      "莫教琴上意，翻作鶴聲哀。"
+    ]
+  },
+  {
+    "uid": "QTS_742_014_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "芍藥",
+    "poem": [
+      "香清粉澹怨殘春，蝶翅蜂鬚戀蘂塵。",
+      "閑倚晚風生悵望，靜留遲日學因循。",
+      "休將薜荔為青𤨏，好與玫瑰作近鄰。",
+      "零落若教隨暮雨，又應愁殺別離人。"
+    ]
+  },
+  {
+    "uid": "QTS_742_015_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "春晩謡",
+    "poem": [
+      "雨微微，煙霏霏，小庭半拆紅薔薇。",
+      "鈿箏斜倚畫屏曲，零落㡬行金雁飛。",
+      "蕭關夢斷無尋處，萬疊春波起南浦。",
+      "凌亂楊花撲繡簾，晩窗時有流鶯語。"
+    ]
+  },
+  {
+    "uid": "QTS_742_016_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "所思",
+    "poem": [
+      "空塘水碧春雨微，東風㪚漫楊柳飛。",
+      "依依南浦夢猶在，脈脈高唐雲不歸。",
+      "江頭日暮多芳草，極目傷心煙悄悄。",
+      "隔江紅杏一枝眀，似玉佳人俯清沼。",
+      "休向春臺更廻望，銷魂自古因惆悵。",
+      "銀河碧海共無情，兩處悠悠起風浪。"
+    ]
+  },
+  {
+    "uid": "QTS_742_017_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "春夕言懷",
+    "poem": [
+      "風透踈簾月滿庭，倚欄無事倍傷情。",
+      "煙垂柳帶纖腰軟，露滴花房怨臉眀。",
+      "愁逐野雲銷不盡，情隨春浪去難平。",
+      "幽窗謾結相思夢，𣣔化西園蝶未成。"
+    ]
+  },
+  {
+    "uid": "QTS_742_018_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "春江雨",
+    "poem": [
+      "雨溟溟，風泠泠，老松瘦竹臨煙汀。",
+      "空江冷落野雲重，村中鬼火微如星。",
+      "夜驚溪上漁人起，滴瀝篷聲滿愁耳。",
+      "子規叫斷獨未眠，罨岸春濤打船尾。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "村",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 2,
+        "text": "鬼火",
+        "variant": "孤月",
+        "source": "一作「孤月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_742_019_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "送容州中丞赴鎮",
+    "poem": [
+      "交趾同星坐，龍泉佩鬥文。",
+      "燒香翠羽帳，看舞鬰金裙。",
+      "鷁首衝瀧浪，犀渠拂嶺雲。",
+      "莫教銅柱北，祇說馬將軍。"
+    ]
+  },
+  {
+    "uid": "QTS_742_020_01",
+    "volume": 742,
+    "author": {
+      "canonical": "張泌",
+      "recorded": "張泌",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhang Bi",
+      "wikidata_id": "Q10292890"
+    },
+    "title": "贈韓道士",
+    "poem": [
+      "日暮秋風吹野花，上清歸客意無涯。",
+      "桃源寂寂煙霞閉，天路悠悠星漢斜。",
+      "還似世人生白髮，定知仙骨變黃芽。",
+      "東城南陌頻相見，應是壺中別有家。"
+    ]
+  }
+]

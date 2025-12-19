@@ -1,0 +1,1533 @@
+[
+  {
+    "uid": "QTS_316_001_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "古意",
+    "poem": [
+      "蜀國春與秋，岷江朝夕流。",
+      "長波東接海，萬里至揚州。",
+      "開門面淮甸，楚俗饒歡宴。",
+      "舞榭黃金梯，歌樓白雲面。",
+      "蕩子未言歸，池塘月如練。"
+    ]
+  },
+  {
+    "uid": "QTS_316_002_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "塞下曲",
+    "poem": [
+      "草枯馬蹄輕，角弓勁如石。",
+      "驕虜初欲來，風塵暗南國。",
+      "走檄召都尉，星火剿羌狄。",
+      "吾身許報主，何暇避鋒鏑。",
+      "白露濕鐵衣，半夜待攻擊。",
+      "龍沙早立功，名向燕然勒。"
+    ]
+  },
+  {
+    "uid": "QTS_316_003_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "獨不見",
+    "poem": [
+      "荊門一柱觀，楚國三休殿。",
+      "環佩儼神仙，輝光生顧盼。",
+      "春風細腰舞，明月高堂宴。",
+      "夢澤水連雲，渚宮花似霰。",
+      "俄驚白日晚，始悟炎涼變。",
+      "別島異波潮，離鴻分海縣。",
+      "南北斷相聞，歎嗟獨不見。"
+    ]
+  },
+  {
+    "uid": "QTS_316_004_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "旬假南亭寄熊郎中",
+    "poem": [
+      "旬休屏戎事，涼雨北窗眠。",
+      "江城一夜雨，萬里繞山川。",
+      "草木散幽氣，池塘鳴早蟬。",
+      "妍芳落春後，旅思生秋前。",
+      "紅槿粲庭豔，綠蒲繁渚煙。",
+      "行歌獨謠酌，坐發朱絲弦。",
+      "哀玉不可扣，華燭徒湛然。",
+      "聞君樂林臥，郡閣曠周旋。",
+      "酬對龍象侶，灌注清泠泉。",
+      "如何無礙智，猶苦病纏牽。"
+    ]
+  },
+  {
+    "uid": "QTS_316_005_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "晨興寄贈竇使君",
+    "poem": [
+      "江陵歲方晏，晨起眄庭柯。",
+      "白露傷紅葉，清風斷綠蘿。",
+      "徇時真氣索，念遠懷憂多。",
+      "夙昔樂山意，縱橫南浦波。",
+      "有美嬋娟子，百慮攢雙蛾。",
+      "緘情郁不舒，幽行駢複羅。",
+      "為予歌苦寒，酌酒朱顏酡。",
+      "世事浮雲變，功名將奈何。"
+    ],
+    "notes": [
+      {
+        "content": "一作晨興贈友，寄呈竇使君",
+        "context": "寄贈竇使君",
+        "original_title": "晨興寄贈竇使君（一作晨興贈友，寄呈竇使君）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_006_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋日對酒",
+    "poem": [
+      "行年過始衰，秋至獨先悲。",
+      "事往憐神魄，感深滋涕洟。",
+      "百憂紛在慮，一醉兀無思。",
+      "寶瑟拂塵匣，徽音凝朱絲。",
+      "幽圃蕙蘭氣，煙窗松桂姿。",
+      "我乏濟時略，杖節撫藩維。",
+      "山川大兵後，牢落空城池。",
+      "驚沙猶振野，綠草生荒陂。",
+      "物變風雨順，人懷天地慈。",
+      "春耕事秋戰，戎馬去封陲。",
+      "波瀾暗超忽，堅白亦磷緇。",
+      "客有自嵩潁，重征棲隱期。",
+      "丹訣學仙晚，白雲歸谷遲。",
+      "君恩不可報，霜露繞南枝。"
+    ]
+  },
+  {
+    "uid": "QTS_316_007_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "安邑裏中秋懷寄高員外",
+    "poem": [
+      "原憲素非貧，嵇康自寡慾。",
+      "守道識通窮，達命齊榮辱。",
+      "庭梧變蔥蒨，籬菊揚芳馥。",
+      "墜葉翻夕霜，高堂瞬華燭。",
+      "況茲寒夜永，複歎流年促。",
+      "感物思殷勤，懷賢心躑躅。",
+      "雄詞封禪草，麗句陽春曲。",
+      "高德十年兄，異才千里足。",
+      "咫尺邈雪霜，相望如瓊玉。",
+      "欲識歲寒心，松筠更秋綠。"
+    ]
+  },
+  {
+    "uid": "QTS_316_008_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送唐次",
+    "poem": [
+      "都門去馬嘶，灞水春流淺。",
+      "青槐驛路長，白日離尊晚。",
+      "望望煙景微，草色行人遠。"
+    ]
+  },
+  {
+    "uid": "QTS_316_009_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋夜雨中懷友",
+    "poem": [
+      "庭空雨鳴驕，天寒雁啼苦。",
+      "青燈淡吐光，白髮悄無語。",
+      "幾年不與聯床吟，君方客吳我猶楚。"
+    ]
+  },
+  {
+    "uid": "QTS_316_010_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "望夫石",
+    "poem": [
+      "佳名望夫處，苔蘚封孤石。",
+      "萬里水連天，巴江暮雲碧。",
+      "湘妃泣下竹成斑，子規夜啼江樹白。"
+    ]
+  },
+  {
+    "uid": "QTS_316_011_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "行路難",
+    "poem": [
+      "君不見道傍廢井傍開花，原是昔年驕貴家。",
+      "幾度美人來照影，濯纖笑引銀瓶綆。",
+      "風飄雨散今奈何，繡闥雕甍綠苔多。",
+      "笙歌鼎沸君莫矜，豪奢未必長多金。",
+      "休說編氓樸無恥，至竟終須合天理。",
+      "非故敗他卻成此，蘇張終作多言鬼。",
+      "行路難，路難不在九折灣。"
+    ]
+  },
+  {
+    "uid": "QTS_316_012_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "長相思",
+    "poem": [
+      "長相思，隴雲愁，單于臺上望伊州。",
+      "雁書絕，蟬鬢秋。",
+      "行人天一畔，暮雨海西頭。",
+      "殷勤大河水，東注不還流。"
+    ]
+  },
+  {
+    "uid": "QTS_316_013_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "出塞作",
+    "poem": [
+      "夙駕逾人境，長驅出塞垣。",
+      "邊風引去騎，胡沙拂征轅。",
+      "奏笳山月白，結陣瘴雲昏。",
+      "雖雲風景異華夏，亦喜地理通樓煩。",
+      "白羽矢飛先火炮，黃金甲耀奪朝暾。",
+      "要須灑掃龍沙淨，歸謁明光一報恩。"
+    ]
+  },
+  {
+    "uid": "QTS_316_014_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "桃源行送友",
+    "poem": [
+      "武陵川徑入幽遐，中有雞犬秦人家，家傍流水多桃花。",
+      "桃花兩邊種來久，流水一通何時有。",
+      "垂條落蕊暗春風，夾岸芳菲至山口。",
+      "歲歲年年能寂寥，林下青苔日為厚。",
+      "時有仙鳥來銜花，曾無世人此攜手。",
+      "可憐不知若為名，君往從之多所更。",
+      "古驛荒橋平路盡，崩湍怪石小溪行。",
+      "相見維舟登覽處，紅堤綠岸宛然成。",
+      "多君此去從仙隱，令人晚節悔營營。"
+    ]
+  },
+  {
+    "uid": "QTS_316_015_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "長安敘懷寄崔十五",
+    "poem": [
+      "延首直城西，花飛綠草齊。",
+      "迢遙隔山水，悵望思遊子。",
+      "百囀黃鸝細雨中，千條翠柳衡門裏。",
+      "門對長安九衢路，愁心不惜芳菲度。",
+      "風塵冉冉秋複春，鐘鼓喧喧朝複暮。",
+      "漢家宮闕在中天，紫陌朝臣車馬連。",
+      "蕭蕭霓旌合仙仗，悠悠劍佩入爐煙。",
+      "李廣少時思報國，終軍未遇敢論邊。",
+      "無媒守儒行，榮悴紛相映。",
+      "家甚長卿貧，身多公幹病。",
+      "不知身病竟如何，懶向青山眠薜蘿。",
+      "雞黍空多元伯惠，琴書不見子猷過。",
+      "超名累歲與君同，自歎還隨鷁退風。",
+      "聞說唐生子孫在，何當一為問窮通。"
+    ]
+  },
+  {
+    "uid": "QTS_316_016_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "兵行褒斜谷作",
+    "poem": [
+      "古地接龜沙，邊風送征雁。",
+      "霜明草正腓，峰逼日易晏。",
+      "集旅布嵌谷，驅馬曆層澗。",
+      "岷河源涉屢，蜀甸途行慣。",
+      "矢橐弧室豈領軍，儋爵食祿由從宦。",
+      "注意奏凱赴都畿，速令提兵還石阪。",
+      "三川頓使氣象清，賣刀買犢消憂患。"
+    ]
+  },
+  {
+    "uid": "QTS_316_017_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "西亭早秋送徐員外",
+    "poem": [
+      "鼎鉉辭台座，麾幢領益州。",
+      "曲池連月曉，橫角滿城秋。",
+      "有美皇華使，曾同白社遊。",
+      "今年重相見，偏覺豔歌愁。"
+    ]
+  },
+  {
+    "uid": "QTS_316_018_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送徐員外還京",
+    "poem": [
+      "九折朱輪動，三巴白露生。",
+      "蕙蘭秋意晚，關塞別魂驚。",
+      "寶瑟連宵怨，金罍盡醉傾。",
+      "旄頭星未落，分手轆轤鳴。"
+    ],
+    "notes": [
+      {
+        "content": "一作使還上都",
+        "context": "徐員外還京",
+        "original_title": "送徐員外還京（一作使還上都）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_019_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送柳郎中裴起居",
+    "poem": [
+      "沱江水綠波，喧鳥去喬柯。",
+      "南浦別離處，東風蘭杜多。",
+      "長亭春婉娩，層漢路蹉跎。",
+      "會有歸朝日，班超奈老何。"
+    ],
+    "notes": [
+      {
+        "content": "一作柳侍禦，一作李侍郎",
+        "context": "送柳郎中",
+        "original_title": "送柳郎中（一作柳侍禦，一作李侍郎）裴起居"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_020_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "八月十五酬從兄常望月有懷",
+    "poem": [
+      "坐愛圓景滿，況茲秋夜長。",
+      "寒光生露草，夕韻出風篁。",
+      "地遠驚金奏，天高失雁行。",
+      "如何北樓望，不得共池塘。"
+    ]
+  },
+  {
+    "uid": "QTS_316_021_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "酬太常從兄留別",
+    "poem": [
+      "鄉路日茲始，征軒行複留。",
+      "張騫隨漢節，王浚守刀州。",
+      "澤國煙花度，銅梁霧雨愁。",
+      "別離無可奈，萬恨錦江流。"
+    ],
+    "notes": [
+      {
+        "content": "一作送太常十二兄罷冊南詔卻赴上都",
+        "context": "常從兄留別",
+        "original_title": "酬太常從兄留別（一作送太常十二兄罷冊南詔卻赴上都）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_022_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "春日與諸公泛舟",
+    "poem": [
+      "千里雪山開，沱江春水來。",
+      "駐帆雲縹緲，吹管鶴裴回。",
+      "身外流年駛，尊前落景催。",
+      "不應歸棹遠，明月在高臺。"
+    ]
+  },
+  {
+    "uid": "QTS_316_023_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送兄歸洛使謁嚴司空",
+    "poem": [
+      "六歲蜀城守，千莖蓬鬢絲。",
+      "憂心不自遣，骨肉又傷離。",
+      "楚峽饒雲雨，巴江足夢思。",
+      "殷勤孔北海，時節易流移。"
+    ]
+  },
+  {
+    "uid": "QTS_316_024_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "同洛陽諸公餞盧起居",
+    "poem": [
+      "蕭條寒日晏，淒慘別魂驚。",
+      "寶瑟無聲怨，金囊故贈輕。",
+      "赤墀方載筆，油幕尚言兵。",
+      "暮宿青泥驛，煩君淚滿纓。"
+    ]
+  },
+  {
+    "uid": "QTS_316_025_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "台中題壁",
+    "poem": [
+      "柏台年未老，蓬鬢忽蒼蒼。",
+      "無事裨明主，何心弄憲章。",
+      "雀聲愁霰雪，鴻思恨關梁。",
+      "會脫簪纓去，故山瑤草芳。"
+    ]
+  },
+  {
+    "uid": "QTS_316_026_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "江上寄隱者",
+    "poem": [
+      "歸舟不計程，江月屢虧盈。",
+      "靄靄滄波路，悠悠離別情。",
+      "蒹葭連水國，鼙鼓近梁城。",
+      "卻憶沿江叟，汀洲春草生。"
+    ]
+  },
+  {
+    "uid": "QTS_316_027_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送嚴紳游蘭溪",
+    "poem": [
+      "剡嶺窮邊海，君遊別嶺西。",
+      "暮雲秋水闊，寒雨夜猿啼。",
+      "地僻秦人少，山多越路迷。",
+      "蕭蕭驅匹馬，何處是蘭溪。"
+    ]
+  },
+  {
+    "uid": "QTS_316_028_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋思",
+    "poem": [
+      "秋室浩煙霧，風柳怨寒蜩。",
+      "機杼夜聲切，蕙蘭芳意消。",
+      "美人湘水曲，桂楫洞庭遙。",
+      "常恐時光謝，蹉跎紅豔凋。"
+    ]
+  },
+  {
+    "uid": "QTS_316_029_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "夏日別盧太卿",
+    "poem": [
+      "漢水清且廣，江波渺複深。",
+      "葉舟煙雨夜，之子別離心。",
+      "汀草結春怨，山雲連暝陰。",
+      "年年南北淚，今古共沾襟。"
+    ],
+    "notes": [
+      {
+        "content": "一作江津對雨送盧侍禦",
+        "context": "日別盧太卿",
+        "original_title": "夏日別盧太卿（一作江津對雨送盧侍禦）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_030_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "西亭題壁寄中書李相公",
+    "poem": [
+      "昏旦倦興寢，端憂力尚微。",
+      "廉頗不覺老，蘧瑗始知非。",
+      "授鉞虛三顧，持衡曠萬機。",
+      "空餘蝴蝶夢，迢遞故山歸。"
+    ],
+    "notes": [
+      {
+        "content": "一作寄上中書李相公",
+        "context": "中書李相公",
+        "original_title": "西亭題壁寄中書李相公（一作寄上中書李相公）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_316_031_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "八月十五夜與諸公錦樓望月得中字",
+    "poem": [
+      "玉輪初滿空，迥出錦城東。",
+      "相向秦樓鏡，分飛碣石鴻。",
+      "桂香隨窈窕，珠綴隔玲瓏。",
+      "不及前秋月，圓輝鳳沼中。"
+    ]
+  },
+  {
+    "uid": "QTS_316_032_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "四川使宅有韋令公時孔雀存焉暇日與諸公同翫座中兼故府賔妓興嗟乆之因賦此詩用廣其意",
+    "poem": [
+      "荀令昔居此，故巢留越禽。",
+      "動搖金翠尾，飛舞碧梧陰。",
+      "上客徹瑤瑟，美人傷蕙心。",
+      "會因南國使，得放海雲深。"
+    ]
+  },
+  {
+    "uid": "QTS_316_033_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "竇三中丞去嵗有臺中五言四韻未及酬報今領黔南途經蜀門百里而近願言欵覿封畧間然因追曩篇持以贈之",
+    "poem": [
+      "在昔謬司憲，常僚惟有君。",
+      "報恩如皎日，致位等青雲。",
+      "削稿書難見，除苛事早吟。",
+      "雙旌不可駐，風雪路岐分。"
+    ]
+  },
+  {
+    "uid": "QTS_316_034_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "春分與諸公同宴呈陸三十四郎中",
+    "poem": [
+      "南國宴佳賓，交情老倍親。",
+      "月慚紅燭淚，花笑白頭人。",
+      "寶瑟常餘怨，瓊枝不讓春。",
+      "更聞歌子夜，桃李豔妝新。"
+    ]
+  },
+  {
+    "uid": "QTS_316_035_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "津梁寺採新茶與幕中諸公遍賞芳香尤異因題四韻兼呈陸郎中",
+    "poem": [
+      "靈州碧岩下，荑英初散芳。",
+      "塗塗猶宿露，采采不盈筐。",
+      "陰竇藏煙濕，單衣染焙香。",
+      "幸將調鼎味，一為奏明光。"
+    ]
+  },
+  {
+    "uid": "QTS_316_036_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "元和癸已余領蜀之七年奉詔徴還二月二十八日清明途經百牢闗因題石門洞",
+    "poem": [
+      "昔佩兵符去，今持相印還。",
+      "天光臨井絡，春物度巴山。",
+      "鳥道青冥外，風泉洞壑間。",
+      "何慚班定遠，辛苦玉門關。"
+    ]
+  },
+  {
+    "uid": "QTS_316_037_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "夕次潘山下",
+    "poem": [
+      "南國獨行日，三巴春草齊。",
+      "漾波歸海疾，危棧入雲迷。",
+      "錦穀嵐煙裏，刀州晚照西。",
+      "旅情方浩蕩，蜀魄滿林啼。"
+    ]
+  },
+  {
+    "uid": "QTS_316_038_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "夏日對雨寄朱放拾遺",
+    "poem": [
+      "才非穀永傳，無意謁王侯。",
+      "小暑金將伏，微涼麥正秋。",
+      "遠山欹枕見，暮雨閉門愁。",
+      "更憶東林寺，詩家第一流。"
+    ]
+  },
+  {
+    "uid": "QTS_316_039_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "早春送歐陽煉師歸山",
+    "poem": [
+      "雙鶴五雲車，初辭漢帝家。",
+      "人寰新甲子，天路舊煙霞。",
+      "羽節臨風駐，霓裳逐雨斜。",
+      "昆侖有琪樹，相憶寄瑤華。"
+    ]
+  },
+  {
+    "uid": "QTS_316_040_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "長安春望",
+    "poem": [
+      "宿雨淨煙霞，春風綻百花。",
+      "綠楊中禁路，朱戟五侯家。",
+      "草色金堤晚，鶯聲禦柳斜。",
+      "無媒猶未達，應共惜年華。"
+    ]
+  },
+  {
+    "uid": "QTS_316_041_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "經嚴秘校維故宅",
+    "poem": [
+      "掩淚山陽宅，生涯此路窮。",
+      "香銷芸閣閉，星落草堂空。",
+      "麗藻浮名裏，哀聲夕照中。",
+      "不堪投釣處，鄰笛怨春風。"
+    ]
+  },
+  {
+    "uid": "QTS_316_042_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋夜寄江南舊游",
+    "poem": [
+      "寥落九秋晚，端憂時物殘。",
+      "隔林螢影度，出禁漏聲寒。",
+      "愁雨洞房掩，孤燈遙夜闌。",
+      "懷賢夢南國，興盡水漫漫。"
+    ]
+  },
+  {
+    "uid": "QTS_316_043_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送陸書還吳",
+    "poem": [
+      "君住包山下，何年入帝鄉。",
+      "成名歸舊業，歎別見秋光。",
+      "橘柚吳洲遠，蘆花楚水長。",
+      "我行經此路，京口向雲陽。"
+    ]
+  },
+  {
+    "uid": "QTS_316_044_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "山中月夜寄朱張二舍人",
+    "poem": [
+      "午夜更漏裏，九重霄漢間。",
+      "月華雲闕迥，秋色鳳池閑。",
+      "禦錦通清禁，天書出暗關。",
+      "嵇康不求達，終歲在空山。"
+    ]
+  },
+  {
+    "uid": "QTS_316_045_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送馮諫議赴河北宣慰",
+    "poem": [
+      "漢代衣冠盛，堯年雨露多。",
+      "恩榮辭紫禁，冰雪渡黃河。",
+      "待詔孤城啟，宣風萬歲和。",
+      "今宵燕分野，應見使星過。"
+    ]
+  },
+  {
+    "uid": "QTS_316_046_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "夜坐聞雨寄嚴十少府",
+    "poem": [
+      "多負雲霄志，生涯歲序侵。",
+      "風翻涼葉亂，雨滴洞房深。",
+      "迢遞三秋夢，殷勤獨夜心。",
+      "懷賢不覺寐，清磬發東林。"
+    ]
+  },
+  {
+    "uid": "QTS_316_047_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "資聖寺賁法師晚春茶會",
+    "poem": [
+      "虛室晝常掩，心源知悟空。",
+      "禪庭一雨後，蓮界萬花中。",
+      "時節流芳暮，人天此會同。",
+      "不知方便理，何路出樊籠。"
+    ]
+  },
+  {
+    "uid": "QTS_316_048_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "慈恩寺起上人院",
+    "poem": [
+      "禪堂支許同，清論道源窮。",
+      "起滅秋雲盡，虛無夕靄空。",
+      "池澄山倒影，林動葉翻風。",
+      "他日焚香待，還來禮惠聰。"
+    ]
+  },
+  {
+    "uid": "QTS_316_049_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送魏正則擢第歸江陵",
+    "poem": [
+      "客路商山外，離筵小暑前。",
+      "高文常獨步，折桂及齠年。",
+      "關國通秦限，波濤隔漢川。",
+      "叨同會府選，分手倍依然。"
+    ]
+  },
+  {
+    "uid": "QTS_316_050_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "酬韓弇歸崖見寄",
+    "poem": [
+      "惆悵人間事，東山遂獨遊。",
+      "露凝瑤草晚，魚戲石潭秋。",
+      "軒冕應相待，煙霞莫遽留。",
+      "君看仲連意，功立始滄洲。"
+    ]
+  },
+  {
+    "uid": "QTS_316_051_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "河東贈別煉師",
+    "poem": [
+      "多累有行役，相逢秋節分。",
+      "遊人甘失路，野鶴亦離群。",
+      "戎馬犯邊壘，天兵屯塞雲。",
+      "孔璋才素健，羽檄定紛紛。"
+    ]
+  },
+  {
+    "uid": "QTS_316_052_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋日將赴江上，楊弘微時任鳳翔，寄詩別",
+    "poem": [
+      "寂寞兩相阻，悠悠南北心。",
+      "燕驚滄海遠，鴻避朔雲深。",
+      "夜夢江亭月，離憂隴樹陰。",
+      "兼秋無限思，惆悵屬瑤琴。"
+    ]
+  },
+  {
+    "uid": "QTS_316_053_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "夏與熊王二秀才同宿僧院",
+    "poem": [
+      "共將纓上塵，來問雪山人。",
+      "世網從知累，禪心自證真。",
+      "境空宜入夢，藤古不留春。",
+      "一聽林公法，靈嘉願寄身。"
+    ]
+  },
+  {
+    "uid": "QTS_316_054_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "宜陽所居白蜀葵答詠柬諸公",
+    "poem": [
+      "冉冉眾芳歇，亭亭虛室前。",
+      "敷榮時已背，幽賞地宜偏。",
+      "紅豔世方重，素華徒可憐。",
+      "何當君子願，知不競喧妍。"
+    ]
+  },
+  {
+    "uid": "QTS_316_055_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送寇侍禦司馬之明州",
+    "poem": [
+      "鬥酒上河梁，驚魂去越鄉。",
+      "地窮滄海闊，雲入剡山長。",
+      "蓮唱蒲萄熟，人煙橘柚香。",
+      "蘭亭應駐楫，今古共風光。"
+    ]
+  },
+  {
+    "uid": "QTS_316_056_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送嚴侍禦",
+    "poem": [
+      "巴檄故人去，蒼蒼楓樹林。",
+      "雲山千里合，霧雨四時陰。",
+      "峽路猿聲斷，桃源犬吠深。",
+      "不須貪勝賞，漢節待南侵。"
+    ]
+  },
+  {
+    "uid": "QTS_316_057_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "酬元十二",
+    "poem": [
+      "偶尋烏府客，同醉習家池。",
+      "積雪初迷徑，孤雲遂失期。",
+      "風前勞引領，月下重相思。",
+      "何必因尊酒，幽心兩自知。"
+    ]
+  },
+  {
+    "uid": "QTS_316_058_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "秋晚途次坊州界寄崔玉員外",
+    "poem": [
+      "崎嶇崖谷迷，寒雨暮成泥。",
+      "征路出山頂，亂雲生馬蹄。",
+      "望鄉程杳杳，懷遠思淒淒。",
+      "欲識分麾重，孤城萬壑西。"
+    ]
+  },
+  {
+    "uid": "QTS_316_059_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "度東徑嶺",
+    "poem": [
+      "又過雁門北，不勝南客悲。",
+      "三邊上岩見，雙淚望鄉垂。",
+      "暮角雲中戍，殘陽天際旗。",
+      "更看飛白羽，胡馬在封陲。"
+    ]
+  },
+  {
+    "uid": "QTS_316_060_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送李正字之蜀",
+    "poem": [
+      "已獻甘泉賦，仍登片玉科。",
+      "漢官新組綬，蜀國舊煙蘿。",
+      "劍壁秋雲斷，巴江夜月多。",
+      "無窮別離思，遙寄竹枝歌。"
+    ]
+  },
+  {
+    "uid": "QTS_316_061_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "玉泉寺與潤上人望秋山懷張少尹",
+    "poem": [
+      "山寒天降霜，煙月共蒼蒼。",
+      "況此綠岩晚，尚餘丹桂芳。",
+      "禪心殊眾樂，人世滿秋光。",
+      "莫怪頻回首，孤雲思帝鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_316_062_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "酬崔使君寄麈尾",
+    "poem": [
+      "賢人嘉尚同，今制古遺風。",
+      "寄我襟懷裏，辭君掌握中。",
+      "金聲勞振遠，玉柄借談空。",
+      "執玩馳心處，迢迢巴峽東。"
+    ]
+  },
+  {
+    "uid": "QTS_316_063_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送鄧州潘使君赴任",
+    "poem": [
+      "川陸一都會，旌旗千里舒。",
+      "虎符中禁授，熊軾上流居。",
+      "橘柚金難並，池塘練不如。",
+      "春風行部日，應駐士元車。"
+    ]
+  },
+  {
+    "uid": "QTS_316_064_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "和李中丞題故將軍林亭",
+    "poem": [
+      "帝裏清和節，侯家邸第春。",
+      "煙霏瑤草露，苔暗杏梁塵。",
+      "城郭悲歌舊，池塘麗句新。",
+      "年年車馬客，鐘鼓樂他人。"
+    ]
+  },
+  {
+    "uid": "QTS_316_065_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送韋侍禦司議赴東都",
+    "poem": [
+      "洛京千里近，離緒亦紛紛。",
+      "文憲芙蓉沼，元方羔雁群。",
+      "河關連鞏樹，嵩少接秦雲。",
+      "獨有臨風思，睽攜不可聞。"
+    ]
+  },
+  {
+    "uid": "QTS_316_066_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送吳侍禦司馬赴台州",
+    "poem": [
+      "盧耽佐郡遙，川陸共迢迢。",
+      "風景輕吳會，文章變越謠。",
+      "煙林繁橘柚，雲海浩波潮。",
+      "餘有靈山夢，前君到石橋。"
+    ]
+  },
+  {
+    "uid": "QTS_316_067_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "送七兄赴歙州",
+    "poem": [
+      "車馬去憧憧，都門聞曉鐘。",
+      "客程將日遠，離緒與春濃。",
+      "流水逾千度，歸雲隔萬重。",
+      "玉杯傾酒盡，不換慘淒容。"
+    ]
+  },
+  {
+    "uid": "QTS_316_068_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "德宗皇帝輓歌詞三首 其一",
+    "poem": [
+      "道啟軒皇聖，威揚夏禹功。",
+      "謳歌亭育外，文武盛明中。",
+      "日月光連璧，煙塵屏大風。",
+      "為人祈福處，台樹與天通。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_068_02",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "德宗皇帝輓歌詞三首 其二",
+    "poem": [
+      "聖曆□勤政，瑤圖慶運長。",
+      "壽宮開此地，仙駕緲何鄉。",
+      "風斷清笳調，雲愁綠旆揚。",
+      "上升知不恨，弘濟任城王。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_068_03",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "德宗皇帝輓歌詞三首 其三",
+    "poem": [
+      "嘗聞閶闔前，星拱北辰籙。",
+      "今來大明祖，輦駕橋山曲。",
+      "松柏韻幽音，魚龍焰寒燭。",
+      "歲歲秋風辭，兆人歌不足。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_069_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "順宗至德大聖皇帝輓歌詞三首 其一",
+    "poem": [
+      "橋山同軌會，軒後葬衣冠。",
+      "東海風波變，西陵松柏攢。",
+      "鼎湖仙已去，金掌露寧幹。",
+      "萬木泉扃月，空憐鳧雁寒。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_069_02",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "順宗至德大聖皇帝輓歌詞三首 其二",
+    "poem": [
+      "容衛曉徘徊，嚴城閶闔開。",
+      "烏號龍馭遠，遏密鳳聲哀。",
+      "昆浪黃河注，崦嵫白日頹。",
+      "恭聞天子孝，不忍望銅台。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_069_03",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "順宗至德大聖皇帝輓歌詞三首 其三",
+    "poem": [
+      "哀輓渭川曲，空歌汾水陽。",
+      "夜泉愁更咽，秋日慘無光。",
+      "纘夏功傳啟，興周業繼昌。",
+      "回瞻五陵上，煙雨為蒼蒼。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_316_070_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "昭德皇后輓歌詞",
+    "poem": [
+      "玉扆將遷坐，金雞忽報晨。",
+      "佩環仙馭遠，星月夜台新。",
+      "劍沒川空冷，菱寒鏡不春。",
+      "國門車馬會，多是濯龍親。"
+    ]
+  },
+  {
+    "uid": "QTS_316_071_01",
+    "volume": 316,
+    "author": {
+      "canonical": "武元衡",
+      "recorded": "武元衡",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Wu Yuanheng",
+      "wikidata_id": "Q1017980"
+    },
+    "title": "春晚奉陪相公西亭宴集",
+    "poem": [
+      "林花春向蘭，高會重邀歡。",
+      "感物惜芳景，放懷因彩翰。",
+      "玉顏穠處並，銀燭焰中看。",
+      "若折持相贈，風光益別難。"
+    ]
+  }
+]

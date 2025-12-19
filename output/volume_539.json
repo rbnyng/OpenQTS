@@ -1,0 +1,5279 @@
+[
+  {
+    "uid": "QTS_539_001_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "錦瑟",
+    "poem": [
+      "錦瑟無端五十絃，一絃一柱思華年",
+      "莊生曉夢迷蝴蝶，望帝春心託杜鵑",
+      "滄海月明珠有淚，藍田日暖玉生煙",
+      "此情可待成追憶，只是當時已惘然"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "絃",
+        "variant": "弦",
+        "source": "一作「弦」"
+      },
+      {
+        "line": 1,
+        "text": "絃",
+        "variant": "弦",
+        "source": "一作「弦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_002_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "重過聖女祠",
+    "poem": [
+      "白石巌扉碧蘚滋，上清淪謫得歸遲",
+      "一春夢雨常飄瓦，盡日靈風不滿旗",
+      "萼綠華來無定所，杜蘭香去未移時",
+      "玉郎會此通仙籍，憶向天階問紫芝"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "淪",
+        "variant": "論",
+        "source": "一作「論」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_003_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄羅劭興",
+    "poem": [
+      "棠棣黃花發，忘憂碧葉齊",
+      "人閒微病酒，燕重遠兼泥",
+      "混沌何由鑿，青冥未有梯",
+      "高陽舊徒侶，時復一相攜"
+    ]
+  },
+  {
+    "uid": "QTS_539_004_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "令狐舍人說昨夜西掖玩月因戲贈",
+    "poem": [
+      "昨夜玉輪明，傳聞近太清",
+      "涼波衝碧瓦，曉暈落金莖",
+      "露索秦宮井，風絃漢殿箏",
+      "幾時緜竹頌，擬薦子虛名"
+    ]
+  },
+  {
+    "uid": "QTS_539_005_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "崔處士",
+    "poem": [
+      "眞人塞其內，夫子入於機",
+      "未肯投竿起，惟歡負米歸",
+      "雪中東郭履，堂上老萊衣",
+      "讀遍先賢傳，如君事者稀"
+    ]
+  },
+  {
+    "uid": "QTS_539_006_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "自喜",
+    "poem": [
+      "自喜蝸牛舍，兼容燕子巢",
+      "綠筠遺粉籜，紅藥綻香苞",
+      "虎過遙知穽，魚來且佐庖",
+      "慢行成酩酊，鄰壁有松醪"
+    ]
+  },
+  {
+    "uid": "QTS_539_007_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "題僧壁",
+    "poem": [
+      "捨生求道有前蹤，乞腦剜身結願重。",
+      "大去便應欺粟顆，小來兼可隱針鋒。",
+      "蚌胎未滿思新桂，琥珀初成憶舊松。",
+      "若信貝多真實語，三生同聽一樓鐘。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "未",
+        "variant": "永",
+        "source": "一作「永」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_008_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "霜月",
+    "poem": [
+      "初聞征雁已無蟬，百尺樓高水接天",
+      "青女素娥俱耐冷，月中霜裏鬭嬋娟"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "高",
+        "variant": "南",
+        "source": "一作「南」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_009_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "異俗二首 其一",
+    "poem": [
+      "鬼瘧朝朝避，春寒夜夜添",
+      "未驚雷破柱，不報水齊簷",
+      "虎箭侵膚毒，魚鉤刺骨銛",
+      "鳥言成諜訴，多是恨彤幨"
+    ],
+    "preface": "〈時從事嶺南〉",
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 4,
+        "text": "訴",
+        "variant": "詐",
+        "source": "一作「詐」"
+      },
+      {
+        "line": 4,
+        "text": "幨",
+        "variant": "襜",
+        "source": "一作「襜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_009_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "異俗二首 其二",
+    "poem": [
+      "戶盡懸秦網，家多事越巫",
+      "未曾容獺祭，只是縱豬都",
+      "點對連鰲餌，搜求縛虎符",
+      "賈生兼事鬼，不信有洪爐"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_010_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "歸墅",
+    "poem": [
+      "行李踰南極，旬時到舊鄉",
+      "楚芝應徧紫，鄧橘未全黃",
+      "渠濁村舂急，旗高社酒香",
+      "故山歸夢喜，先入讀書堂"
+    ]
+  },
+  {
+    "uid": "QTS_539_011_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "商於",
+    "poem": [
+      "商於朝雨霽，歸路有秋光",
+      "背塢猿收果，投巌麝退香",
+      "建瓴真得勢，橫戟豈能當",
+      "割地張儀詐，謀身綺季長",
+      "清渠州外月，黃葉廟前霜",
+      "今日看雲意，依依入帝鄉"
+    ]
+  },
+  {
+    "uid": "QTS_539_012_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "和孫朴韋蟾孔雀詠",
+    "poem": [
+      "此去三梁遠，今來萬里攜",
+      "西施因網得，秦客被花迷",
+      "可在青鸚鵡，非關碧野雞",
+      "約眉憐翠羽，刮目想金篦",
+      "瘴氣籠飛遠，蠻花向坐低",
+      "輕於趙皇后，貴極楚懸黎",
+      "都護矜羅幕，佳人炫繡袿",
+      "屏風臨燭扣，捍撥倚香臍",
+      "舊思牽雲葉，新愁待雪泥",
+      "愛堪通夢寐，畫得不端倪",
+      "地錦排蒼雁，簾釘鏤白犀",
+      "曙霞星斗外，涼月露盤西",
+      "妬好休誇舞，經寒且少啼",
+      "紅樓三十級，穩穩上丹梯"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "目",
+        "variant": "膜",
+        "source": "一作「膜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_013_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "人欲",
+    "poem": [
+      "人欲天從竟不疑，莫言圓蓋便無私",
+      "秦中已久烏頭白，卻是君王未備知"
+    ]
+  },
+  {
+    "uid": "QTS_539_014_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "華山題王母祠",
+    "poem": [
+      "蓮華峯下鎖雕梁，此去瑤池地共長",
+      "好爲麻姑到東海，勸栽黃竹莫栽桑"
+    ]
+  },
+  {
+    "uid": "QTS_539_015_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "華清宮",
+    "poem": [
+      "華清恩幸古無倫，猶恐蛾眉不勝人",
+      "未免被他褒女笑，只教天子暫蒙塵"
+    ],
+    "preface": "〈天寶六載　改驪山溫泉宮曰華清宮〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "女",
+        "variant": "氏",
+        "source": "一作「氏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_016_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "楚澤",
+    "poem": [
+      "夕陽歸路後，霜野物聲乾",
+      "集鳥翻漁艇，殘虹拂馬鞍",
+      "劉楨元抱病，虞寄數辭官",
+      "白袷經年卷，西來及早寒"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "虹",
+        "variant": "紅",
+        "source": "一作「紅」"
+      },
+      {
+        "line": 4,
+        "text": "及",
+        "variant": "又",
+        "source": "一作「又」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_017_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蟬",
+    "poem": [
+      "本以高難飽，徒勞恨費聲。",
+      "五更疏欲斷，一樹碧無情。",
+      "薄宦梗猶泛，故園蕪已平。",
+      "煩君最相警，我亦舉家清。"
+    ]
+  },
+  {
+    "uid": "QTS_539_018_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "江亭散席循柳路吟",
+    "poem": [
+      "春詠敢輕裁，銜辭入半杯",
+      "已遭江映柳，更被雪藏梅",
+      "寡和眞徒爾，殷憂動即來",
+      "從詩得何報，惟感二毛催"
+    ],
+    "preface": "〈歸官舍〉",
+    "variants": [
+      {
+        "line": 4,
+        "text": "感",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_019_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "潭州",
+    "poem": [
+      "潭州官舍暮樓空，今古無端入望中",
+      "湘淚淺深滋竹色，楚歌重疊怨蘭叢",
+      "陶公戰艦空灘雨，賈傅承塵破廟風",
+      "目斷故園人不至，松醪一醉與誰同"
+    ]
+  },
+  {
+    "uid": "QTS_539_020_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈劉司戶",
+    "poem": [
+      "江風吹浪動雲根，重碇危檣白日昏",
+      "已斷燕鴻初起勢，更驚騷客後歸魂",
+      "漢廷急詔誰先入，楚路高歌自欲翻",
+      "萬里相逢歡復泣，鳳巢西隔九重門"
+    ],
+    "preface": "〈蕡〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "吹",
+        "variant": "揚",
+        "source": "一作「揚」"
+      },
+      {
+        "line": 3,
+        "text": "詔",
+        "variant": "召",
+        "source": "一作「召」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_021_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "哭劉司戶二首 其一",
+    "poem": [
+      "離居星歲易，失望死生分",
+      "酒甕凝餘桂，書籖冷舊芸",
+      "江風吹雁急，山木帶蟬曛",
+      "一叫千迴首，天高不爲聞"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_021_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "哭劉司戶二首 其二",
+    "poem": [
+      "有美扶皇運，無誰薦直言",
+      "已爲秦逐客，復作楚冤魂",
+      "湓浦應分派，荊江有會源",
+      "並將添恨淚，一灑問乾坤"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_022_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "悼傷後赴東蜀辟至散關遇雪",
+    "poem": [
+      "劍外從軍遠，無家與寄衣",
+      "散關三尺雪，回夢舊鴛機"
+    ]
+  },
+  {
+    "uid": "QTS_539_023_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "樂遊原",
+    "poem": [
+      "向晚意不適，驅車登古原",
+      "夕陽無限好，只是近黃昏"
+    ]
+  },
+  {
+    "uid": "QTS_539_024_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "北齊二首 其一",
+    "poem": [
+      "一笑相傾國便亡，何勞荊棘始堪傷",
+      "小憐玉體橫陳夜，已報周師入晉陽"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "堪",
+        "variant": "悲",
+        "source": "一作「悲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_024_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "北齊二首 其二",
+    "poem": [
+      "巧笑知堪敵萬幾，傾城最在著戎衣",
+      "晉陽已陷休回顧，更請君王獵一圍"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_025_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "街西池館",
+    "poem": [
+      "白閣他年別，朱門此夜過",
+      "疏簾留月魄，珍簟接煙波",
+      "太守三刀夢，將軍一箭歌",
+      "國租容客旅，香熟玉山禾"
+    ]
+  },
+  {
+    "uid": "QTS_539_026_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "南朝",
+    "poem": [
+      "玄武湖中玉漏催，雞鳴埭口繡襦迴",
+      "誰言瓊樹朝朝見，不及金蓮步步來",
+      "敵國軍營漂木柹，前朝神廟鎖煙煤",
+      "滿宮學士皆顏色，江令當年只費才"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "顏",
+        "variant": "蓮",
+        "source": "一作「蓮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_027_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "復京",
+    "poem": [
+      "虜騎胡兵一戰摧，萬靈回首賀軒臺",
+      "天教李令心如日，可要昭陵石馬來"
+    ],
+    "preface": "〈德宗建中四年，朱泚叛。上如奉天，興元元年，李晟收復京城〉"
+  },
+  {
+    "uid": "QTS_539_028_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "渾河中",
+    "poem": [
+      "九廟無塵八馬回，奉天城壘長春苔",
+      "咸陽原上英雄骨，半向君家養馬來"
+    ],
+    "preface": "〈渾堿與李晟同平朱泚，德宗還宮，以堿爲河中尹〉"
+  },
+  {
+    "uid": "QTS_539_029_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "鄠杜馬上念漢書",
+    "poem": [
+      "世上蒼龍種，人間武帝孫",
+      "小來惟射獵，興罷得乾坤",
+      "渭水天開苑，咸陽地獻原",
+      "英靈殊未已，丁傅漸華軒"
+    ],
+    "preface": "〈一雲五陵懷古〉"
+  },
+  {
+    "uid": "QTS_539_030_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "柳",
+    "poem": [
+      "動春何限葉，撼曉幾多枝",
+      "解有相思[否](苦)應無不舞時",
+      "絮飛藏皓蝶，帶弱露黃鸝",
+      "傾國宜通體，誰來獨賞眉"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "來",
+        "variant": "家",
+        "source": "一作「家」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_031_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "巴江柳",
+    "poem": [
+      "巴江可惜柳，柳色綠侵江",
+      "好向金鑾殿，移陰入綺窗"
+    ]
+  },
+  {
+    "uid": "QTS_539_032_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "咸陽",
+    "poem": [
+      "咸陽宮闕鬱嵯峨，六國樓臺豔綺羅",
+      "自是當時天帝醉，不關秦地有山河"
+    ]
+  },
+  {
+    "uid": "QTS_539_033_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "同崔八詣藥山訪融禪師",
+    "poem": [
+      "共受征南不次恩，報恩惟是有忘言",
+      "巌花澗草西林路，未見高僧只見猿"
+    ]
+  },
+  {
+    "uid": "QTS_539_034_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "聞著明凶問哭寄飛卿",
+    "poem": [
+      "昔歎讒銷骨，今傷淚滿膺",
+      "空餘雙玉劍，無復一壺冰",
+      "江勢翻銀礫，天文露玉繩",
+      "何因攜庾信，同去哭徐陵"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "礫",
+        "variant": "漢",
+        "source": "一作「漢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_035_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "聽鼓",
+    "poem": [
+      "城頭疊鼓聲，城下暮江清",
+      "欲問漁陽摻，時無禰正平"
+    ]
+  },
+  {
+    "uid": "QTS_539_036_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "送崔珏往西川",
+    "poem": [
+      "年少因何有旅愁，欲爲東下更西遊",
+      "一條雪浪吼巫峽，千里火雲燒益州",
+      "卜肆至今多寂寞，酒壚從古擅風流",
+      "浣花牋紙桃花色，好好題詩詠玉鉤"
+    ]
+  },
+  {
+    "uid": "QTS_539_037_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代贈",
+    "poem": [
+      "楊柳路盡處，芙蓉湖上頭",
+      "雖同錦步障，獨映鈿箜篌",
+      "鴛鴦可羨頭俱白，飛去飛來煙雨秋"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "映",
+        "variant": "應",
+        "source": "一作「應」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_038_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "桂林",
+    "poem": [
+      "城窄山將壓，江寬地共浮",
+      "東南通絕域，西北有高樓",
+      "神護青楓岸，龍移白石湫",
+      "殊鄉竟何禱，簫鼓不曾休"
+    ]
+  },
+  {
+    "uid": "QTS_539_039_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "夜雨寄北",
+    "poem": [
+      "君問歸期未有期",
+      "巴山夜雨漲秋池",
+      "何當共剪西窗燭",
+      "卻話巴山夜雨時"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "「何當」：《墨莊漫録》及《浄徳集》均作「何時」",
+        "context": "卻話巴山夜雨時"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_040_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "陳後宮",
+    "poem": [
+      "茂苑城如畫，閶門瓦欲流",
+      "還依水光殿，更起月華樓",
+      "侵夜鸞開鏡，迎冬雉獻裘",
+      "從臣皆半醉，天子正無愁"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "半",
+        "variant": "伴",
+        "source": "一作「伴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_041_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "屬疾",
+    "poem": [
+      "許靖猶羈宦，安仁復悼亡",
+      "茲辰聊屬疾，何日免殊方",
+      "秋蝶無端麗，寒花只暫香",
+      "多情眞命薄，容易即迴腸"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "只暫",
+        "variant": "更不",
+        "source": "一作「更不」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_042_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "石榴",
+    "poem": [
+      "榴枝婀娜榴實繁，榴膜輕明榴子鮮",
+      "可羨瑤池碧桃樹，碧桃紅頰一千年"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "桃",
+        "variant": "眉",
+        "source": "一作「眉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_043_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "明日",
+    "poem": [
+      "天上參旗過，人間燭燄銷",
+      "誰言整雙履，便是隔三橋",
+      "知處黃金鎖，曾來碧綺寮",
+      "憑欄明日意，池闊雨蕭蕭"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "來",
+        "variant": "求",
+        "source": "一作「求」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_044_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "飲席戲贈同舍",
+    "poem": [
+      "洞中屐響省分攜，不是花迷客自迷",
+      "珠樹重行憐翡翠，玉樓雙舞羨鵾雞",
+      "蘭迴舊蕊緣屏綠，椒綴新香和壁泥",
+      "唱盡陽關無限疊，半杯松葉凍頗黎"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "緣屏",
+        "variant": "屏緣",
+        "source": "一作「屏緣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_045_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "西溪",
+    "poem": [
+      "近郭西溪好，誰堪共酒壺",
+      "苦吟防柳惲，多淚怯楊朱",
+      "野鶴隨君子，寒松揖大夫",
+      "天涯常病意，岑寂勝歡娛"
+    ]
+  },
+  {
+    "uid": "QTS_539_046_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "憶梅",
+    "poem": [
+      "定定住天涯，依依向物華",
+      "寒梅最堪恨，常作去年花"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "住",
+        "variant": "任",
+        "source": "一作「任」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_047_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈柳",
+    "poem": [
+      "章臺從掩映，郢路更參差",
+      "見說風流極，來當婀娜時",
+      "橋迴行欲斷，堤遠意相隨",
+      "忍放花如雪，青樓撲酒旗"
+    ]
+  },
+  {
+    "uid": "QTS_539_048_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "謔柳",
+    "poem": [
+      "已帶黃金縷，仍飛白玉花",
+      "長時須拂馬，密處少藏鴉",
+      "眉細從他斂，腰輕莫自斜",
+      "玳梁誰道好，偏擬映盧家"
+    ]
+  },
+  {
+    "uid": "QTS_539_049_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "北禽",
+    "poem": [
+      "爲戀巴江好，無辭瘴霧蒸",
+      "縱能朝杜宇，可得值蒼鷹",
+      "石小虛填海，蘆銛未破矰",
+      "知來有乾鵲，何不向雕陵"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "好",
+        "variant": "暖",
+        "source": "一作「暖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_050_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "初起",
+    "poem": [
+      "想像咸池日欲光，五更鐘後更迴腸",
+      "三年苦霧巴江水，不爲離人照屋梁"
+    ]
+  },
+  {
+    "uid": "QTS_539_051_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "楚宮",
+    "poem": [
+      "複壁交青瑣，重簾掛紫繩",
+      "如何一柱觀，不礙九枝燈",
+      "扇薄常規月，釵斜只鏤冰",
+      "歌成猶未唱，秦火入夷陵"
+    ]
+  },
+  {
+    "uid": "QTS_539_052_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "柳",
+    "poem": [
+      "柳映江潭底有情，望中頻遣客心驚",
+      "巴雷隱隱千山外，更作章臺走馬聲"
+    ]
+  },
+  {
+    "uid": "QTS_539_053_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "石城",
+    "poem": [
+      "石城誇窈窕，花縣更風流",
+      "簟冰將飄枕，簾烘不隱鉤",
+      "玉童收夜鑰，金狄守更籌",
+      "共笑鴛鴦綺，鴛鴦兩白頭"
+    ]
+  },
+  {
+    "uid": "QTS_539_054_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "韓碑",
+    "poem": [
+      "元和天子神武姿，彼何人哉軒與羲",
+      "誓將上雪列聖恥，坐法宮中朝四夷",
+      "淮西有賊五十載，封狼生貙貙生羆",
+      "不據山河據平地，長戈利矛日可麾",
+      "帝得聖相相曰度，賊斫不死神扶持",
+      "腰懸相印作都統，陰風慘澹天王旗",
+      "愬武古通作牙爪，儀曹外郎載筆隨",
+      "行軍司馬智且勇，十四萬衆猶虎貔",
+      "入蔡縛賊獻太廟，功無與讓恩不訾",
+      "帝曰汝度功第一，汝從事愈宜爲辭",
+      "愈拜稽首蹈且舞，金石刻畫臣能爲",
+      "古者世稱大手筆，此事不繫於職司",
+      "當仁自古有不讓，言訖屢頷天子頤",
+      "公退齋戒坐小閣，濡染大筆何淋漓",
+      "點竄堯典舜典字，塗改清廟生民詩",
+      "文成破體書在紙，清晨再拜鋪丹墀",
+      "表曰臣愈昧死上，詠神聖功書之碑",
+      "碑高三丈字如斗，負以靈鼇蟠以螭",
+      "句奇語重喻者少，讒之天子言其私",
+      "長繩百尺拽碑倒，麤沙大石相磨治",
+      "公之斯文若元氣，先時已入人肝脾",
+      "湯盤孔鼎有述作，今無其器存其辭",
+      "嗚呼聖皇及聖相，相與烜赫流淳熙",
+      "公之斯文不示後，曷與三五相攀追",
+      "願書萬本誦萬遍，口角流沫右手胝",
+      "傳之七十有三代，以爲封禪玉檢明堂基"
+    ],
+    "variants": [
+      {
+        "line": 18,
+        "text": "三",
+        "variant": "二",
+        "source": "一作「二」"
+      },
+      {
+        "line": 18,
+        "text": "斗",
+        "variant": "手",
+        "source": "一作「手」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_055_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "令狐八拾遺見招送裴十四歸華州",
+    "poem": [
+      "二十中郎未足希，驪駒先自有光輝",
+      "蘭亭讌罷方回去，雪夜詩成道韞歸",
+      "漢苑風煙吹客夢，雲臺洞穴接郊扉",
+      "嗟予久抱臨邛渴，便欲因君問釣磯"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "希",
+        "variant": "稀",
+        "source": "一作「稀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_056_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "離思",
+    "poem": [
+      "氣盡前溪舞，心酸子夜歌",
+      "峽雲尋不得，溝水欲如何",
+      "朔雁傳書絕，湘篁染淚多",
+      "無由見顏色，還自託微波"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "由",
+        "variant": "因",
+        "source": "一作「因」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_057_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "宿駱氏亭寄懷崔雍崔袞",
+    "poem": [
+      "竹塢無塵水檻清，相思迢遞隔重城",
+      "秋陰不散霜飛晚，留得枯荷聽雨聲"
+    ]
+  },
+  {
+    "uid": "QTS_539_058_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "風雨",
+    "poem": [
+      "淒涼寶劍篇，羈泊欲窮年。",
+      "黃葉仍風雨，青樓自管絃。",
+      "新知遭薄俗，舊好隔良緣。",
+      "心斷新豐酒，銷愁斗幾千。"
+    ]
+  },
+  {
+    "uid": "QTS_539_059_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "夢澤",
+    "poem": [
+      "夢澤悲風動白茅，楚王葬盡滿城嬌",
+      "未知歌舞能多少，虛減宮廚爲細腰"
+    ]
+  },
+  {
+    "uid": "QTS_539_060_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈歌妓二首 其一",
+    "poem": [
+      "水精如意玉連環，下蔡城危莫破顏",
+      "紅綻櫻桃含白雪，斷腸聲裏唱陽關"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_060_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈歌妓二首 其二",
+    "poem": [
+      "白日相思可奈何，嚴城清夜斷經過",
+      "只知解道春來瘦，不道春來獨自多"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "可",
+        "variant": "不",
+        "source": "一作「不」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_061_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "謝書",
+    "poem": [
+      "微意何曾有一毫，空攜筆硯奉龍韜",
+      "自蒙半夜傳衣後，不羨王祥得佩刀"
+    ]
+  },
+  {
+    "uid": "QTS_539_062_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄令狐學士",
+    "poem": [
+      "秘殿崔嵬拂彩霓，曹司今在殿東西",
+      "賡歌太液翻黃鵠，從獵陳倉獲碧雞",
+      "曉飲豈知金掌迥，夜吟應訝玉繩低",
+      "鈞天雖許人間聽，閶闔門多夢自迷"
+    ]
+  },
+  {
+    "uid": "QTS_539_063_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "酬令狐郎中見寄",
+    "poem": [
+      "望郎臨古郡，佳句灑丹青",
+      "應自丘遲宅，仍過柳惲汀",
+      "封來江渺渺，信去雨冥冥",
+      "句曲聞仙訣，臨川得佛經",
+      "朝吟支客枕，夜讀漱僧瓶",
+      "不見銜蘆雁，空流腐草螢",
+      "土宜悲坎井，天怒識雷霆",
+      "象卉分疆近，蛟涎浸岸腥",
+      "補羸貪紫桂，負氣托青萍",
+      "萬里懸離抱，危於訟合鈴"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "郎",
+        "variant": "郊",
+        "source": "一作「郊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_064_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "七月二十八日夜與王鄭二秀才聽雨後夢作",
+    "poem": [
+      "初夢龍宮寶焰然，瑞霞明麗滿晴天",
+      "旋成醉倚蓬萊樹，有個仙人拍我肩",
+      "少頃遠聞吹細管，聞聲不見隔飛煙",
+      "逡巡又過瀟湘雨，雨打湘靈五十弦",
+      "瞥見馮夷殊悵望，鮫綃休賣海爲田",
+      "亦逢毛女無憀極，龍伯擎將華嶽蓮",
+      "恍惚無倪明又暗，低迷不已斷還連",
+      "覺來正是平階雨，獨背寒燈枕手眠"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "管",
+        "variant": "笛",
+        "source": "一作「笛」"
+      },
+      {
+        "line": 8,
+        "text": "獨",
+        "variant": "未",
+        "source": "一作「未」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_065_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄令狐郎中",
+    "poem": [
+      "嵩雲秦樹久離居，雙鯉迢迢一紙書",
+      "休問梁園舊賓客，茂陵秋雨病相如"
+    ]
+  },
+  {
+    "uid": "QTS_539_066_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "漫成三首 其一",
+    "poem": [
+      "不妨何范盡詩家，未解當年重物華",
+      "遠把龍山千里雪，將來擬並洛陽花"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_066_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "漫成三首 其二",
+    "poem": [
+      "沈約憐何遜，延年毀謝莊",
+      "清新俱有得，名譽底相傷"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_066_03",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "漫成三首 其三",
+    "poem": [
+      "霧夕詠芙蕖，何郎得意初",
+      "此時誰最賞，沈范兩尚書"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_067_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題",
+    "poem": [
+      "白道縈迴入暮霞，斑騅嘶斷七香車",
+      "春風自共何人笑，枉破陽城十萬家"
+    ],
+    "preface": "〈一雲陽城〉"
+  },
+  {
+    "uid": "QTS_539_068_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "槿花二首 其一",
+    "poem": [
+      "燕體傷風力，雞香積露文",
+      "殷鮮一相雜，啼笑兩難分",
+      "月裏甯無姊，雲中亦有君",
+      "三清與仙島，何事亦離群"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_068_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "槿花二首 其二",
+    "poem": [
+      "珠館熏燃久，玉房梳掃餘",
+      "燒蘭才作燭，襞錦不成書",
+      "本以亭亭遠，翻嫌眽眽疏",
+      "迴頭問殘照，殘照更空虛"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_069_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "哭劉蕡",
+    "poem": [
+      "上帝深宮閉九閽，巫鹹不下問銜冤",
+      "廣陵別後春濤隔，湓浦書來秋雨翻",
+      "只有安仁能作誄，何曾宋玉解招魂",
+      "平生風義兼師友，不敢同君哭寢門"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "宮",
+        "variant": "居",
+        "source": "一作「居」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_070_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "杜司勳",
+    "poem": [
+      "高樓風雨感斯文，短翼差池不及群",
+      "刻意傷春復傷別，人間惟有杜司勳"
+    ]
+  },
+  {
+    "uid": "QTS_539_071_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "荊門西下",
+    "poem": [
+      "一夕南風一葉危，荊雲迴望夏雲時",
+      "人生豈得輕離別，天意何曾忌嶮巇",
+      "骨肉書題安絕徼，蕙蘭蹊徑失佳期",
+      "洞庭湖闊蛟龍惡，卻羨楊朱泣路岐"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "安絕徼",
+        "variant": "忘紀復",
+        "source": "一作「忘紀復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_072_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "碧瓦",
+    "poem": [
+      "碧瓦銜珠樹，紅輪結綺寮",
+      "無雙漢殿鬢，第一楚宮腰",
+      "霧唾香難盡，珠啼冷易銷",
+      "歌從雍門學，酒是蜀城燒",
+      "柳暗將翻巷，荷欹正抱橋",
+      "鈿轅開道入，金管隔鄰調",
+      "夢到飛魂急，書成即席遙",
+      "河流沖柱轉，海沫近槎飄",
+      "吳市蠀蛦甲，巴賨翡翠翹",
+      "他時未知意，重疊贈嬌饒"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "輪",
+        "variant": "綸",
+        "source": "一作「綸」"
+      },
+      {
+        "line": 7,
+        "text": "遙",
+        "variant": "招",
+        "source": "一作「招」"
+      },
+      {
+        "line": 8,
+        "text": "柱",
+        "variant": "樹",
+        "source": "一作「樹」"
+      },
+      {
+        "line": 10,
+        "text": "饒",
+        "variant": "嬈",
+        "source": "一作「嬈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_073_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蜨",
+    "poem": [
+      "葉葉復翻翻，斜橋對側門",
+      "蘆花惟有白，柳絮可能溫",
+      "西子尋遺殿，昭君覓故村",
+      "年年芳物盡，來別敗蘭蓀"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "絮",
+        "variant": "葉",
+        "source": "一作「葉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_074_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蠅蜨雞麝鸞鳳等成篇",
+    "poem": [
+      "韓蝶翻羅幕，曹蠅拂綺窗",
+      "鬥雞迴玉勒，融麝暖金釭",
+      "玳瑁明書閣，琉璃冰酒缸",
+      "畫樓多有主，鸞鳳各雙雙"
+    ]
+  },
+  {
+    "uid": "QTS_539_075_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "韓翃舍人即事",
+    "poem": [
+      "萱草含丹粉，荷花抱綠房",
+      "鳥應悲蜀帝，蟬是怨齊王",
+      "通內藏珠府，應官解玉坊",
+      "橋南荀令過，十裏送衣香"
+    ]
+  },
+  {
+    "uid": "QTS_539_076_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "公子",
+    "poem": [
+      "一盞新羅酒，淩晨恐易消",
+      "歸應沖鼓半，去不待笙調",
+      "歌好惟愁和，香濃豈惜飄",
+      "春場鋪艾帳，下馬雉媒嬌"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晨",
+        "variant": "霜",
+        "source": "一作「霜」"
+      },
+      {
+        "line": 3,
+        "text": "濃",
+        "variant": "多",
+        "source": "一作「多」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_077_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "子初全溪作",
+    "poem": [
+      "全溪不可到，況復盡餘醅",
+      "漢苑生春水，昆池換劫灰",
+      "戰蒲知雁唼，皺月覺魚來",
+      "清興恭聞命，言詩未敢迴"
+    ]
+  },
+  {
+    "uid": "QTS_539_078_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "楊本勝說於長安見小男阿袞",
+    "poem": [
+      "聞君來日下，見我最嬌兒",
+      "漸大啼應數，長貧學恐遲",
+      "寄人龍種瘦，失母鳳雛癡",
+      "語甘休邊角，青燈兩鬢絲"
+    ]
+  },
+  {
+    "uid": "QTS_539_079_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "西溪",
+    "poem": [
+      "悵望西溪水，潺湲奈爾何",
+      "不驚春物少，只覺夕陽多",
+      "色染妖韶柳，光含窈窕蘿",
+      "人間從到海，天上莫爲河",
+      "鳳女彈瑤瑟，龍孫撼玉珂",
+      "京華他夜夢，好好寄雲波"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "韶",
+        "variant": "嬈",
+        "source": "一作「嬈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_080_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "柳下暗記",
+    "poem": [
+      "無奈巴南柳，千條傍吹台",
+      "更將黃映白，擬作杏花媒"
+    ]
+  },
+  {
+    "uid": "QTS_539_081_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "妓席",
+    "poem": [
+      "樂府聞桃葉，人前道得無",
+      "勸君書小字，慎莫喚官奴"
+    ]
+  },
+  {
+    "uid": "QTS_539_082_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "少年",
+    "poem": [
+      "外戚平羌第一功，生年二十有重封",
+      "直登宣室螭頭上，橫過甘泉豹尾中",
+      "別館覺來雲雨夢，後門歸去蕙蘭叢",
+      "灞陵夜獵隨田竇，不識寒郊自轉蓬"
+    ]
+  },
+  {
+    "uid": "QTS_539_083_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題",
+    "poem": [
+      "近知名阿侯，住處小江流",
+      "腰細不勝舞，眉長惟是愁",
+      "黃金堪作屋，何不作重樓"
+    ]
+  },
+  {
+    "uid": "QTS_539_084_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "玄微先生",
+    "poem": [
+      "仙翁無定數，時入一壺藏",
+      "夜夜桂露濕，村村桃水香",
+      "醉中拋浩劫，宿處起神光",
+      "藥裹丹山鳳，棋函白石郎",
+      "弄河移砥柱，吞日倚扶桑",
+      "龍竹裁輕策，鮫綃熨下裳",
+      "樹栽嗤漢帝，橋板笑秦王",
+      "徑欲隨關令，龍沙萬里強"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "綃",
+        "variant": "絲",
+        "source": "一作「絲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_085_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "藥轉",
+    "poem": [
+      "鬱金堂北畫樓東，換骨神方上藥通",
+      "露氣暗連青桂苑，風聲偏獵紫蘭叢",
+      "長籌未必輸孫皓，香棗何勞問石崇",
+      "憶事懷人兼得句，翠衾歸臥繡簾中"
+    ]
+  },
+  {
+    "uid": "QTS_539_086_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "岳陽樓",
+    "poem": [
+      "欲爲平生一散愁，洞庭湖上岳陽樓",
+      "可憐萬里堪乘興，枉是蛟龍解覆舟"
+    ]
+  },
+  {
+    "uid": "QTS_539_087_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄成都高苗二從事",
+    "poem": [
+      "家近紅蕖曲水濱，全家羅襪起秋塵",
+      "莫將越客千絲網，網得西施別贈人"
+    ]
+  },
+  {
+    "uid": "QTS_539_088_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "岳陽樓",
+    "poem": [
+      "漢水方城帶百蠻，四隣誰道亂周班",
+      "如何一夢高唐雨，自此無心入武關"
+    ]
+  },
+  {
+    "uid": "QTS_539_089_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "越燕二首 其一",
+    "poem": [
+      "上國社方見，此鄉秋不歸",
+      "爲矜皇后舞，猶著羽人衣",
+      "拂水斜紋亂，銜花片影微",
+      "盧家文杏好，試近莫愁飛"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_089_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "越燕二首 其二",
+    "poem": [
+      "將泥紅蓼岸，得草綠楊村",
+      "命侶添新意，安巢復舊痕",
+      "去應逢阿母，來莫害王孫",
+      "記取丹山鳳，今爲百鳥尊"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_090_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "杜工部蜀中離席",
+    "poem": [
+      "人生何處不離群，世路干戈惜暫分",
+      "雪嶺未歸天外使，松州猶駐殿前軍",
+      "座中醉客延醒客，江上晴雲雜雨雲",
+      "美酒成都堪送老，當壚仍是卓文君"
+    ]
+  },
+  {
+    "uid": "QTS_539_091_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "隋宮",
+    "poem": [
+      "紫泉宮殿鎖煙霞，欲取蕪城作帝家",
+      "玉璽不緣歸日角，錦帆應是到天涯",
+      "於今腐草無螢火，終古垂楊有暮鴉",
+      "地下若逢陳後主，豈宜重問後庭花"
+    ]
+  },
+  {
+    "uid": "QTS_539_092_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "二月二日",
+    "poem": [
+      "二月二日江上行，東風日暖聞吹笙",
+      "花須柳眼各無賴，紫蝶黃蜂俱有情",
+      "萬里憶歸元亮井，三年從事亞夫營",
+      "新灘莫悟遊人意，更作風簷夜雨聲"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "灘",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 4,
+        "text": "悟",
+        "variant": "訝",
+        "source": "一作「訝」"
+      },
+      {
+        "line": 4,
+        "text": "夜雨",
+        "variant": "雨夜",
+        "source": "一作「雨夜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_093_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "籌筆驛",
+    "poem": [
+      "猿鳥猶疑畏簡書，風雲常爲護儲胥",
+      "徒令上將揮神筆，終見降王走傳車",
+      "管樂有才終不忝，關張無命欲何如",
+      "他年錦裏經祠廟，梁父吟成恨有餘"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "猿",
+        "variant": "魚",
+        "source": "一作「魚」"
+      },
+      {
+        "line": 3,
+        "text": "終",
+        "variant": "真",
+        "source": "一作「真」"
+      },
+      {
+        "line": 3,
+        "text": "欲",
+        "variant": "復",
+        "source": "一作「復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_094_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "屏風",
+    "poem": [
+      "六曲連環接翠帷，高樓半夜酒醒時",
+      "掩燈遮霧密如此，雨落月明俱不知"
+    ]
+  },
+  {
+    "uid": "QTS_539_095_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "春日",
+    "poem": [
+      "欲入盧家白玉堂，新春催破舞衣裳",
+      "蝶銜紅蕊蜂銜粉，共助青樓一日忙"
+    ]
+  },
+  {
+    "uid": "QTS_539_096_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "武侯廟古柏",
+    "poem": [
+      "蜀相階前柏，龍蛇捧閟宮",
+      "陰成外江畔，老向惠陵東",
+      "大樹思馮異，甘棠憶召公",
+      "葉凋湘燕雨，枝折海鵬風",
+      "玉壘經綸遠，金刀歷數終",
+      "誰將出師表，一爲問昭融"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "折",
+        "variant": "拆",
+        "source": "一作「拆」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_097_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "風",
+    "poem": [
+      "撩釵盤孔雀，惱帶拂鴛鴦",
+      "羅薦誰教近，齋時鎖洞房"
+    ]
+  },
+  {
+    "uid": "QTS_539_098_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "即日",
+    "poem": [
+      "一歲林花即日休，江間亭下悵淹留",
+      "重吟細把真無奈，已落猶開未放愁",
+      "山色正來銜小苑，春陰只欲傍高樓",
+      "金鞍忽散銀壺漏，更醉誰家白玉鉤"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "間",
+        "variant": "門",
+        "source": "一作「門」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_099_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "九成宮",
+    "poem": [
+      "十二層城閬苑西，平時避暑拂虹霓",
+      "雲隨夏後雙龍尾，風逐周王八駿蹄",
+      "吳岳曉光連翠巘，甘泉晚景上丹梯",
+      "荔枝盧橘沾恩幸，鸞鵲天書濕紫泥"
+    ],
+    "preface": "〈九成宮本隋仁壽宮，貞觀間修之以避暑，因更名。〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "駿",
+        "variant": "馬",
+        "source": "一作「馬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_100_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "少將",
+    "poem": [
+      "族亞齊安陸，風高漢武威",
+      "煙波別墅醉，花月後門歸",
+      "青海聞傳箭，天山報合圍",
+      "一朝攜劍起，上馬即如飛"
+    ]
+  },
+  {
+    "uid": "QTS_539_101_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "詠史",
+    "poem": [
+      "歷覽前賢國與家，成由勤儉破由奢",
+      "何須琥珀方爲枕，豈得真珠始是車",
+      "運去不逢青海馬，力窮難拔蜀山蛇",
+      "幾人曾預南熏曲，終古蒼梧哭翠華"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "得真",
+        "variant": "待珍",
+        "source": "一作「待珍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_102_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈白道者",
+    "poem": [
+      "十二樓前再拜辭，靈風正滿碧桃枝",
+      "壺中若是有天地，又向壺中傷別離"
+    ],
+    "preface": "〈一作詠史第二首〉"
+  },
+  {
+    "uid": "QTS_539_103_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題二首 其一",
+    "poem": [
+      "昨夜星辰昨夜風，畫樓西畔桂堂東",
+      "身無彩鳳雙飛翼，心有靈犀一點通",
+      "隔座送鉤春酒暖，分曹射覆蠟燈紅",
+      "嗟余聽鼓應官去，走馬蘭台類斷蓬"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "樓",
+        "variant": "堂",
+        "source": "一作「堂」"
+      },
+      {
+        "line": 4,
+        "text": "斷",
+        "variant": "轉",
+        "source": "一作「轉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_103_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題二首 其二",
+    "poem": [
+      "聞道閶門萼綠華，昔年相望抵天涯",
+      "豈知一夜秦樓客，偷看吳王苑內花"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "抵",
+        "variant": "尚",
+        "source": "一作「尚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_104_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "漢宮詞",
+    "poem": [
+      "青雀西飛竟未迴，君王長在集靈台",
+      "侍臣最有相如渴，不賜金莖露一杯"
+    ]
+  },
+  {
+    "uid": "QTS_539_105_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題四首 其一",
+    "poem": [
+      "來是空言去絕蹤，月斜樓上五更鐘",
+      "夢爲遠別啼難喚，書被催成墨未濃",
+      "蠟照半籠金翡翠，麝熏微度繡芙蓉",
+      "劉郎已恨蓬山遠，更隔蓬山一萬重"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_539_105_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題四首 其二",
+    "poem": [
+      "颯颯東風細雨來，芙蓉塘外有輕雷",
+      "金蟾齧鎖燒香入，玉虎牽絲汲井迴",
+      "賈氏窺簾韓掾少，宓妃留枕魏王才",
+      "春心莫共花爭發，一寸相思一寸灰"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_539_105_03",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題四首 其三",
+    "poem": [
+      "含情春晼晚，暫見夜闌幹",
+      "樓響將登怯，簾烘欲過難",
+      "多羞釵上燕，真愧鏡中鸞",
+      "歸去橫塘曉，華星送寶鞍"
+    ],
+    "part_index": 3,
+    "total_parts": 4,
+    "variants": [
+      {
+        "line": 1,
+        "text": "晼",
+        "variant": "院",
+        "source": "一作「院」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_105_04",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題四首 其四",
+    "poem": [
+      "何處哀箏隨急管，櫻花永巷垂楊岸",
+      "東家老女嫁不售，白日當天三月半",
+      "溧陽公主年十四，清明暖後同牆看",
+      "歸來輾轉到五更，梁間燕子聞長歎"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_539_106_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "赴職梓潼留別畏之員外同年",
+    "poem": [
+      "佳兆聯翩遇鳳凰，雕文羽帳紫金床",
+      "桂花香處同高第，柿葉翻時獨悼亡",
+      "烏鵲失棲長不定，鴛鴦何事自相將",
+      "京華庸蜀三千里，送到咸陽見夕陽"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "失",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_107_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "桂林路中作",
+    "poem": [
+      "地暖無秋色，江晴有暮暉",
+      "空餘蟬嘒嘒，猶向客依依",
+      "村小犬相護，沙平僧獨歸",
+      "欲成西北望，又見鷓鴣飛"
+    ]
+  },
+  {
+    "uid": "QTS_539_108_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題",
+    "poem": [
+      "照梁初有情，出水舊知名",
+      "裙衩芙蓉小，釵茸翡翠輕",
+      "錦長書鄭重，眉細恨分明",
+      "莫近彈棋局，中心最不平"
+    ]
+  },
+  {
+    "uid": "QTS_539_109_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蝶三首 其一",
+    "poem": [
+      "初來小苑中，稍與瑣闈通",
+      "遠恐芳塵斷，輕憂豔雪融",
+      "只知防皓露，不覺逆尖風",
+      "迴首雙飛燕，乘時入綺櫳"
+    ],
+    "part_index": 1,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 3,
+        "text": "皓",
+        "variant": "灝",
+        "source": "一作「灝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_109_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蝶三首 其二",
+    "poem": [
+      "長眉畫了繡簾開，碧玉行收白玉台",
+      "爲問翠釵釵上鳳，不知香頸爲誰迴"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_109_03",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蝶三首 其三",
+    "poem": [
+      "壽陽公主嫁時妝，八字宮眉捧額黃",
+      "見我佯羞頻照影，不知身屬冶遊郎"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_110_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題二首 其一",
+    "poem": [
+      "八歲偷照鏡，長眉已能畫",
+      "十歲去踏青，芙蓉作裙衩",
+      "十二學彈箏，銀甲不曾卸",
+      "十四藏六親，懸知猶未嫁",
+      "十五泣春風，背面鞦韆下"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 5,
+        "text": "面",
+        "variant": "立",
+        "source": "一作「立」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_110_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題二首 其二",
+    "poem": [
+      "幽人不倦賞，秋暑貴招邀",
+      "竹碧轉悵望，池清尤寂寥",
+      "露花終裛濕，風蝶強嬌饒",
+      "此地如攜手，兼君不自聊"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_111_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "王十二兄與畏之員外相訪見招小飲，時予以悼亡日近不去因寄",
+    "poem": [
+      "謝傅門庭舊末行，今朝歌管屬檀郎",
+      "更無人處簾垂地，欲拂塵時簟竟床",
+      "嵇氏幼男猶可憫，左家嬌女豈能忘",
+      "秋霖腹疾俱難遣，萬里西風夜正長"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "秋",
+        "variant": "愁",
+        "source": "一作「愁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_112_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "隋宮",
+    "poem": [
+      "乘興南遊不戒嚴，九重誰省諫書函",
+      "春風舉國裁宮錦，半作障泥半作帆"
+    ],
+    "preface": "〈一雲隋堤〉"
+  },
+  {
+    "uid": "QTS_539_113_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "落花",
+    "poem": [
+      "高閣客竟去，小園花亂飛",
+      "參差連曲陌，迢遞送斜暉",
+      "腸斷未忍掃，眼穿仍欲歸",
+      "芳心向春盡，所得是沾衣"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "歸",
+        "variant": "稀",
+        "source": "一作「稀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_114_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "月",
+    "poem": [
+      "池上與橋邊，難忘復可憐",
+      "簾開最明夜，簟卷已涼天",
+      "流處水花急，吐時雲葉鮮",
+      "姮娥無粉黛，只是逞嬋娟"
+    ],
+    "preface": "〈一作秋月〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "池",
+        "variant": "樓",
+        "source": "一作「樓」"
+      },
+      {
+        "line": 1,
+        "text": "橋",
+        "variant": "池",
+        "source": "一作「池」"
+      },
+      {
+        "line": 4,
+        "text": "姮",
+        "variant": "嫦",
+        "source": "一作「嫦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_115_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈宗魯筇竹杖",
+    "poem": [
+      "大夏資輕策，全溪贈所思",
+      "靜憐穿樹遠，滑想過苔遲",
+      "鶴怨朝還望，僧閑暮有期",
+      "風流真底事，常欲傍清羸"
+    ]
+  },
+  {
+    "uid": "QTS_539_116_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "垂柳",
+    "poem": [
+      "娉婷小苑中，婀娜曲池東",
+      "朝佩皆垂地，仙衣盡帶風",
+      "七賢寧占竹，三品且饒松",
+      "腸斷靈和殿，先皇玉座空"
+    ]
+  },
+  {
+    "uid": "QTS_539_117_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "曲池",
+    "poem": [
+      "日下繁香不自持，月中流豔與誰期",
+      "迎憂急鼓疏鐘斷，分隔休燈滅燭時",
+      "張蓋欲判江灩灩，迴頭更望柳絲絲",
+      "從來此地黃昏散，未信河梁是別離"
+    ]
+  },
+  {
+    "uid": "QTS_539_118_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代應二首 其一",
+    "poem": [
+      "溝水分流西復東，九秋霜月五更風",
+      "離鸞別鳳今何在，十二玉樓空更空"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_118_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代應二首 其二",
+    "poem": [
+      "昨夜雙鉤敗，今朝百草輸",
+      "關西狂小吏，惟喝繞床盧"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_119_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "席上作",
+    "poem": [
+      "淡雲輕雨拂高唐，玉殿秋來夜正長",
+      "料得也應憐宋玉，一生惟事楚襄王"
+    ],
+    "preface": "〈原註：予為桂州從事，故府鄭公出家妓，令賦。高唐詩一本題作《席上贈人》，注云：「故桂林滎陽公，席上出家妓。鄭公，鄭亞也。」〉"
+  },
+  {
+    "uid": "QTS_539_120_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "訪隱者不遇成二絕",
+    "poem": [
+      "秋水悠悠浸墅扉，夢中來數覺來稀",
+      "玄蟬去盡葉黃落，一樹冬青人未歸",
+      "城郭休過識者稀，哀猿啼處有柴扉",
+      "滄江白日樵漁路，日暮歸來雨滿衣"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "墅",
+        "variant": "野",
+        "source": "一作「野」"
+      },
+      {
+        "line": 2,
+        "text": "去",
+        "variant": "脫",
+        "source": "一作「脫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_121_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "破鏡",
+    "poem": [
+      "玉匣清光不復持，菱花散亂月輪虧",
+      "秦台一照山雞後，便是孤鸞罷舞時"
+    ]
+  },
+  {
+    "uid": "QTS_539_122_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題",
+    "poem": [
+      "紫府仙人號寶燈，雲漿未飲結成冰",
+      "如何雪月交光夜，更在瑤台十二層"
+    ]
+  },
+  {
+    "uid": "QTS_539_123_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈庾十二朱版",
+    "poem": [
+      "固漆投膠不可開，贈君珍重抵瓊瑰",
+      "君王曉坐金鑾殿，只待相如草詔來"
+    ],
+    "preface": "〈原註：時庾在翰林，朱書版也。〉"
+  },
+  {
+    "uid": "QTS_539_124_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "李花",
+    "poem": [
+      "李徑獨來數，愁情相與懸",
+      "自明無月夜，強笑欲風天",
+      "減粉與園籜，分香沾渚蓮",
+      "徐妃久已嫁，猶自玉爲鈿"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "沾",
+        "variant": "活",
+        "source": "一作「活」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_125_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "柳",
+    "poem": [
+      "曾逐東風拂舞筵，樂遊春苑斷腸天",
+      "如何肯到清秋日，已帶斜陽又帶蟬"
+    ]
+  },
+  {
+    "uid": "QTS_539_126_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "三月十日流杯亭",
+    "poem": [
+      "身屬中軍少得歸，木蘭花盡失春期",
+      "偷隨柳絮到城外，行過水西聞子規"
+    ]
+  },
+  {
+    "uid": "QTS_539_127_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "過招國李家南園二首 其一",
+    "poem": [
+      "潘岳無妻客爲愁，新人來坐舊妝樓",
+      "春風猶自疑聯句，雪絮相和飛不休"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_127_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "過招國李家南園二首 其二",
+    "poem": [
+      "長亭歲盡雪如波，此去秦關路幾多",
+      "惟有夢中相近分，臥來無睡欲如何"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_128_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "留贈畏之",
+    "poem": [
+      "清時無事奏明光，不遣當關報早霜",
+      "中禁詞臣尋引領，左川歸客自迴腸",
+      "郎君下筆驚鸚鵡，侍女吹笙弄鳳凰",
+      "空寄大羅天上事，眾仙同日詠霓裳",
+      "待得郎來月已低，寒暄不道醉如泥",
+      "五更又欲向何處，騎馬出門烏夜啼",
+      "戶外重陰黯不開，含羞迎夜復臨台",
+      "瀟湘浪上有煙景，安得好風吹汝來"
+    ],
+    "preface": "〈原註：時將赴職梓潼，遇韓朝迴三首。〉"
+  },
+  {
+    "uid": "QTS_539_129_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "爲有",
+    "poem": [
+      "爲有雲屏無限嬌，鳳城寒盡怕春宵",
+      "無端嫁得金龜婿，辜負香衾事早朝"
+    ]
+  },
+  {
+    "uid": "QTS_539_130_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "無題",
+    "poem": [
+      "相見時難別亦難，東風無力百花殘",
+      "春蠶到死絲方盡，蠟炬成灰淚始乾",
+      "曉鏡但愁雲鬢改，夜吟應覺月光寒",
+      "蓬山此去無多路，青鳥殷勤為探看"
+    ]
+  },
+  {
+    "uid": "QTS_539_131_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "碧城三首 其一",
+    "poem": [
+      "碧城十二曲闌干，犀辟塵埃玉辟寒",
+      "閬苑有書多附鶴，女床無樹不棲鸞",
+      "星沈海底當窗見，雨過河源隔座看",
+      "若是曉珠明又定，一生長對水晶盤"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_131_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "碧城三首 其二",
+    "poem": [
+      "對影聞聲已可憐，玉池荷葉正田田",
+      "不逢蕭史休迴首，莫見洪崖又拍肩",
+      "紫鳳放嬌銜楚佩，赤鱗狂舞撥湘弦",
+      "鄂君悵望舟中夜，繡被焚香獨自眠"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_131_03",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "碧城三首 其三",
+    "poem": [
+      "七夕來時先有期，洞房簾箔至今垂",
+      "玉輪顧兔初生魄，鐵網珊瑚未有枝",
+      "檢與神方教駐景，收將鳳紙寫相思",
+      "武皇內傳分明在，莫道人間總不知"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_539_132_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "對雪二首 其一",
+    "poem": [
+      "寒氣先侵玉女扉，清光旋透省郎闈",
+      "梅花大庾嶺頭髮，柳絮章台街裏飛",
+      "欲舞定隨曹植馬，有情應濕謝莊衣",
+      "龍山萬里無多遠，留待行人二月歸"
+    ],
+    "preface": "〈原註：時欲之東〉",
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_132_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "對雪二首 其二",
+    "poem": [
+      "旋撲珠簾過粉牆，輕於柳絮重於霜",
+      "已隨江令誇瓊樹，又入盧家妒玉堂",
+      "侵夜可能爭桂魄，忍寒應欲試梅妝",
+      "關河凍合東西路，腸斷斑騅送陸郎"
+    ],
+    "preface": "〈原註：時欲之東〉",
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_133_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蜂",
+    "poem": [
+      "小苑華池爛熳通，後門前檻思無窮。",
+      "宓妃腰細纔勝露，趙后身輕欲𠋣風。",
+      "紅壁寂寥崖蜜盡，碧簾迢遰霧巢空。",
+      "青陵粉蝶休離恨，長定相逢二月中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "小",
+        "variant": "少",
+        "source": "一作「少」"
+      },
+      {
+        "line": 3,
+        "text": "簾",
+        "variant": "簷",
+        "source": "一作「簷」"
+      },
+      {
+        "line": 4,
+        "text": "定",
+        "variant": "是",
+        "source": "一作「是」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_134_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "公子",
+    "poem": [
+      "外戚封侯自有恩，平明通籍九華門",
+      "金唐公主年應小，二十君王未許婚"
+    ]
+  },
+  {
+    "uid": "QTS_539_135_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "賦得雞",
+    "poem": [
+      "稻粱猶足活諸雛，妒敵專場好自娛",
+      "可要五更驚曉夢，不辭風雪爲陽烏"
+    ]
+  },
+  {
+    "uid": "QTS_539_136_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "明神",
+    "poem": [
+      "明神司過豈令冤，暗室由來有禍門",
+      "莫爲無人欺一物，他時須慮石能言"
+    ]
+  },
+  {
+    "uid": "QTS_539_137_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "辛未七夕",
+    "poem": [
+      "恐是仙家好別離，故教迢遞作佳期",
+      "由來碧落銀河畔，可要金風玉露時",
+      "清漏漸移相望久，微雲未接過來遲",
+      "豈能無意酬烏鵲，惟與蜘蛛乞巧絲"
+    ]
+  },
+  {
+    "uid": "QTS_539_138_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "壬申七夕",
+    "poem": [
+      "已駕七香車，心心待曉霞",
+      "風輕惟響佩，日薄不嫣花",
+      "桂嫩傳香遠，榆高送影斜",
+      "成都過卜肆，曾妒識靈槎"
+    ]
+  },
+  {
+    "uid": "QTS_539_139_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "壬申閏秋題贈烏鵲",
+    "poem": [
+      "繞樹無依月正高，鄴城新淚濺雲袍",
+      "幾年始得逢秋閏，兩度填河莫告勞"
+    ]
+  },
+  {
+    "uid": "QTS_539_140_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "端居",
+    "poem": [
+      "遠書歸夢兩悠悠，只有空床敵素秋",
+      "階下青苔與紅樹，雨中寥落月中愁"
+    ]
+  },
+  {
+    "uid": "QTS_539_141_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "夜半",
+    "poem": [
+      "三更三點萬家眠，露欲爲霜月墮煙",
+      "鬥鼠上堂蝙蝠出，玉琴時動倚窗弦"
+    ]
+  },
+  {
+    "uid": "QTS_539_142_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "玉山",
+    "poem": [
+      "玉山高與閬風齊，玉水清流不貯泥",
+      "何處更求迴日馭，此中兼有上天梯",
+      "珠容百斛龍休睡，桐拂千尋鳳要棲",
+      "聞道神仙有才子，赤簫吹罷好相攜"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "與",
+        "variant": "共",
+        "source": "一作「共」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_143_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "張惡子廟",
+    "poem": [
+      "下馬捧椒漿，迎神白玉堂",
+      "如何鐵如意，獨自與姚萇"
+    ]
+  },
+  {
+    "uid": "QTS_539_144_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "雨",
+    "poem": [
+      "摵摵度瓜園，依依傍竹軒",
+      "秋池不自冷，風葉共成喧",
+      "窗迥有時見，簷高相續翻",
+      "侵宵送書雁，應爲稻粱恩"
+    ]
+  },
+  {
+    "uid": "QTS_539_145_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "菊",
+    "poem": [
+      "暗暗淡淡紫，融融冶冶黃",
+      "陶令籬邊色，羅含宅裏香",
+      "幾時禁重露，實是怯殘陽",
+      "願泛金鸚鵡，升君白玉堂"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "殘",
+        "variant": "斜",
+        "source": "一作「斜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_146_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "牡丹",
+    "poem": [
+      "錦幃初卷衛夫人，繡被猶堆越鄂君",
+      "垂手亂翻雕玉佩，招腰爭舞鬱金帬",
+      "石家蠟燭何曾剪，荀令香爐可待熏",
+      "我是夢中傳彩筆，欲書花葉寄朝雲"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "招",
+        "variant": "折",
+        "source": "一作「折」"
+      },
+      {
+        "line": 4,
+        "text": "葉",
+        "variant": "片",
+        "source": "一作「片」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_147_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "北樓",
+    "poem": [
+      "春物豈相干，人生只強歡",
+      "花猶曾斂夕，酒竟不知寒",
+      "異域東風濕，中華上象寬",
+      "此樓堪北望，輕命倚危欄"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "倚",
+        "variant": "俯",
+        "source": "一作「俯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_148_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "擬沈下賢",
+    "poem": [
+      "千二百輕鸞，春衫瘦著寬",
+      "倚風行稍急，含雪語應寒",
+      "帶火遺金鬥，兼珠碎玉盤",
+      "河陽看花過，曾不問潘安"
+    ]
+  },
+  {
+    "uid": "QTS_539_149_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蝶",
+    "poem": [
+      "飛來繡戶陰，穿過畫樓深",
+      "重傅秦台粉，輕塗漢殿金",
+      "相兼惟柳絮，所得是花心",
+      "可要淩孤客，邀爲子夜吟"
+    ]
+  },
+  {
+    "uid": "QTS_539_150_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "飲席代官妓贈兩從事",
+    "poem": [
+      "新人橋上著春衫，舊主江邊側帽檐",
+      "願得化爲紅綬帶，許教雙鳳一時銜"
+    ]
+  },
+  {
+    "uid": "QTS_539_151_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代魏宮私贈",
+    "poem": [
+      "來時西館阻佳期，去後漳河隔夢思",
+      "知有宓妃無限意，春松秋菊可同時"
+    ],
+    "preface": "〈原註：黃初三年，已隔存沒追代其意何必同時亦廣子夜鬼歌之流。〉"
+  },
+  {
+    "uid": "QTS_539_152_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代元城吳令暗爲答",
+    "poem": [
+      "背闕歸藩路欲分，水邊風日半西曛",
+      "荊王枕上原無夢，莫枉陽臺一片雲"
+    ]
+  },
+  {
+    "uid": "QTS_539_153_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "牡丹",
+    "poem": [
+      "壓徑復緣溝，當窗又映樓。",
+      "終銷一國破，不啻萬金求。",
+      "鸞鳳戲三島，神仙居十洲。",
+      "應憐萱草淡，卻得號忘憂。"
+    ]
+  },
+  {
+    "uid": "QTS_539_154_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "百果嘲櫻桃",
+    "poem": [
+      "珠實雖先熟，瓊莩縱早開",
+      "流鶯猶故在，爭得諱含來"
+    ]
+  },
+  {
+    "uid": "QTS_539_155_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "櫻桃答",
+    "poem": [
+      "眾果莫相誚，天生名品高",
+      "何因古樂府，惟有鄭櫻桃"
+    ]
+  },
+  {
+    "uid": "QTS_539_156_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "曉坐",
+    "poem": [
+      "後閤罷朝眠，前墀思黯然",
+      "梅應未假雪，柳自不勝煙",
+      "淚續淺深綆，腸危高下弦",
+      "紅顏無定所，得失在當年"
+    ],
+    "preface": "〈一雲後閤〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "閤",
+        "variant": "閣",
+        "source": "一作「閣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_157_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "詠史",
+    "poem": [
+      "北湖南埭水漫漫，一片降旗百尺竿",
+      "三百年間同曉夢，鐘山何處有龍盤"
+    ]
+  },
+  {
+    "uid": "QTS_539_158_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "一片",
+    "poem": [
+      "一片非煙隔九枝，蓬巒仙仗儼雲旗",
+      "天泉水暖龍吟細，露畹春多鳳舞遲",
+      "榆莢散來星斗轉，桂花尋去月輪移",
+      "人間桑海朝朝變，莫遣佳期更後期"
+    ]
+  },
+  {
+    "uid": "QTS_539_159_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "日射",
+    "poem": [
+      "日射紗窗風撼扉，香羅拭手春事違",
+      "迴廊四合掩寂寞，碧鸚鵡對紅薔薇"
+    ]
+  },
+  {
+    "uid": "QTS_539_160_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "題鵝",
+    "poem": [
+      "眠沙臥水自成羣，曲岸殘陽極浦雲",
+      "那解將心憐孔翠，羈雌長共故雄分"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "殘",
+        "variant": "斜",
+        "source": "一作「斜」"
+      },
+      {
+        "line": 2,
+        "text": "解",
+        "variant": "得",
+        "source": "一作「得」"
+      },
+      {
+        "line": 2,
+        "text": "翠",
+        "variant": "雀",
+        "source": "一作「雀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_161_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "華清宮",
+    "poem": [
+      "朝元閣迥羽衣新，首按昭陽第一人",
+      "當日不來高處舞，可能天下有胡塵"
+    ]
+  },
+  {
+    "uid": "QTS_539_162_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "梓潼望長卿山至巴西復懷譙秀",
+    "poem": [
+      "梓潼不見馬相如，更欲南行問酒壚",
+      "行到巴西覓譙秀，巴西惟是有寒蕪"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "問",
+        "variant": "望",
+        "source": "一作「望」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_163_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "齊宮詞",
+    "poem": [
+      "永壽兵來夜不扃，金蓮無復印中庭",
+      "梁台歌管三更罷，猶自風搖九子鈴"
+    ]
+  },
+  {
+    "uid": "QTS_539_164_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "十一月中旬至扶風界見梅花",
+    "poem": [
+      "匝路亭亭豔，非時裛裛香",
+      "素娥惟與月，青女不饒霜",
+      "贈遠虛盈手，傷離適斷腸",
+      "爲誰成早秀，不待作年芳"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "匝",
+        "variant": "雨",
+        "source": "一作「雨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_165_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "青陵臺",
+    "poem": [
+      "青陵臺畔日光斜，萬古貞魂倚暮霞",
+      "莫訝韓憑爲蛺蝶，等閒飛上別枝花"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "貞",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 2,
+        "text": "訝",
+        "variant": "許",
+        "source": "一作「許」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_166_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "東還",
+    "poem": [
+      "自有仙才自不知，十年長夢采華芝",
+      "秋風動地黃雲暮，歸去嵩陽尋舊師"
+    ]
+  },
+  {
+    "uid": "QTS_539_167_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "酬崔八早梅有贈兼示之作",
+    "poem": [
+      "知訪寒梅過野塘，久留金勒爲迴腸",
+      "謝郎衣袖初翻雪，荀令熏爐更換香",
+      "何處拂胸資蝶粉，幾時塗額藉蜂黃",
+      "維摩一室雖多病，亦要天花作道場"
+    ],
+    "preface": "〈原註：時余在惠祥，上人講下故崔落句有「梵王宮地羅含宅，賴許時時聽法來」。〉",
+    "variants": [
+      {
+        "line": 4,
+        "text": "要",
+        "variant": "舞",
+        "source": "一作「舞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_168_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "春風",
+    "poem": [
+      "春風雖自好，春物太昌昌",
+      "若教春有意，惟遣一枝芳",
+      "我意殊春意，先春已斷腸"
+    ]
+  },
+  {
+    "uid": "QTS_539_169_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "蜀桐",
+    "poem": [
+      "玉壘高桐拂玉繩，上含非霧下含冰",
+      "枉教紫鳳無棲處，斫作秋琴彈壞陵"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "桐",
+        "variant": "梧",
+        "source": "一作「梧」"
+      },
+      {
+        "line": 1,
+        "text": "非",
+        "variant": "霏",
+        "source": "一作「霏」"
+      },
+      {
+        "line": 2,
+        "text": "壞",
+        "variant": "廣",
+        "source": "一作「廣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_170_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "漢宮",
+    "poem": [
+      "通靈夜醮達清晨，承露盤晞甲帳春",
+      "王母不來方朔去，更須重見李夫人"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "不來",
+        "variant": "西歸",
+        "source": "一作「西歸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_171_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "判春",
+    "poem": [
+      "一桃復一李，井上占年芳",
+      "笑處如臨鏡，窺時不隱牆",
+      "敢言西子短，誰覺宓妃長",
+      "珠玉終相類，同名作夜光"
+    ]
+  },
+  {
+    "uid": "QTS_539_172_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "促漏",
+    "poem": [
+      "促漏遙鐘動靜聞，報章重疊杳難分",
+      "舞鸞鏡匣收殘黛，睡鴨香爐換夕熏",
+      "歸去定知還向月，夢來何處更爲雲",
+      "南塘漸暖蒲堪結，兩兩鴛鴦護水紋"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "杳",
+        "variant": "字",
+        "source": "一作「字」"
+      },
+      {
+        "line": 3,
+        "text": "定",
+        "variant": "豈",
+        "source": "一作「豈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_173_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "江東",
+    "poem": [
+      "驚魚撥剌燕翩翾，獨自江東上釣船",
+      "今日春光太漂蕩，謝家輕絮沈郎錢"
+    ]
+  },
+  {
+    "uid": "QTS_539_174_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "讀任彥升碑",
+    "poem": [
+      "任昉當年有美名，可憐才調最縱橫",
+      "梁台初建應惆悵，不得蕭公作騎兵"
+    ]
+  },
+  {
+    "uid": "QTS_539_175_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "荷花",
+    "poem": [
+      "都無色可並，不奈此香何",
+      "瑤席乘涼設，金羈落晚過",
+      "迴衾燈照綺，渡襪水沾羅",
+      "預想前秋別，離居夢棹歌"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 3,
+        "text": "迴",
+        "variant": "覆",
+        "source": "一作「覆」"
+      },
+      {
+        "line": 4,
+        "text": "前秋",
+        "variant": "愁前",
+        "source": "一作「愁前」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_176_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "五松驛",
+    "poem": [
+      "獨下長亭念過秦，五松不見見輿薪",
+      "只應既斬斯高後，尋被樵人用斧斤"
+    ]
+  },
+  {
+    "uid": "QTS_539_177_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "灞岸",
+    "poem": [
+      "山東今歲點行頻，幾處冤魂哭虜塵",
+      "灞水橋邊倚華表，平時二月有東巡"
+    ]
+  },
+  {
+    "uid": "QTS_539_178_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "送臻師二首 其一",
+    "poem": [
+      "昔去靈山非拂席，今來滄海欲求珠",
+      "楞伽頂上清涼地，善眼仙人憶我無"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_178_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "送臻師二首 其二",
+    "poem": [
+      "苦海迷途去未因，東方過此幾微塵",
+      "何當百億蓮花上，一一蓮花見佛身"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_179_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "七夕",
+    "poem": [
+      "鸞扇斜分鳳幄開，星橋橫過鵲飛迴",
+      "爭將世上無期別，換得年年一度來"
+    ]
+  },
+  {
+    "uid": "QTS_539_180_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "謝先輩防紀念拙詩甚多異日偶有此寄",
+    "poem": [
+      "曉用雲添句，寒將雪命篇",
+      "良辰多自感，作者豈皆然",
+      "熟寢初同鶴，含嘶欲並蟬",
+      "題時長不展，得處定應偏",
+      "南浦無窮樹，西樓不住煙",
+      "改成人寂寂，寄與路綿綿",
+      "星勢寒垂地，河聲曉上天",
+      "夫君自有恨，聊藉此中傳"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "皆",
+        "variant": "徒",
+        "source": "一作「徒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_181_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "馬嵬二首 其一",
+    "poem": [
+      "冀馬燕犀動地來，自埋紅粉自成灰",
+      "君王若道能傾國，玉輦何由過馬嵬"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "能",
+        "variant": "堪",
+        "source": "一作「堪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_181_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "馬嵬二首 其二",
+    "poem": [
+      "海外徒聞更九州，他生未卜此生休",
+      "空聞虎旅傳宵柝，無復雞人報曉籌",
+      "此日六軍同駐馬，當時七夕笑牽牛",
+      "如何四紀爲天子，不及盧家有莫愁"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "卜",
+        "variant": "決",
+        "source": "一作「決」"
+      },
+      {
+        "line": 2,
+        "text": "傳",
+        "variant": "鳴",
+        "source": "一作「鳴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_182_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "可歎",
+    "poem": [
+      "幸會東城宴未迴，年華憂共水相催",
+      "梁家宅裏秦宮入，趙後樓中赤鳳來",
+      "冰簟且眠金鏤枕，瓊筵不醉玉交杯",
+      "宓妃愁坐芝田館，用盡陳王八斗才"
+    ]
+  },
+  {
+    "uid": "QTS_539_183_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "望喜驛別嘉陵江水二絕",
+    "poem": [
+      "嘉陵江水此東流，望喜樓中憶閬州",
+      "若到閬中還赴海，閬州應更有高樓",
+      "千里嘉陵江水色，含煙帶月碧於藍",
+      "今朝相送東流後，猶自驅車更向南"
+    ]
+  },
+  {
+    "uid": "QTS_539_184_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "別薛岩賓",
+    "poem": [
+      "曙爽行將拂，晨清坐欲淩",
+      "別離真不那，風物正相仍",
+      "漫水任誰照，衰花淺自矜",
+      "還將兩袖淚，同向一窗燈",
+      "桂樹乖真隱，芸香是小懲",
+      "清規無以況，且用玉壺冰"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "任",
+        "variant": "清",
+        "source": "一作「清」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_185_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "富平少侯",
+    "poem": [
+      "七國三邊未到憂，十三身襲富平侯",
+      "不收金彈拋林外，卻惜銀床在井頭",
+      "彩樹轉燈珠錯落，繡檀迴枕玉雕鎪",
+      "當關不報侵晨客，新得佳人字莫愁"
+    ]
+  },
+  {
+    "uid": "QTS_539_186_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "腸",
+    "poem": [
+      "有懷非惜恨，不奈寸腸何",
+      "即席迴彌久，前時斷固多",
+      "熱應翻急燒，冷欲徹微波",
+      "隔樹澌澌雨，通池點點荷",
+      "倦程山向背，望國闕嵯峨",
+      "故念飛書及，新歡借夢過",
+      "染筠休伴淚，繞雪莫追歌",
+      "擬問陽臺事，年深楚語訛"
+    ]
+  },
+  {
+    "uid": "QTS_539_187_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "贈宇文中丞",
+    "poem": [
+      "欲構中天正急材，自緣煙水戀平臺",
+      "人間只有嵇延祖，最望山公啟事來"
+    ],
+    "preface": "〈原註：公盛歎亡友張君，故有此句。〉"
+  },
+  {
+    "uid": "QTS_539_188_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "曉起",
+    "poem": [
+      "擬杯當曉起，呵鏡可微寒",
+      "隔箔山櫻熟，褰帷桂燭殘",
+      "書長爲報晚，夢好更尋難",
+      "影響輸雙蝶，偏過舊畹蘭"
+    ]
+  },
+  {
+    "uid": "QTS_539_189_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "閨情",
+    "poem": [
+      "紅露花房白蜜脾，黃蜂紫蝶兩參差",
+      "春窗一覺風流夢，卻是同袍不得知"
+    ]
+  },
+  {
+    "uid": "QTS_539_190_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "月夕",
+    "poem": [
+      "草下陰蟲葉上霜，朱欄迢遞壓湖光",
+      "兔寒蟾冷桂花白，此夜姮娥應斷腸"
+    ]
+  },
+  {
+    "uid": "QTS_539_191_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "杏花",
+    "poem": [
+      "上國昔相值，亭亭如欲言",
+      "異鄉今暫賞，眽眽豈無恩",
+      "援少風多力，牆高月有痕",
+      "爲含無限意，遂對不勝繁",
+      "仙子玉京路，主人金谷園",
+      "幾時辭碧落，誰伴過黃昏",
+      "鏡拂鉛華膩，爐藏桂燼溫",
+      "終應催竹葉，先擬詠桃根",
+      "莫學啼成血，從教夢寄魂",
+      "吳王採香徑，失路入煙村"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "意",
+        "variant": "思",
+        "source": "一作「思」"
+      },
+      {
+        "line": 4,
+        "text": "對",
+        "variant": "到",
+        "source": "一作「到」"
+      },
+      {
+        "line": 5,
+        "text": "主",
+        "variant": "佳",
+        "source": "一作「佳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_192_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "燈",
+    "poem": [
+      "皎潔終無倦，煎熬亦自求",
+      "花時隨酒遠，雨後背窗休",
+      "冷暗黃茅驛，暄明紫桂樓",
+      "錦囊名畫掩，玉局敗棋收",
+      "何處無佳夢，誰人不隱憂",
+      "影隨簾押轉，光信簟文流",
+      "客自勝潘嶽，儂今定莫愁",
+      "固應留半焰，迴照下幃羞"
+    ]
+  },
+  {
+    "uid": "QTS_539_193_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "清河",
+    "poem": [
+      "舟小迴仍數，樓危憑亦頻",
+      "燕來從及社，蝶舞太侵晨",
+      "絳雪除後，霜梅取味新",
+      "年華無一事，只是自傷春"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "後",
+        "variant": "俊",
+        "source": "一作「俊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_539_194_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "襪",
+    "poem": [
+      "嘗聞宓妃襪，渡水欲生塵",
+      "好借常娥著，清秋踏月輪"
+    ]
+  },
+  {
+    "uid": "QTS_539_195_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "追代盧家人嘲堂內",
+    "poem": [
+      "道卻橫波字，人前莫謾羞",
+      "只應同楚水，長短入淮流"
+    ]
+  },
+  {
+    "uid": "QTS_539_196_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代應",
+    "poem": [
+      "本來銀漢是紅牆，隔得盧家白玉堂",
+      "誰與王昌報消息，盡知三十六鴛鴦"
+    ]
+  },
+  {
+    "uid": "QTS_539_197_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "離亭賦得折楊柳二首 其一",
+    "poem": [
+      "暫憑樽酒送無憀，莫損愁眉與細腰",
+      "人世死前惟有別，春風爭擬惜長條"
+    ],
+    "preface": "〈樂府詩題作楊柳枝〉",
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_197_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "離亭賦得折楊柳二首 其二",
+    "poem": [
+      "含煙惹霧每依依，萬緒千條拂落暉",
+      "爲報行人休盡折，半留相送半迎歸"
+    ],
+    "preface": "〈樂府詩題作楊柳枝〉",
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_198_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄永道士",
+    "poem": [
+      "共上雲山獨下遲，陽臺白道細如絲",
+      "君今並倚三珠樹，不記人間落葉時"
+    ]
+  },
+  {
+    "uid": "QTS_539_199_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "華州周大夫宴席",
+    "poem": [
+      "郡齋何用酒如泉，飲德先時已醉眠",
+      "若共門人推禮分，戴崇爭得及彭宣"
+    ],
+    "preface": "〈原注西鈴〉"
+  },
+  {
+    "uid": "QTS_539_200_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "荊山",
+    "poem": [
+      "壓河連華勢孱顏，鳥沒雲歸一望間",
+      "楊僕移關三百里，可能全是爲荊山"
+    ]
+  },
+  {
+    "uid": "QTS_539_201_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "次陝州先寄源從事",
+    "poem": [
+      "離思羈愁日欲晡，東周西雍此分塗",
+      "迴鑾佛寺高多少，望盡黃河一曲無"
+    ]
+  },
+  {
+    "uid": "QTS_539_202_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "過鄭廣文舊居",
+    "poem": [
+      "宋玉平生恨有餘，遠循三楚吊三閭",
+      "可憐留著臨江宅，異代應教庾信居"
+    ],
+    "preface": "〈鄭虔〉"
+  },
+  {
+    "uid": "QTS_539_203_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "東下三旬苦於風土馬上戲作",
+    "poem": [
+      "路繞函關東復東，身騎征馬逐驚蓬",
+      "天池遼闊誰相待，日日虛乘九萬風"
+    ]
+  },
+  {
+    "uid": "QTS_539_204_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "莫愁",
+    "poem": [
+      "雪中梅下與誰期，梅雪相兼一萬枝",
+      "若是石城無艇子，莫愁還自有愁時"
+    ]
+  },
+  {
+    "uid": "QTS_539_205_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "夢令狐學士",
+    "poem": [
+      "山驛荒涼白竹扉，殘燈向曉夢清暉",
+      "右銀台路雪三尺，鳳詔裁成當直歸"
+    ]
+  },
+  {
+    "uid": "QTS_539_206_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "涉洛川",
+    "poem": [
+      "通谷陽林不見人，我來遺恨古時春",
+      "宓妃漫結無窮恨，不爲君王殺灌均"
+    ],
+    "preface": "〈原注灌均陳王之典籤譖諸王于文帝者〉"
+  },
+  {
+    "uid": "QTS_539_207_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "有感",
+    "poem": [
+      "中路因循我所長，古來才命兩相妨",
+      "勸君莫強安蛇足，一盞芳醪不得嘗"
+    ]
+  },
+  {
+    "uid": "QTS_539_208_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "宮妓",
+    "poem": [
+      "珠箔輕明拂玉墀，披香新殿鬥腰支",
+      "不須看盡魚龍戲，終遣君王怒偃師"
+    ]
+  },
+  {
+    "uid": "QTS_539_209_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "宮辭",
+    "poem": [
+      "君恩如水向東流，得寵憂移失寵愁",
+      "莫向尊前奏花落，涼風只在殿西頭"
+    ]
+  },
+  {
+    "uid": "QTS_539_210_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代贈二首 其一",
+    "poem": [
+      "樓上黃昏欲望休，玉梯橫絕月中鉤",
+      "芭蕉不展丁香結，同向春風各自愁"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_210_02",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "代贈二首 其二",
+    "poem": [
+      "東南日出照高樓，樓上離人唱石州",
+      "總把春山掃眉黛，不知供得幾多愁"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_539_211_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "楚吟",
+    "poem": [
+      "山上離宮宮上樓，樓前宮畔暮江流",
+      "楚天長短黃昏雨，宋玉無愁亦自愁"
+    ]
+  },
+  {
+    "uid": "QTS_539_212_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "瑤池",
+    "poem": [
+      "瑤池阿母綺窗開，黃竹歌聲動地哀",
+      "八駿日行三萬里，穆王何事不重來"
+    ]
+  },
+  {
+    "uid": "QTS_539_213_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "柳",
+    "poem": [
+      "爲有橋邊拂面香，何曾自敢占流光",
+      "後庭玉樹承恩澤，不信年華有斷腸"
+    ]
+  },
+  {
+    "uid": "QTS_539_214_01",
+    "volume": 539,
+    "author": {
+      "canonical": "李商隱",
+      "recorded": "李商隱",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Shangyin",
+      "wikidata_id": "Q203782"
+    },
+    "title": "寄在朝鄭曹獨孤李四同年",
+    "poem": [
+      "昔歲陪遊舊跡多，風光今日兩蹉跎",
+      "不因醉本蘭亭在，兼忘當年舊永和"
+    ]
+  }
+]

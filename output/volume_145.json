@@ -1,0 +1,750 @@
+[
+  {
+    "uid": "QTS_145_001_01",
+    "volume": 145,
+    "author": {
+      "canonical": "杜頠",
+      "recorded": "杜頠",
+      "gender": "male",
+      "wikidata_id": "Q18906633"
+    },
+    "title": "從軍行",
+    "poem": [
+      "秋草馬蹄輕，角弓持弦急。",
+      "去爲龍城候，正值胡兵襲。",
+      "軍氣橫大荒，戰酣日將入。",
+      "長風金鼓動，白露鐵衣濕。",
+      "四起愁邊聲，南轅時佇立。",
+      "斷蓬孤自轉，寒雁飛相及。",
+      "萬里雲沙漲，平川冰霰溢。",
+      "夜聞漢使歸，獨向刀環泣。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "露",
+        "variant": "霧",
+        "source": "一作「霧」"
+      },
+      {
+        "line": 7,
+        "text": "平川",
+        "variant": "路平",
+        "source": "一作「路平」"
+      },
+      {
+        "line": 7,
+        "text": "溢",
+        "variant": "澀",
+        "source": "一作「澀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_002_01",
+    "volume": 145,
+    "author": {
+      "canonical": "杜頠",
+      "recorded": "杜頠",
+      "gender": "male",
+      "wikidata_id": "Q18906633"
+    },
+    "title": "故絳行",
+    "poem": [
+      "君不見銅鞮觀，數里城池已蕪漫。",
+      "君不見虒祁宮，幾重臺榭亦微濛。",
+      "介馬兵車全盛時，歌童舞女妖豔姿。",
+      "一代繁華皆共絕，九原唯望冢纍纍。"
+    ]
+  },
+  {
+    "uid": "QTS_145_003_01",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "少年行三首 其一",
+    "poem": [
+      "十八羽林郎，戎衣侍漢王。",
+      "臂鷹金殿側，挾彈玉輿傍。",
+      "馳道春風起，陪游出建章。"
+    ],
+    "part_index": 1,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "侍",
+        "variant": "事",
+        "source": "一作「事」，又作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_003_02",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "少年行三首 其二",
+    "poem": [
+      "侍獵長楊下，承恩更射飛。",
+      "塵生馬影滅，箭落雁行稀。",
+      "薄暮隨天仗，聯翩入瑣闈。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_145_003_03",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "少年行三首 其三",
+    "poem": [
+      "玉劒膝邊橫，金杯馬上傾。",
+      "朝遊茂陵道，夜宿鳳凰城。",
+      "豪吏多猜忌，無勞問姓名。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "邊",
+        "variant": "旁",
+        "source": "一作「旁」"
+      },
+      {
+        "line": 3,
+        "text": "吏",
+        "variant": "俠",
+        "source": "一作「俠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_004_01",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "淮南秋夜呈周偘",
+    "poem": [
+      "天淨河漢高，夜閑砧杵發。",
+      "清秋忽如此，離恨應難歇。",
+      "風亂池上萍，露光竹間月。",
+      "與君共遊處，勿作他鄉別。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "萍",
+        "variant": "螢",
+        "source": "一作「螢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_005_01",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "林園秋夜作",
+    "poem": [
+      "林臥避殘暑，白雲長在天。",
+      "賞心既如此，對酒非徒然。",
+      "月色徧秋露，竹聲兼夜泉。",
+      "涼風懷袖裏，茲意與誰傳。"
+    ]
+  },
+  {
+    "uid": "QTS_145_006_01",
+    "volume": 145,
+    "author": {
+      "canonical": "李嶷",
+      "recorded": "李嶷",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Li Yi",
+      "wikidata_id": "Q10334669"
+    },
+    "title": "讀前漢外戚傳",
+    "poem": [
+      "人錄尚書事，家臨御路傍。",
+      "鑿池通渭水，避暑借明光。",
+      "印綬妻封邑，軒車子拜郎。",
+      "寵因宮掖裏，勢極必先亡。"
+    ]
+  },
+  {
+    "uid": "QTS_145_007_01",
+    "volume": 145,
+    "author": {
+      "canonical": "崔亘",
+      "recorded": "崔亘"
+    },
+    "title": "春怨",
+    "poem": [
+      "夜盡夢初驚，紗窗早霧明。",
+      "曉妝脂粉薄，春服綺羅輕。",
+      "妾有今朝恨，君無舊日情。",
+      "愁來理弦管，皆是斷腸聲。"
+    ]
+  },
+  {
+    "uid": "QTS_145_008_01",
+    "volume": 145,
+    "author": {
+      "canonical": "蔣維翰",
+      "recorded": "蔣維翰"
+    },
+    "title": "古歌二首 其一",
+    "poem": [
+      "美人怨何深，含情倚金閣。",
+      "不嚬復不語，紅淚雙雙落。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "嚬",
+        "variant": "笑",
+        "source": "一作「笑」"
+      },
+      {
+        "line": 2,
+        "text": "紅",
+        "variant": "珠",
+        "source": "一作「珠」"
+      },
+      {
+        "line": 2,
+        "text": "雙雙",
+        "variant": "紛紛",
+        "source": "一作「紛紛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_008_02",
+    "volume": 145,
+    "author": {
+      "canonical": "蔣維翰",
+      "recorded": "蔣維翰"
+    },
+    "title": "古歌二首 其二",
+    "poem": [
+      "美人閉紅燭，獨作裁新錦。",
+      "頻放剪刀聲，夜寒知未寢。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_145_009_01",
+    "volume": 145,
+    "author": {
+      "canonical": "蔣維翰",
+      "recorded": "蔣維翰"
+    },
+    "title": "春夜裁縫",
+    "poem": [
+      "珠箔因風起，飛蛾入最能。",
+      "不教人夜作，方便殺明燈。"
+    ]
+  },
+  {
+    "uid": "QTS_145_010_01",
+    "volume": 145,
+    "author": {
+      "canonical": "蔣維翰",
+      "recorded": "蔣維翰"
+    },
+    "title": "春女怨",
+    "poem": [
+      "白玉堂前一樹梅，今朝忽見數花開。",
+      "兒家門戶尋常閉，春色因何入得來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "花",
+        "variant": "枝",
+        "source": "一作「枝」"
+      },
+      {
+        "line": 2,
+        "text": "尋常",
+        "variant": "重重",
+        "source": "一作「重重」"
+      },
+      {
+        "line": 2,
+        "text": "因何入得",
+        "variant": "何緣得入",
+        "source": "一作「何緣得入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_011_01",
+    "volume": 145,
+    "author": {
+      "canonical": "蔣維翰",
+      "recorded": "蔣維翰"
+    },
+    "title": "怨歌",
+    "poem": [
+      "百尺珠樓臨狹斜，新妝能唱美人車。",
+      "皆言賤妾紅顏好，要自狂夫不憶家。"
+    ]
+  },
+  {
+    "uid": "QTS_145_012_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "小山歌",
+    "poem": [
+      "人說淮南有小山，淮王昔日此登仙。",
+      "城中雞犬皆飛去，山上壇場今宛然。",
+      "世人貴身不貴壽，共笑華陽洞天口。",
+      "不知金石變長年，謾在人間戀攜手。",
+      "君能舉帆至淮南，家住盱眙余先諳。",
+      "桐柏亂流平入海，茱萸一曲沸成潭。",
+      "憶記來時魂悄悄，想見仙山衆峰小。",
+      "今日長歌思不堪，君行爲報三青鳥。"
+    ]
+  },
+  {
+    "uid": "QTS_145_013_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "題江潮莊壁",
+    "poem": [
+      "田家喜秋熟，歲宴林葉稀。",
+      "禾黍積場圃，樝梨垂戶扉。",
+      "野閑犬時吠，日暮牛自歸。",
+      "時復落花酒，茅齋堪解衣。"
+    ]
+  },
+  {
+    "uid": "QTS_145_014_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "詠簾",
+    "poem": [
+      "玳瑁昔稱華，玲瓏薄絳紗。",
+      "鉤銜門勢曲，節亂水紋斜。",
+      "日弄長飛鳥，風搖不捲花。",
+      "自當分內外，非是爲驕奢。"
+    ]
+  },
+  {
+    "uid": "QTS_145_015_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "茱萸女",
+    "poem": [
+      "山陰柳家女，九日采茱萸。",
+      "復得東鄰伴，雙爲陌上姝。",
+      "插枝著高髻，結子置長裾。",
+      "作性常遲緩，非關詫丈夫。",
+      "平明折林樾，日入返城隅。",
+      "俠客要羅袖，行人挑短書。",
+      "蛾眉自有主，年少莫踟躕。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "枝著",
+        "variant": "花向",
+        "source": "一作「花向」"
+      },
+      {
+        "line": 4,
+        "text": "作",
+        "variant": "忤",
+        "source": "一作「忤」"
+      },
+      {
+        "line": 4,
+        "text": "詫",
+        "variant": "託",
+        "source": "一作「託」"
+      },
+      {
+        "line": 5,
+        "text": "樾",
+        "variant": "樹",
+        "source": "一作「樹」"
+      },
+      {
+        "line": 6,
+        "text": "俠",
+        "variant": "賈",
+        "source": "一作「賈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_016_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "五日觀妓",
+    "poem": [
+      "西施謾道浣春紗，碧玉今時鬬麗華。",
+      "眉黛奪將萱草色，紅裙妬殺石榴花。",
+      "新歌一曲令人豔，醉舞雙眸斂鬢斜。",
+      "誰道五絲能續命，卻令今日死君家。"
+    ]
+  },
+  {
+    "uid": "QTS_145_017_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "驄馬",
+    "poem": [
+      "金絡青驄白玉鞍，長鞭紫陌野遊盤。",
+      "朝驅東道塵恆滅，暮到河源日未闌。",
+      "汗血每隨邊地苦，蹄傷不憚隴陰寒。",
+      "君能一飲長城窟，爲報天山行路難。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "報",
+        "variant": "盡",
+        "source": "一作「盡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_018_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "題情人藥欄",
+    "poem": [
+      "斂眉語芳草，何許太無情。",
+      "正見離人別，春心相向生。"
+    ]
+  },
+  {
+    "uid": "QTS_145_019_01",
+    "volume": 145,
+    "author": {
+      "canonical": "萬楚",
+      "recorded": "萬楚",
+      "gender": "male",
+      "english_name": "Wan Chu",
+      "wikidata_id": "Q18906446"
+    },
+    "title": "河上逢落花",
+    "poem": [
+      "河水浮落花，花流東不息。",
+      "應見浣紗人，爲道長相憶。"
+    ]
+  },
+  {
+    "uid": "QTS_145_020_01",
+    "volume": 145,
+    "author": {
+      "canonical": "范朝",
+      "recorded": "范朝"
+    },
+    "title": "寧王山池",
+    "poem": [
+      "水勢臨階轉，峰形對路開。",
+      "槎從天上得，石是海邊來。",
+      "瑞草分叢種，祥花間色栽。",
+      "舊傳詞賦客，唯見有鄒枚。"
+    ]
+  },
+  {
+    "uid": "QTS_145_021_01",
+    "volume": 145,
+    "author": {
+      "canonical": "范朝",
+      "recorded": "范朝"
+    },
+    "title": "題石甕寺",
+    "poem": [
+      "勝境宜長望，遲春好散愁。",
+      "關連四塞起，河帶八川流。",
+      "複磴承香閣，重巖映彩樓。",
+      "爲臨溫液近，偏美聖君遊。"
+    ]
+  },
+  {
+    "uid": "QTS_145_022_01",
+    "volume": 145,
+    "author": {
+      "canonical": "楊顔",
+      "recorded": "楊顔"
+    },
+    "title": "田家",
+    "poem": [
+      "小園足生事，尋勝日傾壺。",
+      "蒔蔬利於鬻，纔青摘已無。",
+      "四鄰依野竹，日夕采其枯。",
+      "田家心適時，春色徧桑榆。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "依",
+        "variant": "因",
+        "source": "一作「因」"
+      },
+      {
+        "line": 3,
+        "text": "采其",
+        "variant": "共樵",
+        "source": "一作「共樵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_023_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "後庭怨",
+    "poem": [
+      "君不見紅閨少女端正時，夭夭桃李仙容姿。",
+      "幸得君王憐巧笑，披香殿裏薦蛾眉。",
+      "蛾眉雙雙人共進，常恐妾身從此擯。",
+      "甄妃爲妬出層宮，班女因猜下長信。",
+      "長信宮門閉不開，昭陽歌吹風送來。",
+      "夢中魂魄猶言是，覺後精神尚未迴。",
+      "念君嬌愛無終始，使妾長啼後庭裏。",
+      "獨立每看斜日盡，孤眠直至殘燈死。",
+      "秋日聞蟲翡翠簾，春晴照面鴛鴦水。",
+      "紅顏舊來花不勝，白髮如今雪相似。",
+      "傳聞紈扇恩未歇，預想蛾眉上初月。",
+      "如君貴僞不貴真，還同棄妾逐新人。",
+      "借問南山松葉意，何如北砌槿花新。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "庭",
+        "variant": "宮",
+        "source": "一作「宮」"
+      },
+      {
+        "line": 8,
+        "text": "孤眠",
+        "variant": "一坐",
+        "source": "一作「一坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_024_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "夜坐看搊箏",
+    "poem": [
+      "調箏夜坐燈光裏，卻掛羅帷露纖指。",
+      "朱弦一一聲不同，玉柱連連影相似。",
+      "不知何處學新聲？曲曲彈來未覩名。",
+      "應是石家金谷裏，流傳未滿洛陽城。"
+    ]
+  },
+  {
+    "uid": "QTS_145_025_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "長信怨",
+    "poem": [
+      "飛燕倚身輕，爭人巧笑名。",
+      "生君棄妾意，增妾怨君情。",
+      "日落昭陽壁，秋來長信城。",
+      "寥寥金殿裏，歌吹夜無聲。"
+    ]
+  },
+  {
+    "uid": "QTS_145_026_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "閨情",
+    "poem": [
+      "日暮裁縫歇，深嫌氣力微。",
+      "纔能收篋笥，嬾起下簾帷。",
+      "怨坐空然燭，愁眠不解衣。",
+      "昨來頻夢見，夫婿莫應知。"
+    ]
+  },
+  {
+    "uid": "QTS_145_027_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "十五夜觀燈",
+    "poem": [
+      "暫得金吾夜，通看火樹春。",
+      "停車傍明月，走馬入紅塵。",
+      "妓雜歌偏勝，場移舞更新。",
+      "應須盡記取，說向不來人。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "向",
+        "variant": "與",
+        "source": "一作「與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_028_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王諲",
+      "recorded": "王諲",
+      "gender": "male",
+      "wikidata_id": "Q18905574"
+    },
+    "title": "除夜",
+    "poem": [
+      "今歲今宵盡，明年明日催。",
+      "寒隨一夜去，春逐五更來。",
+      "氣色空中改，容顏暗裏回。",
+      "風光人不覺，已著後園梅。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "夜",
+        "variant": "臘",
+        "source": "一作「臘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_145_029_01",
+    "volume": 145,
+    "author": {
+      "canonical": "王岳靈",
+      "recorded": "王岳靈"
+    },
+    "title": "聞漏",
+    "poem": [
+      "建禮含香處，重城待漏臣。",
+      "徐聞傳鳳詔，曉唱辨雞人。",
+      "銀箭殘將盡，銅壺漏更新。",
+      "催籌當午夜，移刻及三辰。",
+      "杳杳從天遠，泠泠出禁頻。",
+      "直疑殘漏曙，肅肅對鉤陳。"
+    ]
+  },
+  {
+    "uid": "QTS_145_030_01",
+    "volume": 145,
+    "author": {
+      "canonical": "周萬",
+      "recorded": "周萬"
+    },
+    "title": "送沈芳謁李觀察求仕進",
+    "poem": [
+      "往日長安路，歡遊不惜年。",
+      "爲貪盧女曲，用盡沈郎錢。",
+      "身老方投刺，途窮始著鞭。",
+      "猶聞有知己，此去不徒然。"
+    ]
+  }
+]

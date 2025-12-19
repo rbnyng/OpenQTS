@@ -1,0 +1,278 @@
+[
+  {
+    "uid": "QTS_797_001_01",
+    "volume": 797,
+    "author": {
+      "canonical": "武后宮人",
+      "recorded": "武后宮人",
+      "gender": "female",
+      "period": "Early Tang"
+    },
+    "title": "離別難",
+    "poem": [
+      "此別難重陳，花飛復戀人。",
+      "來時梅覆雪，去日柳含春。",
+      "物候催行客，歸途淑氣新。",
+      "剡川今已遠，魂夢暗相親。"
+    ]
+  },
+  {
+    "uid": "QTS_797_002_01",
+    "volume": 797,
+    "author": {
+      "canonical": "開元宮人",
+      "recorded": "開元宮人",
+      "gender": "female",
+      "period": "High Tang"
+    },
+    "title": "袍中詩",
+    "poem": [
+      "沙場征戍客，寒苦若為眠。",
+      "戰袍經手作，知落阿誰邊？",
+      "蓄意多添線，含情更著綿。",
+      "今生已過也，結取後生緣。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "已過也",
+        "variant": "看已過",
+        "source": "一作「看已過」"
+      },
+      {
+        "line": 4,
+        "text": "結取",
+        "variant": "願結",
+        "source": "一作「願結」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_797_003_01",
+    "volume": 797,
+    "author": {
+      "canonical": "天寶宮人",
+      "recorded": "天寶宮人",
+      "gender": "female",
+      "period": "High Tang"
+    },
+    "title": "題洛苑梧葉上",
+    "poem": [
+      "舊寵悲秋扇，新恩寄早春。",
+      "聊題一片葉，將寄接流人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "一片葉",
+        "variant": "紅葉上",
+        "source": "一作「紅葉上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_797_004_01",
+    "volume": 797,
+    "author": {
+      "canonical": "天寶宮人",
+      "recorded": "天寶宮人",
+      "gender": "female",
+      "period": "High Tang"
+    },
+    "title": "又題",
+    "poem": [
+      "一葉題詩出禁城，誰人酬和獨含情。",
+      "自嗟不及波中葉，蕩漾乘春取次行。"
+    ]
+  },
+  {
+    "uid": "QTS_797_005_01",
+    "volume": 797,
+    "author": {
+      "canonical": "德宗宮人",
+      "recorded": "德宗宮人",
+      "gender": "female",
+      "period": "Middle Tang"
+    },
+    "title": "題花葉詩",
+    "poem": [
+      "一入深宮裏，無由得見春。",
+      "題詩花葉上，寄與接流人。"
+    ]
+  },
+  {
+    "uid": "QTS_797_006_01",
+    "volume": 797,
+    "author": {
+      "canonical": "宣宗宮人",
+      "recorded": "宣宗宮人",
+      "gender": "female",
+      "period": "Late Tang"
+    },
+    "title": "題紅葉",
+    "poem": [
+      "流水何太急，深宮盡日閒。",
+      "殷勤謝紅葉，好去到人間。"
+    ]
+  },
+  {
+    "uid": "QTS_797_007_01",
+    "volume": 797,
+    "author": {
+      "canonical": "僖宗宮人",
+      "recorded": "僖宗宮人",
+      "gender": "female",
+      "period": "Late Tang"
+    },
+    "title": "金鎖詩",
+    "poem": [
+      "玉燭製袍夜，金刀呵手裁。",
+      "鎖寄千里客，鎖心終不開。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鎖寄千里客",
+        "variant": "鎖情寄千里",
+        "source": "一作「鎖情寄千里」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_797_008_01",
+    "volume": 797,
+    "author": {
+      "canonical": "李舜弦",
+      "recorded": "李舜弦",
+      "gender": "female",
+      "english_name": "Li Shunxian",
+      "wikidata_id": "Q15891165"
+    },
+    "title": "隨駕遊青城",
+    "poem": [
+      "因隨八馬上仙山，頓隔塵埃物象閒。",
+      "只恐西追王母宴，卻憂難得到人間。"
+    ]
+  },
+  {
+    "uid": "QTS_797_009_01",
+    "volume": 797,
+    "author": {
+      "canonical": "李舜弦",
+      "recorded": "李舜弦",
+      "gender": "female",
+      "english_name": "Li Shunxian",
+      "wikidata_id": "Q15891165"
+    },
+    "title": "蜀宮應制",
+    "poem": [
+      "濃樹禁花開後庭，飲筵中散酒微醒。",
+      "濛濛雨草瑤階濕，鐘曉愁吟獨倚屏。"
+    ]
+  },
+  {
+    "uid": "QTS_797_010_01",
+    "volume": 797,
+    "author": {
+      "canonical": "李舜弦",
+      "recorded": "李舜弦",
+      "gender": "female",
+      "english_name": "Li Shunxian",
+      "wikidata_id": "Q15891165"
+    },
+    "title": "釣魚不得",
+    "poem": [
+      "盡日池邊釣錦鱗，芰荷香裏暗消魂。",
+      "依稀縱有尋香餌，知是金鉤不肯吞。"
+    ]
+  },
+  {
+    "uid": "QTS_797_011_01",
+    "volume": 797,
+    "author": {
+      "canonical": "李玉簫",
+      "recorded": "李玉簫",
+      "gender": "female",
+      "english_name": "Li Yuxiao",
+      "wikidata_id": "Q45495726"
+    },
+    "title": "宮詞",
+    "poem": [
+      "鴛鴦瓦上瞥然聲，晝寢宮娥夢裏驚。",
+      "元是我王金彈子，海棠花下打流鶯。"
+    ]
+  },
+  {
+    "uid": "QTS_797_012_01",
+    "volume": 797,
+    "author": {
+      "canonical": "金真德",
+      "recorded": "金真德",
+      "gender": "female"
+    },
+    "title": "太平詩",
+    "poem": [
+      "大唐開鴻業，巍巍皇猷昌。",
+      "止戈戎衣定，修文繼百王。",
+      "統天崇雨施，理物體含章。",
+      "深仁諧日月，撫運邁時康。",
+      "幡旗既赫赫，鉦鼓何鍠鍠。",
+      "外夷違命者，翦覆被大殃。",
+      "和風凝宇宙，遐邇競呈祥。",
+      "四時調玉燭，七曜巡萬方。",
+      "維嶽降宰輔，維帝用忠良。",
+      "三五咸一德，昭我皇家唐。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "戎衣",
+        "variant": "成大",
+        "source": "一作「成大」"
+      },
+      {
+        "line": 2,
+        "text": "修",
+        "variant": "興",
+        "source": "一作「興」"
+      },
+      {
+        "line": 7,
+        "text": "和",
+        "variant": "淳",
+        "source": "一作「淳」"
+      },
+      {
+        "line": 7,
+        "text": "宇宙",
+        "variant": "幽顯",
+        "source": "一作「幽顯」"
+      },
+      {
+        "line": 9,
+        "text": "用",
+        "variant": "任",
+        "source": "一作「任」"
+      },
+      {
+        "line": 10,
+        "text": "皇家唐",
+        "variant": "唐家光",
+        "source": "一作「唐家光」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_797_013_01",
+    "volume": 797,
+    "author": {
+      "canonical": "寶歷宮人",
+      "recorded": "寶歷宮人",
+      "gender": "female"
+    },
+    "title": "句",
+    "poem": [
+      "寶帳香重重，一雙紅芙蓉。"
+    ]
+  }
+]

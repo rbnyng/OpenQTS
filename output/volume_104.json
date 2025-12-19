@@ -1,0 +1,642 @@
+[
+  {
+    "uid": "QTS_104_001_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得餘字",
+    "poem": [
+      "望幸三秋暮，登高九日初。",
+      "朱旗巡漢苑，翠帟俯秦墟。",
+      "寵極萸房遍，恩深菊酎餘。",
+      "承歡何以荅，萬億奉宸居。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "房",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 4,
+        "text": "奉",
+        "variant": "俯",
+        "source": "一作「俯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_002_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "天蹕三乘啓，星輿六轡行。",
+      "登高凌寶塔，極目徧王城。",
+      "神衞空中遶，仙歌雲外清。",
+      "重陽千萬壽，率舞頌昇平。"
+    ]
+  },
+  {
+    "uid": "QTS_104_003_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "奉和幸安樂公主山莊應制",
+    "poem": [
+      "西郊窈窕鳳皇臺，北渚平明法駕來。",
+      "匝地金聲初度曲，周堂玉溜好傳杯。",
+      "灣路分遊畫舟轉，岸門相向碧亭開。",
+      "微臣此時承宴樂，髣髴疑從星漢迴。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "好",
+        "variant": "且",
+        "source": "一作「且」，又作「始」"
+      },
+      {
+        "line": 3,
+        "text": "岸",
+        "variant": "巖",
+        "source": "一作「巖」"
+      },
+      {
+        "line": 4,
+        "text": "從",
+        "variant": "尋",
+        "source": "一作「尋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_004_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "送張亶赴朔方應制",
+    "poem": [
+      "命將擇耆年，圖功勝必全。",
+      "光輝萬乘餞，威武二庭宣。",
+      "中衢橫鼓角，曠野蔽旌旃。",
+      "推食天廚至，投醪御酒傳。",
+      "涼風過鴈苑，殺氣下雞田。",
+      "分閫恩何極，臨岐動睿篇。"
+    ]
+  },
+  {
+    "uid": "QTS_104_005_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "陪幸長寧公主林亭",
+    "poem": [
+      "公主林亭地，清晨降玉輿。",
+      "畫橋飛渡水，仙閣逈臨虛。",
+      "新晴看蛺蝶，早夏摘芙蕖。",
+      "文酒娛遊盛，忻叨侍從餘。"
+    ]
+  },
+  {
+    "uid": "QTS_104_006_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "陪幸五王宅",
+    "poem": [
+      "北斗樞機任，西京肺腑親。",
+      "疇昔王門下，今茲制幸晨。",
+      "恩來山水被，聖作管弦新。",
+      "遶座薰紅藥，當軒暗綠筠。",
+      "摘荷纔早夏，聽鳥尚餘春。",
+      "行漏金徒曉，風煙是觀津。"
+    ]
+  },
+  {
+    "uid": "QTS_104_007_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "三會寺應制",
+    "poem": [
+      "岧嶤倉史臺，敞朗紺園開。",
+      "戒旦壺人警，翻霜羽騎來。",
+      "下輦登三襲，褰旒望九垓。",
+      "林披館陶牓，水浸昆明灰。",
+      "網戶飛花綴，幡竿度鳥迴。",
+      "豫遊仙唱動，瀟灑初塵埃。"
+    ]
+  },
+  {
+    "uid": "QTS_104_008_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "薦福寺應制",
+    "poem": [
+      "地靈傳景福，天駕儼鉤陳。",
+      "佳哉藩邸舊，赫矣梵宮新。",
+      "香塔魚山下，禪堂鴈水濱。",
+      "珠幡映白日，鏡殿寫青春。",
+      "甚懽延故吏，大覺拯生人。",
+      "幸承歌頌末，長奉屬車塵。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "塵",
+        "variant": "壓",
+        "source": "一作「壓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_009_01",
+    "volume": 104,
+    "author": {
+      "canonical": "蕭至忠",
+      "recorded": "蕭至忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xiao Zhizhong",
+      "wikidata_id": "Q8044244"
+    },
+    "title": "陪遊上苑遇雪",
+    "poem": [
+      "龍驂曉入望春宮，正逢春雪舞春風。",
+      "花光倂在天文上，寒氣行銷御酒中。"
+    ]
+  },
+  {
+    "uid": "QTS_104_010_01",
+    "volume": 104,
+    "author": {
+      "canonical": "李迥秀",
+      "recorded": "李迥秀",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Jiongxiu",
+      "wikidata_id": "Q6538896"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得風字",
+    "poem": [
+      "重九臨商節，登高出漢宮。",
+      "正逢萸實滿，還對菊花叢。",
+      "霽雲開就日，仙藻麗秋風。",
+      "微臣預在鎬，竊抃遂無窮。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "就日",
+        "variant": "曉色",
+        "source": "一作「曉色」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_011_01",
+    "volume": 104,
+    "author": {
+      "canonical": "李迥秀",
+      "recorded": "李迥秀",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Jiongxiu",
+      "wikidata_id": "Q6538896"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "沙界人王塔，金繩梵帝遊。",
+      "言從祇樹賞，行翫菊叢秋。",
+      "御酒調甘露，天花拂綵旒。",
+      "堯年將佛日，同此慶時休。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "祇",
+        "variant": "祗",
+        "source": "一作「祗」"
+      },
+      {
+        "line": 3,
+        "text": "拂",
+        "variant": "亂",
+        "source": "一作「亂」"
+      },
+      {
+        "line": 4,
+        "text": "將",
+        "variant": "持",
+        "source": "一作「持」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_012_01",
+    "volume": 104,
+    "author": {
+      "canonical": "李迥秀",
+      "recorded": "李迥秀",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Jiongxiu",
+      "wikidata_id": "Q6538896"
+    },
+    "title": "奉和幸安樂公主山莊應制",
+    "poem": [
+      "詰旦重門聞警蹕，傳言太主奏山林。",
+      "是日迴輿羅萬騎，此時歡喜賜千金。",
+      "鷺羽鳳簫參樂曲，荻園竹徑接帷陰。",
+      "手舞足蹈方無已，萬年千歲奉薰琴。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "聞",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 1,
+        "text": "奏",
+        "variant": "奉",
+        "source": "一作「奉」"
+      },
+      {
+        "line": 2,
+        "text": "萬",
+        "variant": "百",
+        "source": "一作「百」"
+      },
+      {
+        "line": 4,
+        "text": "奉",
+        "variant": "奏",
+        "source": "一作「奏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_013_01",
+    "volume": 104,
+    "author": {
+      "canonical": "李迥秀",
+      "recorded": "李迥秀",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Jiongxiu",
+      "wikidata_id": "Q6538896"
+    },
+    "title": "夜宴安樂公主宅",
+    "poem": [
+      "金牓岧嶤雲裏開，玉簫參差天際迴。",
+      "莫驚側弁還歸路，秖爲平陽歌舞催。"
+    ]
+  },
+  {
+    "uid": "QTS_104_014_01",
+    "volume": 104,
+    "author": {
+      "canonical": "楊廉",
+      "recorded": "楊廉",
+      "gender": "male",
+      "wikidata_id": "Q45613140"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得亭字",
+    "poem": [
+      "遠目瞰秦坰，重陽坐灞亭。",
+      "既開黃菊酒，還降紫微星。",
+      "簫鼓諳仙曲，山河入畫屏。",
+      "幸茲陪宴喜，無以效丹青。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "諳",
+        "variant": "迎",
+        "source": "一作「迎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_015_01",
+    "volume": 104,
+    "author": {
+      "canonical": "楊廉",
+      "recorded": "楊廉",
+      "gender": "male",
+      "wikidata_id": "Q45613140"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "萬乘臨真境，重陽眺遠空。",
+      "慈雲浮鴈塔，定水映龍宮。",
+      "寶鐸含飆響，仙輪帶日紅。",
+      "天文將瑞色，輝煥滿寰中。"
+    ]
+  },
+  {
+    "uid": "QTS_104_016_01",
+    "volume": 104,
+    "author": {
+      "canonical": "韋安石",
+      "recorded": "韋安石",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Anshi",
+      "wikidata_id": "Q7979733"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得枝字",
+    "poem": [
+      "重九開秋節，得一動宸儀。",
+      "金風飄菊蘂，玉露泫萸枝。",
+      "睿覽八紘外，天文七曜披。",
+      "臨深應在即，居高豈忘危。"
+    ]
+  },
+  {
+    "uid": "QTS_104_017_01",
+    "volume": 104,
+    "author": {
+      "canonical": "韋安石",
+      "recorded": "韋安石",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Anshi",
+      "wikidata_id": "Q7979733"
+    },
+    "title": "侍宴旋師喜捷應制",
+    "poem": [
+      "蜂蟻屯夷落，熊羆逐漢飛。",
+      "忘軀百戰後，屈指一年歸。",
+      "厚眷紓天藻，深慈解御衣。",
+      "興酣歌舞出，朝野歎光輝。"
+    ]
+  },
+  {
+    "uid": "QTS_104_018_01",
+    "volume": 104,
+    "author": {
+      "canonical": "韋安石",
+      "recorded": "韋安石",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Anshi",
+      "wikidata_id": "Q7979733"
+    },
+    "title": "梁王宅侍宴應制同用風字",
+    "poem": [
+      "梁園開勝景，軒駕動宸衷。",
+      "早荷承湛露，脩竹引薰風。",
+      "九醞傾鍾石，百獸協絲桐。",
+      "小臣陪宴鎬，獻壽奉維嵩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "景",
+        "variant": "境",
+        "source": "一作「境」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_019_01",
+    "volume": 104,
+    "author": {
+      "canonical": "竇希玠",
+      "recorded": "竇希玠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Dou Xijie",
+      "wikidata_id": "Q45474691"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得明字",
+    "poem": [
+      "鑾輿巡上苑，鳳駕瞰層城。",
+      "御座丹烏麗，宸居白鶴驚。",
+      "玉旗縈桂葉，金杯汎菊英。",
+      "九晨陪聖膳，萬歲奉承明。"
+    ]
+  },
+  {
+    "uid": "QTS_104_020_01",
+    "volume": 104,
+    "author": {
+      "canonical": "陸景初",
+      "recorded": "陸景初",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Lu Xiangxian",
+      "wikidata_id": "Q6694915"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得臣字",
+    "poem": [
+      "九秋光順豫，重節霽良辰。",
+      "登高識漢苑，問道侍軒臣。",
+      "菊花浮秬鬯，萸房插縉紳。",
+      "聖化邊陲謐，長洲鴻雁賓。"
+    ]
+  },
+  {
+    "uid": "QTS_104_021_01",
+    "volume": 104,
+    "author": {
+      "canonical": "鄭南金",
+      "recorded": "鄭南金",
+      "gender": "male",
+      "english_name": "Zheng Gang",
+      "wikidata_id": "Q65900420"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得日字",
+    "poem": [
+      "重陽玉律應，萬乘金輿出。",
+      "風起韻虞弦，雲開吐堯日。",
+      "菊花浮聖酒，茱香掛衰質。",
+      "欲知恩煦多，順動觀秋實。"
+    ]
+  },
+  {
+    "uid": "QTS_104_022_01",
+    "volume": 104,
+    "author": {
+      "canonical": "李咸",
+      "recorded": "李咸",
+      "gender": "male",
+      "wikidata_id": "Q18906537"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得直字",
+    "poem": [
+      "重陽乘令序，四野開晴色。",
+      "日月數初幷，乾坤聖登極。",
+      "菊黃迎酒泛，松翠凌霜直。",
+      "遊海難爲深，負山徒倦力。"
+    ]
+  },
+  {
+    "uid": "QTS_104_023_01",
+    "volume": 104,
+    "author": {
+      "canonical": "趙彥伯",
+      "recorded": "趙彥伯",
+      "gender": "male"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得花字",
+    "poem": [
+      "九日報仙家，三秋轉歲華。",
+      "呼鷹下鳥路，戲馬出龍沙。",
+      "簪掛丹萸蘂，杯浮紫菊花。",
+      "所願同微物，年年共辟邪。"
+    ]
+  },
+  {
+    "uid": "QTS_104_024_01",
+    "volume": 104,
+    "author": {
+      "canonical": "趙彥伯",
+      "recorded": "趙彥伯",
+      "gender": "male"
+    },
+    "title": "從宴桃花園詠桃花應制",
+    "poem": [
+      "紅萼競燃春苑曙，䒠茸新吐御筵開。",
+      "長年願奉西王讌，近侍慚無東朔才。"
+    ]
+  },
+  {
+    "uid": "QTS_104_025_01",
+    "volume": 104,
+    "author": {
+      "canonical": "趙彥伯",
+      "recorded": "趙彥伯",
+      "gender": "male"
+    },
+    "title": "苑中遇雪應制",
+    "poem": [
+      "千鍾聖酒御筵披，六出祥英亂遶枝。",
+      "即此神仙對瓊圃，何煩轍跡向瑤池。"
+    ]
+  },
+  {
+    "uid": "QTS_104_026_01",
+    "volume": 104,
+    "author": {
+      "canonical": "於經野",
+      "recorded": "於經野"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得樽字",
+    "poem": [
+      "御氣三秋節，登高九曲門。",
+      "桂筵羅玉俎，菊醴溢芳樽。",
+      "遵渚歸鴻度，承雲舞鶴鶱。",
+      "微臣濫陪賞，空荷聖明恩。"
+    ]
+  },
+  {
+    "uid": "QTS_104_027_01",
+    "volume": 104,
+    "author": {
+      "canonical": "盧懷慎",
+      "recorded": "盧懷慎",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Lu Huaishen",
+      "wikidata_id": "Q6694855"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得還字",
+    "poem": [
+      "時和素秋節，宸豫紫機關。",
+      "鶴似聞琴至，人疑宴鎬還。",
+      "曠望臨平野，潺湲俯瞑灣。",
+      "無因酬大德，空此媿崇班。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "臨",
+        "variant": "迷",
+        "source": "一作「迷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_104_028_01",
+    "volume": 104,
+    "author": {
+      "canonical": "盧懷慎",
+      "recorded": "盧懷慎",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Lu Huaishen",
+      "wikidata_id": "Q6694855"
+    },
+    "title": "奉和聖制龍池篇",
+    "poem": [
+      "代邸東南龍躍泉，清漪碧浪遠浮天。",
+      "樓臺影就波中出，日月光疑鏡裏懸。",
+      "雁沼洄流成舜海，龜書薦社應堯年。",
+      "大川既濟慙爲楫，報德空思奉細涓。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "躍泉",
+        "variant": "或躍",
+        "source": "一作「或躍」"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1818 @@
+[
+  {
+    "uid": "QTS_278_001_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "天長久詞",
+    "poem": [
+      "玉砌紅花樹，香風不敢吹。",
+      "春光解天意，偏發殿南枝。"
+    ],
+    "preface": "〈三首。附《宮中樂》二首，一作《天長詞》，一作《天長地久詞》。〉"
+  },
+  {
+    "uid": "QTS_278_002_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "天長久詞",
+    "poem": [
+      "虹橋千步廊，半在水中央。",
+      "天子方清暑，宮娃起夜妝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "清",
+        "variant": "消",
+        "source": "一作「消」"
+      },
+      {
+        "line": 2,
+        "text": "娃起夜",
+        "variant": "人重暮",
+        "source": "一作「人重暮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_003_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "天長久詞",
+    "poem": [
+      "辭輦復當熊，傾心奉六宮。",
+      "君王若看貌，甘在衆妃中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "六",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 2,
+        "text": "貌",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_004_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "天長久詞",
+    "poem": [
+      "雲日呈祥禮物殊，彤庭生獻五單于。",
+      "塞垣萬里無飛鳥，可是邊城用郅都。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "垣",
+        "variant": "天",
+        "source": "一作「天」"
+      },
+      {
+        "line": 2,
+        "text": "是",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_005_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "天長久詞",
+    "poem": [
+      "臺殿雲深秋色微，君王初賜六宮衣。",
+      "樓船泛罷歸猶早，行遣才人鬬射飛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "深",
+        "variant": "涼",
+        "source": "一作「涼」"
+      },
+      {
+        "line": 1,
+        "text": "秋色",
+        "variant": "風日",
+        "source": "一作「風日」"
+      },
+      {
+        "line": 2,
+        "text": "泛罷",
+        "variant": "罷泛",
+        "source": "一作「罷泛」"
+      },
+      {
+        "line": 2,
+        "text": "遣",
+        "variant": "道",
+        "source": "一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_006_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "鷲翎金僕姑，燕尾繡蝥弧。",
+      "獨立揚新令，千營共一呼。"
+    ]
+  },
+  {
+    "uid": "QTS_278_007_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "林暗草驚風，將軍夜引弓。",
+      "平明尋白羽，沒在石稜中。"
+    ]
+  },
+  {
+    "uid": "QTS_278_008_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "月黑鴈飛高，單于夜遁逃。",
+      "欲將輕騎逐，大雪滿弓刀。"
+    ]
+  },
+  {
+    "uid": "QTS_278_009_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "野幕敞瓊筵，羌戎賀勞旋。",
+      "醉和金甲舞，雷鼓動山川。"
+    ]
+  },
+  {
+    "uid": "QTS_278_010_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "調箭又呼鷹，俱聞出世能。",
+      "奔狐將迸雉，掃盡古丘陵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "出世",
+        "variant": "百中",
+        "source": "一作「百中」"
+      },
+      {
+        "line": 2,
+        "text": "狐",
+        "variant": "猿",
+        "source": "一作「猿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_011_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和張僕射塞下曲",
+    "poem": [
+      "亭亭七葉貴，蕩蕩一隅清。",
+      "他日題麟閣，唯應獨不名。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "唯應獨不名",
+        "variant": "誰知獨有名",
+        "source": "一作「誰知獨有名」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_012_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "古豔詩",
+    "poem": [
+      "殘妝色淺髻鬟開，笑映朱簾覰客來。",
+      "推醉誰知弄花鈿，潘郎不敢使人催。"
+    ]
+  },
+  {
+    "uid": "QTS_278_013_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "古豔詩",
+    "poem": [
+      "自拈裙帶結同心，暖處偏知香氣深。",
+      "愛捉狂夫問閑事，不知歌舞用黃金。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "知",
+        "variant": "多",
+        "source": "一作「多」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_014_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "孤松吟詶渾贊善",
+    "poem": [
+      "深山荒松枝，雪壓半離披。",
+      "朱門青松樹，萬葉承清露。",
+      "露重色逾鮮，吟風似遠泉。",
+      "天寒香自發，日麗影常圓。",
+      "陰郊一夜雪，榆柳皆枯折。",
+      "迴首望君家，翠蓋滿瓊花。",
+      "捧君青松曲，自顧同衰木。",
+      "曲罷不相親，深山頭白人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "承",
+        "variant": "乘",
+        "source": "一作「乘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_015_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "從軍行",
+    "poem": [
+      "二十在邊城，軍中得勇名。",
+      "卷旗收敗馬，占磧擁殘兵。",
+      "覆陣烏鳶起，燒山草木明。",
+      "塞閑思遠獵，師老厭分營。",
+      "雪嶺無人跡，冰河足鴈聲。",
+      "李陵甘此沒，惆悵漢公卿。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "收",
+        "variant": "爭",
+        "source": "一作「爭」"
+      },
+      {
+        "line": 2,
+        "text": "占",
+        "variant": "斷",
+        "source": "一作「斷」"
+      },
+      {
+        "line": 2,
+        "text": "擁",
+        "variant": "護",
+        "source": "一作「護」"
+      },
+      {
+        "line": 3,
+        "text": "明",
+        "variant": "鳴",
+        "source": "一作「鳴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_016_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "和馬郎中畫鶴贊",
+    "poem": [
+      "高高華亭，有鶴在屏。",
+      "削玉點漆，乘軒姓丁。",
+      "暮雲冥冥，雙垂雪翎。",
+      "晨光炯炯，一直朱頂。",
+      "含音儼容，絕粒遺影。",
+      "君以爲真，相期緱嶺。"
+    ]
+  },
+  {
+    "uid": "QTS_278_017_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "送朝長史赴荊南舊幕",
+    "poem": [
+      "元瑜思舊幕，幾夜夢旌旃。",
+      "暑退蒹葭雨，秋生鼓角天。",
+      "月明三峽路，浪裏九江船。",
+      "囗囗囗囗囗，囗囗囗囗囗。"
+    ]
+  },
+  {
+    "uid": "QTS_278_018_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "送渭南崔少府歸徐郎中幕",
+    "poem": [
+      "葉下山邊路，行人見自悲。",
+      "夜寒逢雪處，日暖到村時。",
+      "語少心常苦，愁深醉自遲。",
+      "囗囗囗囗囗，羨有幕中期。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "醉",
+        "variant": "意",
+        "source": "一作「意」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_019_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "寄鄭七綱",
+    "poem": [
+      "小來落托復迍邅，一辱君知二十年。",
+      "捨去形骸容傲慢，引隨兄弟共團圓。",
+      "羈遊不定同雲聚，薄宦相縈若網牽。",
+      "他日吳公如記問，願將黃綬比青氈。"
+    ]
+  },
+  {
+    "uid": "QTS_278_020_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "逢南中使因寄嶺外故人",
+    "poem": [
+      "見說南來處，蒼梧接桂林。",
+      "過秋天更暖，邊海日長陰。",
+      "巴路緣雲出，蠻鄉入洞深。",
+      "信迴人自老，夢到月應沈。",
+      "碧水通春色，青山寄遠心。",
+      "炎方難久客，爲爾一沾襟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "邊",
+        "variant": "近",
+        "source": "一作「近」"
+      },
+      {
+        "line": 6,
+        "text": "爲爾一沾襟",
+        "variant": "莫使鬢毛侵",
+        "source": "一作「莫使鬢毛侵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_021_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "代員將軍罷戰後歸舊里贈朔北故人",
+    "poem": [
+      "結髮事疆場，全生俱到鄉。",
+      "連雲防鐵嶺，同日破漁陽。",
+      "牧馬胡天晚，移軍磧路長。",
+      "枕戈眠古戍，吹角立繁霜。",
+      "歸老勳仍在，酬恩虜未亡。",
+      "獨行過邑里，多病對農桑。",
+      "雄劒依塵橐，陰符寄藥囊。",
+      "空餘麾下將，猶逐羽林郎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "俱到",
+        "variant": "到海",
+        "source": "一作「到海」"
+      },
+      {
+        "line": 3,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 5,
+        "text": "虜",
+        "variant": "慮",
+        "source": "一作「慮」"
+      },
+      {
+        "line": 5,
+        "text": "亡",
+        "variant": "忘",
+        "source": "一作「忘」"
+      },
+      {
+        "line": 6,
+        "text": "行",
+        "variant": "愁",
+        "source": "一作「愁」"
+      },
+      {
+        "line": 7,
+        "text": "橐",
+        "variant": "席",
+        "source": "一作「席」"
+      },
+      {
+        "line": 7,
+        "text": "陰",
+        "variant": "兵",
+        "source": "一作「兵」"
+      },
+      {
+        "line": 8,
+        "text": "將",
+        "variant": "士",
+        "source": "一作「士」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_022_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "江北憶崔汶",
+    "poem": [
+      "夜問江西客，還知在楚鄉。",
+      "全身出部伍，盡室逐漁商。",
+      "晴日遊瓜步，新年對漢陽。",
+      "月昏驚浪白，瘴起覺雲黃。",
+      "望嶺家何處，登山淚幾行。",
+      "閩中傳有雪，應且住南康。"
+    ]
+  },
+  {
+    "uid": "QTS_278_023_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "早春歸盩厔舊居卻寄耿拾遺湋李校書端",
+    "poem": [
+      "野日初晴麥壠分，竹園相接鹿成羣。",
+      "幾家廢井生青草，一樹繁花傍古墳。",
+      "引水忽驚冰滿澗，向田空見石和雲。",
+      "可憐荒歲青山下，惟有松枝好寄君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "相接",
+        "variant": "村巷",
+        "source": "一作「村巷」"
+      },
+      {
+        "line": 2,
+        "text": "幾",
+        "variant": "萬",
+        "source": "一作「萬」"
+      },
+      {
+        "line": 2,
+        "text": "青",
+        "variant": "秋",
+        "source": "一作「秋」，一作「新」"
+      },
+      {
+        "line": 2,
+        "text": "傍",
+        "variant": "對",
+        "source": "一作「對」"
+      },
+      {
+        "line": 4,
+        "text": "荒",
+        "variant": "芳",
+        "source": "一作「芳」"
+      },
+      {
+        "line": 4,
+        "text": "下",
+        "variant": "裏",
+        "source": "一作「裏」"
+      },
+      {
+        "line": 4,
+        "text": "好寄",
+        "variant": "寄與",
+        "source": "一作「寄與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_024_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春日山中憶崔峒吉中孚",
+    "poem": [
+      "延步愛清晨，空山日照春。",
+      "蜜房那有主，石室自無鄰。",
+      "泉急魚依藻，花繁鳥近人。",
+      "誰言失徒侶，唯與老相親。"
+    ]
+  },
+  {
+    "uid": "QTS_278_025_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "客舍喜崔補闕司空拾遺訪宿",
+    "poem": [
+      "步月訪諸鄰，蓬居宿近臣。",
+      "烏裘先醉客，清鏡早朝人。",
+      "壞壁煙垂網，香街火照塵。",
+      "悲榮俱是分，吾亦樂吾貧。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "烏",
+        "variant": "弊",
+        "source": "一作「弊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_026_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "苦雨聞包諫議欲見訪戲贈",
+    "poem": [
+      "草氣廚煙咽不開，繞牀連壁盡生苔。",
+      "常時多病因多雨，那敢煩君車馬來。"
+    ]
+  },
+  {
+    "uid": "QTS_278_027_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "客舍苦雨即事寄錢起郎士元二員外",
+    "poem": [
+      "積雨暮淒淒，羈人狀鳥棲。",
+      "響空宮樹接，覆水野雲低。",
+      "穴蟻多隨草，巢蜂半墜泥。",
+      "繞池牆蘚合，擁溜瓦松齊。",
+      "舊圃平如海，新溝曲似溪。",
+      "壞闌留眾蝶，欹棟止群雞。",
+      "莠盛終無實，槎枯返有荑。",
+      "綠萍藏廢井，黃葉隱危堤。",
+      "閭里歡將絕，朝昏望亦迷。",
+      "不知霄漢侶，何路可相攜。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "狀鳥",
+        "variant": "獨自",
+        "source": "一作「獨自」"
+      },
+      {
+        "line": 6,
+        "text": "止",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 7,
+        "text": "返",
+        "variant": "遂",
+        "source": "一作「遂」"
+      },
+      {
+        "line": 10,
+        "text": "可相攜",
+        "variant": "事攀躋",
+        "source": "一作「事攀躋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_028_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "郊居對雨寄趙涓給事包佶郎中",
+    "poem": [
+      "暑雨青山裏，隨風到野居。",
+      "亂漚浮曲砌，懸溜響前除。",
+      "塵鏡愁多掩，蓬頭嬾更梳。",
+      "夜窗淒枕席，陰壁潤圖書。",
+      "蕭颯宜新竹，龍鐘拾野蔬。",
+      "石泉空自咽，藥圃不堪鋤。",
+      "濁水淙深轍，荒蘭擁敗渠。",
+      "繁枝留宿鳥，碎浪出寒魚。",
+      "桑屐時登望，荷衣自卷舒。",
+      "應憐在泥滓，無路託高車。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "響",
+        "variant": "滴",
+        "source": "一作「滴」"
+      },
+      {
+        "line": 5,
+        "text": "宜",
+        "variant": "移",
+        "source": "一作「移」"
+      },
+      {
+        "line": 8,
+        "text": "出寒",
+        "variant": "隱遊",
+        "source": "一作「隱遊」，一作「隱行」"
+      },
+      {
+        "line": 9,
+        "text": "屐",
+        "variant": "履",
+        "source": "一作「履」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_029_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "藍溪期蕭道士採藥不至",
+    "poem": [
+      "春風生百藥，幾處術苗香。",
+      "人遠花空落，溪深日復長。",
+      "病多知藥性，老近憶仙方。",
+      "清節何由見，三山桂自芳。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "藥",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 4,
+        "text": "清",
+        "variant": "青",
+        "source": "一作「青」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_030_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "雪謗後書事上皇甫大夫",
+    "poem": [
+      "盛德總羣英，高標仰國楨。",
+      "獨安巡狩日，曾掩趙張名。",
+      "業就難辭寵，朝回更授兵。",
+      "曉川分牧馬，夜雪覆連營。",
+      "長策威殊俗，嘉謀翊聖明。",
+      "畫圖規陣勢，夢筆紀山行。",
+      "綬拂池中影，珂搖竹外聲。",
+      "賜歡徵妓樂，陪醉問公卿。",
+      "卻憶經前事，翻疑得此生。",
+      "分深存沒感，恩在子孫榮。",
+      "覽鏡愁將老，捫心喜復驚。",
+      "豈言沈族重，但覺殺身輕。",
+      "有淚沾墳典，無家集弟兄。",
+      "東西遭世難，流浪識交情。",
+      "閱古宗文舉，推才慕正平。",
+      "應憐守貧賤，又欲事躬耕。"
+    ],
+    "variants": [
+      {
+        "line": 8,
+        "text": "問",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_031_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春日憶司空文明",
+    "poem": [
+      "桃李風多日欲陰，百勞飛處落花深。",
+      "貧居靜久難逢信，知隔春山不可尋。"
+    ]
+  },
+  {
+    "uid": "QTS_278_032_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "臥病寓居龍興觀枉馮十七著作書知罷攝洛陽赴緱氏因題十四韻寄馮生幷贈喬尊師",
+    "poem": [
+      "乞假依山宅，蹉跎屬歲周。",
+      "弱荑輕採拾，鈍質稱歸休。",
+      "潘岳衰將至，劉楨病未瘳。",
+      "步遲乘羽客，起晏滯書郵。",
+      "幸以編方驗，終貽骨肉憂。",
+      "灼龜爐氣冷，曝藥樹陰稠。",
+      "語命心堪醉，傷離夢亦愁。",
+      "葷羶居已絕，鸞鶴見無由。",
+      "世累如塵積，年光劇水流。",
+      "躡雲知有路，濟海豈無舟。",
+      "倚玉翻成難，投磚敢望酬。",
+      "卑棲君就祿，羸憊我逢秋。",
+      "腐葉填荒轍，陰螢出古溝。",
+      "依然在遐想，願子勵風猷。"
+    ]
+  },
+  {
+    "uid": "QTS_278_033_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "秋夜寄馮著作",
+    "poem": [
+      "河漢淨無雲，鴻聲此夜聞。",
+      "素心難比石，蒼鬢欲如君。",
+      "露槿月中落，風螢池上分。",
+      "何言千載友，同跡不同羣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "難",
+        "variant": "雖",
+        "source": "一作「雖」"
+      },
+      {
+        "line": 4,
+        "text": "千",
+        "variant": "十",
+        "source": "一作「十」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_034_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "洛陽早春憶吉中孚校書司空曙主簿因寄清江上人",
+    "poem": [
+      "值迥逢高駐馬頻，雪晴閒看洛陽春。",
+      "鶯聲報遠同芳信，柳色邀歡似故人。",
+      "酒貌昔將花共豔，鬢毛今與草爭新。",
+      "年來百事皆無緒，唯與湯師結淨因。"
+    ]
+  },
+  {
+    "uid": "QTS_278_035_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "偶逢姚校書憑附書達河南郄推官因以戲贈",
+    "poem": [
+      "寄書常切到常遲，今日憑君君莫辭。",
+      "若問玉人殊易識，蓮花府裏最清羸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "若",
+        "variant": "君",
+        "source": "一作「君」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_036_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "夜中得循州趙司馬侍郎書因寄回使",
+    "poem": [
+      "瘴海寄雙魚，中宵達我居。",
+      "兩行燈下淚，一紙嶺南書。",
+      "地說炎蒸極，人稱老病餘。",
+      "殷勤報賈傅，莫共酒杯疏。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "報",
+        "variant": "祝",
+        "source": "一作「祝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_037_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "晚次新豐北野老家書事呈贈韓質明府",
+    "poem": [
+      "機鳴舂響日暾暾，雞犬相和漢古村。",
+      "數派清泉黃菊盛，一林寒露紫棃繁。",
+      "衰翁正席矜新社，稚子齊襟讀古論。",
+      "共說年來但無事，不知何者是君恩。"
+    ]
+  },
+  {
+    "uid": "QTS_278_038_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "書情上大尹十兄",
+    "poem": [
+      "紫陌絕纖埃，油幢千騎來。",
+      "剖辭紛若雨，犇吏殷成雷。",
+      "聖澤初憂壅，羣心本在台。",
+      "海鱗方潑刺，雲翼暫徘徊。",
+      "芳室芝蘭茂，春蹊桃李開。",
+      "江湖餘派少，鴻鴈遠聲哀。",
+      "命厭蓍龜誘，年驚弟姪催。",
+      "磨鉛慙砥礪，揮策愧駑駘。",
+      "玉管能喧谷，金爐可變灰。",
+      "應憐費思者，銜淚亦銜枚。"
+    ]
+  },
+  {
+    "uid": "QTS_278_039_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春思貽李方陵",
+    "poem": [
+      "長安三月春，難別復難親。",
+      "不識冶遊伴，多逢憔悴人。",
+      "漸知懽澹薄，轉覺老殷勤。",
+      "去矣盡如此，此辭悲未陳。"
+    ]
+  },
+  {
+    "uid": "QTS_278_040_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "驛中望山戲贈渭南陸贄主簿",
+    "poem": [
+      "官微多懼事多同，拙性偏無主驛功。",
+      "山在門前登不得，鬢毛衰盡路塵中。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "路",
+        "variant": "落",
+        "source": "一作「落」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_041_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "太白西峯偶宿車祝二尊師石室晨登前巘憑眺書懷即事寄呈鳳翔齊員外張侍御",
+    "poem": [
+      "弱齡誠昧鄙，遇勝惟求止。",
+      "如何羈滯中，得步青冥裡。",
+      "青冥有桂叢，冰雪兩仙翁。",
+      "毛節未歸海，丹梯閒倚空。",
+      "逍遙擬上清，洞府不知名。",
+      "醮罷雨雷至，客辭山忽明。",
+      "山明鳥聲樂，日氣生巖壑。",
+      "岩壑樹脩脩，白雲如水流。",
+      "白雲消散盡，隴塞儼然秋。",
+      "積阻關河固，綿聯烽戍稠。",
+      "五營承廟略，四野失邊愁。",
+      "吁嗟繫塵役，又負靈仙跡。",
+      "芝朮自芳香，泥沙幾沈溺。",
+      "書此欲沾衣，平生事每違。",
+      "煙霄不可仰，鸞鶴自追隨。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "巖",
+        "variant": "石",
+        "source": "一作「石」"
+      },
+      {
+        "line": 8,
+        "text": "岩",
+        "variant": "石",
+        "source": "一作「石」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_042_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "贈韓山人",
+    "poem": [
+      "見君何事不慙顏，白髮生來未到山。",
+      "更嘆無家又無藥，往來唯在酒徒間。"
+    ]
+  },
+  {
+    "uid": "QTS_278_043_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "贈李果毅",
+    "poem": [
+      "向日磨金鏃，當風著錦衣。",
+      "上城邀賊語，走馬截鵰飛。"
+    ]
+  },
+  {
+    "uid": "QTS_278_044_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春日書情贈別司空曙",
+    "poem": [
+      "壯志隨年盡，謀身意未安。",
+      "風塵交契闊，老大別離難。",
+      "臘近晴多暖，春遲夜卻寒。",
+      "誰堪少兄弟，三十又無官。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "意",
+        "variant": "獨",
+        "source": "一作「獨」，一作「覺」，一作「竟」"
+      },
+      {
+        "line": 2,
+        "text": "闊",
+        "variant": "契",
+        "source": "一作「契」"
+      },
+      {
+        "line": 4,
+        "text": "堪",
+        "variant": "憐",
+        "source": "一作「憐」"
+      },
+      {
+        "line": 4,
+        "text": "三",
+        "variant": "五",
+        "source": "一作「五」"
+      },
+      {
+        "line": 4,
+        "text": "又",
+        "variant": "復",
+        "source": "一作「復」，一作「未」"
+      },
+      {
+        "line": 4,
+        "text": "無",
+        "variant": "為",
+        "source": "一作「為」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_045_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "冬曉呈鄰里",
+    "poem": [
+      "終夜寢衣冷，開門思曙光。",
+      "空階一叢葉，華室四鄰霜。",
+      "望闕覺天迥，憶山愁路荒。",
+      "途中一留滯，雙鬢颯然蒼。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "途中",
+        "variant": "中途",
+        "source": "一作「中途」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_046_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "首冬寄河東昭德里書事貽鄭損倉曹",
+    "poem": [
+      "清東和暖天，老鈍晝多眠。",
+      "日愛閭巷靜，每聞官吏賢。",
+      "寒葅供家食，腐葉宿廚煙。",
+      "且復執杯酒，無煩輕議邊。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "葉",
+        "variant": "藥",
+        "source": "一作「藥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_047_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "渾贊善東齋戲贈陳歸",
+    "poem": [
+      "長裾珠履颯輕塵，閒以琴書列上賓。",
+      "公子無讎可邀請，侯嬴此坐是何人。"
+    ]
+  },
+  {
+    "uid": "QTS_278_048_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春日臥病示趙季黃",
+    "poem": [
+      "病中饒淚眼常昏，聞說花開亦閉門。",
+      "語少漸知琴思苦，臥多唯覺鳥聲喧。",
+      "黃埃滿市圖書賤，黑霧連山虎豹尊。",
+      "今日支離顧形影，向君凡在幾重恩。"
+    ]
+  },
+  {
+    "uid": "QTS_278_049_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "秋幕中夜獨坐遲明因陪陳翃郎中晨謁上公因書即事兼呈同院諸公",
+    "poem": [
+      "風淒露泫然，明月在山巔。",
+      "獨倚古庭樹，仰看深夜天。",
+      "葉翻螢不定，蟲思草無邊。",
+      "南舍機杼發，東方雲景鮮。",
+      "簪裘肅已整，車騎儼將前。",
+      "百雉拱雙戟，萬夫尊一賢。",
+      "琳琅多謀蘊，律呂更相宣。",
+      "曉桂香浥露，新鴻晴滿川。",
+      "熙熙造化功，穆穆唐堯年。",
+      "顧己草同賤，誓心金匪堅。",
+      "蹇辭慚自寡，渴病老難痊。",
+      "書此更何問，邊韶唯晝眠。"
+    ],
+    "variants": [
+      {
+        "line": 9,
+        "text": "化功",
+        "variant": "功化",
+        "source": "一作「功化」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_050_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "寄贈庫部王郎中",
+    "poem": [
+      "諤諤漢名臣，從天令若春。",
+      "敘辭皆詔旨，稱宦即星辰。",
+      "草木承風偃，雲雷施澤均。",
+      "威懲治粟尉，恩洽讓田人。",
+      "泉貨方將散，京坻自此陳。",
+      "五營俱益灶，千里不停輪。",
+      "未遠金門籍，旋清玉塞塵。",
+      "碩儒推慶重，良友頌公頻。",
+      "鶴髮逢新鏡，龍門躍舊鱗。",
+      "荷君偏有問，深感浩難申。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "宦",
+        "variant": "使",
+        "source": "一作「使」"
+      },
+      {
+        "line": 8,
+        "text": "友",
+        "variant": "史",
+        "source": "一作「史」"
+      },
+      {
+        "line": 8,
+        "text": "公",
+        "variant": "功",
+        "source": "一作「功」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_051_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "寄贈暢當山居",
+    "poem": [
+      "古村荒石路，歲晏獨言歸。",
+      "山雪厚三尺，社榆粗十圍。",
+      "虯龍寧守蟄，鸞鶴豈矜飛。",
+      "君子固安分，毋聽勞者譏。"
+    ]
+  },
+  {
+    "uid": "QTS_278_052_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "偶宿山中憶暢當",
+    "poem": [
+      "深山夜雪晴，坐憶曉山明。",
+      "讀易罷三卷，彈琴當五更。",
+      "薜蘿枯有影，巖壑凍無聲。",
+      "此夕一相望，君應知我誠。"
+    ]
+  },
+  {
+    "uid": "QTS_278_053_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "秋中野望寄舍弟綬兼令呈上西川尚書舅",
+    "poem": [
+      "憂來思遠望，高處殊非愜。",
+      "夜露溼蒼山，秋陂滿黃葉。",
+      "人隨雁迢遞，棧與雲重疊。",
+      "骨肉暫分離，形神遂疲薾。",
+      "紅旌渭陽騎，幾日勞登涉。",
+      "蜀道藹松筠，巴江盛舟楫。",
+      "小生即何限，簡誨偏盈睫。",
+      "舊恨尚填膺，新悲復縈睫。",
+      "因求種瓜利，自喜歸耕捷。",
+      "井臼賴依鄰，兒童亦勝汲。",
+      "塵容不在照，雪鬢那堪鑷。",
+      "唯有餐霞心，知夫與天接。"
+    ],
+    "variants": [
+      {
+        "line": 10,
+        "text": "汲",
+        "variant": "笈",
+        "source": "一作「笈」"
+      },
+      {
+        "line": 12,
+        "text": "夫",
+        "variant": "未",
+        "source": "一作「未」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_054_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "行藥前軒呈董山人",
+    "poem": [
+      "不覺老將至，瘦來方自驚。",
+      "朝昏多病色，起坐有勞聲。",
+      "腠暖苦肌癢，藏虛唯耳鳴。",
+      "桑公富靈術，一為保餘生。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "腠",
+        "variant": "體",
+        "source": "一作「體」"
+      },
+      {
+        "line": 3,
+        "text": "肌",
+        "variant": "晴",
+        "source": "一作「晴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_055_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "翫春因寄馮衞二補闕戲呈李益",
+    "poem": [
+      "掖垣春色自天來，紅藥當階次第開。",
+      "萱草叢叢爾何物，等閒穿破綠莓苔。"
+    ]
+  },
+  {
+    "uid": "QTS_278_056_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "新移北廳因貽同院諸公兼呈暢博士",
+    "poem": [
+      "華軒邇台座，顧影添時倫。",
+      "弱質偃彌曠，清風來亦頻。",
+      "恩輝坐凌邁，景物恣芳新。",
+      "終乃愧吾友，無容私此身。"
+    ]
+  },
+  {
+    "uid": "QTS_278_057_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "與張擢對酌",
+    "poem": [
+      "張翁對盧叟，一榼山村酒。",
+      "傾酒請予歌，忽蒙張翁呵。",
+      "呵予官非屈，曲有怨詞多。",
+      "歌罷謝張翁，所思殊不同。",
+      "予悲方為老，君責一何空。",
+      "曾看樂官錄，向是悲翁曲。",
+      "張老聞此詞，汪汪淚盈目。",
+      "盧叟醉言粗，一杯凡數呼。",
+      "迴頭顧張老，敢欲戲為儒。"
+    ]
+  },
+  {
+    "uid": "QTS_278_058_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "喜從弟激初至",
+    "poem": [
+      "儒服策羸車，惠然過我廬。",
+      "敘年慚己長，稱從意何疏。",
+      "作吏清無比，為文麗有餘。",
+      "應嗤受恩者，頭白讀兵書。"
+    ]
+  },
+  {
+    "uid": "QTS_278_059_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "尋賈尊師",
+    "poem": [
+      "玉洞秦時客，焚香映綠蘿。",
+      "新傳左慈訣，曾與右軍鵝。",
+      "井臼陰苔遍，方書古字多。",
+      "成都今日雨，應與酒相和。"
+    ]
+  },
+  {
+    "uid": "QTS_278_060_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "秋中過獨孤郊居",
+    "poem": [
+      "開園過水到郊居，共引家童拾野蔬。",
+      "高樹夕陽連古巷，菊花梨葉滿荒渠。",
+      "秋山近處行過寺，夜雨寒時起讀書。",
+      "帝里諸親別來久，豈知王粲愛樵漁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "開",
+        "variant": "閑",
+        "source": "一作「閑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_061_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "同耿拾遺春中題第四郎新修書院",
+    "poem": [
+      "得接西園會，多因野性同。",
+      "引藤連樹影，移石間花叢。",
+      "學就晨昏外，歡生禮樂中。",
+      "春遊隨墨客，夜宿伴潛公。",
+      "散帙燈驚燕，開簾月帶風。",
+      "朝朝在門下，自與五侯通。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "石",
+        "variant": "柏",
+        "source": "一作「柏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_062_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "春日題杜叟山下別業",
+    "poem": [
+      "白鳥群飛山半晴，渚田相接有泉聲。",
+      "園中曉露青叢合，橋上春風綠野明。",
+      "雲影斷來峰影出，林花落盡草花生。",
+      "今朝醉舞同君樂，始信幽人不愛榮。"
+    ]
+  },
+  {
+    "uid": "QTS_278_063_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "過終南柳處士",
+    "poem": [
+      "五老正相尋，圍棋到煮金。",
+      "石摧丹井閉，月過洞門深。",
+      "猿鳥三時下，藤蘿十里陰。",
+      "綠泉多草氣，青壁少花林。",
+      "自愧非仙侶，何言見道心。",
+      "悠哉宿山口，雷雨夜沈沈。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "五",
+        "variant": "一",
+        "source": "一作「一」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_278_064_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "宿澄上人院",
+    "poem": [
+      "竹窗聞遠水，月出似溪中。",
+      "香覆經年火，幡飄後夜風。",
+      "性昏知道晚，學淺喜言同。",
+      "一悟歸身處，何山路不通。"
+    ]
+  },
+  {
+    "uid": "QTS_278_065_01",
+    "volume": 278,
+    "author": {
+      "canonical": "盧綸",
+      "recorded": "盧綸",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Lun",
+      "wikidata_id": "Q847745"
+    },
+    "title": "題李沆林園",
+    "poem": [
+      "古巷牛羊出，重門接柳陰。",
+      "閒看入竹路，自有向山心。",
+      "種藥齊幽石，耕田到遠林。",
+      "願同詞賦客，得興謝家深。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "興",
+        "variant": "與",
+        "source": "一作「與」"
+      }
+    ]
+  }
+]

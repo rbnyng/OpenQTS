@@ -1,0 +1,717 @@
+[
+  {
+    "uid": "QTS_046_001_01",
+    "volume": 46,
+    "author": {
+      "canonical": "狄仁傑",
+      "recorded": "狄仁傑",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Di Renjie",
+      "wikidata_id": "Q445747"
+    },
+    "title": "奉和聖制夏日遊石淙山",
+    "poem": [
+      "宸暉降望金輿轉，仙路崢嶸碧澗幽。",
+      "羽杖遙臨鸞鶴駕，帷宮直坐鳳麟洲。",
+      "飛泉灑液恆疑雨，密樹含涼鎮似秋。",
+      "老臣預陪懸圃宴，餘年方共赤松遊。"
+    ]
+  },
+  {
+    "uid": "QTS_046_002_01",
+    "volume": 46,
+    "author": {
+      "canonical": "魏元忠",
+      "recorded": "魏元忠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Yuanzhong",
+      "wikidata_id": "Q7979782"
+    },
+    "title": "修書院學士奉勅宴梁王宅",
+    "poem": [
+      "大君敦宴賞，萬乘下梁園。",
+      "酒助閑平樂，人霑雨露恩。",
+      "榮光開帳殿，佳氣滿旌門。",
+      "願陪南岳壽，長奉北宸樽。"
+    ]
+  },
+  {
+    "uid": "QTS_046_003_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "折楊柳",
+    "poem": [
+      "萬里邊城地，三春楊柳節。",
+      "葉似鏡中眉，花如關外雪。",
+      "征人遠鄉思，倡婦高樓別。",
+      "不忍擲年華，含情寄攀折。"
+    ]
+  },
+  {
+    "uid": "QTS_046_004_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "寒食應制",
+    "poem": [
+      "鳳城春色晚，龍禁早暉通。",
+      "舊火收槐燧，餘寒入桂宫。",
+      "鶯啼正隱葉，雞鬬始開籠。",
+      "藹藹瑤山滿，仙歌始樂風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "滿",
+        "source": "一作「滿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_005_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "凌朝浮江旅思",
+    "poem": [
+      "天晴上初日，春水送孤舟。",
+      "山遠疑無樹，潮平似不流。",
+      "岸花開且落，江鳥沒還浮。",
+      "羈望傷千里，長歌遣四愁。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "四",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_006_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "直中書省",
+    "poem": [
+      "清切鳳皇池，扶疎雞樹枝。",
+      "唯應集鸞鷺，何為宿羈雌。",
+      "大造乾坤闢，深恩雨露垂。",
+      "昆蚑皆含養，駑駘亦驅馳。",
+      "木偶翻為用，芝泥忽濫窺。",
+      "九思空自勉，五字本無施。",
+      "徒喜逢千載，何階荅二儀。",
+      "螢光向日盡，蚊力負山疲。",
+      "禁宇庭除濶，閑宵鐘箭移。",
+      "暗花臨戶發，殘月下簾欹。",
+      "白髮隨年改，丹心為主披。",
+      "命將時共泰，言與行俱危。",
+      "寄謝巢由客，堯年正在斯。"
+    ],
+    "variants": [
+      {
+        "line": 13,
+        "text": "正",
+        "variant": "復",
+        "source": "一作「復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_007_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "南行別弟",
+    "poem": [
+      "澹澹長江水，悠悠遠客情。",
+      "落花相與恨，到地一無聲。"
+    ]
+  },
+  {
+    "uid": "QTS_046_008_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "南中詠雁",
+    "poem": [
+      "萬里人南去，三春雁北飛。",
+      "不知何歲月，得與爾同歸？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "秋",
+        "source": "一作「秋」"
+      },
+      {
+        "line": 2,
+        "text": "爾",
+        "variant": "汝",
+        "source": "一作「汝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_009_01",
+    "volume": 46,
+    "author": {
+      "canonical": "韋承慶",
+      "recorded": "韋承慶",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Wei Chengqing",
+      "wikidata_id": "Q7979737"
+    },
+    "title": "江樓",
+    "poem": [
+      "獨酌芳春酒，登樓已半曛。",
+      "誰驚一行雁，衝斷過江雲。"
+    ]
+  },
+  {
+    "uid": "QTS_046_010_01",
+    "volume": 46,
+    "author": {
+      "canonical": "李懷遠",
+      "recorded": "李懷遠",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Li Huaiyuan",
+      "wikidata_id": "Q6538838"
+    },
+    "title": "凝碧池侍宴看競渡應制",
+    "poem": [
+      "上苑清鑾路，高居重豫遊。",
+      "前對芙蓉沼，傍臨杜若洲。",
+      "地如玄扈望，波似洞庭秋。",
+      "列筵飛翠斝，分曹戲鷁舟。",
+      "湍高櫂影沒，岸近榜歌遒。",
+      "舞曲依鸞殿，簫聲下鳳樓。",
+      "忽聞天上樂，疑逐海查流。"
+    ]
+  },
+  {
+    "uid": "QTS_046_011_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和九月九日登慈恩寺浮圖應制",
+    "poem": [
+      "紫宸歡每洽，紺殿法初隆。",
+      "菊泛延齡酒，蘭吹解慍風。",
+      "咸英調正樂，香梵徧秋空。",
+      "臨幸浮天瑞，重陽日再中。"
+    ]
+  },
+  {
+    "uid": "QTS_046_012_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和聖制送張說巡邊",
+    "poem": [
+      "軒相推風后，周官重夏卿。",
+      "廟謀能允廸，韜略又縱橫。",
+      "吉日四黃馬，宣王六月兵。",
+      "擬清雞鹿塞，先指朔方城。",
+      "列將懷威撫，匈奴畏盛名。",
+      "去當推轂送，來佇出郊迎。",
+      "絕漠蓬將斷，華筵槿正榮。",
+      "壯心看舞劍，別緒應懸旌。",
+      "睿錫承優旨，乾文復寵行。",
+      "暫勞期永逸，赫矣振天聲。"
+    ]
+  },
+  {
+    "uid": "QTS_046_013_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和立春遊苑迎春應制",
+    "poem": [
+      "乘時迎氣正璿衡，灞滻煙氛向晚清。",
+      "剪綺裁紅妙春色，宫梅殿柳識天情。",
+      "瑤筐綵燕先呈瑞，金縷晨雞未學鳴。",
+      "聖澤陽和宜宴樂，年年捧日向東城。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 3,
+        "text": "學",
+        "variant": "欲",
+        "source": "一作「欲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_014_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和聖制春日幸望春宫應制",
+    "poem": [
+      "東郊風物正熏馨，素滻鳧鷖戲綠汀。",
+      "鳳閣斜通平樂觀，龍旂直逼望春亭。",
+      "光風搖動蘭英紫，淑氣依遲柳色青。",
+      "渭浦明晨修禊事，羣公傾賀水心銘。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "風",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 2,
+        "text": "平",
+        "variant": "長",
+        "source": "一作「長」"
+      },
+      {
+        "line": 3,
+        "text": "搖動",
+        "variant": "遙豔",
+        "source": "一作「遙豔」"
+      },
+      {
+        "line": 3,
+        "text": "氣",
+        "variant": "景",
+        "source": "一作「景」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_015_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和人日重宴大明宫恩賜綵縷人勝應制",
+    "poem": [
+      "新年宴樂坐東朝，鐘鼓鏗鍠大樂調。",
+      "金屋瑤筐開寶勝，花箋綵筆頌春椒。",
+      "曲池苔色冰前液，上苑梅香雪裏嬌。",
+      "宸極此時飛聖藻，微臣竊抃預聞韶。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "坐",
+        "variant": "正",
+        "source": "一作「正」"
+      },
+      {
+        "line": 3,
+        "text": "池",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 3,
+        "text": "嬌",
+        "variant": "飄",
+        "source": "一作「飄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_016_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和聖制龍池篇",
+    "poem": [
+      "龍興白水漢興符，聖主時乘運斗樞。",
+      "岸上䒠茸五花樹，波中的皪千金珠。",
+      "操環昔聞迎夏啟，發匣先來瑞有虞。",
+      "風色雲光隨隱見，赤雲神化象江湖。"
+    ]
+  },
+  {
+    "uid": "QTS_046_017_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "夜宴安樂公主宅",
+    "poem": [
+      "銀燭金屏坐碧堂，只言河漢動神光。",
+      "主家盛時歡不極，才子能歌夜未央"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "時",
+        "variant": "明",
+        "source": "一作「明」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_018_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "餞唐永昌",
+    "poem": [
+      "洛陽桴鼓今不鳴，朝野咸推重太平。",
+      "冬至冰霜俱怨別，春來花鳥若爲情。"
+    ]
+  },
+  {
+    "uid": "QTS_046_019_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "奉和送金城公主適西蕃",
+    "poem": [
+      "聖后經綸遠，謀臣計畫多。",
+      "受降追漢策，築館計戎和。",
+      "俗化烏孫壘，春生積石河。",
+      "六龍今出餞，雙鶴願為歌。"
+    ]
+  },
+  {
+    "uid": "QTS_046_020_01",
+    "volume": 46,
+    "author": {
+      "canonical": "崔日用",
+      "recorded": "崔日用",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Cui Riyong",
+      "wikidata_id": "Q5192695"
+    },
+    "title": "句",
+    "poem": [
+      "彼名流兮左氏癖，意玄遠兮冠今夕。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_046_021_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "奉和人日清暉閣宴羣臣遇雪應制",
+    "poem": [
+      "窈窕神仙閣，參差雲漢間。",
+      "九重中葉啟，七日早春還。",
+      "太液天為水，蓬萊雪作山。",
+      "今朝上林樹，無處不堪攀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "葉",
+        "variant": "禁",
+        "source": "一作「禁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_022_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "安樂公主移入新宅侍宴應制",
+    "poem": [
+      "星橋他日創，仙牓此時開。",
+      "馬向鋪錢埒，簫聞弄玉臺。",
+      "人同衞叔美，客長卿才。",
+      "借問遊天漢，誰能取石回。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "同",
+        "variant": "疑",
+        "source": "一作「疑」"
+      },
+      {
+        "line": 4,
+        "text": "取",
+        "variant": "帶",
+        "source": "一作「帶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_023_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "正月晦日侍宴滻水應制賦得長字",
+    "poem": [
+      "御輦出明光，乘流泛羽觴。",
+      "珠胎隨月減，玉漏與年長。",
+      "寒盡梅猶白，風遲柳未黃。",
+      "日斜旌騎轉，休氣滿林塘。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "流",
+        "variant": "舟",
+        "source": "一作「舟」"
+      },
+      {
+        "line": 4,
+        "text": "滿",
+        "variant": "展",
+        "source": "一作「展」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_024_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "奉和幸上陽宫侍宴應制",
+    "poem": [
+      "紫庭金鳳闕，丹禁玉雞川。",
+      "似立蓬瀛上，疑遊崑閬前。",
+      "鳥將歌合轉，花共錦爭鮮。",
+      "湛露飛堯酒，熏風入舜弦。",
+      "水光搖落日，樹色帶晴煙。",
+      "向夕迴琱輦，佳氣滿巖泉。"
+    ]
+  },
+  {
+    "uid": "QTS_046_025_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "奉和幸安樂公主山莊應制",
+    "poem": [
+      "玉樓銀牓枕嚴城，翠蓋紅旂列禁營。",
+      "日映層巖圖畫色，風搖雜樹管弦聲。",
+      "水邊重閣含飛動，雲裏孤峰類削成。",
+      "幸覩八龍遊閬苑，無勞萬里訪蓬瀛。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "類",
+        "variant": "似",
+        "source": "一作「似」"
+      },
+      {
+        "line": 4,
+        "text": "幸覩八龍遊閬苑",
+        "variant": "幸陪七聖遊崑閬",
+        "source": "一作「幸陪七聖遊崑閬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_046_026_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "奉和聖制喜雪應制",
+    "poem": [
+      "飄飄瑞雪下山川，散漫輕飛集九埏。",
+      "似絮還飛垂柳陌，如花更繞落梅前。",
+      "影隨明月團紈扇，聲將流水雜鳴弦。",
+      "共荷神功萬庾積，終朝聖壽百千年。"
+    ]
+  },
+  {
+    "uid": "QTS_046_027_01",
+    "volume": 46,
+    "author": {
+      "canonical": "宗楚客",
+      "recorded": "宗楚客",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zong Chuke",
+      "wikidata_id": "Q8073958"
+    },
+    "title": "句",
+    "poem": [
+      "竹町羅千衞，蘭莛降兩宫。",
+      "七萃鑾輿動，千年瑞檢開。",
+      "綵旗臨鳳闕，翠幕遶龜津。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_046_028_01",
+    "volume": 46,
+    "author": {
+      "canonical": "蘇瓌",
+      "recorded": "蘇瓌",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Su Gui",
+      "wikidata_id": "Q7630335"
+    },
+    "title": "奉和九日幸臨渭亭登高應制得暉字",
+    "poem": [
+      "重陽早露晞，睿賞瞰秋磯。",
+      "菊氣先熏酒，萸香更襲衣。",
+      "清切絲桐會，縱橫文雅飛。",
+      "恩深荅效淺，留醉奉宸暉。"
+    ]
+  },
+  {
+    "uid": "QTS_046_029_01",
+    "volume": 46,
+    "author": {
+      "canonical": "蘇瓌",
+      "recorded": "蘇瓌",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Su Gui",
+      "wikidata_id": "Q7630335"
+    },
+    "title": "興慶池侍宴應制",
+    "poem": [
+      "金闕平明宿霧收，瑤池式宴俯清流。",
+      "瑞鳳飛來隨帝輦，祥魚出戲躍王舟。",
+      "帷齊綠樹當筵密，蓋轉緗荷接岸浮。",
+      "如臨竊比微臣懼，若濟叨陪聖主遊。"
+    ]
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "uid": "QTS_874_001_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "廉州人歌",
+    "poem": [
+      "廉州顏有道，性行同莊老。",
+      "愛民如赤子，不殺非時草。"
+    ],
+    "notes": [
+      {
+        "type": "title_note",
+        "content": "詩三十首",
+        "context": "無名氏"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_874_002_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "滄州百姓歌",
+    "poem": [
+      "新河得通舟楫利，直達滄海魚鹽至。",
+      "昔日徒行今騁駟，美哉薛公德滂被。"
+    ]
+  },
+  {
+    "uid": "QTS_874_003_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "薛將軍歌",
+    "poem": [
+      "將軍三箭定天山，戰士長歌入漢關。"
+    ]
+  },
+  {
+    "uid": "QTS_874_004_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "郢州人歌",
+    "poem": [
+      "父母育我田使君，精神為人上天聞。",
+      "田中致雨山出雲，但願常在不患貧。"
+    ]
+  },
+  {
+    "uid": "QTS_874_005_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "雒縣輿人誦",
+    "poem": [
+      "我有聖帝撫令君，遭暴昏椽惸寡紛。",
+      "民戶流散日月曛，君去來兮惠我仁，百姓蘇矣見陽春。"
+    ]
+  },
+  {
+    "uid": "QTS_874_006_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "黃獐歌",
+    "poem": [
+      "黃獐黃獐草裏藏，彎弓射爾傷。"
+    ]
+  },
+  {
+    "uid": "QTS_874_007_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "桑條歌",
+    "poem": [
+      "桑條韋也，女時韋也樂。"
+    ]
+  },
+  {
+    "uid": "QTS_874_008_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "景龍中嘲宰相歌",
+    "poem": [
+      "禮賢不解開東閣，燮理惟能閉北門。"
+    ]
+  },
+  {
+    "uid": "QTS_874_009_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "選人歌",
+    "poem": [
+      "今年選數恰相當，都由座主無文章。",
+      "案後一腔凍豬肉，所以名為姜侍郎。"
+    ]
+  },
+  {
+    "uid": "QTS_874_010_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "魯城民歌",
+    "poem": [
+      "魯地抑種稻，一概被水沫。",
+      "年年索蟹夫，百姓不可活。"
+    ]
+  },
+  {
+    "uid": "QTS_874_011_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "王法曹歌",
+    "poem": [
+      "前得尹佛子，後得王癩獺。",
+      "判事驢咬瓜，喚人牛嚼沫。",
+      "見錢滿面喜，無鏹從頭喝。",
+      "常逢餓夜叉，百姓不可活。"
+    ]
+  },
+  {
+    "uid": "QTS_874_012_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "得體歌",
+    "poem": [
+      "得體紇那也，紇囊得體那。",
+      "潭裏船車鬧，揚州銅器多。",
+      "三郎當殿坐，聽唱得體歌。"
+    ]
+  },
+  {
+    "uid": "QTS_874_013_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "得寶歌",
+    "poem": [
+      "得寶耶，弘農耶？",
+      "弘農耶，得寶耶？"
+    ]
+  },
+  {
+    "uid": "QTS_874_014_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "崔成甫翻得寶歌",
+    "poem": [
+      "得寶弘農野，弘農得寶那。",
+      "潭裏船車鬧，揚州銅器多。",
+      "三郎當殿坐，聽唱得寶歌。"
+    ]
+  },
+  {
+    "uid": "QTS_874_015_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "袁仁敬歌",
+    "poem": [
+      "天不恤冤人兮，何奪我慈親兮。",
+      "有理無申兮，痛哉安訴陳兮。"
+    ]
+  },
+  {
+    "uid": "QTS_874_016_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "京兆二尹歌",
+    "poem": [
+      "前尹赫赫，具瞻允若。",
+      "後尹熙熙，具瞻允斯。"
+    ]
+  },
+  {
+    "uid": "QTS_874_017_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "黃州左公歌",
+    "poem": [
+      "我欲逃鄉里，我欲去墳墓。",
+      "左公今既來，誰忍棄之去。"
+    ]
+  },
+  {
+    "uid": "QTS_874_018_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "又歌",
+    "poem": [
+      "吾鄉有鬼巫，惑人人不知。",
+      "天子正尊信，左公能殺之。"
+    ]
+  },
+  {
+    "uid": "QTS_874_019_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "舒州人歌",
+    "poem": [
+      "鄰邑穀不登，我土豐粢盛。",
+      "禾稼美如雲，實系我使君。"
+    ]
+  },
+  {
+    "uid": "QTS_874_020_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "建州人歌",
+    "poem": [
+      "令我州郡泰，令我戶口裕，令我活計大，陸員外。",
+      "令我家不分，令我馬成群，令我稻滿囷，陸使君。"
+    ]
+  },
+  {
+    "uid": "QTS_874_021_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "吳人歌",
+    "poem": [
+      "朝判長洲暮判吳，道不拾遺人不孤。"
+    ]
+  },
+  {
+    "uid": "QTS_874_022_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "汴州人歌",
+    "poem": [
+      "濁流洋洋，有辟其郛。",
+      "闐道嚾呼，公來之初。",
+      "今公之歸，公在喪車。",
+      "公既來止，東人以完。",
+      "今公歿矣，人誰與安？"
+    ]
+  },
+  {
+    "uid": "QTS_874_023_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "建昌民歌",
+    "poem": [
+      "我有父，何易於。",
+      "昔無儲，今有餘。"
+    ]
+  },
+  {
+    "uid": "QTS_874_024_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "巴州薛刺史歌",
+    "poem": [
+      "日出而耕，日入而歸。",
+      "吏不到門，夜不掩扉。",
+      "有孩有童，願以名垂。",
+      "何以字之，薛孫薛兒。"
+    ]
+  },
+  {
+    "uid": "QTS_874_025_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "高苑令歌",
+    "poem": [
+      "高苑之樹枯已榮，淄川之水渾已澄，鄒邑之民僕已行。"
+    ]
+  },
+  {
+    "uid": "QTS_874_026_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "九龍帳歌",
+    "poem": [
+      "誰謂九龍帳，惟貯一歸郎。"
+    ]
+  },
+  {
+    "uid": "QTS_874_027_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "偽蜀鴛鴦樹歌",
+    "poem": [
+      "願作墳上鴛鴦，來作雙飛，去作雙歸。"
+    ]
+  },
+  {
+    "uid": "QTS_874_028_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "曲江遊人歌",
+    "poem": [
+      "春光且莫去，留與醉人看。"
+    ]
+  },
+  {
+    "uid": "QTS_874_029_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "蜥蜴求雨歌",
+    "poem": [
+      "蜥蜴蜥蜴，興雲吐霧。",
+      "雨若滂沱，放汝歸去。"
+    ]
+  },
+  {
+    "uid": "QTS_874_030_01",
+    "volume": 874,
+    "author": {
+      "canonical": "無名氏",
+      "recorded": "無名氏",
+      "gender": "male",
+      "english_name": "anonymous",
+      "wikidata_id": "Q4233718"
+    },
+    "title": "輓歌",
+    "poem": [
+      "紅輪決定沈西去，未委魂靈往那方。"
+    ]
+  }
+]

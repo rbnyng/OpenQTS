@@ -1,0 +1,2226 @@
+[
+  {
+    "uid": "QTS_794_001_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "講德聯句",
+    "poem": [
+      "先王設位，以正邦國。",
+      "建立大官，封植有德。",
+      "二南敷化，四嶽述職。",
+      "其言不朽，其儀不忒。",
+      "暨於嬴劉，乃創程式。",
+      "罷侯置守，剖竹分域。",
+      "赫矣皇唐，康哉立極。",
+      "精選藩翰，庸資正直。",
+      "爰命我公，東土作則。",
+      "克己恭儉，疲人休息。",
+      "濟濟閭閈，油油黍稷。",
+      "既富既教，足兵足食。",
+      "恤其凋瘵，剪其荊棘。",
+      "威懷逋叛，撲滅蝥賊。",
+      "疾惡如讎，聞善不惑。",
+      "哀矜鰥寡，旌禮儒墨。",
+      "乃修堤防，乃浚溝洫。",
+      "以利通商，以溉嘉穀。",
+      "征賦以節，計功以時。",
+      "人胥懷惠，吏不能欺。",
+      "我政載孚，我邦載綏。",
+      "猛獸不暴，嘉魚維滋。",
+      "肅恭明神，齊沐不虧。",
+      "歲或驕陽，雨無愆期。",
+      "帝嘉有庸，寵命來斯。",
+      "紫紱載綏，金章陸離。",
+      "資忠履孝，閱禮敦詩。",
+      "明德惟馨，自天佑之。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "潘述",
+        "context": "建立大官，封植有德。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "湯衡",
+        "context": "其言不朽，其儀不忒。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "罷侯置守，剖竹分域。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "潘述",
+        "context": "精選藩翰，庸資正直。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "湯衡",
+        "context": "克己恭儉，疲人休息。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皎然",
+        "context": "既富既教，足兵足食。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "潘述",
+        "context": "威懷逋叛，撲滅蝥賊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 16,
+        "content": "湯衡",
+        "context": "哀矜鰥寡，旌禮儒墨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "皎然",
+        "context": "以利通商，以溉嘉穀。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 20,
+        "content": "潘述",
+        "context": "人胥懷惠，吏不能欺。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 22,
+        "content": "湯衡",
+        "context": "猛獸不暴，嘉魚維滋。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 24,
+        "content": "皎然",
+        "context": "歲或驕陽，雨無愆期。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 26,
+        "content": "潘述",
+        "context": "紫紱載綏，金章陸離。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 28,
+        "content": "湯衡",
+        "context": "明德惟馨，自天佑之。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_002_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "講古文聯句",
+    "poem": [
+      "帝出於震，文明始敷。",
+      "山嶽降氣，龜龍負圖。",
+      "爰有書契，乃立典謨。",
+      "先知孔聖，飛步天衢。",
+      "漢承秦弊，尊儒尚學。",
+      "百氏六經，九流七略。",
+      "屈宋接武，班馬繼作。",
+      "或頌燕然，或贊麟閣。",
+      "降及三祖，始變二雅。",
+      "仲宣閑和，公幹蕭灑。",
+      "士衡安仁，不史不野。",
+      "左張精奧，嵇阮高寡。",
+      "暨於江表，其文鬱興。",
+      "綺麗爭發，繁蕪則懲。",
+      "詞曄春華，思清冬冰。",
+      "景純跌宕，遊仙獨步。",
+      "青雲其情，白璧其句。",
+      "靈運山水，實多奇趣。",
+      "遠派孤峰，龍騰鳳翥。",
+      "陶令田園，匠意真直。",
+      "春柳寒松，不凋不飾。",
+      "江淹雜體，方見才力。",
+      "擬之信工，似而不逼。",
+      "鮑昭從軍，主意危苦。",
+      "氣勝其詞，雅愧於古。",
+      "隱侯似病，創制規矩。",
+      "時見琳琅，惜哉榛楛。",
+      "謝脁秀髮，詞理翩翩。",
+      "孤標爽邁，深造精研。",
+      "惠休翰林，別白離堅。",
+      "有會必愜，無慚曩賢。",
+      "吳均頗勁，失於典裁。",
+      "竟乏波瀾，徒工邊塞。",
+      "彼柳吳興，高視時輩。",
+      "汀洲一篇，風流寡對。",
+      "何遜清切，所得必新。",
+      "緣情既密，象物又真。",
+      "江總征正，未越常倫。",
+      "時合風興，或無淄磷。",
+      "二杜繁俗，三劉瑣碎。",
+      "陳徐之流，陰張之輩。",
+      "伊數公者，閫域之外。",
+      "籲此以還，有固斯鄶。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "潘述",
+        "context": "帝出於震，文明始敷。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "裴濟",
+        "context": "山嶽降氣，龜龍負圖。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "爰有書契，乃立典謨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "湯衡",
+        "context": "先知孔聖，飛步天衢。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "潘述",
+        "context": "漢承秦弊，尊儒尚學。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "裴濟",
+        "context": "百氏六經，九流七略。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皎然",
+        "context": "屈宋接武，班馬繼作。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "湯衡",
+        "context": "或頌燕然，或贊麟閣。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "潘述",
+        "context": "降及三祖，始變二雅。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "仲宣閑和，公幹蕭灑。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "皎然",
+        "context": "士衡安仁，不史不野。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "湯衡",
+        "context": "左張精奧，嵇阮高寡。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 13,
+        "content": "湯衡",
+        "context": "暨於江表，其文鬱興。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "潘述",
+        "context": "綺麗爭發，繁蕪則懲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "潘述",
+        "context": "詞曄春華，思清冬冰。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 16,
+        "content": "湯衡",
+        "context": "景純跌宕，遊仙獨步。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 17,
+        "content": "湯衡",
+        "context": "青雲其情，白璧其句。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 18,
+        "content": "潘述",
+        "context": "靈運山水，實多奇趣。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 19,
+        "content": "潘述",
+        "context": "遠派孤峰，龍騰鳳翥。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 20,
+        "content": "皎然",
+        "context": "陶令田園，匠意真直。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 21,
+        "content": "皎然",
+        "context": "春柳寒松，不凋不飾。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 22,
+        "content": "湯衡",
+        "context": "江淹雜體，方見才力。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 23,
+        "content": "湯衡",
+        "context": "擬之信工，似而不逼。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 24,
+        "content": "潘述",
+        "context": "鮑昭從軍，主意危苦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 25,
+        "content": "潘述",
+        "context": "氣勝其詞，雅愧於古。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 26,
+        "content": "皎然",
+        "context": "隱侯似病，創制規矩。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 27,
+        "content": "皎然",
+        "context": "時見琳琅，惜哉榛楛。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 28,
+        "content": "湯衡",
+        "context": "謝脁秀髮，詞理翩翩。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 29,
+        "content": "湯衡",
+        "context": "孤標爽邁，深造精研。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 30,
+        "content": "潘述",
+        "context": "惠休翰林，別白離堅。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 31,
+        "content": "潘述",
+        "context": "有會必愜，無慚曩賢。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 32,
+        "content": "皎然",
+        "context": "吳均頗勁，失於典裁。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 33,
+        "content": "皎然",
+        "context": "竟乏波瀾，徒工邊塞。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 34,
+        "content": "湯衡",
+        "context": "彼柳吳興，高視時輩。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 35,
+        "content": "湯衡",
+        "context": "汀洲一篇，風流寡對。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 36,
+        "content": "潘述",
+        "context": "何遜清切，所得必新。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 37,
+        "content": "潘述",
+        "context": "緣情既密，象物又真。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 38,
+        "content": "皎然",
+        "context": "江總征正，未越常倫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 39,
+        "content": "皎然",
+        "context": "時合風興，或無淄磷。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 40,
+        "content": "湯衡",
+        "context": "二杜繁俗，三劉瑣碎。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 41,
+        "content": "湯衡",
+        "context": "陳徐之流，陰張之輩。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 42,
+        "content": "潘述",
+        "context": "伊數公者，閫域之外。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 43,
+        "content": "潘述",
+        "context": "籲此以還，有固斯鄶。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_003_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "項王古祠聯句",
+    "poem": [
+      "遺廟風塵積，荒途歲月侵。",
+      "英靈今寂寞，容衛尚森沈。",
+      "霸楚志何在，平秦功亦深。",
+      "諸侯歸複背，青史古將今。",
+      "星聚分已定，天亡力豈任。",
+      "采蘩如可薦，舉酒瀝空林。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "潘述",
+        "context": "遺廟風塵積，荒途歲月侵。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "英靈今寂寞，容衛尚森沈。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "湯衡",
+        "context": "霸楚志何在，平秦功亦深。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "潘述",
+        "context": "諸侯歸複背，青史古將今。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "皎然",
+        "context": "星聚分已定，天亡力豈任。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "湯衡",
+        "context": "采蘩如可薦，舉酒瀝空林。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_004_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "還丹可成詩聯句",
+    "poem": [
+      "羽化自仙骨，延年資養生。",
+      "金經啟靈秘，玉液流至精。",
+      "八石思共煉，九丹知可成。",
+      "吾心苟無妄，神理期合併。",
+      "封灶用六一，置門考休京。",
+      "浮光含日彩，圓質煥雲英。",
+      "持此保壽命，服之頤性情。",
+      "跂予望仙侶，高詠升天行。",
+      "鶴駕方可致，霓裳定將迎。",
+      "不因五色藥，安著七真名。",
+      "揮妙在微密，全功知感誠。",
+      "與君棄城市，攜手遊蓬瀛。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "羽化自仙骨，延年資養生。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "潘述",
+        "context": "金經啟靈秘，玉液流至精。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "湯衡",
+        "context": "八石思共煉，九丹知可成。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "吾心苟無妄，神理期合併。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "潘述",
+        "context": "封灶用六一，置門考休京。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "湯衡",
+        "context": "浮光含日彩，圓質煥雲英。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皎然",
+        "context": "持此保壽命，服之頤性情。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "潘述",
+        "context": "跂予望仙侶，高詠升天行。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "湯衡",
+        "context": "鶴駕方可致，霓裳定將迎。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "不因五色藥，安著七真名。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "潘述",
+        "context": "揮妙在微密，全功知感誠。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "湯衡",
+        "context": "與君棄城市，攜手遊蓬瀛。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_005_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "建安寺西院喜王郎中遘恩命初至聯句",
+    "poem": [
+      "跡就空門退，官從畫省遷。",
+      "住持良有願，朝謁穴無緣。",
+      "身淨金繩內，心馳玉扆前。",
+      "榮添一兩日，恩降九霄年。",
+      "慕法能輕冕，追非欲佩弦。",
+      "棲閑那可久，鴛鷺待行聯。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "王遘",
+        "context": "住持良有願，朝謁穴無緣。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "身淨金繩內，心馳玉扆前。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "齊翔",
+        "context": "榮添一兩日，恩降九霄年。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李縱",
+        "context": "慕法能輕冕，追非欲佩弦。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "崔子向",
+        "context": "棲閑那可久，鴛鷺待行聯。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_006_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "建安寺夜會，對雨懷皇甫侍禦曾聯句",
+    "poem": [
+      "相思非是遠，風雨遣情多。",
+      "願欲披雲見，難堪候曉過。",
+      "夜長同歲月，地近極山河。",
+      "戒相初傳授，文章舊切磋。",
+      "時稱洛下詠，人許郢中歌。",
+      "惆悵徒延首，其如一水何。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "相思非是遠，風雨遣情多。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李縱",
+        "context": "願欲披雲見，難堪候曉過。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "鄭說",
+        "context": "夜長同歲月，地近極山河。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "王遘",
+        "context": "戒相初傳授，文章舊切磋。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "崔子向",
+        "context": "時稱洛下詠，人許郢中歌。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "齊翔",
+        "context": "惆悵徒延首，其如一水何。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_007_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "泛長城東溪，暝宿崇光寺，寄處士陸羽聯句",
+    "poem": [
+      "箬水青似箬，玉山碧於玉。",
+      "逼霄遝萬狀，截地分千曲。",
+      "萍解深可窺，林豁遙在矚。",
+      "已高物外賞，稍滌區中欲。",
+      "野鶴翔又飛，世人羈且局。",
+      "沈吟跡所誤，放浪心自足。",
+      "緬懷虛舟客，願寄生芻束。",
+      "說詩整頹波，立義激浮俗。",
+      "荊吳備登曆，風土隨編錄。",
+      "恨與清景別，擬教長路促。",
+      "溪鳥語鸝嘍，寺花翻躑躅。",
+      "印圍水壇淨，香護蓮衣觸。",
+      "捧經啟紗燈，收衽禮金粟。",
+      "安得扣關子，玄言對吾屬。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "崔子向",
+        "context": "箬水青似箬，玉山碧於玉。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "逼霄遝萬狀，截地分千曲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "崔子向",
+        "context": "萍解深可窺，林豁遙在矚。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "已高物外賞，稍滌區中欲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "崔子向",
+        "context": "野鶴翔又飛，世人羈且局。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "沈吟跡所誤，放浪心自足。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "崔子向",
+        "context": "緬懷虛舟客，願寄生芻束。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皎然",
+        "context": "說詩整頹波，立義激浮俗。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "崔子向",
+        "context": "荊吳備登曆，風土隨編錄。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "恨與清景別，擬教長路促。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "崔子向",
+        "context": "溪鳥語鸝嘍，寺花翻躑躅。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皎然",
+        "context": "印圍水壇淨，香護蓮衣觸。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 13,
+        "content": "崔子向",
+        "context": "捧經啟紗燈，收衽禮金粟。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "皎然",
+        "context": "安得扣關子，玄言對吾屬。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_008_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "與崔子向泛舟自招橘經箬里宿天居寺憶李侍御㟧渚山春遊後期不及聯一十六韻以寄之",
+    "poem": [
+      "晴日春態深，寄遊恣所適。",
+      "寧妨花木亂，轉學心耳寂。",
+      "取性憐鶴高，謀閑任山僻。",
+      "倚舷息空曲，舍履行淺磧。",
+      "渚箬入裏逢，野梅到村摘。",
+      "碑殘飛雉嶺，井翳潛龍宅。",
+      "壞寺鄰壽陵，古壇留劫石。",
+      "穿階筍節露，拂瓦松梢碧。",
+      "天界細雲還，牆陰雜英積。",
+      "懸燈寄前焰，遙月升圓魄。",
+      "何意清夜期，坐為高峰隔。",
+      "茗園可交袂，藤澗好停錫。",
+      "微雨聽濕巾，迸流從點席。",
+      "戲猿隔枝透，驚鹿逢人躑。",
+      "睹物賞已奇，感時思彌極。",
+      "芳菲如馳箭，望望共君惜。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "晴日春態深，寄遊恣所適。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "崔子向",
+        "context": "寧妨花木亂，轉學心耳寂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "取性憐鶴高，謀閑任山僻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔子向",
+        "context": "倚舷息空曲，舍履行淺磧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "皎然",
+        "context": "渚箬入裏逢，野梅到村摘。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "崔子向",
+        "context": "碑殘飛雉嶺，井翳潛龍宅。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皎然",
+        "context": "壞寺鄰壽陵，古壇留劫石。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "崔子向",
+        "context": "穿階筍節露，拂瓦松梢碧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "皎然",
+        "context": "天界細雲還，牆陰雜英積。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "崔子向",
+        "context": "懸燈寄前焰，遙月升圓魄。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 11,
+        "content": "皎然",
+        "context": "何意清夜期，坐為高峰隔。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "崔子向",
+        "context": "茗園可交袂，藤澗好停錫。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 13,
+        "content": "皎然",
+        "context": "微雨聽濕巾，迸流從點席。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 14,
+        "content": "崔子向",
+        "context": "戲猿隔枝透，驚鹿逢人躑。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 15,
+        "content": "皎然",
+        "context": "睹物賞已奇，感時思彌極。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 16,
+        "content": "崔子向",
+        "context": "芳菲如馳箭，望望共君惜。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_009_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "渚山春暮，會顧丞茗舍，聯句效小庾體",
+    "poem": [
+      "誰是惜暮人，相攜送春日。",
+      "因君過茗舍，留客開蘭室。",
+      "濕苔滑行屐，柔草低藉瑟。",
+      "鵲喜語成雙，花狂落非一。",
+      "煙濃山焙動，泉破水舂疾。",
+      "莫抝掛瓢枝，會移閬書帙。",
+      "頗容樵與隱，豈聞禪兼律。",
+      "欄竹不求疏，網藤從更密。",
+      "池添逸少墨，園雜莊生漆。",
+      "景晏枕猶欹，酒醒頭懶櫛。",
+      "雲教淡機慮，地可遺名實。",
+      "應待禦荈青，幽期踏芳出。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "陸士修",
+        "context": "因君過茗舍，留客開蘭室。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔子向",
+        "context": "鵲喜語成雙，花狂落非一。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "莫抝掛瓢枝，會移閬書帙。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "陸士修",
+        "context": "欄竹不求疏，網藤從更密。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "崔子向",
+        "context": "景晏枕猶欹，酒醒頭懶櫛。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皎然",
+        "context": "應待禦荈青，幽期踏芳出。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_010_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "與李司直令從荻塘聯句",
+    "poem": [
+      "畫舸悠悠荻塘路，真僧與我相隨去。",
+      "寒花似菊不知名，霜葉如楓是何樹。",
+      "倦客經秋夜共歸，情多語盡明相顧。",
+      "遙城候騎來仍少，傍嶺哀猿發無數。",
+      "心閑清淨得禪寂，興逸縱橫問章句。",
+      "蟲聲切切草間悲，螢影紛紛月前度。",
+      "撩亂雲峰好賦詩，嬋娟水月堪為喻。",
+      "與君出處本不同，從此還依舊山住。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "李令從",
+        "context": "畫舸悠悠荻塘路，真僧與我相隨去。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李令從",
+        "context": "寒花似菊不知名，霜葉如楓是何樹。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "倦客經秋夜共歸，情多語盡明相顧。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "遙城候騎來仍少，傍嶺哀猿發無數。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "李令從",
+        "context": "心閑清淨得禪寂，興逸縱橫問章句。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "李令從",
+        "context": "蟲聲切切草間悲，螢影紛紛月前度。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皎然",
+        "context": "撩亂雲峰好賦詩，嬋娟水月堪為喻。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皎然",
+        "context": "與君出處本不同，從此還依舊山住。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_011_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "遠意聯句",
+    "poem": [
+      "家在炎州往朔方，",
+      "豈知於闐望瀟湘。",
+      "曾經隴底複遼陽，",
+      "更憶東去采扶桑。",
+      "楂客三千路未央，",
+      "燭龍之地日無光。",
+      "將遊莽蒼窮大荒，",
+      "車轍馬足逐周王。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "—疾",
+        "context": "家在炎州往朔方，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "—澄",
+        "context": "豈知於闐望瀟湘。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "巨川",
+        "context": "曾經隴底複遼陽，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "更憶東去采扶桑。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "嚴伯均",
+        "context": "楂客三千路未央，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "—疾",
+        "context": "燭龍之地日無光。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "皎然",
+        "context": "將遊莽蒼窮大荒，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "嚴伯均",
+        "context": "車轍馬足逐周王。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_012_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "暗思聯句",
+    "poem": [
+      "斜風飄雨三十夜，",
+      "鄰女餘光不相借。",
+      "跡滅塵生古人畫，",
+      "洞房重扉無隙罅，",
+      "燭滅更深月西謝。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "—疾",
+        "context": "斜風飄雨三十夜，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "巨川",
+        "context": "鄰女餘光不相借。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "跡滅塵生古人畫，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "嚴伯均",
+        "context": "洞房重扉無隙罅，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "從心",
+        "context": "燭滅更深月西謝。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_013_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "樂意聯句一首",
+    "poem": [
+      "良朋益友自遠來，",
+      "萬里鄉書對酒開。",
+      "子孫蔓衍負奇才，",
+      "承顏弄鳥詠南陔，",
+      "鼓腹擊壤歌康哉。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "嚴伯均",
+        "context": "良朋益友自遠來，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "萬里鄉書對酒開。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "—疾",
+        "context": "子孫蔓衍負奇才，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "—澄",
+        "context": "承顏弄鳥詠南陔，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "巨川",
+        "context": "鼓腹擊壤歌康哉。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_014_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "恨意聯句",
+    "poem": [
+      "同心同縣不相見，",
+      "獨采蘼蕪詠團扇。",
+      "莫聽東鄰搗霜練，",
+      "遠憶征人淚如霰。",
+      "長信空階荒草遍，",
+      "明妃初別昭陽殿。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "—疾",
+        "context": "同心同縣不相見，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "嚴伯均",
+        "context": "獨采蘼蕪詠團扇。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "莫聽東鄰搗霜練，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "—澄",
+        "context": "遠憶征人淚如霰。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "從心",
+        "context": "長信空階荒草遍，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "—杭",
+        "context": "明妃初別昭陽殿。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_015_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "秋日盧郎中使君幼平泛舟聯句一首",
+    "poem": [
+      "共載清秋客船，同瞻皂蓋朝天。",
+      "悔使比來相得，如今欲別潸然。",
+      "漸驚徒馭分散，愁望雲山接連。",
+      "魏闕馳心日日，吳城揮手年年。",
+      "送遠已傷飛雁，裁詩更切嘶蟬。",
+      "空懷鄠杜心醉，永望門欄脰捐。",
+      "別思無窮無限，還如秋水秋煙。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "盧藻",
+        "context": "共載清秋客船，同瞻皂蓋朝天。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "盧幼平",
+        "context": "悔使比來相得，如今欲別潸然。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "漸驚徒馭分散，愁望雲山接連。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "陸羽",
+        "context": "魏闕馳心日日，吳城揮手年年。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "潘述",
+        "context": "送遠已傷飛雁，裁詩更切嘶蟬。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "李恂",
+        "context": "空懷鄠杜心醉，永望門欄脰捐。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "潘述",
+        "context": "別思無窮無限，還如秋水秋煙。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_016_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "重聯句一首",
+    "poem": [
+      "相將惜別且遲遲，未到新豐欲醉時。",
+      "去郡獨攜程氏酒，入朝可忘習家池。",
+      "仍憐故吏依依戀，自有清光處處隨。",
+      "晚景南徐何處宿，秋風北固不堪辭。",
+      "吳中詩酒饒佳興，秦地關山引夢思。",
+      "對酒已傷嘶馬去，銜恩只待掃門期。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "盧幼平",
+        "context": "相將惜別且遲遲，未到新豐欲醉時。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "陸羽",
+        "context": "去郡獨攜程氏酒，入朝可忘習家池。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "潘述",
+        "context": "仍憐故吏依依戀，自有清光處處隨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "晚景南徐何處宿，秋風北固不堪辭。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "盧藻",
+        "context": "吳中詩酒饒佳興，秦地關山引夢思。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "—惸",
+        "context": "對酒已傷嘶馬去，銜恩只待掃門期。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_017_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "與潘述集湯衡宅懷李司直縱聯句",
+    "poem": [
+      "幽獨何以慰，友人顧茅茨。",
+      "已忘歲月念，載說清閒時。",
+      "旭日舒朱槿，柔風引綠葹。",
+      "迢迢青溪路，耿耿芳樹枝。",
+      "執衽空躑躅，來城自逶迤。",
+      "相思寄采掇，景晏獨驅馳。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "湯衡",
+        "context": "幽獨何以慰，友人顧茅茨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "潘述",
+        "context": "已忘歲月念，載說清閒時。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "旭日舒朱槿，柔風引綠葹。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "湯衡",
+        "context": "迢迢青溪路，耿耿芳樹枝。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "潘述",
+        "context": "執衽空躑躅，來城自逶迤。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "相思寄采掇，景晏獨驅馳。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_018_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "安吉崔明甫山院聯句一首",
+    "poem": [
+      "人不擾，政已和。",
+      "世慮寡，山情多。",
+      "禪客至，墨卿過。",
+      "興既洽，情如何。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "世慮寡，山情多。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔逵",
+        "context": "興既洽，情如何。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_019_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "重聯句一首",
+    "poem": [
+      "肅肅清院，翛翛碧鮮。",
+      "已見心遠，何關地偏。",
+      "自公退食，升堂草玄。",
+      "紛紛已隔，雲心澹然。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "已見心遠，何關地偏。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔逵",
+        "context": "紛紛已隔，雲心澹然。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_020_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "重聯句一首",
+    "poem": [
+      "瀑溜聞窗外，晴風逼座間。",
+      "掛冠徒有意，芳桂杳難攀。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "瀑溜聞窗外，晴風逼座間。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "崔逵",
+        "context": "掛冠徒有意，芳桂杳難攀。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_021_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "重聯句一首",
+    "poem": [
+      "清高素非宦侶，疏散從來道流。",
+      "今日還輕墨綬，知君意在滄洲。",
+      "浮雲任從飄蕩，寄隱也信沈浮。",
+      "不似漳南地僻，道安為我淹留。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "清高素非宦侶，疏散從來道流。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "今日還輕墨綬，知君意在滄洲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "崔逵",
+        "context": "浮雲任從飄蕩，寄隱也信沈浮。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔逵",
+        "context": "不似漳南地僻，道安為我淹留。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_022_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "重聯句一首",
+    "poem": [
+      "劉令興多常步履，柴桑事少但援琴。",
+      "閑招法侶從山寺，每掇幽芳傍竹林。",
+      "捲簾只愛荊峰色，入座偏宜郢客吟。",
+      "誰許近來輕印綬，因君昨日悟禪心。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "劉令興多常步履，柴桑事少但援琴。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "閑招法侶從山寺，每掇幽芳傍竹林。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "崔逵",
+        "context": "捲簾只愛荊峰色，入座偏宜郢客吟。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "崔逵",
+        "context": "誰許近來輕印綬，因君昨日悟禪心。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_023_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "道觀中和潘丞觀青溪圖聯句",
+    "poem": [
+      "畫得青溪樣，宜於紫府觀。",
+      "日明煙靄薄，風落水容寬。",
+      "畫野高低接，商工井邑攢。",
+      "疏川因稼穡，出使問艱難。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "畫得青溪樣，宜於紫府觀。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "崔萬",
+        "context": "日明煙靄薄，風落水容寬。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "潘述",
+        "context": "畫野高低接，商工井邑攢。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "疏川因稼穡，出使問艱難。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_024_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "春日對雨聯句一首",
+    "poem": [
+      "春煙帶微雨，漠漠連城邑。",
+      "桐葉生微陰，桃花更宜濕。",
+      "蕭條暗楊柳，散漫下原隰。",
+      "歸路不我從，遙心空佇立。",
+      "林低山影近，岸轉水流急。",
+      "芳草自堪游，白雲如可揖。",
+      "尋山禪客意，苦雨陶公什。",
+      "遊衍情未終，歸飛暮相及。",
+      "峰高日色轉，潭淨天光入。",
+      "卻欲學神仙，空思謝朋執。",
+      "為道貴逍遙，趨時多苦集。",
+      "瓊英若可餐，青紫徒勞拾。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "韓章",
+        "context": "桐葉生微陰，桃花更宜濕。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "歸路不我從，遙心空佇立。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "韓章",
+        "context": "芳草自堪游，白雲如可揖。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "皎然",
+        "context": "遊衍情未終，歸飛暮相及。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "韓章",
+        "context": "卻欲學神仙，空思謝朋執。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 12,
+        "content": "皎然",
+        "context": "瓊英若可餐，青紫徒勞拾。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_025_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "春日會韓武康章後亭聯句",
+    "poem": [
+      "後園堪寄賞，日日對春風。",
+      "客位繁陰下，公牆細柳中。",
+      "坐看青嶂遠，心與白雲同。",
+      "林暗花煙入，池深遠水通。",
+      "井桃新長蕊，欄藥未成叢。",
+      "松竹宜禪客，山泉入謝公。",
+      "砌香翻芍藥，簷靜倚梧桐。",
+      "外慮宜簾卷，忘情與道空。",
+      "楚僧招惠遠，蜀客挹揚雄。",
+      "便寄柴桑隱，何勞訪剡東。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "客位繁陰下，公牆細柳中。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "韓章",
+        "context": "坐看青嶂遠，心與白雲同。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "楊秦卿",
+        "context": "林暗花煙入，池深遠水通。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "仲文",
+        "context": "井桃新長蕊，欄藥未成叢。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "松竹宜禪客，山泉入謝公。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "韓章",
+        "context": "砌香翻芍藥，簷靜倚梧桐。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "楊秦卿",
+        "context": "外慮宜簾卷，忘情與道空。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 9,
+        "content": "仲文",
+        "context": "楚僧招惠遠，蜀客挹揚雄。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 10,
+        "content": "皎然",
+        "context": "便寄柴桑隱，何勞訪剡東。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_026_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "康錄事宅送僧聯句",
+    "poem": [
+      "蓮衣宜著雨，竹錫好隨雲。",
+      "見鶴還應養，逢鷗自作群。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "蓮衣宜著雨，竹錫好隨雲。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "崔子向",
+        "context": "見鶴還應養，逢鷗自作群。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_027_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "與邢端公李台題庭石聯句",
+    "poem": [
+      "共題詩句遍，爭坐蘚文稀。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "皎然",
+        "context": "共題詩句遍，爭坐蘚文稀。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_028_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "冬日建安寺西院，喜晝公自吳興至，聯句一首",
+    "poem": [
+      "宗系傳康樂，精修學遠公。",
+      "相尋當暮歲，行李犯寒風。",
+      "累積浮生裏，機慚半偈中。",
+      "傳家知業墜，繼祖忝聲同。",
+      "雲與輕帆至，山將本寺空。",
+      "向來忘起滅，留我宿花宮。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "王遘",
+        "context": "宗系傳康樂，精修學遠公。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李縱",
+        "context": "相尋當暮歲，行李犯寒風。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "鄭說",
+        "context": "累積浮生裏，機慚半偈中。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "傳家知業墜，繼祖忝聲同。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "崔子向",
+        "context": "雲與輕帆至，山將本寺空。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "齊翔",
+        "context": "向來忘起滅，留我宿花宮。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_029_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "秋日潘述自長城至霅上與晝公湯評事遊集累日時司直李公瑕往蘇州有阻良㑹因與二公聯句以寄之",
+    "poem": [
+      "離念非前期，秋風忽已至。",
+      "芸黃眾芳晚，搖盪居人思。",
+      "白霜淒以積，高梧颯而墜。",
+      "悠然越山川，複此恨離異。",
+      "時景易遷謝，歡□難兼遂。",
+      "惜分緩回舟，懷遙企歸駟。",
+      "休浣情自高，來思日雲未。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "潘述",
+        "context": "離念非前期，秋風忽已至。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "芸黃眾芳晚，搖盪居人思。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "湯衡",
+        "context": "白霜淒以積，高梧颯而墜。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "潘述",
+        "context": "悠然越山川，複此恨離異。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "皎然",
+        "context": "時景易遷謝，歡□難兼遂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "湯衡",
+        "context": "惜分緩回舟，懷遙企歸駟。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "潘述",
+        "context": "休浣情自高，來思日雲未。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_030_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "喜晝公尋山回相遇聯句一首",
+    "poem": [
+      "幾年無此會，今日喜相從。",
+      "後夏仍多病，前書達幾封。",
+      "水華迎暮雨，松吹引疏鐘。",
+      "出谷隨初月，尋僧說五峰。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "潘述",
+        "context": "幾年無此會，今日喜相從。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "後夏仍多病，前書達幾封。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "皎然",
+        "context": "水華迎暮雨，松吹引疏鐘。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "潘述",
+        "context": "出谷隨初月，尋僧說五峰。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_031_01",
+    "volume": 794,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送晝公聯句",
+    "poem": [
+      "相逢情不厭，惜別意難為。",
+      "吾道應無住，前期未可知。",
+      "輕霜凋古木，寒水縮荒陂。",
+      "賓雁依沙嶼，浮雲慘路岐。",
+      "林疏看野迥，岸轉覺山移。",
+      "寄賞驚搖落，歸心歎別離。",
+      "草堂思偃蹇，麈尾去相隨。",
+      "勿謂光陰遠，禪房會一窺。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "韓章",
+        "context": "相逢情不厭，惜別意難為。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "皎然",
+        "context": "吾道應無住，前期未可知。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 3,
+        "content": "韓章",
+        "context": "輕霜凋古木，寒水縮荒陂。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "皎然",
+        "context": "賓雁依沙嶼，浮雲慘路岐。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 5,
+        "content": "韓章",
+        "context": "林疏看野迥，岸轉覺山移。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 6,
+        "content": "皎然",
+        "context": "寄賞驚搖落，歸心歎別離。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 7,
+        "content": "顧況",
+        "context": "草堂思偃蹇，麈尾去相隨。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 8,
+        "content": "鄭遨",
+        "context": "勿謂光陰遠，禪房會一窺。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_794_032_01",
+    "volume": 794,
+    "author": {
+      "canonical": "鄭遨",
+      "recorded": "鄭遨"
+    },
+    "title": "與羅隱之聯句",
+    "poem": [
+      "一壺天上有名物，兩個世間無事人。",
+      "醉卻隱之雲叟外，不知何處是天真。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "鄭遨",
+        "context": "一壺天上有名物，兩個世間無事人。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "羅隱之",
+        "context": "醉卻隱之雲叟外，不知何處是天真。"
+      }
+    ]
+  }
+]

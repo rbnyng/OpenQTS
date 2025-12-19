@@ -1,0 +1,1301 @@
+[
+  {
+    "uid": "QTS_765_001_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "泊姑熟口",
+    "poem": [
+      "杳杳金陵路，難禁慾斷魂。",
+      "雨晴山有態，風晚水無痕。",
+      "遠色千檣岸，愁聲一笛村。",
+      "如何遣懷抱，詩畢自開尊。"
+    ],
+    "preface": "王周，登進士第，曾官巴蜀。詩一卷。[1]"
+  },
+  {
+    "uid": "QTS_765_002_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "湖口縣",
+    "poem": [
+      "柴桑分邑載圖經，屈曲山光展畫屏。",
+      "最是蘆洲東北望，人家殘照隔煙汀。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "畫",
+        "variant": "翠",
+        "source": "一作「翠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_003_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "岳州眾湖阻風二首 其一",
+    "poem": [
+      "眾湖湖口繫蘭船，睡起中餐又卻眠。",
+      "風伯如何解回怒，數宵檣倚碧蘆煙。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_003_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "岳州眾湖阻風二首 其二",
+    "poem": [
+      "偶繫扁舟枕綠莎，旋移深處避驚波。",
+      "曉來閒共漁人話，此去巴陵路幾多。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_004_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "問春",
+    "poem": [
+      "遊絲垂幄雨依依，枝上紅香片片飛。",
+      "把酒問春因底意，為誰來後為誰歸。"
+    ]
+  },
+  {
+    "uid": "QTS_765_005_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "春答",
+    "poem": [
+      "花枝千萬趁春開，三月瓓珊即自回。",
+      "剩向東園種桃李，明年依舊為君來。"
+    ]
+  },
+  {
+    "uid": "QTS_765_006_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "西塞山二首 其一",
+    "poem": [
+      "西塞名山立翠屏，濃嵐橫入半江青。",
+      "千尋鐵鎖無由問，石壁空存道者形。"
+    ],
+    "notes": [
+      {
+        "content": "今謂之道士磯，即興國軍，大冶縣所𨽻也。",
+        "context": "西塞山二首",
+        "original_title": "西塞山二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_006_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "西塞山二首 其二",
+    "poem": [
+      "匹婦頑然莫問因，匹夫何去望千春。",
+      "翻思岵屺傳詩什，舉世曾無化石人。"
+    ],
+    "notes": [
+      {
+        "content": "今謂之道士磯，即興國軍，大冶縣所𨽻也。",
+        "context": "西塞山二首",
+        "original_title": "西塞山二首",
+        "type": "footnote"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_007_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "使風",
+    "poem": [
+      "風起即千里，風回翻問津。",
+      "沈思宦遊者，何啻使風人。"
+    ]
+  },
+  {
+    "uid": "QTS_765_008_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "石首山",
+    "poem": [
+      "首出崔嵬占上游，迥存濃翠向荊州。",
+      "空聞別有回山力，卻見長江曲尺流。"
+    ],
+    "notes": [
+      {
+        "content": "荊江東南流至此山，即西北流下川峽。澤之大首有石，因而為名也。",
+        "context": "石首山",
+        "original_title": "石首山",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_009_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "金口步",
+    "poem": [
+      "兩山鬬咽喉，羣石矗牙齒。",
+      "行客無限愁，橫吞一江水。"
+    ],
+    "notes": [
+      {
+        "content": "在江北漢陽軍下必鐵也。",
+        "context": "金口步",
+        "original_title": "金口步",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_010_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "採桑女二首 其一",
+    "poem": [
+      "渡水採桑歸，蠶老催上機。",
+      "札札得盈尺，輕素何人衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_010_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "採桑女二首 其二",
+    "poem": [
+      "採桑知蠶饑，投梭惜夜遲。",
+      "誰誇羅綺叢，新畫學月眉。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_011_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "渡溪",
+    "poem": [
+      "渡溪溪水急，水濺羅衣濕。",
+      "日暮猶未歸，盈盈水邊立。"
+    ]
+  },
+  {
+    "uid": "QTS_765_012_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "渡溪",
+    "poem": [
+      "素律鑠欲脆，青女妒復稀。",
+      "月冷天風吹，葉葉乾紅飛。"
+    ]
+  },
+  {
+    "uid": "QTS_765_013_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "宿疎陂驛",
+    "poem": [
+      "秋染棠梨葉半紅，荊州東望草平空。",
+      "誰知孤宦天涯意，微雨蕭蕭古驛中。"
+    ]
+  },
+  {
+    "uid": "QTS_765_014_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "再經秭歸二首 其一",
+    "poem": [
+      "總角曾隨上峽船，尋思如夢可淒然。",
+      "夜來孤館重來宿，枕底灘聲似舊年。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_014_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "再經秭歸二首 其二",
+    "poem": [
+      "秭歸城邑昔曾過，舊識無人奈老何。",
+      "獨有淒清難改處，月明聞唱竹枝歌。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_015_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "霞",
+    "poem": [
+      "拂拂生殘暉，層層如裂緋。",
+      "天風剪成片，疑作仙人衣。"
+    ]
+  },
+  {
+    "uid": "QTS_765_016_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "巫山公署壁有無名氏戲書三韻",
+    "poem": [
+      "南陵直上路盤盤，平地淩雲勢萬端。",
+      "堪笑巴民不厭足，更嫌山少畫山看。"
+    ],
+    "notes": [
+      {
+        "content": "施州路一百八盤。",
+        "context": "巫山公署壁有無名氏戲書三韻",
+        "original_title": "巫山公署壁有無名氏戲書三韻",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_017_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "道院",
+    "poem": [
+      "白日人稀到，簾垂道院深。",
+      "雨苔生古壁，雪雀聚寒林。",
+      "忘慮憑三樂，消閒信五禽。",
+      "誰知是官府，煙縷滿爐沈。"
+    ]
+  },
+  {
+    "uid": "QTS_765_018_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "會噲岑山人",
+    "poem": [
+      "渝州江上忽相逢，說隱西山最上峰。",
+      "略坐移時又分別，片雲孤鶴一枝筇。"
+    ],
+    "notes": [
+      {
+        "content": "戊寅仲冬六日。",
+        "context": "會噲岑山人",
+        "original_title": "會噲岑山人",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_019_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "巴江",
+    "poem": [
+      "巴江江水色，一帶濃藍碧。",
+      "仙女瑟瑟衣，風梭晚來織。"
+    ]
+  },
+  {
+    "uid": "QTS_765_020_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "小園桃李始花，偶以成詠",
+    "poem": [
+      "桃李栽成豔格新，數枝留得小園春。",
+      "半紅半白無風雨，隨分夭容解笑人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "豔",
+        "variant": "置",
+        "source": "一作「置」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_021_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "公居",
+    "poem": [
+      "公居門館靜，旅寄萬州城。",
+      "山共秋煙紫，霜並夜月清。",
+      "無愁干酒律，有句入詩評。",
+      "何必須林下，方馳吏隱名。"
+    ]
+  },
+  {
+    "uid": "QTS_765_022_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "富池口",
+    "poem": [
+      "扁舟閒引望，望極更盤桓。",
+      "山密礙江曲，雨多饒地寒。",
+      "短莎煙苒苒，驚浪雪漫漫。",
+      "難寫愁何限，鄉關在一端。"
+    ]
+  },
+  {
+    "uid": "QTS_765_023_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "夔州病中",
+    "poem": [
+      "隱几經旬疾未痊，孤燈孤驛若為眠。",
+      "郡樓昨夜西風急，一一更籌到枕前。"
+    ]
+  },
+  {
+    "uid": "QTS_765_024_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "題廳壁",
+    "poem": [
+      "永日無他念，孤清吏隱心。",
+      "竹聲並雪碎，溪色共煙深。",
+      "數息閒憑几，緣情默寄琴。",
+      "誰知同寂寞，相與結知音。"
+    ]
+  },
+  {
+    "uid": "QTS_765_025_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "過武寧縣",
+    "poem": [
+      "行過武寧縣，初晴物景和。",
+      "岸回驚水急，山淺見天多。",
+      "細草濃藍潑，輕煙匹練拖。",
+      "晚來何處宿，一笛起漁歌。"
+    ],
+    "notes": [
+      {
+        "content": "九月十九日。",
+        "context": "過武寧縣",
+        "original_title": "過武寧縣",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_026_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "路次覆盆驛",
+    "poem": [
+      "曾上青泥蜀道難，架空成路入雲寒。",
+      "如何卻向巴東去，三十六盤天外盤。"
+    ]
+  },
+  {
+    "uid": "QTS_765_027_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "藕池阻風，寄同行撫牧裘駕",
+    "poem": [
+      "船檣相望荊江中，岸蘆汀樹煙濛濛。",
+      "路間堤缺水如箭，未知何日生南風。"
+    ]
+  },
+  {
+    "uid": "QTS_765_028_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "無題二首 其一",
+    "poem": [
+      "氷雪肌膚力不勝，落花飛絮繞風亭。",
+      "不知何事鞦韆下，蹙破愁眉兩點青。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_028_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "無題二首 其二",
+    "poem": [
+      "梨花如雪已相迷，更被驚烏半夜啼。",
+      "簾卷玉樓人寂寂，一鉤新月未沈西。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_765_029_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "泊巴東",
+    "poem": [
+      "偶泊巴東古縣前，宦情鄉思兩綿綿。",
+      "不堪蠟炬燒殘淚，雨打船窗半夜天。"
+    ]
+  },
+  {
+    "uid": "QTS_765_030_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "道中未開木杏花",
+    "poem": [
+      "粉英香萼一般般，無限行人立馬看。",
+      "村女浴蠶桑柘綠，枉將顏色忍春寒。"
+    ]
+  },
+  {
+    "uid": "QTS_765_031_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "西山晚景",
+    "poem": [
+      "公局長清淡，池亭晚景中。",
+      "蔗竿閑倚碧，蓮朵靜淹紅。",
+      "半引彎彎月，微生飋飋風。",
+      "無思復無慮，此味幾人同。"
+    ]
+  },
+  {
+    "uid": "QTS_765_032_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "自和",
+    "poem": [
+      "一片殘陽景，朦朧淡月中。",
+      "蘭芽紆嫩紫，梨頰抹生紅。",
+      "琴阮資清格，冠簪養素風。",
+      "煙霄半知足，吏隱少相同。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "足",
+        "variant": "己",
+        "source": "一作「己」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_033_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "齒落詞",
+    "poem": [
+      "己卯至庚辰，仲夏晦之暮。",
+      "吾齒右排上，一齒脫而去。",
+      "呼吸缺吾防，咀嚼欠吾助。",
+      "年龠惜不返，日馭走為蠹。",
+      "唇亡得無寒，舌在從何訴。",
+      "輔車宜長依，發膚可增懼。",
+      "不須考前古，聊且為近喻。",
+      "有如雲中雨，雨散絕回顧。",
+      "有如枝上葉，葉脫難再附。",
+      "白髮非獨愁，紅顏豈私駐。",
+      "何必鬱九回，何必牽百慮。",
+      "開尊復開懷，引筆作長句。"
+    ]
+  },
+  {
+    "uid": "QTS_765_034_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "淘金磧",
+    "poem": [
+      "畫船晚過淘金磧，不見黃金惟見石。",
+      "猶恐黃金價未高，見得錙銖幾多力。"
+    ]
+  },
+  {
+    "uid": "QTS_765_035_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "施南路偶書",
+    "poem": [
+      "大石嶺頭梅欲發，南陵陂上雪初飛。",
+      "苦無酒解愁成陣，又附蘭橈向秭歸。"
+    ],
+    "notes": [
+      {
+        "content": "俗謂太市嶺，即音之訛。近時嵗再去秭歸寄家處。",
+        "context": "施南路偶書",
+        "original_title": "施南路偶書",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_036_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "大石嶺驛梅花",
+    "poem": [
+      "仙中姑射接瑤姬，成陣清香擁路岐。",
+      "半出驛牆誰畫得，雪英相倚兩三枝。"
+    ],
+    "notes": [
+      {
+        "content": "巳卯十一月十三日。",
+        "context": "大石嶺驛梅花",
+        "original_title": "大石嶺驛梅花",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_037_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "贈怤師",
+    "poem": [
+      "水中有片月，照耀嬋娟姿。",
+      "庭前有孤柏，竦秀歲寒期。",
+      "堅然物莫遷，寂焉心為師。",
+      "聲發響必答，形存影即隨。",
+      "雪花安結子，雪葉寧附枝。",
+      "蘭死不改香，井寒豈生澌。",
+      "晨爐煙嫋嫋，病發霜絲絲。",
+      "丈室冰凜冽，一衲雲離披。",
+      "顧此名利場，得不慙冠綏。"
+    ],
+    "variants": [
+      {
+        "line": 9,
+        "text": "綏",
+        "variant": "緌",
+        "source": "一作「緌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_038_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "遊仙都觀",
+    "poem": [
+      "冷杉枯柏路盤空，毛髮生寒略略風。",
+      "兩漢真仙在何處，巡香行繞蘂珠宮。"
+    ]
+  },
+  {
+    "uid": "QTS_765_039_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "誌峽船具詩",
+    "poem": [
+      "峽山之船與下之船，大抵觀浮葉而為之，其狀一也。",
+      "執而為用者，或狀殊而用一，或狀同而名異，皆有謂也。",
+      "下之船有檣有五，兩有帆，所以使風也。",
+      "尾有柂，傍有棚上者，以其山曲水急下有石，皆不可用也。",
+      "狀直如艣，前後各一者，謂之梢，船之斜正攲側，為船之司命者。",
+      "梢類柂，其狀殊而船之便於事者，悉不如梢。",
+      "作《梢》詩。"
+    ],
+    "notes": [
+      {
+        "content": "並序",
+        "context": "誌峽船具詩",
+        "original_title": "誌峽船具詩〈並序〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_040_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "誌峽船具詩 梢",
+    "poem": [
+      "制之居首尾，俾之辨斜正。",
+      "首動尾聿隨，斜取正為定。",
+      "有如提吏筆，有如執時柄。",
+      "有如秉師律，有如宣命令。",
+      "守彼方與直，得其剛且勁。",
+      "既能濟險難，何畏涉遼夐。",
+      "招招俾作主，泛泛實司命。",
+      "風烏愧斟酌，畫鷁空輝映。",
+      "古人存豐規，猗歟聊引證。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "難",
+        "variant": "艱",
+        "source": "一作「艱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_041_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "誌峽船具詩 櫓",
+    "poem": [
+      "用之大曰櫓，冠乎小者楫。",
+      "通津既能濟，巨浸即橫涉。",
+      "身之使者頰，虎之拏者爪。",
+      "魚之撥者鬣，弩之進者筴。",
+      "此實為相須，相須航一葉。"
+    ]
+  },
+  {
+    "uid": "QTS_765_042_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "誌峽船具詩 戙",
+    "poem": [
+      "箭飛峽中水，鋸立峽中石。",
+      "峽與水為隘，水與石相擊。",
+      "濆為生險艱，聲發甚霹靂。",
+      "三老航一葉，百丈空千尺。",
+      "蒼黃徒爾為，倏忽何可測。",
+      "篙之小難制，戙之獨有力。",
+      "猗嗟戙之為，彬彬堅且直。",
+      "有如用武人，森森矗戈戟。",
+      "有如敢言士，落落吐胸臆。",
+      "拯危居坦夷，濟險免兢惕。",
+      "志彼哲匠心，俾其來者識。"
+    ],
+    "variants": [
+      {
+        "line": 11,
+        "text": "來",
+        "variant": "求",
+        "source": "一作「求」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_043_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "誌峽船具詩 百丈",
+    "poem": [
+      "少嘗侍先君，餘閒誦白氏。",
+      "始得入峽詩，深味作詩旨。",
+      "雲有萬仞山，雲有千丈水。",
+      "自念坎壈時，尤多兢慎理。",
+      "山束峽如口，水漱石如齒。",
+      "孤舟行其中，薄冰猶坦履。",
+      "孱顏屹焉立，洶湧勃然起。",
+      "百丈為前牽，萬險即平砥。",
+      "破之以篔簹，續之以麻枲。",
+      "礪之堅以節，引之直如矢。",
+      "杼軸連半空，長短隨兩涘。",
+      "鐵鎖枉馳名，錦纜謾稱美。",
+      "長繩豈能繫，朽索何足擬。",
+      "苟非𦁤之為，胡可力行此。"
+    ]
+  },
+  {
+    "uid": "QTS_765_044_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "早春西園",
+    "poem": [
+      "引步攜筇竹，西園小徑通。",
+      "雪欹梅蒂綠，春入杏梢紅。",
+      "靜意崖穿溜，孤愁笛破空。",
+      "如何將此景，收拾向圖中。"
+    ]
+  },
+  {
+    "uid": "QTS_765_045_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "金盤草詩",
+    "poem": [
+      "今春從南陵，得草名金盤。",
+      "金盤有仁性，生在林一端。",
+      "根節歲一節，食之甘而酸。",
+      "風俗競采掇，俾人防急難。",
+      "巴中蛇虺毒，解之如走丸。",
+      "巨葉展六出，軟幹分長竿。",
+      "搖搖綠玉活，嫋嫋香荷寒。",
+      "世雲暑酷月，鬱有神物看。",
+      "天之產於此，意欲生民安。",
+      "今之為政者，何不反此觀。",
+      "知彼苛且猛，慎勿虐而殘。",
+      "一物苟失所，萬金惟可歎。",
+      "莫並蒿與萊，豈羨芝及蘭。",
+      "勤渠護根本，栽植當庭欄。",
+      "寄言好生者，休說神仙丹。"
+    ],
+    "notes": [
+      {
+        "content": "生寧江巫山南陵林木中。",
+        "context": "金盤草詩",
+        "original_title": "金盤草詩",
+        "type": "footnote"
+      },
+      {
+        "line": 3,
+        "content": "其根一年生一節，人採而服，可解毒也。",
+        "context": "風俗競采掇，俾人防急難。"
+      },
+      {
+        "line": 8,
+        "content": "夏中採之，則必有巨蛇衝足，人即難採。",
+        "context": "天之產於此，意欲生民安。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_046_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和程刑部三首 公會亭",
+    "poem": [
+      "公事公言地，標名姓必臧。",
+      "江山如得助，談笑若為妨。",
+      "均賦鄉原肅，詳刑郡邑康。",
+      "官箴居座右，夙夜算難忘。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_765_046_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和程刑部三首 碧鮮亭",
+    "poem": [
+      "飋飋籠清籟，蕭蕭鎖翠陰。",
+      "向高思盡節，從直美虛心。",
+      "迥砌滋蒼蘚，幽窗伴素琴。",
+      "公餘時引步，一徑靜中深。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_765_046_03",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和程刑部三首 清漣合",
+    "poem": [
+      "照影翻窗綺，層紋滉額波。",
+      "絲青迷岸柳，茸綠蘸汀莎。",
+      "片雪翹饑鷺，孤香卷嫩荷。",
+      "憑欄堪入畫，時聽竹枝歌。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 3,
+        "text": "雪",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 3,
+        "text": "饑",
+        "variant": "野",
+        "source": "一作「野」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_047_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "自喻",
+    "poem": [
+      "予念天之生，生本空疏器。",
+      "五歲稟慈訓，憤悱讀書志。",
+      "七歲辨聲律，勤苦會詩賦。",
+      "九歲執公卷，倜儻干名意。",
+      "乞薦鄉老書，幸會春官試。",
+      "折桂愧巍峩，依蓮何氣味。",
+      "性拙絕不佞，才短無餘地。",
+      "前年會知己，薦章實非據。",
+      "寧見民說平，空荷君恩寄。",
+      "瞿唐抵巴渝，往來名攬轡。",
+      "孤舟一水中，艱險實可畏。",
+      "羣操百丈牽，臨難無苟避。",
+      "濆向江底發，水在石中沸。",
+      "槌鼓稱打寬，繫紉呼下緯。",
+      "善惡胡可分，死生何足諱。",
+      "騎衡與垂堂，非不知前喻。",
+      "臨淵與履冰，非不知深慮。",
+      "我今縻搢紳，善地誰人致。",
+      "城狐與社鼠，巧佞誰從庇。",
+      "奴顏與婢膝，醜直誰從媚。",
+      "妻兒夐限越，容顏幾憔悴。",
+      "致身霄漢人，呃嚱盡賢智。"
+    ]
+  },
+  {
+    "uid": "QTS_765_048_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "巫山廟",
+    "poem": [
+      "廟前溪水流潺潺，廟中修竹聲珊珊。",
+      "襄王一夢杳難問，晚晴天氣歸雲閒。"
+    ]
+  },
+  {
+    "uid": "QTS_765_049_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "下瞿塘寄時同年",
+    "poem": [
+      "春寒天氣下瞿塘，大壤溪前柳線長。",
+      "須信孤雲似孤宦，莫將鄉思附歸艎。"
+    ]
+  },
+  {
+    "uid": "QTS_765_050_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和杜運使巴峽，地暖節物，與中土異，黯然有感，詩三首 其一",
+    "poem": [
+      "隨柳參差破綠芽，此中依約欲飛花。",
+      "春光是處傷離思，何況歸期未有涯。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_765_050_02",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和杜運使巴峽，地暖節物，與中土異，黯然有感，詩三首 其二",
+    "poem": [
+      "始看菊蘂開籬下，又見梅花寄嶺頭。",
+      "攬轡巴西官局冷，幾憑春酒沃鄉愁。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_765_050_03",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "和杜運使巴峽，地暖節物，與中土異，黯然有感，詩三首 其三",
+    "poem": [
+      "花品姚黃冠洛陽，巴中春早羨孤芳。",
+      "不知別有栽培力，流詠新詩與激昂。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_765_051_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "施南太守以猨兒為寄，作詩答之",
+    "poem": [
+      "虞人初獲酉江西，長臂難將意馬齊。",
+      "今日未啼頭已白，不堪深入白雲啼。"
+    ],
+    "notes": [
+      {
+        "content": "得之黔中，生即頭白。",
+        "context": "施南太守以猨兒為寄，作詩答之",
+        "original_title": "施南太守以猨兒為寄，作詩答之",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_765_052_01",
+    "volume": 765,
+    "author": {
+      "canonical": "王周",
+      "recorded": "王周",
+      "gender": "male",
+      "english_name": "Wang Zhou",
+      "wikidata_id": "Q10412907"
+    },
+    "title": "巫廟",
+    "poem": [
+      "巴水走若箭，峽山開如屏。",
+      "洶湧匹練白，崷崒濃藍青。",
+      "崕空蓄雲雨，灘惡驚雷霆。",
+      "神仙宅幽邃，廟貌橫杳冥。",
+      "隱約可一夢，縹緲餘千齡。",
+      "名利有所役，舟楫無暫停。",
+      "悉窣垂肸蠁，祠禱希安寧。",
+      "鵶鵶爾何物，飛飛來廟庭。",
+      "紛紛颺寥泬，遠近隨虛舲。",
+      "鐵石礪觜爪，金碧輝光翎。",
+      "翔集託陰險，鵮啄貪羶腥。",
+      "日既恃威福，歲久為精靈。",
+      "依草與附木，誣詭殊不經。",
+      "城狐與社鼠，瑣細何足聽。",
+      "況乎人假人，心闊吞滄溟。"
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "uid": "QTS_066_001_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "古劒篇",
+    "poem": [
+      "君不見昆吾鐵冶飛炎煙，紅光紫氣俱赫然。",
+      "良工鍛鍊凡幾年，鑄得寶劒名龍泉。",
+      "龍泉顏色如霜雪，良工咨嗟歎奇絕。",
+      "琉璃玉匣吐蓮花，錯鏤金環映明月。",
+      "正逢天下無風塵，幸得周防君子身。",
+      "精光黯黯青蛇色，文章片片綠龜鱗。",
+      "非直結交游俠子，亦曾親近英雄人。",
+      "何言中路遭棄捐，零落漂淪古獄邊。",
+      "雖復塵埋無所用，猶能夜夜氣衝天。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "凡",
+        "variant": "經",
+        "source": "一作「經」"
+      },
+      {
+        "line": 4,
+        "text": "映",
+        "variant": "生",
+        "source": "一作「生」"
+      },
+      {
+        "line": 5,
+        "text": "周",
+        "variant": "用",
+        "source": "一作「用」"
+      },
+      {
+        "line": 7,
+        "text": "曾",
+        "variant": "常",
+        "source": "一作「常」"
+      },
+      {
+        "line": 8,
+        "text": "漂",
+        "variant": "飄",
+        "source": "一作「飄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_002_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "塞上",
+    "poem": [
+      "塞外虜塵飛，頻年出武威。",
+      "死生隨玉劒，辛苦向金微。",
+      "久戍人將老，長征馬不肥。",
+      "仍聞酒泉郡，已合數重圍。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "將",
+        "variant": "偏",
+        "source": "一作「偏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_003_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "寄劉校書",
+    "poem": [
+      "俗吏三年何足論，每將榮辱在朝昏。",
+      "才微易向風塵老，身賤難酬知己恩。",
+      "御苑殘鶯啼落日，黃山細雨濕歸軒。",
+      "迴首漢家丞相府，昨來誰得掃重門。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "首",
+        "variant": "望",
+        "source": "一作「望」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_004_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "同徐員外除太子舍人寓直之作",
+    "poem": [
+      "太子擅元良，宮臣命偉長。",
+      "除榮辭會府，直宿總書坊。",
+      "露濕幽巖桂，風吹便坐桑。",
+      "閣連雲一色，池帶月重光。",
+      "葉死蘭無氣，荷枯水不香。",
+      "遙聞秋興作，言是晉中郎。"
+    ]
+  },
+  {
+    "uid": "QTS_066_005_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "春江曲",
+    "poem": [
+      "江水春沈沈，上有雙竹林。",
+      "竹葉壞水色，郎亦壞人心。"
+    ]
+  },
+  {
+    "uid": "QTS_066_006_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "王昭君三首 其一",
+    "poem": [
+      "自嫁單于國，長銜漢掖悲。",
+      "容顏日憔悴，有甚畫圖時。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_066_006_02",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "王昭君三首 其二",
+    "poem": [
+      "厭踐冰霜域，嗟爲邊塞人。",
+      "思從漠南獵，一見漢家塵。"
+    ],
+    "part_index": 2,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 2,
+        "text": "漠",
+        "variant": "漢",
+        "source": "一作「漢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_006_03",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "王昭君三首 其三",
+    "poem": [
+      "聞有南河信，傳言殺畫師。",
+      "始知君念重，更肯惜蛾眉。"
+    ],
+    "part_index": 3,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 1,
+        "text": "聞有南河信",
+        "variant": "聞道河南使",
+        "source": "一作「聞道河南使」"
+      },
+      {
+        "line": 2,
+        "text": "念",
+        "variant": "惠",
+        "source": "一作「惠」"
+      },
+      {
+        "line": 2,
+        "text": "肯惜",
+        "variant": "遣畫",
+        "source": "一作「遣畫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_007_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 春歌一",
+    "poem": [
+      "陌頭楊柳枝，已被春風吹。",
+      "妾心正斷絕，君懷那得知。"
+    ],
+    "part_index": 1,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_066_007_02",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 春歌二",
+    "poem": [
+      "青樓含日光，綠池起風色。",
+      "贈子同心花，殷勤此何極。"
+    ],
+    "part_index": 2,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_066_007_03",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 秋歌一",
+    "poem": [
+      "邀歡空佇立，望美頻迴顧。",
+      "何時復採菱，江中密相遇。"
+    ],
+    "part_index": 3,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_066_007_04",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 秋歌二",
+    "poem": [
+      "辟惡茱萸囊，延年菊花酒。",
+      "與子結綢繆，丹心此何有。"
+    ],
+    "part_index": 4,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_066_007_05",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 冬歌一",
+    "poem": [
+      "北極嚴氣昇，南至溫風謝。",
+      "調絲競短歌，拂枕憐長夜。"
+    ],
+    "part_index": 5,
+    "total_parts": 6
+  },
+  {
+    "uid": "QTS_066_007_06",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "子夜四時歌六首 冬歌二",
+    "poem": [
+      "帷橫雙翡翠，被卷兩鴛鴦。",
+      "婉態不自得，宛轉君王牀。"
+    ],
+    "part_index": 6,
+    "total_parts": 6,
+    "variants": [
+      {
+        "line": 2,
+        "text": "婉",
+        "variant": "嬌",
+        "source": "一作「嬌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_008_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "二月樂遊詩",
+    "poem": [
+      "二月芳遊始，開軒望曉池。",
+      "綠蘭日吐葉，紅蘂向盈枝。",
+      "柳色行將改，君心幸莫移。",
+      "陽春遽多意，唯願兩人知。"
+    ]
+  },
+  {
+    "uid": "QTS_066_009_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "十月樂遊詩",
+    "poem": [
+      "十月嚴陰盛，霜氣下玉臺。",
+      "羅衣羞自解，綺帳待君開。",
+      "銀箭更籌緩，金爐香氣來。",
+      "愁仍夜未幾，已使炭成灰。"
+    ]
+  },
+  {
+    "uid": "QTS_066_010_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "螢",
+    "poem": [
+      "秋風凜凜月依依，飛過高梧影裏時。",
+      "暗處若教同衆類，世間爭得有人知。"
+    ]
+  },
+  {
+    "uid": "QTS_066_011_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "蛩",
+    "poem": [
+      "愁殺離家未達人，一聲聲到枕前聞。",
+      "苦吟莫向朱門裏，滿耳笙歌不聽君。"
+    ]
+  },
+  {
+    "uid": "QTS_066_012_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "雲",
+    "poem": [
+      "聚散虛空去復還，野人閑處倚筇看。",
+      "不知身是無根物，蔽月遮星作萬端。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "是",
+        "variant": "外",
+        "source": "一作「外」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_066_013_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "野井",
+    "poem": [
+      "縱無汲引味清澄，冷浸寒空月一輪。",
+      "鑿處若教當要路，爲君常濟往來人。"
+    ]
+  },
+  {
+    "uid": "QTS_066_014_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "米囊花",
+    "poem": [
+      "開花空道勝于草，結實何曾濟得民。",
+      "却笑野田禾與黍，不聞弦管過青春。"
+    ]
+  },
+  {
+    "uid": "QTS_066_015_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "惜花",
+    "poem": [
+      "豔拂衣襟蘂拂杯，遶枝閑共蝶徘徊。",
+      "春風滿目還惆悵，半欲離披半未開。"
+    ]
+  },
+  {
+    "uid": "QTS_066_016_01",
+    "volume": 66,
+    "author": {
+      "canonical": "郭震",
+      "recorded": "郭震",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Guo Yuanzhen",
+      "wikidata_id": "Q3082953"
+    },
+    "title": "蓮花",
+    "poem": [
+      "臉膩香薰似有情，世間何物比輕盈。",
+      "湘妃雨後來池看，碧玉盤中弄水晶。"
+    ]
+  }
+]

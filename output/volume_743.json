@@ -1,0 +1,608 @@
+[
+  {
+    "uid": "QTS_743_001_01",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "甘露寺",
+    "poem": [
+      "寒暄皆有景，孤絕畫難形。",
+      "地拱千尋嶮，天垂四面青。",
+      "晝燈籠鴈塔，夜磬徹漁汀。",
+      "最愛僧房好，波光滿戶庭。"
+    ]
+  },
+  {
+    "uid": "QTS_743_002_01",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "題金山寺",
+    "poem": [
+      "萬古波心寺，金山名目新。",
+      "天多剩得月，地少不生塵。",
+      "過㯭妨僧定，驚濤濺佛身。",
+      "誰言張處士，題後更無人。"
+    ]
+  },
+  {
+    "uid": "QTS_743_003_01",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "楊柳枝詞五首 其一",
+    "poem": [
+      "靈和風暖太昌春，舞線搖絲向昔人。",
+      "何似曉來江雨後，一行如畫隔遙津。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_743_003_02",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "楊柳枝詞五首 其二",
+    "poem": [
+      "彭澤初栽五樹時，只應閑看一枝垂。",
+      "不知天意風流處，要與佳人學畫眉。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_743_003_03",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "楊柳枝詞五首 其三",
+    "poem": [
+      "暖傍離亭靜拂橋，入流穿檻綠陰搖。",
+      "不知落日誰相送，魂斷千條與萬條。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_743_003_04",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "楊柳枝詞五首 其四",
+    "poem": [
+      "春來綠樹遍天涯，未見垂楊未可誇。",
+      "晴日萬株煙一陣，閒坊兼是莫愁家。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_743_003_05",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "楊柳枝詞五首 其五",
+    "poem": [
+      "十首當年有舊詞，唱青歌翠幾無遺。",
+      "未曾得向行人道，不爲離情莫折伊。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_743_004_01",
+    "volume": 743,
+    "author": {
+      "canonical": "孫魴",
+      "recorded": "孫魴",
+      "gender": "male",
+      "english_name": "Sun Fang",
+      "wikidata_id": "Q22101331"
+    },
+    "title": "句 其一",
+    "poem": [
+      "遊子未歸去，野花愁破心。",
+      "劃多灰漸冷，坐久席成痕。",
+      "結宇孤峰上，安禪巨浪間。",
+      "分開朝海浪，留住過江雲。",
+      "劃多灰雜蒼虬跡，坐久煙消寶鴨香。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_743_005_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "入塞二首 其一",
+    "poem": [
+      "欲為皇王服遠戎，萬人金甲鼓鼙中。",
+      "陣雲黯塞三邊黑，兵血愁天一片紅。",
+      "半夜翻營旗攪月，深秋防戍劍磨風。",
+      "謗書未及明君爇，臥骨將軍已歿功。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_743_005_02",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "入塞二首 其二",
+    "poem": [
+      "苦戰沙門臥箭痕，戍樓閒上望星文。",
+      "生希國澤分偏將，死奪河源荅聖君。",
+      "鳶覰敗兵眠白草，馬驚邊鬼哭陰雲。",
+      "功多地遠無人紀，漢閣笙歌日又曛。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_743_006_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "塞下三首 其一",
+    "poem": [
+      "塞葉聲悲秋欲霜，寒山數點下牛羊。",
+      "映霞旅鴈隨踈雨，向磧行人帶夕陽。",
+      "邊騎不來沙路失，國恩深後海城荒。",
+      "胡兒向化新成長，猶自千回問漢王。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_743_006_02",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "塞下三首 其二",
+    "poem": [
+      "貴主和親殺氣沉，燕山閒獵鼓鼙音。",
+      "旗分雪草偷邊馬，箭入寒雲落塞禽。",
+      "隴月盡牽鄉思動，戰衣誰寄淚痕深。",
+      "金釵謾作封矦別，劈破佳人萬里心。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_743_006_03",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "塞下三首 其三",
+    "poem": [
+      "月冷榆關過鴈行，將軍寒笛老思鄉。",
+      "貳師骨恨千夫壯，李廣魂飛一劍長。",
+      "戍角就沙催落日，陰雲分磧護飛霜。",
+      "誰知漢武輕中國，閒奪天山草木荒。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_743_007_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "秋日",
+    "poem": [
+      "秋含砧杵擣斜陽，笛引西風顥氣涼。",
+      "薜荔惹煙籠蟋蟀，芰荷翻雨潑鴛鴦。",
+      "當年酒賤何妨醉，今日時難不易狂。",
+      "腸斷舊遊從一別，潘安惆悵滿頭霜。"
+    ]
+  },
+  {
+    "uid": "QTS_743_008_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "金陵雜題二首 其一",
+    "poem": [
+      "王氣生秦四百年，晉元東渡浪花船。",
+      "正慙海內皆塗地，來保江南一片天。",
+      "古樹著行臨遠岸，暮山相亞出微煙。",
+      "千征萬戰英雄盡，落日牛羊食野田。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_743_008_02",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "金陵雜題二首 其二",
+    "poem": [
+      "暮潮聲落草光沉，賈客來帆宿岸陰。",
+      "一笛月明何處酒，滿城秋色幾家砧。",
+      "時清曾惡桓溫盛，山翠長牽謝傅心。",
+      "今日到來何物在，碧煙和雨鎖寒林。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_743_009_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "麻姑山",
+    "poem": [
+      "紺殿松蘿太古山，仙人曾此話桑田。",
+      "閒傾雲液十分日，已過浮生一萬年。",
+      "花洞路中逢鶴信，水簾巖底見龍眠。",
+      "我來遊禮酬心願，欲共怡神契自然。"
+    ]
+  },
+  {
+    "uid": "QTS_743_010_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "題蘇仙山",
+    "poem": [
+      "眼穿林罅見郴州，井裡交連側局楸。",
+      "味道不來閒處坐，勞生更欲幾時休。",
+      "蘇仙宅古煙霞老，義帝墳荒草木愁。",
+      "千古是非無處問，夕陽西去水東流。"
+    ]
+  },
+  {
+    "uid": "QTS_743_011_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "洪州解至長安，初舉納省卷夢仙謠",
+    "poem": [
+      "□□□□□□□，□□□□□□□。",
+      "玉殿大開從客入，金桃爛熟沒人偷。",
+      "鳳驚寶扇頻翻翅，龍懼金鞭不轉頭。",
+      "□□□□□□□，□□□□□□□。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "懼",
+        "variant": "悞",
+        "source": "一作「悞」"
+      },
+      {
+        "line": 3,
+        "text": "不",
+        "variant": "忽",
+        "source": "一作「忽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_743_012_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "憶仙謠",
+    "poem": [
+      "白榆風䬃九天秋，王母朝迴宴玉樓。",
+      "日月漸長雙鳳睡，桑田欲變六鼇愁。",
+      "雲翻簫管相隨去，星觸旌幢各自流。",
+      "詩酒近來狂不得，騎龍卻憶上清遊。"
+    ]
+  },
+  {
+    "uid": "QTS_743_013_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "納省卷贈為首劉象",
+    "poem": [
+      "曾應大中天子舉，四朝風月鬢蕭疎。",
+      "不隨世祖重攜劍，卻為文皇再讀書。",
+      "十載戰塵銷舊業，滿城春雨壞貧居。",
+      "一枝何事於君借，仙桂年年幸有餘。"
+    ]
+  },
+  {
+    "uid": "QTS_743_014_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "贈王定保",
+    "poem": [
+      "仙桂曾攀第一枝，薄遊湘水阻佳期。",
+      "皋橋已失齊眉願，蕭寺行逢落髮師。",
+      "廢苑露寒蘭寂寞，丹山雲斷鳳參差。",
+      "聞公已有平生約，謝絶女蘿依兔絲。"
+    ]
+  },
+  {
+    "uid": "QTS_743_015_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "結客少年場行",
+    "poem": [
+      "重義輕生一劒知，白虹貫日報讐歸。",
+      "片心惆悵清平世，酒市無人問布衣。"
+    ]
+  },
+  {
+    "uid": "QTS_743_016_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "陽朔碧蓮峰",
+    "poem": [
+      "陶潛彭澤五株柳，潘岳河陽一縣花。",
+      "兩處爭如陽朔好，碧蓮峰裏住人家。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "好",
+        "variant": "縣",
+        "source": "一作「縣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_743_017_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "再過金陵",
+    "poem": [
+      "玉樹歌終王氣收，鴈行高送石城秋。",
+      "江山不管興亡事，一任斜陽伴客愁。"
+    ]
+  },
+  {
+    "uid": "QTS_743_018_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "都門送別",
+    "poem": [
+      "岸柳蕭疎野荻秋，都門行客莫回頭。",
+      "一條灞水清如劒，不爲離人割斷愁。"
+    ]
+  },
+  {
+    "uid": "QTS_743_019_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "弔邊人",
+    "poem": [
+      "殺聲沈後野風悲，漢月高時望不歸。",
+      "白骨已枯沙上草，家人猶自寄寒衣。"
+    ]
+  },
+  {
+    "uid": "QTS_743_020_01",
+    "volume": 743,
+    "author": {
+      "canonical": "沈彬",
+      "recorded": "沈彬",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Shen Bin",
+      "wikidata_id": "Q22100478"
+    },
+    "title": "句",
+    "poem": [
+      "尺素隱清輝，一毫分險阻。",
+      "金翅動身摩日月，銀河轉浪洗乾坤。",
+      "須知手筆安排定，不怕山河整頓難。",
+      "九衢冠蓋暗爭路，四海千戈多異心。",
+      "地隈一水廵城轉，天約羣山附郭來。",
+      "數家魚網疎雲外，一岸殘陽細雨中。",
+      "松攲晩影離壇草，鐘撼秋聲入殿風。",
+      "壓低吳楚遙涵水，約破雲霞獨倚天。",
+      "半身落日離秦樹，一路平蕪入楚煙。",
+      "清占月中三峽水，麗偷雲外十洲春。",
+      "幽鳥喚人穿竹去，野猨尋果出雲來。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《題畫山水圖》",
+        "context": "句"
+      },
+      {
+        "line": 4,
+        "content": "《獻馬殷頌德》，《五代史補》",
+        "context": "句"
+      },
+      {
+        "line": 6,
+        "content": "《獻李昪山水圖詩》",
+        "context": "句"
+      },
+      {
+        "line": 8,
+        "content": "《紀事》",
+        "context": "句"
+      },
+      {
+        "line": 10,
+        "content": "《題法華寺》，《零陵總記》",
+        "context": "句"
+      },
+      {
+        "line": 12,
+        "content": "《湘江行》",
+        "context": "句"
+      },
+      {
+        "line": 14,
+        "content": "《潘天錫同題古觀》，《郡閣雅談》",
+        "context": "句"
+      },
+      {
+        "line": 16,
+        "content": "《望廬山》，《談野客叢》",
+        "context": "句"
+      },
+      {
+        "line": 18,
+        "content": "以下《錦繡萬花谷》",
+        "context": "句"
+      }
+    ]
+  }
+]

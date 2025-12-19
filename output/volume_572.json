@@ -1,0 +1,2795 @@
+[
+  {
+    "uid": "QTS_572_001_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "哭柏巖和尚",
+    "poem": [
+      "苔覆石床新，師曾占幾春。",
+      "寫留行道影，焚卻坐禪身。",
+      "塔院關松雪，經房鎖隙塵。",
+      "自嫌雙淚下，不是解空人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "師曾占",
+        "variant": "吾師去",
+        "source": "一作「吾師去」"
+      },
+      {
+        "line": 3,
+        "text": "雪",
+        "variant": "路",
+        "source": "一作「路」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_002_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "山中道士",
+    "poem": [
+      "頭髮梳千下，休糧帶瘦容。",
+      "養雛成大鶴，種子作高松。",
+      "白石通宵煮，寒泉盡日舂。",
+      "不曾離隱處，那得世人逢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "大",
+        "variant": "老",
+        "source": "一作「老」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_003_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "就可公宿",
+    "poem": [
+      "十裏尋幽寺，寒流數派分。",
+      "僧同雪夜坐，鴈向草堂聞。",
+      "靜語終燈焰，餘生許嶠雲。",
+      "由來多抱疾，聲不達明君。"
+    ]
+  },
+  {
+    "uid": "QTS_572_004_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "旅遊",
+    "poem": [
+      "此心非一事，書札若為傳。",
+      "舊國別多日，故人無少年。",
+      "空巢霜葉落，疎牖水螢穿。",
+      "留得林僧宿，中宵坐默然。"
+    ]
+  },
+  {
+    "uid": "QTS_572_005_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送鄒明府遊靈武",
+    "poem": [
+      "曾宰西畿縣，三年馬不肥。",
+      "債多平劍與，官滿載書歸。",
+      "邊雪藏行徑，林風透臥衣。",
+      "靈州聽曉角，客館未開扉。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "平",
+        "variant": "憑",
+        "source": "一作「憑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_006_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題皇甫荀藍田廳",
+    "poem": [
+      "任官經一年，縣與玉峰連。",
+      "竹籠拾山果，瓦瓶擔石泉。",
+      "客歸秋雨後，印鎖暮鐘前。",
+      "久別丹陽浦，時時夢釣船。"
+    ]
+  },
+  {
+    "uid": "QTS_572_007_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "贈王將軍",
+    "poem": [
+      "宿衛爐煙近，除書墨未乾。",
+      "馬曾金鏃中，身有寶刀瘢。",
+      "父子同時捷，君王畫陣看。",
+      "何當為外帥，白日出長安。"
+    ]
+  },
+  {
+    "uid": "QTS_572_008_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "下第",
+    "poem": [
+      "下第只空囊，如何住帝鄉。",
+      "杏園啼百舌，誰醉在花傍。",
+      "淚落故山遠，病來春草長。",
+      "知音逢豈易，孤棹負三湘。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「別人」二字",
+        "context": "下第",
+        "original_title": "下第〈一本有「別人」二字〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "只",
+        "variant": "惟",
+        "source": "一作「惟」"
+      },
+      {
+        "line": 1,
+        "text": "如何住",
+        "variant": "裵回懸",
+        "source": "一作「裵回懸」"
+      },
+      {
+        "line": 2,
+        "text": "杏園啼百舌，誰醉在花傍。",
+        "variant": "鶯聲寒食後，人醉曲江傍。",
+        "source": "一作「鶯聲寒食後，人醉曲江傍。」"
+      },
+      {
+        "line": 4,
+        "text": "逢",
+        "variant": "酬",
+        "source": "一作「酬」"
+      },
+      {
+        "line": 4,
+        "text": "負",
+        "variant": "復",
+        "source": "一作「復」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_009_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄賀蘭朋吉",
+    "poem": [
+      "往往東林下，花香似火焚。",
+      "故園從小別，夜雨近秋聞。",
+      "野菜連寒水，枯株簇古墳。",
+      "泛舟同遠客，尋寺入幽雲。",
+      "斜日扉多掩，荒田徑細分。",
+      "相思蟬幾處，偶坐蝶成羣。",
+      "會宿曾論道，登高省議文。",
+      "苦吟遙可想，邊葉向紛紛。"
+    ]
+  },
+  {
+    "uid": "QTS_572_010_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "憶吳處士",
+    "poem": [
+      "半夜長安雨，燈前越客吟。",
+      "孤舟行一月，萬水與千岑。",
+      "島嶼夏雲起，汀洲芳草深。",
+      "何當折松葉，拂石剡溪陰。"
+    ]
+  },
+  {
+    "uid": "QTS_572_011_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "哭孟郊",
+    "poem": [
+      "身死聲名在，多應萬古傳。",
+      "寡妻無子息，破宅帶林泉。",
+      "塚近登山道，詩隨過海船。",
+      "故人相弔後，斜日下寒天。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "死",
+        "variant": "沒",
+        "source": "一作「沒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_012_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送崔定",
+    "poem": [
+      "未知遊子意，何不避炎蒸。",
+      "幾日到漢水，新蟬鳴杜陵。",
+      "秋江待得月，夜語恨無僧。",
+      "巴峽吟過否，連天十二層。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "語",
+        "variant": "話",
+        "source": "一作「話」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_013_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄白閣默公",
+    "poem": [
+      "已知歸白閣，山遠晚晴看。",
+      "石室人心靜，冰潭月影殘。",
+      "微雲分片滅，古木落薪乾。",
+      "後夜誰聞磬，西峰絕頂寒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 4,
+        "text": "後",
+        "variant": "夜",
+        "source": "一作「夜」"
+      },
+      {
+        "line": 4,
+        "text": "誰聞",
+        "variant": "風飄",
+        "source": "一作「風飄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_014_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "雨後宿劉司馬池上",
+    "poem": [
+      "藍溪秋漱玉，此地漲清澄。",
+      "蘆葦聲兼雨，芰荷香遶燈。",
+      "岸頭秦古道，亭面漢荒陵。",
+      "靜想泉根本，幽崖落幾層。"
+    ]
+  },
+  {
+    "uid": "QTS_572_015_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送朱可久歸越中",
+    "poem": [
+      "石頭城下泊，北固暝鐘初。",
+      "汀鷺潮衝起，船窗月過虛。",
+      "吳山侵越眾，隋柳入唐疎。",
+      "日欲躬調膳，辟來何府書。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "潮衝",
+        "variant": "衝潮",
+        "source": "一作「衝潮」"
+      },
+      {
+        "line": 2,
+        "text": "月過",
+        "variant": "過月",
+        "source": "一作「過月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_016_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送田卓入華山",
+    "poem": [
+      "幽深足暮蟬，驚覺石床眠。",
+      "瀑布五千仞，草堂瀑布邊。",
+      "壇松涓滴露，嶽月泬寥天。",
+      "鶴過君須看，上頭應有仙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "足",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_017_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送董正字常州覲省",
+    "poem": [
+      "相逐一行鴻，何時出磧中。",
+      "江流翻白浪，木葉落青楓。",
+      "輕楫浮吳國，繁霜下楚空。",
+      "春來歡侍阻，正字在東宮。"
+    ]
+  },
+  {
+    "uid": "QTS_572_018_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "酬姚少府",
+    "poem": [
+      "梅樹與山木，俱應搖落初。",
+      "柴門掩寒雨，蟲響出秋蔬。",
+      "枯槁彰清鏡，孱愚友道書。",
+      "刊文非不朽，君子自相於。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "梅",
+        "variant": "海",
+        "source": "一作「海」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_019_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送無可上人",
+    "poem": [
+      "圭峰霽色新，送此草堂人。",
+      "麈尾同離寺，蛩鳴暫別親。",
+      "獨行潭底影，數息樹邊身。",
+      "終有煙霞約，天台作近鄰。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "親",
+        "variant": "秦",
+        "source": "一作「秦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_020_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送李騎曹",
+    "poem": [
+      "歸騎雙旌遠，權生此別中。",
+      "蕭關分磧路，嘶馬背寒鴻。",
+      "朔色晴天北，河源落日東。",
+      "賀蘭山頂草，時動卷帆風。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "卷",
+        "variant": "旂",
+        "source": "一作「旂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_021_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送烏行中石淙別業",
+    "poem": [
+      "寒水長繩汲，丁泠數滴翻。",
+      "草通石淙脈，硯帶海潮痕。",
+      "嶽色何曾遠，蟬聲尚未繁。",
+      "勞思當此夕，苗稼在西原。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「還」字",
+        "context": "送烏行中",
+        "original_title": "送烏行中〈一本有「還」字〉石淙別業"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_022_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送覺興上人歸中條山兼謁河中李司空",
+    "poem": [
+      "又憶西巖寺，秦原草白時。",
+      "山尋樵徑上，人到雪房遲。",
+      "暮磬潭泉凍，荒林野燒移。",
+      "聞師新譯偈，說擬對旌麾。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "磬",
+        "variant": "壑",
+        "source": "一作「壑」"
+      },
+      {
+        "line": 3,
+        "text": "燒",
+        "variant": "火",
+        "source": "一作「火」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_023_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄無可上人",
+    "poem": [
+      "僻寺多高樹，涼天憶重遊。",
+      "磬過溝水盡，月入草堂秋。",
+      "穴蟻苔痕靜，藏蟬柏葉稠。",
+      "名山思遍往，早晚到嵩丘。"
+    ]
+  },
+  {
+    "uid": "QTS_572_024_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "南池",
+    "poem": [
+      "蕭條微雨絕，荒岸抱清源。",
+      "入舫山侵塞，分泉稻接村。",
+      "秋聲依樹色，月影在蒲根。",
+      "淹泊方難遂，他宵關夢魂。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "稻",
+        "variant": "道",
+        "source": "一作「道」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_025_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄龍池寺貞空二上人",
+    "poem": [
+      "受請終南住，俱妨去石橋。",
+      "林中秋信絕，峰頂夜禪遙。",
+      "寒草煙藏虎，高松月照鵰。",
+      "霜天期到寺，寺置即前朝。"
+    ]
+  },
+  {
+    "uid": "QTS_572_026_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送貞空二上人",
+    "poem": [
+      "林下中餐後，天涯欲去時。",
+      "衡陽過有伴，夢澤出應遲。",
+      "石磬疏寒韻，銅瓶結夜澌。",
+      "殷勤訝此別，且未定歸期。"
+    ]
+  },
+  {
+    "uid": "QTS_572_027_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送裵校書",
+    "poem": [
+      "拜官從秘省，署職在藩維。",
+      "多故長疎索，高秋遠別離。",
+      "天寒泗上醉，夜靜岳陽碁。",
+      "使府臨南海，帆飛到不遲。"
+    ]
+  },
+  {
+    "uid": "QTS_572_028_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "昇道精舍南臺對月寄姚合",
+    "poem": [
+      "月向南臺見，秋霖洗滌餘。",
+      "出逢危葉落，靜看眾峰疎。",
+      "冷露常時有，禪窗此夜虛。",
+      "相思聊悵望，潤氣徧衣初。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "看",
+        "variant": "益",
+        "source": "一作「益」"
+      },
+      {
+        "line": 3,
+        "text": "常",
+        "variant": "尋",
+        "source": "一作「尋」"
+      },
+      {
+        "line": 4,
+        "text": "初",
+        "variant": "裾",
+        "source": "一作「裾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_029_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "即事",
+    "poem": [
+      "索莫對孤燈，陰雲積幾層。",
+      "自嗟憐十上，誰肯待三徵。",
+      "心被通人見，文叨大匠稱。",
+      "悲秋秦塞草，懷古漢家陵。",
+      "城靜高崖樹，漏多幽沼冰。",
+      "過聲沙島鷺，絕行石庵僧。",
+      "豈謂舊廬在，誰言歸未曾。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "孤",
+        "variant": "寒",
+        "source": "一作「寒」"
+      },
+      {
+        "line": 2,
+        "text": "憐",
+        "variant": "隣",
+        "source": "一作「隣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_030_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "黃子陂上韓吏部",
+    "poem": [
+      "石樓云一別，二十二三春。",
+      "相逐升堂者，幾為埋骨人。",
+      "涕流聞度瘴，病起喜還秦。",
+      "曾是令勤道，非惟恤在迍。",
+      "疏衣蕉縷細，爽味茗芽新。",
+      "鐘絕滴殘雨，螢多無近鄰。",
+      "溪潭承到數，位秩見辭頻。",
+      "若個山招隱，機忘任此身。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "云",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 3,
+        "text": "度",
+        "variant": "染",
+        "source": "一作「染」"
+      },
+      {
+        "line": 3,
+        "text": "喜",
+        "variant": "賀",
+        "source": "一作「賀」"
+      },
+      {
+        "line": 4,
+        "text": "令",
+        "variant": "今",
+        "source": "一作「今」"
+      },
+      {
+        "line": 8,
+        "text": "招",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_031_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "投李益",
+    "poem": [
+      "四十歸燕字，千年外始吟。",
+      "已將書北嶽，不用比南金。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "千",
+        "variant": "十",
+        "source": "一作「十」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_032_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "弔孟協律",
+    "poem": [
+      "才行古人齊，生前品位低。",
+      "葬時貧賣馬，遠日哭惟妻。",
+      "孤塚北邙外，空齋中嶽西。",
+      "集詩應萬首，物象徧曾題。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遠",
+        "variant": "逝",
+        "source": "一作「逝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_033_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送人適越",
+    "poem": [
+      "高城滿夕陽，何事欲霑裳。",
+      "遷客蓬蒿暮，遊人道路長。",
+      "晴湖勝鏡碧，寒柳似金黃。",
+      "若有相思夢，殷勤載八行。"
+    ]
+  },
+  {
+    "uid": "QTS_572_034_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送僧游衡嶽",
+    "poem": [
+      "心知衡嶽路，不怕去人稀。",
+      "船裏猶鳴磬，溪頭自曝衣。",
+      "有家從小別，無寺不言歸。",
+      "料得逢寒住，當禪雪滿扉。"
+    ]
+  },
+  {
+    "uid": "QTS_572_035_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送路",
+    "poem": [
+      "別我就蓬蒿，日斜飛伯勞。",
+      "龍門流水急，嵩岳片雲高。",
+      "歎命無知己，梳頭落白毛。",
+      "從軍當此去，風起廣陵濤。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「某從軍」三字",
+        "context": "送路",
+        "original_title": "送路〈一本有「某從軍」三字〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_036_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "洛陽道中寄弟",
+    "poem": [
+      "趨走迫流年，慙經此路偏。",
+      "密雲埋二室，積雪度三川。",
+      "生類梗萍泛，悲無金石堅。",
+      "翻鴻有歸翼，極目仰聯翩。"
+    ]
+  },
+  {
+    "uid": "QTS_572_037_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "登江亭晚望",
+    "poem": [
+      "浩渺浸雲根，煙嵐沒遠村。",
+      "鳥歸沙有跡，帆過浪無痕。",
+      "望水知柔性，看山欲倦魂。",
+      "縱情猶未已，回馬欲黃昏。"
+    ]
+  },
+  {
+    "uid": "QTS_572_038_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送耿處士",
+    "poem": [
+      "一瓶離別酒，未盡即言行。",
+      "萬水千山路，孤舟幾月程。",
+      "川原秋色靜，蘆葦晚風鳴。",
+      "迢遰不歸客，人傳虛隱名。"
+    ]
+  },
+  {
+    "uid": "QTS_572_039_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "過唐校書書齋",
+    "poem": [
+      "池滿風吹竹，時時得爽神。",
+      "聲齊雛鳥語，畫卷老僧真。",
+      "月出行幾步，花開到四鄰。",
+      "江湖心自切，未可掛頭巾。"
+    ]
+  },
+  {
+    "uid": "QTS_572_040_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送杜秀才東遊",
+    "poem": [
+      "東遊誰見待，盡室寄長安。",
+      "別後葉頻落，去程山已寒。",
+      "大河風色度，曠野燒煙殘。",
+      "匣有青銅鏡，時將照鬢看。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "後",
+        "variant": "夜",
+        "source": "一作「夜」"
+      },
+      {
+        "line": 2,
+        "text": "去程",
+        "variant": "登途",
+        "source": "一作「登途」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_041_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送天台僧",
+    "poem": [
+      "遠夢歸華頂，扁舟背岳陽。",
+      "寒蔬修淨食，夜浪動禪床。",
+      "鴈過孤峰曉，猨啼一樹霜。",
+      "身心無別念，餘習在詩章。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      },
+      {
+        "line": 4,
+        "text": "詩",
+        "variant": "文",
+        "source": "一作「文」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_042_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "懷紫閣隱者",
+    "poem": [
+      "寂寥思隱者，孤燭坐秋霖。",
+      "梨栗猿喜熟，雲山僧說深。",
+      "寄書應不到，結伴擬同尋。",
+      "廢寢方終夕，迢迢紫閣心。"
+    ]
+  },
+  {
+    "uid": "QTS_572_043_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "雨夜同厲玄懷皇甫荀",
+    "poem": [
+      "桐竹遶庭匝，雨多風更吹。",
+      "還如舊山夜，臥聽瀑泉時。",
+      "磧鴈來期近，秋鐘到夢遲。",
+      "溝西吟苦客，中夕話兼思。"
+    ]
+  },
+  {
+    "uid": "QTS_572_044_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "秋暮",
+    "poem": [
+      "北門楊柳葉，不覺已繽紛。",
+      "值鶴因臨水，迎僧忽背雲。",
+      "白鬚相並出，清淚兩行分。",
+      "默默空朝夕，苦吟誰喜聞。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "清",
+        "variant": "暗",
+        "source": "一作「暗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_045_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "哭胡遇",
+    "poem": [
+      "夭壽知齊理，何曾免歎嗟。",
+      "祭迴收朔雪，弔後折寒花。",
+      "野水秋吟斷，空山暮影斜。",
+      "弟兄相識徧，猶得到君家。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "祭迴",
+        "variant": "葬時",
+        "source": "一作「葬時」"
+      },
+      {
+        "line": 2,
+        "text": "後",
+        "variant": "罷",
+        "source": "一作「罷」"
+      },
+      {
+        "line": 3,
+        "text": "秋吟",
+        "variant": "吟秋",
+        "source": "一作「吟秋」"
+      },
+      {
+        "line": 3,
+        "text": "暮影",
+        "variant": "影暮",
+        "source": "一作「影暮」"
+      },
+      {
+        "line": 4,
+        "text": "猶",
+        "variant": "那",
+        "source": "一作「那」"
+      },
+      {
+        "line": 4,
+        "text": "到",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_046_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送丹師歸閩中",
+    "poem": [
+      "波濤路杳然，衰柳落陽蟬。",
+      "行李經雷電，禪前漱島泉。",
+      "歸林久別寺，過越未離船。",
+      "自說從今去，身應老海邊。"
+    ]
+  },
+  {
+    "uid": "QTS_572_047_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送安南惟鑒法師",
+    "poem": [
+      "講經春殿裏，花繞御床飛。",
+      "南海幾迴渡，舊山臨老歸。",
+      "潮搖蠻草落，月溼島松微。",
+      "空水既如彼，往來消息稀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "渡",
+        "variant": "過",
+        "source": "一作「過」"
+      },
+      {
+        "line": 3,
+        "text": "潮搖蠻草落，月溼島松微。",
+        "variant": "觸風香損印，霑雨謦生衣。",
+        "source": "一作「觸風香損印，霑雨謦生衣。」"
+      },
+      {
+        "line": 4,
+        "text": "空水既如彼",
+        "variant": "雲水路迢遰",
+        "source": "一作「雲水路迢遰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_048_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題李凝幽居",
+    "poem": [
+      "閒居少鄰並，草徑入荒園。",
+      "鳥宿池邊樹，僧敲月下門。",
+      "過橋分野色，移石動雲根。",
+      "暫去還來此，幽期不負言。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "邊",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_049_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送韓湘",
+    "poem": [
+      "掛席從古路，長風起廣津。",
+      "楚城花未發，上苑蝶來新。",
+      "半沒湖波月，初生島草春。",
+      "孤霞臨石鏡，極浦映村神。",
+      "細響吟乾葦，餘馨動遠蘋。",
+      "欲憑將一札，寄與沃洲人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "古",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_050_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄董武",
+    "poem": [
+      "雖同一城裏，少省得從容。",
+      "門掩園林僻，日高巾幘慵。",
+      "孤鴻來半夜，積雪在諸峰。",
+      "正憶毘陵客，聲聲隔水鐘。"
+    ]
+  },
+  {
+    "uid": "QTS_572_051_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "宿贇上人房",
+    "poem": [
+      "堦前多是竹，閒地擬栽松。",
+      "朱點草書疏，雪平麻履蹤。",
+      "御溝寒夜雨，宮寺靜時鐘。",
+      "此時無他事，來尋不厭重。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "時",
+        "variant": "室",
+        "source": "一作「室」"
+      },
+      {
+        "line": 4,
+        "text": "尋",
+        "variant": "多",
+        "source": "一作「多」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_052_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "訪李甘原居",
+    "poem": [
+      "原西居處靜，門對曲江開。",
+      "石縫銜枯草，查根上淨苔。",
+      "翠微泉夜落，紫閣鳥時來。",
+      "仍憶尋淇岸，同行採蕨回。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "上淨",
+        "variant": "漬古",
+        "source": "一作「漬古」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_053_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題山寺井",
+    "poem": [
+      "沉沉百尺餘，功就豈斯須。",
+      "汲早僧出定，鑿新蟲自無。",
+      "藏源重嶂底，澄翳大空隅。",
+      "此地如經劫，涼潭會共枯。"
+    ]
+  },
+  {
+    "uid": "QTS_572_054_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "僻居無可上人相訪",
+    "poem": [
+      "自從居此地，少有事相關。",
+      "積雨荒鄰圃，秋池照遠山。",
+      "硯中枯葉落，枕上斷雲閒。",
+      "野客將禪子，依依偏往還。"
+    ]
+  },
+  {
+    "uid": "QTS_572_055_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送李餘及第歸蜀",
+    "poem": [
+      "知音伸久屈，覲省去光輝。",
+      "津渡逢清夜，途程盡翠微。",
+      "雲當綿竹疊，鳥離錦江飛。",
+      "肯寄書來否，原居出亦稀。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "出",
+        "variant": "甚",
+        "source": "一作「甚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_056_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "荒齋",
+    "poem": [
+      "草合徑微微，終南對掩扉。",
+      "晚涼疎雨絕，初曉遠山稀。",
+      "落葉無青地，閒身著白衣。",
+      "朴愚猶本性，不是學忘機。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "蟬",
+        "source": "一作「蟬」"
+      },
+      {
+        "line": 4,
+        "text": "猶",
+        "variant": "由",
+        "source": "一作「由」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_057_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "夜喜賀蘭三見訪",
+    "poem": [
+      "漏鐘仍夜淺，時節欲秋分。",
+      "泉聒棲松鶴，風除翳月雲。",
+      "踏苔行引興，枕石臥論文。",
+      "即此尋常靜，來多祇是君。"
+    ]
+  },
+  {
+    "uid": "QTS_572_058_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題青龍寺鏡公房",
+    "poem": [
+      "一夕曾留宿，終南搖落時。",
+      "孤燈岡舍掩，殘磬雪風吹。",
+      "樹老因寒折，泉深出井遲。",
+      "疎慵豈有事，多失上方期。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "岡",
+        "variant": "龕",
+        "source": "一作「龕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_059_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送陳判官赴綏德",
+    "poem": [
+      "將軍邀入幕，束帶便離家。",
+      "身暖蕉衣窄，天寒磧日斜。",
+      "火燒岡斷葦，風卷雪平沙。",
+      "絲竹豐州有，春來秖欠花。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "葦",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 3,
+        "text": "平",
+        "variant": "和",
+        "source": "一作「和」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_060_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送唐環歸敷水莊",
+    "poem": [
+      "毛女峰當戶，日高頭未梳。",
+      "地侵山影掃，葉帶露痕書。",
+      "松徑僧尋藥，沙泉鶴見魚。",
+      "一川風景好，恨不有吾廬。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "藥",
+        "variant": "廟",
+        "source": "一作「廟」"
+      },
+      {
+        "line": 4,
+        "text": "風景好",
+        "variant": "人境別",
+        "source": "一作「人境別」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_061_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "原東居喜唐溫琪頻至",
+    "poem": [
+      "曲江春草生，紫閣雪分明。",
+      "汲井嘗泉味，聽鐘問寺名。",
+      "墨研秋日雨，茶試老僧鐺。",
+      "地近勞頻訪，烏紗出送迎。"
+    ]
+  },
+  {
+    "uid": "QTS_572_062_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送敡法師",
+    "poem": [
+      "度歲不相見，嚴冬始出關。",
+      "孤煙寒色樹，高雪夕陽山。",
+      "瀑布寺應到，牡丹房甚閒。",
+      "南朝遺跡在，此去幾時還。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "始",
+        "variant": "合",
+        "source": "一作「合」"
+      },
+      {
+        "line": 3,
+        "text": "閒",
+        "variant": "寒",
+        "source": "一作「寒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_063_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄錢庶子",
+    "poem": [
+      "曲江春水滿，北岸掩柴關。",
+      "秖有僧鄰舍，全無物映山。",
+      "樹陰終日掃，藥債來年還。",
+      "猶記聽琴夜，寒燈竹屋間。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "掩",
+        "variant": "枕",
+        "source": "一作「枕」"
+      },
+      {
+        "line": 3,
+        "text": "藥債",
+        "variant": "詩價",
+        "source": "一作「詩價」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_064_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "原上秋居",
+    "poem": [
+      "關西又落木，心事復如何。",
+      "歲月辭山久，秋霖入夜多。",
+      "鳥從井口出，人自洛陽過。",
+      "倚仗聊閒望，田家未剪禾。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "西",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 3,
+        "text": "洛",
+        "variant": "岳",
+        "source": "一作「岳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_065_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "夏夜",
+    "poem": [
+      "原寺偏鄰近，開門物景澄。",
+      "磬通多葉罅，月離片雲棱。",
+      "寄宿山中鳥，相尋海畔僧。",
+      "唯愁秋色至，乍可在炎蒸。"
+    ]
+  },
+  {
+    "uid": "QTS_572_066_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "冬夜",
+    "poem": [
+      "羈旅復經冬，瓢空盎亦空。",
+      "淚流寒枕上，跡絕舊山中。",
+      "淩結浮萍水，雪和衰柳風。",
+      "曙光雞未報，嘹唳兩三鴻。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "溪",
+        "source": "一作「溪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_067_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送厲宗上人",
+    "poem": [
+      "擁策背岷峨，終南雨雪和。",
+      "漱泉秋鶴至，禪樹夜猿過。",
+      "高頂白雲盡，前山黃葉多。",
+      "曾吟廬嶽上，月動九江波。"
+    ]
+  },
+  {
+    "uid": "QTS_572_068_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄李存穆",
+    "poem": [
+      "聞道船中病，似憂親弟兄。",
+      "信來從水路，身去到柴城。",
+      "久別長鬚鬢，相思書姓名。",
+      "忽然消息絕，頻夢卻還京。"
+    ]
+  },
+  {
+    "uid": "QTS_572_069_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "贈無懷禪師",
+    "poem": [
+      "身從劫劫修，果以此生周。",
+      "禪定石床暖，月移山樹秋。",
+      "捧盂觀宿飯，敲磬過清流。",
+      "不掩玄關路，教人問白頭。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "白",
+        "variant": "到",
+        "source": "一作「到」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_070_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄武功姚主簿",
+    "poem": [
+      "居枕江沱北，情懸渭曲西。",
+      "數宵曾夢見，幾處得書披。",
+      "驛路穿荒阪，公田帶淤泥。",
+      "靜棋功奧妙，閑作韻清淒。",
+      "鋤草留叢藥，尋山上石梯。",
+      "客回河水漲，風起夕陽低。",
+      "空地苔連井，孤村火隔溪。",
+      "卷簾黃葉落，鎖印子規啼。",
+      "隴色澄秋月，邊聲入戰鼙。",
+      "會須過縣去，況是屢招攜。"
+    ]
+  },
+  {
+    "uid": "QTS_572_071_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題劉華書齋",
+    "poem": [
+      "白石床無塵，青松樹有鱗。",
+      "一鶯啼帶雨，兩樹合從春。",
+      "荒榭苔膠砌，幽叢果墮榛。",
+      "偶來疎或數，當暑夕勝晨。",
+      "露滴星河水，巢重草木薪。",
+      "終南同往意，趙北獨遊身。",
+      "渡葉司天漏，驚蛩遠地人。",
+      "機清公幹族，也莫臥漳濱。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "樹",
+        "variant": "枿",
+        "source": "一作「枿」"
+      },
+      {
+        "line": 2,
+        "text": "合",
+        "variant": "各",
+        "source": "一作「各」"
+      },
+      {
+        "line": 8,
+        "text": "族",
+        "variant": "疾",
+        "source": "一作「疾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_072_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送盧秀才遊潞府",
+    "poem": [
+      "雨餘滋潤在，風不起塵沙。",
+      "邊日寡文思，送君吟月華。",
+      "過山干相府，臨水宿僧家。",
+      "能賦焉長屈，芳春宴杏花。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "芳",
+        "variant": "他",
+        "source": "一作「他」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_073_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送南康姚明府",
+    "poem": [
+      "銅章美少年，小邑在南天。",
+      "版籍多遷客，封疆接洞田。",
+      "靜江鳴野鼓，發纜帶村煙。",
+      "卻笑陶元亮，何須憶醉眠。"
+    ]
+  },
+  {
+    "uid": "QTS_572_074_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送友人棄官游江左",
+    "poem": [
+      "羨君休作尉，萬事且全身。",
+      "寰海多虞日，江湖獨往人。",
+      "姓名何處變，鷗鳥幾時親。",
+      "別後吳中使，應須訪子真。"
+    ]
+  },
+  {
+    "uid": "QTS_572_075_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "雨中懷友人",
+    "poem": [
+      "對雨思君子，嘗茶近竹幽。",
+      "儒家鄰古寺，不到又逢秋。"
+    ]
+  },
+  {
+    "uid": "QTS_572_076_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄遠",
+    "poem": [
+      "家住錦水上，身征遼海邊。",
+      "十書九不到，一到忽經年。"
+    ]
+  },
+  {
+    "uid": "QTS_572_077_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "南齋",
+    "poem": [
+      "獨自南齋臥，神閒景亦空。",
+      "有山來枕上，無事到心中。",
+      "簾卷侵床月，屏遮入座風。",
+      "望春春未至，應在海門東。"
+    ]
+  },
+  {
+    "uid": "QTS_572_078_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "早春題友人湖上新居二首 其一",
+    "poem": [
+      "近得雲中路，門長侵早開。",
+      "到時猶有雪，行處已無苔。",
+      "勸酒客初醉，留茶僧未來。",
+      "每逢晴暖日，惟見乞花栽。"
+    ],
+    "notes": [
+      {
+        "content": "一作項斯詩",
+        "context": "上新居二首",
+        "original_title": "早春題友人湖上新居二首〈一作項斯詩〉"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_572_078_02",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "早春題友人湖上新居二首 其二",
+    "poem": [
+      "門不當官道，行人到亦稀。",
+      "故從餐後出，多是夜深歸。",
+      "開篋收詩卷，掃床移臥衣。",
+      "幾時同買宅，相送有柴扉。"
+    ],
+    "notes": [
+      {
+        "content": "一作項斯詩",
+        "context": "上新居二首",
+        "original_title": "早春題友人湖上新居二首〈一作項斯詩〉"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_572_079_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送雍陶入蜀",
+    "poem": [
+      "江山事若諳，那肯滯雲南。",
+      "草色分危磴，杉陰近古潭。",
+      "日斜褒谷鳥，夏淺巂州蠶。",
+      "吾自疑雙鬢，相逢更不堪。"
+    ]
+  },
+  {
+    "uid": "QTS_572_080_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "張郎中過原東居",
+    "poem": [
+      "年長惟添懶，經旬止掩關。",
+      "高人餐藥後，下馬此林間。",
+      "對坐天將暮，同來客亦閒。",
+      "幾時能重至，水味似深山。"
+    ]
+  },
+  {
+    "uid": "QTS_572_081_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "答王建秘書",
+    "poem": [
+      "人皆聞蟋蟀，我獨恨蹉跎。",
+      "白髮無心鑷，青山去意多。",
+      "信來漳浦岸，期負洞庭波。",
+      "時掃高槐影，朝迴或恐過。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「建」字",
+        "context": "答王建",
+        "original_title": "答王建〈一本無「建」字〉秘書"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "恨",
+        "variant": "歎",
+        "source": "一作「歎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_082_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送李餘往湖南",
+    "poem": [
+      "昔去候溫涼，秋山滿楚鄉。",
+      "今來從辟命，春物遍涔陽。",
+      "岳石掛海雪，野楓堆渚檣。",
+      "若尋吾祖宅，寂寞在瀟湘。"
+    ]
+  },
+  {
+    "uid": "QTS_572_083_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "偶作",
+    "poem": [
+      "野步隨吾意，那知是與非。",
+      "稔年時雨足，閏月暮蟬稀。",
+      "獨樹依岡老，遙峰出草微。",
+      "園林自有主，宿鳥且同歸。"
+    ]
+  },
+  {
+    "uid": "QTS_572_084_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "過雍秀才居",
+    "poem": [
+      "夏木鳥巢邊，終南嶺色鮮。",
+      "就涼安坐石，煮茗汲鄰泉。",
+      "鐘遠清霄半，蜩稀暑雨前。",
+      "幽齋如葺罷，約我一來眠。"
+    ]
+  },
+  {
+    "uid": "QTS_572_085_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄顧非熊",
+    "poem": [
+      "知君歸有處，山水亦難齊。",
+      "猶去瀟湘遠，不聞猨狖啼。",
+      "穴通茆嶺下，潮滿石頭西。",
+      "獨立生遙思，秋原日漸低。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "頭",
+        "variant": "城",
+        "source": "一作「城」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_086_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送神邈法師",
+    "poem": [
+      "柳絮落濛濛，西州道路中。",
+      "相逢春忽盡，獨去講初終。",
+      "行疾遙山雨，眠遲後夜風。",
+      "繞房三兩樹，迴日葉應紅。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "逢",
+        "variant": "留",
+        "source": "一作「留」"
+      },
+      {
+        "line": 4,
+        "text": "日",
+        "variant": "去",
+        "source": "一作「去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_087_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送慈恩寺霄韻法師謁太原李司空",
+    "poem": [
+      "何故謁司空，雲山知幾重。",
+      "磧遙來雁盡，雪急去僧逢。",
+      "清磬先寒角，禪燈徹曉烽。",
+      "舊房閒片石，倚著最高松。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "烽",
+        "variant": "峰",
+        "source": "一作「峰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_088_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送知興上人",
+    "poem": [
+      "久住巴興寺，如今始拂衣。",
+      "欲臨秋水別，不向故園歸。",
+      "錫掛天涯樹，房開嶽頂扉。",
+      "下看千里曉，霜海日生微。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "園",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 3,
+        "text": "開",
+        "variant": "閑",
+        "source": "一作「閑」"
+      },
+      {
+        "line": 4,
+        "text": "千",
+        "variant": "萬",
+        "source": "一作「萬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_089_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送惠雅法師歸玉泉",
+    "poem": [
+      "秖到瀟湘水，洞庭湖未遊。",
+      "飲泉看月別，下峽聽猨愁。",
+      "講不停雷雨，吟當近海流。",
+      "降霜歸楚夕，星冷玉泉秋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "向",
+        "source": "一作「向」"
+      },
+      {
+        "line": 2,
+        "text": "愁",
+        "variant": "浮",
+        "source": "一作「浮」"
+      },
+      {
+        "line": 3,
+        "text": "當",
+        "variant": "曾",
+        "source": "一作「曾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_090_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "憶江上吳處士",
+    "poem": [
+      "閩國揚帆去，蟾蜍虧復團。",
+      "秋風生渭水，落葉滿長安。",
+      "此地聚會夕，當時雷雨寒。",
+      "蘭橈殊未返，消息海雲端。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "虧",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_091_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題張博士新居",
+    "poem": [
+      "青楓何不種，林在洞庭村。",
+      "應為三湘遠，難移萬雷根。",
+      "斗牛初過伏，菡萏欲香門。",
+      "舊即湖山隱，新廬葺此原。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "斗牛初過伏，菡萏欲香門。",
+        "variant": "斗移亭北榭，蓮照水邊門。",
+        "source": "一作「斗移亭北榭，蓮照水邊門。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_092_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "石門陂留辭從叔謩",
+    "poem": [
+      "幽鳥飛不遠，此行千里間。",
+      "寒沖陂水霧，醉下菊花山。",
+      "有恥長為客，無成又入關。",
+      "何時臨澗柳，吾黨共來攀。"
+    ]
+  },
+  {
+    "uid": "QTS_572_093_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送朱兵曹回越",
+    "poem": [
+      "星彩練中見，澄江豈有泥。",
+      "潮生垂釣罷，楚盡去檣西。",
+      "磧鳥辭沙至，山鼯隔水啼。",
+      "會稽半侵海，濤白禹祠溪。"
+    ]
+  },
+  {
+    "uid": "QTS_572_094_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "懷博陵故人",
+    "poem": [
+      "孤城易水頭，不忘舊交遊。",
+      "雪壓圍碁石，風吹飲酒樓。",
+      "路遙千萬里，人別十三秋。",
+      "吟苦相思處，天寒水急流。"
+    ]
+  },
+  {
+    "uid": "QTS_572_095_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "夕思",
+    "poem": [
+      "秋宵已難曙，漏向二更分。",
+      "我憶山水坐，蟲當寂寞聞。",
+      "洞庭風落木，天姥月離雲。",
+      "會自東浮去，將何欲致君。"
+    ]
+  },
+  {
+    "uid": "QTS_572_096_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "寄河中楊少尹",
+    "poem": [
+      "非惟咎曩時，投刺詣門遲。",
+      "悵望三秋後，參差萬里期。",
+      "禹留疏鑿跡，舜在寂寥祠。",
+      "此到杳難共，迴風逐所思。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "到",
+        "variant": "致",
+        "source": "一作「致」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_097_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "孟融逸人",
+    "poem": [
+      "孟君臨水居，不食水中魚。",
+      "衣褐唯麤帛，筐箱秖素書。",
+      "樹林幽鳥戀，世界此心疎。",
+      "擬棹孤舟去，何峰又結廬。"
+    ]
+  },
+  {
+    "uid": "QTS_572_098_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "晚晴見終南諸峰",
+    "poem": [
+      "秦分積多峰，連巴勢不窮。",
+      "半旬藏雨裏，此日到窗中。",
+      "圓魄將昇兔，高空欲叫鴻。",
+      "故山思不見，碣石泬寥東。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "分",
+        "variant": "下",
+        "source": "一作「下」"
+      },
+      {
+        "line": 3,
+        "text": "空",
+        "variant": "虛",
+        "source": "一作「虛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_099_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "宿池上",
+    "poem": [
+      "泉來從絕壑，亭敞在中流。",
+      "竹密無空岸，松長可絆舟。",
+      "蟪蛄潭上夜，河漢島前秋。",
+      "異夕期深漲，攜琴卻此遊。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "夕",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_100_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "喜姚郎中自杭州回",
+    "poem": [
+      "路多楓樹林，累日泊清陰。",
+      "來去泛流水，翛然適此心。",
+      "一披江上作，三起月中吟。",
+      "東省期司諫，雲門悔不尋。"
+    ]
+  },
+  {
+    "uid": "QTS_572_101_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送鄭長史之嶺南",
+    "poem": [
+      "雲林頗重疊，岑渚復幽奇。",
+      "汨水斜陽岸，騷人正則祠。",
+      "蒼梧多蟋蟀，白露溼江蘺。",
+      "擢第榮南去，晨昏近九疑。"
+    ],
+    "notes": [
+      {
+        "content": "一本題作「送鄭史」",
+        "context": "長史之嶺南",
+        "original_title": "送鄭長史之嶺南〈一本題作「送鄭史」〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_102_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送李溟謁宥州李權使君",
+    "poem": [
+      "英雄典宥州，迢遰苦吟遊。",
+      "風宿驪山下，月斜灞水流。",
+      "去時初落葉，回日定非秋。",
+      "太守攜才子，看鵬百尺樓。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "非",
+        "variant": "無",
+        "source": "一作「無」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_103_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "永福湖和楊鄭州",
+    "poem": [
+      "積水還平岸，春來引鄭溪。",
+      "舊渠通郭下，新堰絕湖西。",
+      "嵩少分明對，瀟湘闊狹齊。",
+      "客遊隨庶子，孤嶼草萋萋。"
+    ]
+  },
+  {
+    "uid": "QTS_572_104_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "題長江",
+    "poem": [
+      "言心俱好靜，廨署落暉空。",
+      "歸吏封宵鑰，行蛇入古桐。",
+      "長江頻雨後，明月眾星中。",
+      "若任遷人去，西溪與剡通。"
+    ],
+    "notes": [
+      {
+        "content": "一作有「廳」字",
+        "context": "題長江",
+        "original_title": "題長江〈一作有「廳」字〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_105_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "泥陽館",
+    "poem": [
+      "客愁何並起，暮送故人回。",
+      "廢館秋螢出，空城寒雨來。",
+      "夕陽飄白露，樹影掃青苔。",
+      "獨坐離容慘，孤燈照不開。"
+    ]
+  },
+  {
+    "uid": "QTS_572_106_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送徐員外赴河中",
+    "poem": [
+      "原野正蕭瑟，中間分散情。",
+      "吏從甘扈罷，詔許朔方行。",
+      "邊日沉殘角，河關截夜城。",
+      "雲居閑獨往，長老出房迎。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_572_107_01",
+    "volume": 572,
+    "author": {
+      "canonical": "賈島",
+      "recorded": "賈島",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jia Dao",
+      "wikidata_id": "Q1267957"
+    },
+    "title": "送賀蘭上人",
+    "poem": [
+      "野僧來別我，略坐傍泉沙。",
+      "遠道擎空鉢，深山蹋落花。",
+      "無師禪自解，有格句堪誇。",
+      "此去非緣事，孤雲不定家。"
+    ]
+  }
+]

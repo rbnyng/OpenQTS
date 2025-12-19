@@ -1,0 +1,277 @@
+[
+  {
+    "uid": "QTS_741_001_01",
+    "volume": 741,
+    "author": {
+      "canonical": "陳貺",
+      "recorded": "陳貺",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Chen Kuang",
+      "wikidata_id": "Q45541474"
+    },
+    "title": "景陽臺懷古",
+    "poem": [
+      "景陽六朝地，運極自依依。",
+      "一會皆同是，到頭誰論非。",
+      "酒濃沈遠慮，花好失前機。",
+      "見此尤宜戒，正當家國肥。"
+    ]
+  },
+  {
+    "uid": "QTS_741_002_01",
+    "volume": 741,
+    "author": {
+      "canonical": "劉洞",
+      "recorded": "劉洞",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Liu Dong",
+      "wikidata_id": "Q45481538"
+    },
+    "title": "石城懷古",
+    "poem": [
+      "石城古岸頭，一望思悠悠。",
+      "幾許六朝事，不禁江水流。"
+    ]
+  },
+  {
+    "uid": "QTS_741_003_01",
+    "volume": 741,
+    "author": {
+      "canonical": "劉洞",
+      "recorded": "劉洞",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Liu Dong",
+      "wikidata_id": "Q45481538"
+    },
+    "title": "句 其一",
+    "poem": [
+      "千里長江皆渡馬，十年養士得何人。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_741_003_02",
+    "volume": 741,
+    "author": {
+      "canonical": "劉洞",
+      "recorded": "劉洞",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Liu Dong",
+      "wikidata_id": "Q45481538"
+    },
+    "title": "句 其二",
+    "poem": [
+      "翻憶潘郎章奏內，愔愔日暮好沾巾。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_741_003_03",
+    "volume": 741,
+    "author": {
+      "canonical": "劉洞",
+      "recorded": "劉洞",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Liu Dong",
+      "wikidata_id": "Q45481538"
+    },
+    "title": "句 其三",
+    "poem": [
+      "百骸同草木，萬象入心靈。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_741_004_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "旅懷",
+    "poem": [
+      "迢迢江漢路，秋色又堪驚。",
+      "半夜聞鴻雁，多年別弟兄。",
+      "高風雲影斷，微雨菊花明。",
+      "欲寄東歸信，裴回無限情。"
+    ]
+  },
+  {
+    "uid": "QTS_741_005_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "江行",
+    "poem": [
+      "越信隔年稀，孤舟幾夢歸。",
+      "月寒花露重，江晚水煙微。",
+      "峰直帆相望，沙空鳥自飛。",
+      "何時洞庭上，春雨滿蓑衣。"
+    ]
+  },
+  {
+    "uid": "QTS_741_006_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "登潤州城",
+    "poem": [
+      "天末江城晚，登臨客望迷。",
+      "春潮平島嶼，殘雨隔虹蜺。",
+      "鳥與孤帆遠，煙和獨樹低。",
+      "鄉山何處是？目斷廣陵西。"
+    ]
+  },
+  {
+    "uid": "QTS_741_007_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "岳陽樓",
+    "poem": [
+      "倚樓高望極，展轉念前途。",
+      "晚葉紅殘楚，秋江碧入吳。",
+      "雲中來鴈急，天末去帆孤。",
+      "明月誰同我，悠悠上帝都。"
+    ]
+  },
+  {
+    "uid": "QTS_741_008_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "送客",
+    "poem": [
+      "明月孤舟遠，吟髭鑷更華。",
+      "天形圍澤國，秋色露人家。",
+      "水館螢交影，霜洲橘委花。",
+      "何當尋舊隱，泉石好生涯。"
+    ]
+  },
+  {
+    "uid": "QTS_741_009_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "臨刑詩",
+    "poem": [
+      "街鼓侵人急，西傾日欲斜。",
+      "黃泉無旅店，今夜宿誰家。"
+    ]
+  },
+  {
+    "uid": "QTS_741_010_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "塞下曲",
+    "poem": [
+      "萬里黃雲凍不飛，磧煙烽火夜深微。",
+      "胡兒移帳寒笳絕，雪路時聞探馬歸。"
+    ]
+  },
+  {
+    "uid": "QTS_741_011_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "隋堤柳",
+    "poem": [
+      "錦纜龍舟萬里來，醉鄉繁盛忽塵埃。",
+      "空餘兩岸千株柳，雨葉風花作恨媒。"
+    ]
+  },
+  {
+    "uid": "QTS_741_012_01",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "句 其一",
+    "poem": [
+      "吟登蕭寺旃檀閣，醉倚王家玳瑁筵。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_741_012_02",
+    "volume": 741,
+    "author": {
+      "canonical": "江為",
+      "recorded": "江為",
+      "gender": "male",
+      "wikidata_id": "Q22098538"
+    },
+    "title": "句 其二",
+    "poem": [
+      "遠遠朝宗出白雲，方圓隨處性長存。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_741_013_01",
+    "volume": 741,
+    "author": {
+      "canonical": "高越",
+      "recorded": "高越",
+      "gender": "male",
+      "wikidata_id": "Q16926038"
+    },
+    "title": "詠鷹",
+    "poem": [
+      "雪爪星眸世所稀，摩天專待振毛衣。",
+      "虞人莫謾張羅網，未肯平原淺草飛。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "虞人莫謾張羅網",
+        "variant": "晴空不礙摩天翮",
+        "source": "一作「晴空不礙摩天翮」"
+      }
+    ]
+  }
+]

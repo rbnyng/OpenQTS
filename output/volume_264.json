@@ -1,0 +1,1658 @@
+[
+  {
+    "uid": "QTS_264_001_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "琴歌",
+    "poem": [
+      "琴調秋些，胡風繞雪。",
+      "峽泉聲咽，佳人愁些。"
+    ]
+  },
+  {
+    "uid": "QTS_264_002_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 上古一章",
+    "poem": [
+      "遐哉上古，生棄與柱。",
+      "勾龍，乃有甫田。",
+      "惟彼甫田，有萬斯年。",
+      "開利之源。",
+      "無乃塞源。",
+      "一廛亦官，百廛亦官，嗇夫孔艱。",
+      "浸兮暵兮，申有螽兮。",
+      "惟馨祀是患，豈止餒與寒。",
+      "嗇夫咨咨，䅎盛苗衰。",
+      "耕之耰之，襏襫鋤犁，手胼足胝。",
+      "水之蛭螾，吮喋我肌。",
+      "我姑自思，胡不奮飛。",
+      "東人利百，西人利百。",
+      "有匪我心，胡為不易。",
+      "河水活活，萬人逐末。",
+      "俾爾之愉悅兮。"
+    ],
+    "part_index": 1,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_02",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 左車二章 其一",
+    "poem": [
+      "左車有慶，萬人猶病。",
+      "曷可去之，於黨孔盛。",
+      "敏爾之生，胡為波迸。"
+    ],
+    "part_index": 2,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_03",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 左車二章 其二",
+    "poem": [
+      "左車有赫，萬人毒螫。",
+      "曷可去之，於黨孔碩。",
+      "敏爾之生，胡為草戚。"
+    ],
+    "part_index": 3,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_04",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 築城二章 其一",
+    "poem": [
+      "築城登登，於以作固。",
+      "咨爾寺兮，發郊外塚墓。",
+      "死而無知，猶或不可；若其有知，惟上帝是愬。"
+    ],
+    "part_index": 4,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_05",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 築城二章 其二",
+    "poem": [
+      "築城奕奕，於以固敵。",
+      "咨爾寺兮，發郊外塚甓。",
+      "死而無知，猶或不可。",
+      "若其有知，惟上帝是謫。"
+    ],
+    "part_index": 5,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_06",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 持斧一章",
+    "poem": [
+      "持斧持斧，無翦我松柏兮。"
+    ],
+    "part_index": 6,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_07",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 十月之郊一章",
+    "poem": [
+      "十月之郊，羣木肇生。",
+      "陽潛地中，舒達句萌。",
+      "曀其蔚兮，不可以遊息。",
+      "乃熂蒺藜，乃夷荊棘，乃繇彼曲直，匠氏度思。",
+      "登斧以時，澤梁蓁蓁。",
+      "無或夭枝，有巨根蒂。",
+      "生混茫際，呼吸羣籟。",
+      "萬人揮斤，坎坎有厲。",
+      "陸遷水濟，力殫弊。",
+      "審方面勢，姑博其制，作為室。",
+      "室既成，禦燥濕風日。",
+      "棟之斯厚，榱之斯密。",
+      "如翼於飛，如鱗櫛比。",
+      "繚以周墉。",
+      "墄以崇階。",
+      "俯而望之，矗與雲齊。",
+      "䃤砆碔砆，藻井旋題。",
+      "丹素之燝兮，椒桂之馥兮。",
+      "高閣高閣，珠綴結絡。",
+      "金鋪爛若，不集於鳥雀。",
+      "繪事告畢，賓筵秩秩，乃命旨酒琴瑟。",
+      "琴瑟在堂，莫不靜謐。",
+      "周環掩闢，仰不漏日。",
+      "冬日嚴凝。",
+      "言納其陽，和風載升。",
+      "夏日鬱蒸，言用於陰，涼風颯興。",
+      "有匪君子，自賢不已，乃夢乘舟，乃夢乘車。",
+      "夢人占之，更爽其居。",
+      "炎炎則移，皎皎則虧。",
+      "木實之繁兮，明年息枝。",
+      "爰處若思，胡寧不爾思。"
+    ],
+    "notes": [
+      {
+        "line": 11,
+        "content": "一本有乃鼓二字",
+        "context": "言納其陽，和風載升。夏日鬱蒸，言用於陰，涼風颯興。"
+      }
+    ],
+    "part_index": 7,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_08",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 燕於巢一章",
+    "poem": [
+      "燕燕於巢，綴葺維戊。",
+      "甲兮乙兮，不宜有謬。",
+      "飛龍在天，雲掩於斗。",
+      "曷日於雨，乃曰庚午。",
+      "彼日之差，亦孔斯醜。",
+      "昔在羲和，湎淫不修。",
+      "我筮我龜，莫我告繇。",
+      "胤乃征之，彝倫九疇。",
+      "君子授律，是禡是禷。",
+      "三五不備，罔克攸遂。",
+      "惠此蒸人，毋廢爾事。",
+      "爾莫我從，維來者是冀。"
+    ],
+    "part_index": 8,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_09",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 蘇方一章",
+    "poem": [
+      "蘇方之赤，在胡之舶，其利乃博。",
+      "我土曠兮，我居闐兮，我衣不白兮。",
+      "朱紫爛兮，傳瑞曄兮。",
+      "相唐虞之維百兮。"
+    ],
+    "part_index": 9,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_10",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 陵霜之華一章",
+    "poem": [
+      "陵霜之華，我心憂嗟。",
+      "陰之勝矣，而陽不加。",
+      "坱軋鈞，乃帝乃神，乃舒乃屯。",
+      "烈烈嚴秋，熙熙陽春，職生有倫。",
+      "今華髮非其辰，辰屬東方之仁，遐想三五。",
+      "黃帝登雲，堯年百餘。",
+      "二儀分位，六氣不渝。",
+      "二景如璧，五星如珠。",
+      "陵霜之華兮，何不妄敷。"
+    ],
+    "part_index": 10,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_11",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 囝一章",
+    "poem": [
+      "囝生閩方，閩吏得之，乃絕其陽。",
+      "為臧為獲，致金滿屋。",
+      "為髡為鉗，如視草木。",
+      "天道無知，我罹其毒。",
+      "神道無知，彼受其福。",
+      "郎罷別囝，吾悔生汝。",
+      "及汝既生，人勸不舉。",
+      "不從人言，果獲是苦。",
+      "囝別郎罷，心摧血下。",
+      "隔地絕天，乃至黃泉，不得在郎罷前。"
+    ],
+    "part_index": 11,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_12",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 我行自東一章",
+    "poem": [
+      "我行自東，山海其空，旅棘有叢。",
+      "我行自西，壘與雲齊，雨雪淒淒。",
+      "我行自南，烈火滿林，日中無禽，霧雨淫淫。",
+      "我行自北，燭龍寡色，何枉不直。",
+      "我憂京京，何道不行兮？"
+    ],
+    "part_index": 12,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_002_13",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上古之什補亡訓傳十三章 採蠟一章",
+    "poem": [
+      "採採者蠟，於泉穀兮。",
+      "煌煌中堂，烈華燭兮。",
+      "新歌善舞，弦柱促兮；荒巖之人，自取其毒兮。"
+    ],
+    "part_index": 13,
+    "total_parts": 13
+  },
+  {
+    "uid": "QTS_264_003_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "棄婦詞",
+    "poem": [
+      "古人雖棄婦，棄婦有歸處。",
+      "今日妾辭君，辭君欲何去。",
+      "本家零落盡，慟哭來時路。",
+      "憶昔未嫁君，聞君甚周旋。",
+      "及與同結髮，值君適幽燕。",
+      "孤魂託飛鳥，兩眼如流泉。",
+      "流泉咽不燥，萬里關山道。",
+      "及至見君歸，君歸妾已老。",
+      "物情棄衰歇，新寵方妍好。",
+      "拭淚出故房，傷心劇秋草",
+      "妾以憔悴捐，羞將舊物還。",
+      "餘生欲有寄，誰肯相留連。",
+      "空床對虛牖，不覺塵埃厚。",
+      "寒水芙蓉花，秋風墮楊柳。",
+      "記得初嫁君，小姑始扶床。",
+      "今日君棄妾，小姑如妾長。",
+      "回頭語小姑，莫嫁如兄夫。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雖",
+        "variant": "有",
+        "source": "一作「有」"
+      },
+      {
+        "line": 2,
+        "text": "辭君欲何去",
+        "variant": "遣妾何處去",
+        "source": "一作「遣妾何處去」"
+      },
+      {
+        "line": 3,
+        "text": "本",
+        "variant": "舊",
+        "source": "一作「舊」"
+      },
+      {
+        "line": 7,
+        "text": "萬里",
+        "variant": "獨夢",
+        "source": "一作「獨夢」"
+      },
+      {
+        "line": 8,
+        "text": "至",
+        "variant": "此",
+        "source": "一作「此」"
+      },
+      {
+        "line": 9,
+        "text": "情棄",
+        "variant": "華惡",
+        "source": "一作「華惡」"
+      },
+      {
+        "line": 10,
+        "text": "拭",
+        "variant": "掩",
+        "source": "一作「掩」"
+      },
+      {
+        "line": 11,
+        "text": "妾",
+        "variant": "此",
+        "source": "一作「此」"
+      },
+      {
+        "line": 11,
+        "text": "捐",
+        "variant": "顏",
+        "source": "一作「顏」"
+      },
+      {
+        "line": 11,
+        "text": "羞將",
+        "variant": "空持",
+        "source": "一作「空持」"
+      },
+      {
+        "line": 12,
+        "text": "欲有寄",
+        "variant": "亦何寄",
+        "source": "一作「亦何寄」"
+      },
+      {
+        "line": 12,
+        "text": "留連",
+        "variant": "牽攀",
+        "source": "一作「牽攀」"
+      },
+      {
+        "line": 15,
+        "text": "記得",
+        "variant": "憶昔",
+        "source": "一作「憶昔」"
+      },
+      {
+        "line": 15,
+        "text": "始",
+        "variant": "纔",
+        "source": "一作「纔」"
+      },
+      {
+        "line": 16,
+        "text": "君棄妾",
+        "variant": "妾辭君",
+        "source": "一作「妾辭君」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_004_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "遊子吟",
+    "poem": [
+      "故櫪思疲馬，故窠思迷禽。",
+      "浮雲蔽我鄉，躑躅遊子吟。",
+      "遊子悲久滯，浮雲鬱東岑。",
+      "客堂無絲桐，落葉如秋霖。",
+      "艱哉遠遊子，所以悲滯淫。",
+      "一為浮雲詞，憤塞誰能禁。",
+      "馳歸百年內，唯願展所欽。",
+      "胡為不歸歟，坐使年病侵。",
+      "未老霜繞鬢，非狂火燒心。",
+      "太行何難哉，北斗不可斟。",
+      "夜靜星河出，耿耿辰與參。",
+      "佳人敻青天，尺素重於金。",
+      "泬寥群動異，眇默諸境森。",
+      "苔衣上閒階，蟋蟀催寒碪。",
+      "立身計幾誤，道險無容針。",
+      "三年不還家，萬里遺錦衾。",
+      "夢魂無重阻，離憂罔古今。",
+      "胡為不歸歟，辜負匣中琴。",
+      "腰下是何物，牽纏曠登尋。",
+      "朝與名山期，夕宿楚水陰。",
+      "楚水殊演漾，名山窅峽嶔。",
+      "客從洞庭來，婉孌瀟湘深。",
+      "橘柚在南國，鴻雁遺秋音。",
+      "下有碧草洲，上有青橘林。",
+      "引燭窺洞穴，凌波睥天琛。",
+      "蒲荷影參差，鳧鶴雛淋涔。",
+      "浩歌惜芳杜，散髮輕華簪。",
+      "胡為不歸歟，淚下沾衣襟。",
+      "鳶飛戾霄漢，螻蟻制鱣鱘。",
+      "赫赫大聖朝，日月光照臨。",
+      "聖主雖啟迪，奇人分湮沈。",
+      "層城登雲韶，王府鏘球琳。",
+      "鹿鳴志豐草，況復虞人箴。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "歸",
+        "variant": "暉",
+        "source": "一作「暉」"
+      },
+      {
+        "line": 14,
+        "text": "蟋蟀",
+        "variant": "蜻蛚",
+        "source": "一作「蜻蛚」"
+      },
+      {
+        "line": 17,
+        "text": "罔",
+        "variant": "因",
+        "source": "一作「因」"
+      },
+      {
+        "line": 18,
+        "text": "辜",
+        "variant": "孤",
+        "source": "一作「孤」"
+      },
+      {
+        "line": 31,
+        "text": "奇",
+        "variant": "吾",
+        "source": "一作「吾」"
+      },
+      {
+        "line": 32,
+        "text": "登",
+        "variant": "發",
+        "source": "一作「發」"
+      },
+      {
+        "line": 32,
+        "text": "王",
+        "variant": "玉",
+        "source": "一作「玉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_005_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "擬古三首 其一",
+    "poem": [
+      "龍劍昔藏影，送雄留其雌。",
+      "人生阻歡會，神物亦別離。",
+      "碧樹感秋落，佳人無還期。",
+      "夜琴爲君咽，浮雲爲君滋。",
+      "愛而傷不見，星漢徒參差。"
+    ],
+    "preface": "〈第一首一作《長安古意》〉",
+    "part_index": 1,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 5,
+        "text": "星漢",
+        "variant": "使星",
+        "source": "一作「使星」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_005_02",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "擬古三首 其二",
+    "poem": [
+      "幽居盼天造，胡息運行機。",
+      "春葩妍既榮，秋葉瘁以飛。",
+      "滔滔川之逝，日沒月光輝。",
+      "所貴法乾健，於道悟入微。",
+      "任彼聲勢徒，得志方誇毗。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_264_005_03",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "擬古三首 其三",
+    "poem": [
+      "浮生果何慕，老去羨介推。",
+      "陶令何足錄，彭澤歸已遲。",
+      "空負漉酒巾，乞食形諸詩。",
+      "吾惟抱貞素，悠悠白雲期。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_264_006_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "傷子",
+    "poem": [
+      "老夫哭愛子，日暮千行血。",
+      "聲逐斷猿悲，跡隨飛鳥滅。",
+      "老夫已七十，不作多時別。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "哭",
+        "variant": "喪",
+        "source": "一作「喪」"
+      },
+      {
+        "line": 2,
+        "text": "跡",
+        "variant": "路",
+        "source": "一作「路」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_007_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "春遊曲二首 其一",
+    "poem": [
+      "遊童蘇合帶，倡女蒲葵扇。",
+      "初日映城時，相思忽相見。",
+      "褰裳踏露草，理鬢回花面。",
+      "薄暮不同歸，留情此芳甸。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_264_007_02",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "春遊曲二首 其二",
+    "poem": [
+      "柘彈連錢馬，銀鉤妥墮鬟。",
+      "採桑春陌上，踏草夕陽間。",
+      "意合詞先露，心誠貌卻閑。",
+      "明朝若相憶，雲雨出巫山。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_264_008_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "從軍行二首 其一",
+    "poem": [
+      "弭節結徒侶，速征赴龍城。",
+      "單于近突圍，烽燧屢夜驚。",
+      "長弓挽滿月，劍華霜雪明。",
+      "遠道百草殞，峭覺寒風生。",
+      "風寒欲砭肌，爭奈裘襖輕。",
+      "回首家不見，候雁空中鳴。",
+      "笳奏遝以哀，肅肅趣嚴程。",
+      "寄語塞外胡，擁騎休橫行。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_264_008_02",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "從軍行二首 其二",
+    "poem": [
+      "少年膽氣麁，好勇萬人敵。",
+      "仗劍出門去，三邊正艱厄。",
+      "怒目時一呼，萬騎皆辟易。",
+      "殺人蓬麻輕，走馬汗血滴。",
+      "醜虜何足清，天山坐寧謐。",
+      "不有封侯相，徒負幽幷客。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_264_009_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "塞上曲",
+    "poem": [
+      "黠虜初南下，塵飛塞北境。",
+      "漢將懷不平，讎擾當遠屏。",
+      "金革臥不暖，起舞霜月冷。",
+      "點軍三十千，部伍嚴以整。",
+      "酣戰祈成功，於焉罷邊舋。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "千",
+        "variant": "年",
+        "source": "一作「年」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_010_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "弋陽溪中望仙人城",
+    "poem": [
+      "何草乏靈姿，無山不孤絕。",
+      "我行雖雲蹇，偶勝聊換節。",
+      "上界浮中流，光響洞明滅。",
+      "晚禽曝霜羽，寒魚依石髮。",
+      "自有無還心，隔波望松雪。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_011_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "嚴公釣臺作",
+    "poem": [
+      "靈芝產遐方，威鳳家重霄。",
+      "嚴生何耿潔，託志肩夷巢。",
+      "漢後雖則貴，子陵不知高。",
+      "糠秕當世道，長揖夔龍朝。",
+      "掃門彼何人，升降不同朝。",
+      "捨舟遂長往，山谷多清飆。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "家",
+        "variant": "駕",
+        "source": "一作「駕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_012_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "蕭寺偃松",
+    "poem": [
+      "淒淒百卉病，亭亭雙松迥。",
+      "直上古寺深，橫拂秋殿冷。",
+      "輕響入龜目，片陰棲鶴頂。",
+      "山中多好樹，可憐無比並。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "目",
+        "variant": "息",
+        "source": "一作「息」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_013_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "獨遊青龍寺",
+    "poem": [
+      "春風入香剎，暇日獨游衍。",
+      "曠然蓮花臺，作禮月光面。",
+      "乘茲第八識，出彼超二見。",
+      "擺落區中緣，無邊廣弘願。",
+      "長廊朝雨畢，古木時禽囀。",
+      "積翠曖遙原，雜英紛似霰。",
+      "鳳城勝日窟，龍首橫天堰。",
+      "蟻步避危階，蠅飛響深殿。",
+      "大通智勝佛，幾劫道場現。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "雜",
+        "variant": "離",
+        "source": "一作「離」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_014_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "初秋蓮塘歸",
+    "poem": [
+      "秋光淨無跡，蓮消錦雲紅。",
+      "只有溪上山，遠識揚舲翁。",
+      "如何白蘋花，幽渚笑涼風。"
+    ]
+  },
+  {
+    "uid": "QTS_264_015_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "從江西至彭蠡入浙西淮南界道中寄齊相公",
+    "poem": [
+      "大賢舊丞相，作鎮江山雄。",
+      "自鎮江山來，何人得如公。",
+      "處士待徐孺，仙人期葛洪。",
+      "一身控上遊，八郡趨下風。",
+      "比屋除畏溺，林塘曳煙虹。",
+      "生人罷虔劉，井稅均且充。",
+      "大府肅無事，歡然接悲翁。",
+      "心清百丈泉，目送孤飛鴻。",
+      "數年鄱陽掾，抱責棲微躬。",
+      "首陽及汨羅，無乃褊其衷。",
+      "楊朱幷阮籍，未免哀途窮。",
+      "四賢雖得仁，此怨何怱怱。",
+      "老氏齊寵辱，於陵一窮通。",
+      "本師留度門，平等冤親同。",
+      "能依二諦法，了達三輪空。",
+      "真境靡方所，出離內外中。",
+      "無邊盡未來，定惠雙修功。",
+      "蹇步慙寸進，餙裝隨轉蓬。",
+      "朝行楚水陰，夕宿吳洲東。",
+      "吳洲復白雲，楚水飄丹楓。",
+      "晚霞燒廻潮，千里光曈曈。",
+      "蓂開海上影，桂吐淮南叢。",
+      "何當翼明庭，草木生春融。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "山",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "上",
+        "source": "一作「上」"
+      },
+      {
+        "line": 6,
+        "text": "且",
+        "variant": "以",
+        "source": "一作「以」"
+      },
+      {
+        "line": 7,
+        "text": "然",
+        "variant": "言",
+        "source": "一作「言」"
+      },
+      {
+        "line": 17,
+        "text": "惠",
+        "variant": "慧",
+        "source": "一作「慧」"
+      },
+      {
+        "line": 20,
+        "text": "復",
+        "variant": "覆",
+        "source": "一作「覆」"
+      },
+      {
+        "line": 23,
+        "text": "春",
+        "variant": "昭",
+        "source": "一作「昭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_016_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "寄上兵部韓侍郎奉呈李戶部盧刑部杜三侍郎",
+    "poem": [
+      "道路五千里，門闌三十年。",
+      "當時攜手人，今日無半全。",
+      "詠題官舍內，賦韻僧房前。",
+      "公登略彴橋，況榜龍�船。",
+      "遠寺吐朱閣，春潮浮綠煙。",
+      "鵷鴻翔鄧林，沙鴇飛吳田。",
+      "諸子紛出祖，中宵久留連。",
+      "坐客三千人，皆稱主人賢。",
+      "國士分如此，家臣亦依然。",
+      "身在薜蘿中，頭刺文案邊。",
+      "故吏已重疊，門生從聯翩。",
+      "得罪爲何名，無階問皇天。",
+      "出門多岐路，命駕無由緣。",
+      "伏承諸侍郎，顧念猶迍邅。",
+      "聖代逢三宥，營魂空九遷。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "龍",
+        "variant": "矓",
+        "source": "一作「矓」"
+      },
+      {
+        "line": 10,
+        "text": "在",
+        "variant": "從",
+        "source": "一作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_017_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "長安竇明府後亭",
+    "poem": [
+      "君為長安令，我美長安政。",
+      "五日一朝天，南山對明鏡。",
+      "鳥飛青苔院，水木相輝映。",
+      "客至南雲鄉，絲桐展歌詠。",
+      "吏人何蕭蕭，終歲無喧競。",
+      "欲識明府賢，邑中多百姓。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "雲",
+        "variant": "薰",
+        "source": "一作「薰」"
+      },
+      {
+        "line": 5,
+        "text": "蕭蕭",
+        "variant": "肅肅",
+        "source": "一作「肅肅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_018_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "謝王郎中見贈琴鶴",
+    "poem": [
+      "此琴等焦尾，此鶴方胎生。",
+      "赴節何徘徊，理感物自並。",
+      "獨立江海上，一彈天地清。",
+      "朱絃動瑤華，白羽飄玉京。",
+      "因想羨門輩，眇然四體輕。",
+      "子喬翔鄧林，王母遊層城。",
+      "忽如啟靈署，鸞鳳相和鳴。",
+      "何由玉女床，去食琅玕英。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "如",
+        "variant": "然",
+        "source": "一作「然」"
+      },
+      {
+        "line": 7,
+        "text": "和",
+        "variant": "呼",
+        "source": "一作「呼」"
+      },
+      {
+        "line": 8,
+        "text": "玉女床",
+        "variant": "女床山",
+        "source": "一作「女床山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_019_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "和翰林吳舍人兄弟西齋",
+    "poem": [
+      "君家誠易見，易知復難同。",
+      "新裁尺一詔，早入明光宮。",
+      "西齋何其高，上與星漢通。",
+      "永懷洞庭石，春色相玲瓏。",
+      "久懷巴峽泉，夜落君絲桐。",
+      "信是怡神所，迢迢蔑華嵩。",
+      "鳥飛晴雲滅，疊嶂盤虛空。",
+      "君家誠易知，易知意難窮。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "高",
+        "variant": "遠",
+        "source": "一作「遠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_020_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "望初月簡於吏部",
+    "poem": [
+      "泬寥中秋夜，坐見如鉤月。",
+      "始從西南升，又欲西南沒。",
+      "全移河上影，暫透林間缺。",
+      "縱待三五時，終爲千里別。"
+    ]
+  },
+  {
+    "uid": "QTS_264_021_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "上湖至破山贈文周蕭元植",
+    "poem": [
+      "一別二十年，依依過故轍。",
+      "湖上非往態，夢想頻虛結。",
+      "二子伴我行，我行感徂節。",
+      "後人應不識，前事寒泉咽。",
+      "一別二十年，人堪幾回別。"
+    ]
+  },
+  {
+    "uid": "QTS_264_022_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "酬信州劉侍郎兄",
+    "poem": [
+      "劉兄本知命，屈伸不介懷。",
+      "南州管靈山，可惜曠土棲。",
+      "樵隱同一徑，竹樹薄西齋。",
+      "鳥陵嶂合杳，月配波徘徊。",
+      "薄宦修禮數，長景謝譚諧。",
+      "願為南州民，輸稅事鋤犁。",
+      "胡為走不止，風雨驚邅迴。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "土棲",
+        "variant": "士乖",
+        "source": "一作「士乖」"
+      },
+      {
+        "line": 4,
+        "text": "波",
+        "variant": "陂",
+        "source": "一作「陂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_023_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "奉酬劉侍郎",
+    "poem": [
+      "幾迴新秋影，壁滿蟾又缺。",
+      "鏡破似傾臺，輪斜同覆轍。",
+      "雖分上林桂，還照滄洲雪。",
+      "暫伴憔悴人，歸華耿不滅。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "壁",
+        "variant": "璧",
+        "source": "一作「璧」"
+      },
+      {
+        "line": 2,
+        "text": "似",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_024_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "酬本部韋左司",
+    "poem": [
+      "好鳥依佳樹，飛雨灑高城。",
+      "況與二三子，列坐分兩楹。",
+      "文雅一何盛，林塘含餘清。",
+      "府君未歸朝，遊子不待晴。",
+      "白雲帝城遠，滄江楓葉鳴。",
+      "卻略欲一言，零淚和酒傾。",
+      "寸心久摧折，別離重骨驚。",
+      "安得凌風翰，肅肅賓天京。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "二三",
+        "variant": "數君",
+        "source": "一作「數君」"
+      },
+      {
+        "line": 3,
+        "text": "盛",
+        "variant": "麗",
+        "source": "一作「麗」"
+      },
+      {
+        "line": 4,
+        "text": "府君",
+        "variant": "我公",
+        "source": "一作「我公」"
+      },
+      {
+        "line": 6,
+        "text": "卻略欲一言",
+        "variant": "拜手欲無言",
+        "source": "一作「拜手欲無言」"
+      },
+      {
+        "line": 7,
+        "text": "久",
+        "variant": "已",
+        "source": "一作「已」"
+      },
+      {
+        "line": 7,
+        "text": "重",
+        "variant": "方",
+        "source": "一作「方」"
+      },
+      {
+        "line": 8,
+        "text": "風",
+        "variant": "霜",
+        "source": "一作「霜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_025_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "酬房杭州",
+    "poem": [
+      "郡樓何其曠，亭亭廣而深。",
+      "故人牧餘杭，留我披胸衿。",
+      "滿篋閱新作，璧玉誕清音。",
+      "流水入洞天，窅豁欲淩臨。",
+      "闢險延北阜，薙道陟南岑。",
+      "朝從山寺遠，醒醉動笑吟。",
+      "荷花十餘里，月色攢湖林。",
+      "父老惜使君，卻欲速華簪。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "欲",
+        "variant": "相",
+        "source": "一作「相」"
+      },
+      {
+        "line": 6,
+        "text": "笑",
+        "variant": "愁",
+        "source": "一作「愁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_026_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "酬漳州張九使君",
+    "poem": [
+      "故人窮越徼，狂生起悲愁。",
+      "山海萬里別，草木十年秋。",
+      "鞭馬廣陵橋，出祖張漳州。",
+      "促膝墮簪珥，闢幌戛琳球。",
+      "短題自茲簡，華篇詎能酬。",
+      "無階承明庭，高步相追遊。",
+      "南方榮桂枝，淩冬舍溫裘。",
+      "猿吟郡齋中，龍靜檀欒流。",
+      "薜鹿莫徭洞，網魚盧亭洲。",
+      "心安處處安，處處思遐陬。"
+    ],
+    "variants": [
+      {
+        "line": 9,
+        "text": "薜",
+        "variant": "薛",
+        "source": "一作「薛」"
+      },
+      {
+        "line": 9,
+        "text": "洲",
+        "variant": "舟",
+        "source": "一作「舟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_027_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "在滁苦雨歸桃花崦傷親友略盡",
+    "poem": [
+      "廢棄忝殘生，後來亦先夭。",
+      "詩人感風雨，長夜何時曉。",
+      "去國宦情無，近鄉歸夢少。",
+      "庇身絕中授，甘靜忘外擾。",
+      "麗景變重陰，洞山空木表。",
+      "靈潮若可通，寄謝西飛鳥。"
+    ]
+  },
+  {
+    "uid": "QTS_264_028_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "苦雨",
+    "poem": [
+      "朝與佳人期，碧樹生紅蕚。",
+      "暮與佳人期，飛雨灑清閣。",
+      "佳人窅何許，中夜心寂寞。",
+      "試憶花正開，復驚葉初落。",
+      "行騎飛泉鹿，臥聽雙海鶴。",
+      "嘉願有所從，安得處其薄。"
+    ],
+    "preface": "〈一本題下有思歸桃花崦五字〉"
+  },
+  {
+    "uid": "QTS_264_029_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈別崔十三長官",
+    "poem": [
+      "真玉燒不熱，寶劍拗不折。",
+      "欲別崔俠心，崔俠心如鐵。",
+      "復如金剛鎖，無有功不徹。",
+      "仍於直道中，行事不詆訐。",
+      "崔俠兩兄弟，垂範繼芳烈。",
+      "相識三十年，致書字不滅。",
+      "我來宣城郡，飲水仰清潔。",
+      "藹藹北阜松，峨峨南山雪。",
+      "顧生歸山去，知作幾年別。"
+    ]
+  },
+  {
+    "uid": "QTS_264_030_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "哭從兄萇",
+    "poem": [
+      "洞庭違鄂渚，嫋嫋秋風時。",
+      "何人不客遊，獨與帝子期。",
+      "黃鵠鎩飛翅，青雲歎沈姿。",
+      "身終一騎曹，高蓋者為誰。",
+      "從駕至梁漢，金根復京師。",
+      "皇恩溢九垠，不記屠沽兒。",
+      "立身有高節，滿卷多好詩。",
+      "赫赫承明庭，群公默無詞。",
+      "草木正搖落，哭兄鄱水湄。",
+      "共居雲陽里，轗軻多別離。",
+      "人生倏忽間，旅襯飄若遺。",
+      "稚子新學拜，枯楊生一枝。",
+      "人生倏忽間，精爽無不之。",
+      "舊國數千里，家人由未知。",
+      "人生倏忽間，安用才士為。"
+    ]
+  },
+  {
+    "uid": "QTS_264_031_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "華山西罔遊贈隱玄叟",
+    "poem": [
+      "群峰鬱初霽，潑黛若鬟沐。",
+      "失風鼓唅呀，搖撼千灌木。",
+      "木葉微墮黃，石泉淨停綠。",
+      "危磴蘿薜牽，迥步入幽谷。",
+      "我心寄青霞，世事慚蒼鹿。",
+      "遂令巢許輩，於焉謝塵俗。",
+      "想是悠悠雲，可契去留躅。"
+    ]
+  },
+  {
+    "uid": "QTS_264_032_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "歸陽蕭寺有丁行者能修無生忍擔水施僧況歸命稽首作詩",
+    "poem": [
+      "化佛示持帚，仲尼稱執鞭。",
+      "列生御風歸，飼豕如人焉。",
+      "曹溪第六祖，踏碓逾三年。",
+      "伊人自何方，長綬趨遙泉。",
+      "開士行何苦，雙瓶胝兩肩。",
+      "蕭寺百餘僧，東廚正揚煙。",
+      "露足沙石裂，外形巾褐穿。",
+      "若其有此身，豈得安穩眠。",
+      "獨出違順境，不為寒暑遠。",
+      "大聖於其中，領我心之虔。",
+      "萬法常空滅，無生因忍全。",
+      "一國一釋迦，一燈分百千。",
+      "永願遺世知，現身彌勒前。",
+      "潛容偏虛空，靈響不可傳。",
+      "智慧舍利佛，神通自乾連。",
+      "阿若憍陳如，迦葉迦旃延。",
+      "左右二菩薩，文殊並普賢。",
+      "身披六銖衣，億劫為大仙。",
+      "寶塔寶樓閣，重簷交梵天。",
+      "譬如一明珠，共贊光白圓。",
+      "天魔波旬等，降伏金剛堅。",
+      "野叉羅剎鬼，亦赦塵垢纏。",
+      "乃致金翅鳥，吞龍護洪淵。",
+      "一十一眾中，身意皆快然。",
+      "八河注大海，中有楞伽船。",
+      "佛法付國王，平等無頗偏。",
+      "天子事端拱，大臣行其權。",
+      "玉堂無蠅飛，五月冰凜筵。",
+      "盡力答明主，猶自招罪愆。",
+      "九族無白身，百花動嬋娟。",
+      "神聖惡如此，物華不能妍。",
+      "祿山一微胡，驅馬來自燕。",
+      "宛彼宮闕麗，如何犬羊羶。",
+      "苦哉千萬人，流血成丹川。",
+      "此輩之死後，鑊湯所熬煎。",
+      "業風吹其魂，猛火燒其煙。",
+      "獨有丁行者，無憂樹枝邊。",
+      "市頭盲老人，長者乞一錢。",
+      "韜照多密用，為君吟此篇。"
+    ],
+    "variants": [
+      {
+        "line": 10,
+        "text": "其",
+        "variant": "空",
+        "source": "一作「空」"
+      },
+      {
+        "line": 13,
+        "text": "知",
+        "variant": "智",
+        "source": "一作「智」"
+      },
+      {
+        "line": 15,
+        "text": "佛",
+        "variant": "弗",
+        "source": "一作「弗」"
+      },
+      {
+        "line": 15,
+        "text": "自乾連",
+        "variant": "目犍連",
+        "source": "一作「目犍連」"
+      },
+      {
+        "line": 16,
+        "text": "迦旃延",
+        "variant": "迦檀延",
+        "source": "一作「迦檀延」"
+      },
+      {
+        "line": 30,
+        "text": "動",
+        "variant": "洞",
+        "source": "一作「洞」"
+      },
+      {
+        "line": 35,
+        "text": "輩",
+        "variant": "賊",
+        "source": "一作「賊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_264_033_01",
+    "volume": 264,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "大茅嶺東新居憶亡子從真",
+    "poem": [
+      "谷鳥猶呼兒，山人夕霑襟。",
+      "懷哉隔生死，悵矣徒登臨。",
+      "東門憂不入，西河遇亦深。",
+      "古來失中道，偶向經中尋。",
+      "大象無停輪，倏忽成古今。",
+      "其夭非不幸，鍊形由太陰。",
+      "凡欲攀雲階，譬如火鑄金。",
+      "虛室留舊札，洞房掩閒琴。",
+      "泉源登方諸，上有空青林。",
+      "彷佛通寤寐，蕭寥邈微音。",
+      "軟草被汀洲，鮮雲略浮沈。",
+      "赬景宣疊麗，紺波響飄淋。",
+      "石窟含雲巢，迢迢耿南岑。",
+      "悲恨自茲斷，情塵詎能侵。",
+      "真靜一時變，作起唯從心。"
+    ]
+  }
+]

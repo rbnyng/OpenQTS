@@ -1,0 +1,2124 @@
+[
+  {
+    "uid": "QTS_570_001_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "靜夜相思",
+    "poem": [
+      "山空天籟寂，水榭延輕涼。",
+      "浪定一浦月，藕花閑自香。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "輕",
+        "variant": "清",
+        "source": "一作「清」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_002_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "桂州經佳人故居",
+    "poem": [
+      "桂水依舊綠，佳人本不還。",
+      "秖應隨暮雨，飛入九疑山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "本",
+        "variant": "今",
+        "source": "一作「今」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_003_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "放魚",
+    "poem": [
+      "早覓為龍去，江湖莫漫遊。",
+      "須知香餌下，觸口是銛鉤。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "漫",
+        "variant": "浪",
+        "source": "一作「浪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_004_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "蓮葉",
+    "poem": [
+      "根是泥中玉，心承露下珠。",
+      "在君塘下種，埋沒任春蒲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_005_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "客愁二首 其一",
+    "poem": [
+      "客愁看柳色，日日逐春深。",
+      "蕩漾春風起，誰知歷亂心。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "蕩漾",
+        "variant": "浩蕩",
+        "source": "一作「浩蕩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_005_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "客愁二首 其二",
+    "poem": [
+      "客愁看柳色，日日逐春長。",
+      "憑送湘流水，綿綿入帝鄉。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_006_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "洞庭乾二首 其一",
+    "poem": [
+      "借問蓬萊水，誰逢清淺年？",
+      "傷心雲夢澤，嵗嵗作桑田。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_006_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "洞庭乾二首 其二",
+    "poem": [
+      "朱宮紫貝闕，一旦作沙洲。",
+      "八月還平在，魚蝦不用愁。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_007_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "病起別主人",
+    "poem": [
+      "益媿千金少，情將一飯殊。",
+      "恨無泉客淚，盡泣感恩珠。"
+    ]
+  },
+  {
+    "uid": "QTS_570_008_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "火爐前坐",
+    "poem": [
+      "孤燈照不寐，風雨滿西林。",
+      "多少關心事，書灰到夜深。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "書",
+        "variant": "畫",
+        "source": "一作「畫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_009_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "古詞",
+    "poem": [
+      "一合相思淚，臨江灑素秋。",
+      "碧波如會意，卻與向西流。"
+    ]
+  },
+  {
+    "uid": "QTS_570_010_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "嘲賣藥翁",
+    "poem": [
+      "斸盡春山土，辛勤賣藥翁。",
+      "莫拋破笠子，留作敗天公。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "敗",
+        "variant": "販",
+        "source": "一作「販」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_011_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "傷小女癡兒",
+    "poem": [
+      "哭爾春日短，支頤長歎嗟。",
+      "不如半死樹，猶吐一枝花。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "一枝",
+        "variant": "半邊",
+        "source": "一作「半邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_012_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "青鷁",
+    "poem": [
+      "獨立蒹葭雨，低飛浦嶼風。",
+      "須知毛色下，莫入鷺鷥叢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "異",
+        "source": "一作「異」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_013_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "池塘晚景",
+    "poem": [
+      "風荷珠露傾，驚起睡鵁鶄。",
+      "月落池塘靜，金刀剪一聲。"
+    ]
+  },
+  {
+    "uid": "QTS_570_014_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "投從叔",
+    "poem": [
+      "可惜出羣蹄，毛焦久臥泥。",
+      "孫陽如不顧，騏驥向誰嘶？"
+    ]
+  },
+  {
+    "uid": "QTS_570_015_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "惱自澄",
+    "poem": [
+      "常聞天女會，玉指散天花。",
+      "莫遣春風裏，紅芳點袈裟。"
+    ]
+  },
+  {
+    "uid": "QTS_570_016_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "讀賈誼傳",
+    "poem": [
+      "卑濕長沙地，空拋出世才。",
+      "已齊生死理，鵩鳥莫為災。"
+    ]
+  },
+  {
+    "uid": "QTS_570_017_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "寄人",
+    "poem": [
+      "寄語雙蓮子，須知用意深。",
+      "莫嫌一點苦，便擬棄蓮心。"
+    ]
+  },
+  {
+    "uid": "QTS_570_018_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "寄韋秀才",
+    "poem": [
+      "荊臺蘭渚客，寥落共含情。",
+      "空館相思夜，孤燈照雨聲。"
+    ]
+  },
+  {
+    "uid": "QTS_570_019_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "春日寄友",
+    "poem": [
+      "晴氣熏櫻蘂，丰蒙雪滿林。",
+      "請君三斗酒，醉臥白羅岑。"
+    ]
+  },
+  {
+    "uid": "QTS_570_020_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題竹",
+    "poem": [
+      "一頃含秋綠，森風十萬竿。",
+      "氣吹朱夏轉，聲掃碧霄寒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "森",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_021_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "懷初公",
+    "poem": [
+      "不見休上人，空傷碧雲思。",
+      "何處開寶書，秋風海光寺。"
+    ]
+  },
+  {
+    "uid": "QTS_570_022_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其一",
+    "poem": [
+      "團團明月面，冉冉柳枝腰。",
+      "未入鴛鴦被，心長似火燒。"
+    ],
+    "part_index": 1,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其二",
+    "poem": [
+      "見面知何益，聞名憶轉深。",
+      "拳攣荷葉子，未得展蓮心。"
+    ],
+    "part_index": 2,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_03",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其三",
+    "poem": [
+      "欲摘不得摘，如看波上花。",
+      "若教親玉樹，情願作蒹葭。"
+    ],
+    "part_index": 3,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_04",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其四",
+    "poem": [
+      "門路穿茶焙，房門映竹煙。",
+      "會須隨鹿女，乞火到窗前。"
+    ],
+    "part_index": 4,
+    "total_parts": 8,
+    "variants": [
+      {
+        "line": 1,
+        "text": "焙",
+        "variant": "竈",
+        "source": "一作「竈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_022_05",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其五",
+    "poem": [
+      "不是求心印，都緣愛綠珠。",
+      "何須同泰寺，然後始為奴。"
+    ],
+    "part_index": 5,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_06",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其六",
+    "poem": [
+      "既為金界客，任改淨人名。",
+      "願掃琉璃地，燒香過一生。"
+    ],
+    "part_index": 6,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_07",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其七",
+    "poem": [
+      "素腕撩金索，輕紅約翠紗。",
+      "不如欄下水，終日見桃花。"
+    ],
+    "part_index": 7,
+    "total_parts": 8
+  },
+  {
+    "uid": "QTS_570_022_08",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "龍安寺佳人阿最歌八首 其八",
+    "poem": [
+      "第一龍宮女，相憐是阿誰。",
+      "好魚輸獺盡，白鷺鎮長飢。"
+    ],
+    "part_index": 8,
+    "total_parts": 8,
+    "variants": [
+      {
+        "line": 2,
+        "text": "盡",
+        "variant": "畫",
+        "source": "一作「畫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_023_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "野鴨",
+    "poem": [
+      "鸂鶒借毛衣，喧呼鷹隼稀。",
+      "雲披菱藻地，任汝作群飛。"
+    ]
+  },
+  {
+    "uid": "QTS_570_024_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題二妃廟",
+    "poem": [
+      "黃陵廟前春已空，子規啼血滴松風。",
+      "不知精爽歸何處，疑是行雲秋色中。"
+    ]
+  },
+  {
+    "uid": "QTS_570_025_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "寄友二首 其一",
+    "poem": [
+      "野水晴山雪後時，獨行村落更相思。",
+      "無因一向溪頭醉，處處寒梅映酒旗。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "落",
+        "variant": "路",
+        "source": "一作「路」"
+      },
+      {
+        "line": 2,
+        "text": "頭",
+        "variant": "橋",
+        "source": "一作「橋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_025_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "寄友二首 其二",
+    "poem": [
+      "花落輕寒酒熟遲，醉眠不及落花期。",
+      "愁人相憶春山暮，煙樹蒼蒼播穀時。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "相",
+        "variant": "想",
+        "source": "一作「想」"
+      },
+      {
+        "line": 2,
+        "text": "播",
+        "variant": "撥",
+        "source": "一作「撥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_026_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "桃源",
+    "poem": [
+      "我到瞿真上升處，山川四望使人愁。",
+      "紫雪白鶴去不返，唯有桃花溪水流。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "真",
+        "variant": "童",
+        "source": "一作「童」"
+      },
+      {
+        "line": 1,
+        "text": "四",
+        "variant": "西",
+        "source": "一作「西」"
+      },
+      {
+        "line": 2,
+        "text": "花",
+        "variant": "源",
+        "source": "一作「源」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_027_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題王侍御宅",
+    "poem": [
+      "門向滄江碧岫開，地多鷗鷺少塵埃。",
+      "綠陰十裏灘聲裏，閒自王家看竹來。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "自",
+        "variant": "去",
+        "source": "一作「去」，一作「即」。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_028_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "聞湘南從叔朝覲",
+    "poem": [
+      "長沙地窄卻回時，舟楫駸駸向鳳池。",
+      "為報湘川神女道，莫教雲雨濕旌旗。"
+    ]
+  },
+  {
+    "uid": "QTS_570_029_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "漢陽太白樓",
+    "poem": [
+      "江上層樓翠靄間，滿簾春水滿窗山。",
+      "青楓綠草將愁去，遠入吳雲暝不還。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "層",
+        "variant": "晴",
+        "source": "一作「晴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_030_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "送客",
+    "poem": [
+      "沅水羅文海燕回，柳條牽恨到荊臺。",
+      "定知行路春愁裏，故郢城邊見落梅。"
+    ]
+  },
+  {
+    "uid": "QTS_570_031_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "醴陵道中",
+    "poem": [
+      "別酒離亭十里強，半醒半醉引愁長。",
+      "無端寂寂春山路，雪打溪梅狼藉香。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "端",
+        "variant": "人",
+        "source": "一作「人」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_032_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "校書叔遺暑服",
+    "poem": [
+      "翠雲箱裏疊樬櫳，楚葛湘紗淨似空。",
+      "便著清江明月夜，輕涼與掛一身風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "雲",
+        "variant": "芸",
+        "source": "一作「芸」"
+      },
+      {
+        "line": 1,
+        "text": "樬櫳",
+        "variant": "櫳樬",
+        "source": "一作「櫳樬」"
+      },
+      {
+        "line": 2,
+        "text": "掛",
+        "variant": "致",
+        "source": "一作「致」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_033_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "贈魏三十七",
+    "poem": [
+      "名珪字玉淨無瑕，美譽芳聲有數車。",
+      "莫放焰光高二丈，來年燒殺杏園花。"
+    ]
+  },
+  {
+    "uid": "QTS_570_034_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "酬崔表仁",
+    "poem": [
+      "昨日朱門一見君，忽驚野鶴在雞羣。",
+      "不應長啄潢汙水，早晚歸飛碧落雲。"
+    ]
+  },
+  {
+    "uid": "QTS_570_035_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "旅遊番禺獻涼公",
+    "poem": [
+      "帝鄉羣侶杳難尋，獨立滄洲歲暮心。",
+      "野鶴棲飛無遠近，稻粱多處是恩深。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "棲飛",
+        "variant": "飛棲",
+        "source": "一作「飛棲」"
+      },
+      {
+        "line": 2,
+        "text": "是",
+        "variant": "則",
+        "source": "一作「則」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_036_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "長沙元門寺張璪員外壁畫",
+    "poem": [
+      "片石長松倚素楹，翛然雲壑見高情。",
+      "世人只愛凡花鳥，無處不知梁廣名。"
+    ]
+  },
+  {
+    "uid": "QTS_570_037_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "請告出春明門",
+    "poem": [
+      "本不將心掛名利，亦無情意在樊籠。",
+      "鹿裘藜杖且歸去，富貴榮華春夢中。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「請告」二字。",
+        "context": "告出春明門",
+        "original_title": "請告出春明門〈一本無「請告」二字。〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_038_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "引水行",
+    "poem": [
+      "一條寒玉走秋泉，引出深蘿洞口煙。",
+      "十里暗流聲不斷，行人頭上過潺湲。"
+    ]
+  },
+  {
+    "uid": "QTS_570_039_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "移松竹",
+    "poem": [
+      "龍髯鳳尾亂颼颼，帶霧停風一畝秋。",
+      "待取滿庭蒼翠合，酒尊書案閉門休。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "颼",
+        "variant": "颺",
+        "source": "一作「颺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_040_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "歎靈鷲寺山榴",
+    "poem": [
+      "水蝶巖蜂俱不知，露紅凝豔數千枝。",
+      "山深春晚無人賞，即是杜鵑催落時。"
+    ]
+  },
+  {
+    "uid": "QTS_570_041_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "黃陵廟",
+    "poem": [
+      "黃陵廟前莎草春，黃陵女兒茜裙新。",
+      "輕舟短櫂唱歌去，水遠山長愁殺人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "短",
+        "variant": "小",
+        "source": "一作「小」"
+      },
+      {
+        "line": 2,
+        "text": "櫂",
+        "variant": "檝",
+        "source": "一作「檝」"
+      },
+      {
+        "line": 2,
+        "text": "唱",
+        "variant": "隨",
+        "source": "一作「隨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_042_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "北亭",
+    "poem": [
+      "斜雨飛絲織曉空，疎簾半卷野亭風。",
+      "荷花向盡秋光晚，零落殘紅綠沼中。"
+    ]
+  },
+  {
+    "uid": "QTS_570_043_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "送客往涔陽",
+    "poem": [
+      "春與春愁逐日長，遠人天畔遠思鄉。",
+      "蘋生水綠不歸去，孤負東溪七里莊。"
+    ]
+  },
+  {
+    "uid": "QTS_570_044_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "寄友人鹿胎冠子",
+    "poem": [
+      "數點疏星紫錦斑，仙家新樣剪三山。",
+      "宜與謝公松下戴，淨簪雲髮翠微間。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "數",
+        "variant": "散",
+        "source": "一作「散」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_045_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "江南",
+    "poem": [
+      "鱗鱗別浦起微波，泛泛輕舟桃葉歌。",
+      "斜雪北風何處宿，江南一路酒旗多。"
+    ]
+  },
+  {
+    "uid": "QTS_570_046_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "答友人寄新茗",
+    "poem": [
+      "滿火芳香碾麴塵，吳甌湘水綠花新。",
+      "媿君千里分滋味，寄與春風酒渴人。"
+    ]
+  },
+  {
+    "uid": "QTS_570_047_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "峽山寺上方",
+    "poem": [
+      "滿院泉聲水殿涼，疎簾微雨野松香。",
+      "東峰下視南溟月，笑踏金波看海光。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "水",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 1,
+        "text": "疎",
+        "variant": "殿",
+        "source": "一作「殿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_048_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "秋登涔陽城二首 其一",
+    "poem": [
+      "萬戶砧聲水國秋，涼風吹起故鄉愁。",
+      "行人望遠偏傷思，白浪青楓滿北樓。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_048_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "秋登涔陽城二首 其二",
+    "poem": [
+      "穿針樓上閉秋煙，織女佳期又來年。",
+      "斜笛夜深吹不落，一條銀漢掛秋天。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "笛",
+        "variant": "漢",
+        "source": "一作「漢」"
+      },
+      {
+        "line": 2,
+        "text": "漢",
+        "variant": "浪",
+        "source": "一作「浪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_049_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "釣魚",
+    "poem": [
+      "七尺青竿一丈絲，菰蒲葉裏逐風吹。",
+      "幾回舉手拋芳餌，驚起沙灘水鴨兒。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蒲",
+        "variant": "蔣",
+        "source": "一作「蔣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_050_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "酬魏三十七",
+    "poem": [
+      "靜裏寒香觸思初，開緘忽見二瓊琚。",
+      "一吟麗句風流極，沒得弘文李校書。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "裏",
+        "variant": "裛",
+        "source": "一作「裛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_051_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "贈琵琶妓",
+    "poem": [
+      "我見鴛鴦飛水上，君還望月苦相思。",
+      "一雙裙帶同心結，早寄黃鸝孤雁兒。"
+    ]
+  },
+  {
+    "uid": "QTS_570_052_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "落帆後賦得二絕",
+    "poem": [
+      "平湖茫茫春日落，危檣獨映沙洲泊。",
+      "上岸閑尋細草行，古查飛起黃金鶚。"
+    ]
+  },
+  {
+    "uid": "QTS_570_053_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "落帆後賦得二絕",
+    "poem": [
+      "水浮秋煙沙曉雪，皎潔無風鐙影徹。",
+      "海客雲帆未掛時，相與緣江拾明月。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鐙影徹",
+        "variant": "影澄澈",
+        "source": "一作「影澄澈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_054_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "贈人",
+    "poem": [
+      "曾留宋玉舊衣裳，惹得巫山夢裏香。",
+      "雲雨無情難管領，任他別嫁楚襄王。"
+    ]
+  },
+  {
+    "uid": "QTS_570_055_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "贈妓人",
+    "poem": [
+      "誰家少女字千金，省向人間逐處尋。",
+      "今日分明花裏見，一雙紅臉動春心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "逐",
+        "variant": "觸",
+        "source": "一作「觸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_056_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "山榴",
+    "poem": [
+      "洞中春氣蒙籠暄，尚有紅英千樹繁。",
+      "可憐夾水錦步障，羞數石家金谷園。"
+    ]
+  },
+  {
+    "uid": "QTS_570_057_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "鸂鶒",
+    "poem": [
+      "錦羽相呼暮沙曲，波上雙聲戛哀玉。",
+      "霞明川靜極望中，一時飛滅青山綠。"
+    ]
+  },
+  {
+    "uid": "QTS_570_058_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "沅江漁者",
+    "poem": [
+      "倚櫂汀洲沙日晚，江鮮野菜桃花飯。",
+      "長歌一曲煙靄深，歸去滄江綠波遠。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "浪",
+        "source": "一作「浪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_059_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題金山寺石堂",
+    "poem": [
+      "白波四面照樓臺，日夜潮聲繞寺迴。",
+      "千葉紅蓮高會處，幾曾龍女獻珠來。"
+    ]
+  },
+  {
+    "uid": "QTS_570_060_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "戲贈魏十四",
+    "poem": [
+      "蘭浦秋來煙雨深，幾多情思在琴心。",
+      "知君調得東家子，早晚和鳴入錦衾。"
+    ]
+  },
+  {
+    "uid": "QTS_570_061_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "和人贈別",
+    "poem": [
+      "嚬黛低紅別怨多，深亭芳恨滿橫波。",
+      "聲中唱出纏綿意，淚落鐙前一曲歌。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "亭",
+        "variant": "停",
+        "source": "一作「停」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_062_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "宿巫山廟二首 其一",
+    "poem": [
+      "寂寞高堂別楚君，玉人天上逐行雲。",
+      "停舟十二峰巒下，幽佩仙香半夜聞。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_062_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "宿巫山廟二首 其二",
+    "poem": [
+      "廟閉春山曉月光，波聲回合樹蒼蒼。",
+      "自從一別襄王夢，雲雨空飛巫峽長。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_063_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "傷柘枝妓",
+    "poem": [
+      "曾見雙鸞舞鏡中，聯飛接影對春風。",
+      "今來獨在花筵散，月滿秋天一半空。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "散",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_064_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題櫻桃",
+    "poem": [
+      "春初攜酒此花間，幾度臨風倒玉山。",
+      "今日葉深黃滿樹，再來惆悵不能攀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "深",
+        "variant": "聲",
+        "source": "一作「聲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_065_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "惱從兄",
+    "poem": [
+      "芳草萋萋新燕飛，芷汀南望鴈書稀。",
+      "武陵洞裏尋春客，已被桃花迷不歸。"
+    ]
+  },
+  {
+    "uid": "QTS_570_066_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "紫極宮齋後",
+    "poem": [
+      "紫府空歌碧落寒，曉星寥亮月光殘。",
+      "一羣白鶴高飛上，唯有松風吹石壇。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "上",
+        "variant": "散",
+        "source": "一作「散」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_067_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "春晚",
+    "poem": [
+      "思鄉之客空凝嚬，天邊欲盡未盡春。",
+      "獨攀江樹深不語，芳草落花愁殺人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "嚬",
+        "variant": "顰",
+        "source": "一作「顰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_068_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "喜渾吉見訪",
+    "poem": [
+      "公子春衫桂水香，遠衝飛雪過書堂。",
+      "貧家冷落難消日，唯有松筠滿院涼。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "飛",
+        "variant": "霏",
+        "source": "一作「霏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_069_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "索曲送酒",
+    "poem": [
+      "簾外春風正落梅，須求狂藥解愁回。",
+      "煩君玉指輕攏撚，慢撥鴛鴦送一桮。"
+    ]
+  },
+  {
+    "uid": "QTS_570_070_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "山驛梅花",
+    "poem": [
+      "生在幽崖獨無主，溪蘿澗鳥為儔侶。",
+      "行人陌上不留情，愁香空謝深山雨。"
+    ]
+  },
+  {
+    "uid": "QTS_570_071_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "重陽日上渚宮楊尚書",
+    "poem": [
+      "落帽臺邊菊半黃，行人惆悵對重陽。",
+      "荊州一見桓宣武，為趁悲秋入帝鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_570_072_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "書院二小松",
+    "poem": [
+      "一雙幽色出凡塵，數粒秋煙二尺鱗。",
+      "從此靜牕聞細韻，琴聲長伴讀書人。"
+    ]
+  },
+  {
+    "uid": "QTS_570_073_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "勸人廬山讀書",
+    "poem": [
+      "憐君少雋利如鋒，氣爽神清刻骨聰。",
+      "片玉若磨唯轉瑩，莫辭雲水入廬峰。"
+    ]
+  },
+  {
+    "uid": "QTS_570_074_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "言懷",
+    "poem": [
+      "白鶴高飛不逐羣，嵇康琴酒鮑昭文。",
+      "此身未有棲歸處，天下人間一片雲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "人",
+        "variant": "之",
+        "source": "一作「之」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_075_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "聞笛",
+    "poem": [
+      "冉冉生山草何異，截而吹之動天地。",
+      "望鄉臺上望鄉時，不獨落梅兼落淚。"
+    ]
+  },
+  {
+    "uid": "QTS_570_076_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "曉讌",
+    "poem": [
+      "金波西傾銀漢落，綠樹含煙倚朱閣。",
+      "曉華朧⿰聞調笙，一點殘燈隔羅幕。"
+    ]
+  },
+  {
+    "uid": "QTS_570_077_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "將遊荊州投魏中丞",
+    "poem": [
+      "貧埋病壓老巑岏，拂拭菱花不喜看。",
+      "又恐無人肯青眼，事須憑仗小還丹。"
+    ]
+  },
+  {
+    "uid": "QTS_570_078_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "二辛夷",
+    "poem": [
+      "狂吟辭舞雙白鶴，霜翎玉羽紛紛落。",
+      "空庭向晚春雨微，卻斂寒香抱瑤萼。"
+    ]
+  },
+  {
+    "uid": "QTS_570_079_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "題龍潭西齋",
+    "poem": [
+      "寂寞幽齋暝煙起，滿徑西風落松子。",
+      "遠公一去兜率宮，唯有面前虎溪水。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "面",
+        "variant": "門",
+        "source": "一作「門」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_080_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "中秋寄南海梁侍御",
+    "poem": [
+      "海靜天高景氣殊，鯨睛失彩蚌潛珠。",
+      "不知今夜越臺上，望見瀛洲方丈無。"
+    ],
+    "notes": [
+      {
+        "content": "一本無「梁」字。",
+        "context": "南海梁侍御",
+        "original_title": "中秋寄南海梁侍御〈一本無「梁」字。〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_081_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "戲贈姬人",
+    "poem": [
+      "骰子巡拋裹手拈，無因得見玉纖纖。",
+      "但知謔道金釵落，圖向人前露指尖。"
+    ],
+    "notes": [
+      {
+        "content": "一本此下有「賦尖字韻」四字",
+        "context": "戲贈姬人",
+        "original_title": "戲贈姬人〈一本此下有「賦尖字韻」四字〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_082_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "大庾山嶺別友人",
+    "poem": [
+      "篔簹無子鴛雛飢，毛彩凋摧不得歸。",
+      "誰念火雲千嶂裏，低身猶傍鷓鴣飛。"
+    ]
+  },
+  {
+    "uid": "QTS_570_083_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "石門戍",
+    "poem": [
+      "到此空思吳隱之，潮痕草蔓上幽碑。",
+      "人來皆望珠璣去，誰詠貪泉四句詩。"
+    ]
+  },
+  {
+    "uid": "QTS_570_084_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "文殊院避暑",
+    "poem": [
+      "赤日黃埃滿世間，松聲入耳即心閒。",
+      "願尋五百仙人去，一世清涼住雪山。"
+    ]
+  },
+  {
+    "uid": "QTS_570_085_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "南莊春晚二首 其一",
+    "poem": [
+      "連雲草映一條陂，鸂鶒雙雙帶水飛。",
+      "南村小路桃花落，細雨斜風獨自歸。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_570_085_02",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "南莊春晚二首 其二",
+    "poem": [
+      "草暖沙長望去舟，微茫煙浪向巴丘。",
+      "沅江寂寂春歸盡，水綠蘋香人自愁。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "湘",
+        "source": "一作「湘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_570_086_01",
+    "volume": 570,
+    "author": {
+      "canonical": "李羣玉",
+      "recorded": "李羣玉",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Li Qunyu",
+      "wikidata_id": "Q11097805"
+    },
+    "title": "湘妃廟",
+    "poem": [
+      "少將風月怨平湖，見盡扶桑水到枯。",
+      "相約杏花壇上去，畫欄紅紫鬬樗蒱。"
+    ]
+  }
+]

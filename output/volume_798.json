@@ -1,0 +1,3489 @@
+[
+  {
+    "uid": "QTS_798_001_01",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一",
+    "poem": [
+      "五雲樓閣鳳城間，花木長新日月間。",
+      "三十六宮連內苑，太平天子住崑山。"
+    ],
+    "preface": "徐氏，青城人，幼能文，尤長於宮詞。得幸，蜀主孟昶賜號花蕊夫人。詩一卷。",
+    "part_index": 1,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "住",
+        "variant": "坐",
+        "source": "一作「坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_02",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二",
+    "poem": [
+      "會真廣殿約宮牆，樓閣相扶倚太陽。",
+      "淨甃玉階橫水岸，御爐香氣撲龍牀。"
+    ],
+    "part_index": 2,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_03",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三",
+    "poem": [
+      "龍池九曲遠相通，楊柳絲牽兩岸風。",
+      "長似江南好風景，畫船來去碧波中。"
+    ],
+    "part_index": 3,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "風",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 2,
+        "text": "去",
+        "variant": "往",
+        "source": "一作「往」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_04",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四",
+    "poem": [
+      "東內斜將紫禁通，龍池鳳苑夾城中。",
+      "曉鐘聲斷嚴妝罷，院院紗窗海日紅。"
+    ],
+    "part_index": 4,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_05",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五",
+    "poem": [
+      "殿名新立號重光，島上亭臺盡改張。",
+      "但是一人行幸處，黃金閣子鎖牙牀。"
+    ],
+    "part_index": 5,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "子",
+        "variant": "內",
+        "source": "一作「內」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_06",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六",
+    "poem": [
+      "夾城門與內門通，朝罷巡遊到苑中。",
+      "每日日高祗候處，滿堤紅豔立春風。"
+    ],
+    "part_index": 6,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "日高",
+        "variant": "中官",
+        "source": "一作「中官」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_07",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七",
+    "poem": [
+      "廚船進食簇時新，侍宴無非列近臣。",
+      "日午殿頭宣索鱠，隔花催喚打魚人。"
+    ],
+    "part_index": 7,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "船",
+        "variant": "盤",
+        "source": "一作「盤」"
+      },
+      {
+        "line": 1,
+        "text": "宴",
+        "variant": "座",
+        "source": "一作「座」"
+      },
+      {
+        "line": 1,
+        "text": "列",
+        "variant": "是",
+        "source": "一作「是」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_08",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八",
+    "poem": [
+      "立春日進內園花，紅蕊輕輕嫩淺霞。",
+      "跪到玉堦猶帶露，一時宣賜與宮娃。"
+    ],
+    "part_index": 8,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_09",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九",
+    "poem": [
+      "三面宮城盡夾牆，苑中池水白茫茫。",
+      "直從獅子門前入，旋見亭臺遶岸傍。"
+    ],
+    "part_index": 9,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "直",
+        "variant": "亦",
+        "source": "一作「亦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_10",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十",
+    "poem": [
+      "離宮別院遶宮城，金版輕敲合鳳笙。",
+      "夜夜月明花樹底，傍池長有按歌聲。"
+    ],
+    "part_index": 10,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_11",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十一",
+    "poem": [
+      "御製新翻曲子成，六宮才唱未知名。",
+      "盡將觱篥來抄譜，先按君王玉笛聲。"
+    ],
+    "part_index": 11,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_12",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十二",
+    "poem": [
+      "旋移紅樹斲新苔，宣使龍池更鑿開。",
+      "展得綠波寬似海，水心樓殿勝蓬萊。"
+    ],
+    "part_index": 12,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "紅",
+        "variant": "花",
+        "source": "一作「花」"
+      },
+      {
+        "line": 1,
+        "text": "斲新",
+        "variant": "斸青",
+        "source": "一作「斸青」"
+      },
+      {
+        "line": 2,
+        "text": "綠",
+        "variant": "綵",
+        "source": "一作「綵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_13",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十三",
+    "poem": [
+      "太虛高閣淩虛殿，背倚城牆面枕池。",
+      "諸院各分娘子位，羊車到處不教知。"
+    ],
+    "part_index": 13,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "淩虛",
+        "variant": "臨波",
+        "source": "一作「臨波」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_14",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十四",
+    "poem": [
+      "修儀承寵住龍池，掃地焚香日午時。",
+      "等候大家來院裏，看教鸚鵡念新詩。"
+    ],
+    "part_index": 14,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_15",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十五",
+    "poem": [
+      "才人出入每參隨，筆硯將行遶曲池。",
+      "能向彩箋書大字，忽防禦製寫新詩。"
+    ],
+    "part_index": 15,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "參",
+        "variant": "相",
+        "source": "一作「相」"
+      },
+      {
+        "line": 1,
+        "text": "將行",
+        "variant": "行將",
+        "source": "一作「行將」"
+      },
+      {
+        "line": 2,
+        "text": "忽",
+        "variant": "勿",
+        "source": "一作「勿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_16",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十六",
+    "poem": [
+      "六宮官職總新除，宮女安排入畫圖。",
+      "二十四司分六局，御前頻見錯相呼。"
+    ],
+    "part_index": 16,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_17",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十七",
+    "poem": [
+      "春風一面曉妝成，偷折花枝傍水行。",
+      "卻被內監遙覷見，故將紅豆打黃鶯。"
+    ],
+    "part_index": 17,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "監",
+        "variant": "？",
+        "source": "一作「？」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_18",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十八",
+    "poem": [
+      "殿前排宴賞花開，宮女侵晨探幾回。",
+      "斜望花開遙舉袖，傳聲宣喚近臣來。"
+    ],
+    "part_index": 18,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "花開",
+        "variant": "苑門",
+        "source": "一作「苑門」"
+      },
+      {
+        "line": 2,
+        "text": "宣",
+        "variant": "先",
+        "source": "一作「先」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_19",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其十九",
+    "poem": [
+      "小毬場近曲池頭，宣喚勳臣試打毬。",
+      "先向畫樓排御幄，管弦聲動立浮油。"
+    ],
+    "part_index": 19,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "樓",
+        "variant": "廊",
+        "source": "一作「廊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_20",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十",
+    "poem": [
+      "供奉頭籌不敢爭，上棚等喚近臣名。",
+      "內人酌酒才宣賜，馬上齊呼萬歲聲。"
+    ],
+    "part_index": 20,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "等",
+        "variant": "專",
+        "source": "一作「專」，又作「傳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_21",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十一",
+    "poem": [
+      "殿前宮女總纖腰，初學乘騎怯又嬌。",
+      "上得馬來纔欲走，幾回拋鞚抱鞍橋。"
+    ],
+    "part_index": 21,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "抱",
+        "variant": "把",
+        "source": "一作「把」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_22",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十二",
+    "poem": [
+      "自教宮娥學打球，玉鞍初跨柳腰柔。",
+      "上棚知是官家認，遍遍長贏第一籌。"
+    ],
+    "part_index": 22,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_23",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十三",
+    "poem": [
+      "翔鸞閣外夕陽天，樹影花光遠接連。",
+      "望見內家來往處，水門斜過罨樓船。"
+    ],
+    "part_index": 23,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "遠",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 2,
+        "text": "罨",
+        "variant": "畫",
+        "source": "一作「畫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_24",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十四",
+    "poem": [
+      "內家追逐採蓮時，驚起沙鷗兩岸飛。",
+      "蘭棹把來齊拍水，並船相鬬濕羅衣。"
+    ],
+    "part_index": 24,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "家",
+        "variant": "人",
+        "source": "一作「人」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_25",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十五",
+    "poem": [
+      "新秋女伴各相逢，罨畫船飛別浦中。",
+      "旋折荷花伴歌舞，夕陽斜照滿衣紅。"
+    ],
+    "part_index": 25,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "浦",
+        "variant": "渚",
+        "source": "一作「渚」"
+      },
+      {
+        "line": 2,
+        "text": "伴",
+        "variant": "半",
+        "source": "一作「半」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_26",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十六",
+    "poem": [
+      "少年相逐採蓮回，羅帽羅衫巧製裁。",
+      "每到岸頭長拍水，競提纖手出船來。"
+    ],
+    "part_index": 26,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "帽",
+        "variant": "襪",
+        "source": "一作「襪」"
+      },
+      {
+        "line": 1,
+        "text": "衫",
+        "variant": "衣",
+        "source": "一作「衣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_27",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十七",
+    "poem": [
+      "早春楊柳引長條，倚岸沿堤一面高。",
+      "稱與畫船牽錦纜，暖風搓出綵絲絛。"
+    ],
+    "part_index": 27,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_28",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十八",
+    "poem": [
+      "內家宣錫生辰宴，隔夜諸宮進御花。",
+      "後殿未聞宮主入，東門先報下金車。"
+    ],
+    "part_index": 28,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_29",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其二十九",
+    "poem": [
+      "端午生衣進御牀，赭黃羅帕覆金箱。",
+      "美人捧入南熏殿，玉腕斜封綵縷長。"
+    ],
+    "part_index": 29,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_30",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十",
+    "poem": [
+      "選進仙韶第一人，才勝羅綺不勝春。",
+      "重教按舞桃花下，只踏殘紅作地裀。"
+    ],
+    "part_index": 30,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_31",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十一",
+    "poem": [
+      "侍女爭揮玉彈弓，金丸飛入亂花中。",
+      "一時驚起流鶯散，踏落殘花滿地紅。"
+    ],
+    "part_index": 31,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_32",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十二",
+    "poem": [
+      "七寶闌干白玉除，新開涼殿幸金輿。",
+      "一溝泛碧流春水，四面瓊鉤搭綺疏。"
+    ],
+    "part_index": 32,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_33",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十三",
+    "poem": [
+      "山樓彩鳳棲寒月，宴殿金麟吐御香。",
+      "蜀錦地衣呈隊舞，教頭先出拜君王。"
+    ],
+    "part_index": 33,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_34",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十四",
+    "poem": [
+      "天外明河翻玉浪，樓西涼月湧金盆。",
+      "香銷甲乙牀前帳，宮鎖玲瓏閉殿門。"
+    ],
+    "part_index": 34,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_35",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十五",
+    "poem": [
+      "細風欹葉撼宮梧，早怯秋寒著繡繻。",
+      "玉宇無人雙燕去，一彎新月上金樞。"
+    ],
+    "part_index": 35,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_36",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十六",
+    "poem": [
+      "夜寒金屋篆煙飛，燈燭分明在紫微。",
+      "漏永禁宮三十六，燕回爭踏月輪歸。"
+    ],
+    "part_index": 36,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_37",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十七",
+    "poem": [
+      "曉吹翩翩動翠旗，爐煙千疊瑞雲飛。",
+      "何人奏對偏移刻，御史天香隔繡衣。"
+    ],
+    "part_index": 37,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_38",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十八",
+    "poem": [
+      "金井秋啼絡緯聲，出花宮漏報嚴更。",
+      "不知誰是金鑾直，玉宇沉沉夜氣清。"
+    ],
+    "part_index": 38,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_39",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其三十九",
+    "poem": [
+      "內庭秋燕玉池東，香散荷花水殿風。",
+      "阿監采菱牽錦纜，月明猶在畫船中。"
+    ],
+    "part_index": 39,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_40",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十",
+    "poem": [
+      "東宮花燭彩樓新，天上仙橋上鎖春。",
+      "偏出六宮歌舞奏，嫦娥初到月虛輪。"
+    ],
+    "part_index": 40,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_41",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十一",
+    "poem": [
+      "紗幔薄垂金麥穗，簾鉤纖掛玉蔥條。",
+      "樓西別起長春殿，香碧紅泥透蜀椒。"
+    ],
+    "part_index": 41,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_42",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十二",
+    "poem": [
+      "翠華香重玉爐添，雙鳳樓頭曉日暹。",
+      "扇掩紅鸞金殿悄，一聲清蹕卷珠簾。"
+    ],
+    "part_index": 42,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_43",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十三",
+    "poem": [
+      "金作蟠龍繡作麟，壺中樓閣禁中春。",
+      "君王避暑來遊幸，風月橫秋氣象新。"
+    ],
+    "part_index": 43,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_44",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十四",
+    "poem": [
+      "清曉自傾花上露，冷侵宮殿玉蟾蜍。",
+      "擘開五色銷金紙，碧鎖窗前學草書。"
+    ],
+    "part_index": 44,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_45",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十五",
+    "poem": [
+      "翠鈿貼靨輕如笑，玉鳳雕釵嫋欲飛。",
+      "拂曉賀春皇帝閣，彩衣金勝近龍衣。"
+    ],
+    "part_index": 45,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_46",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十六",
+    "poem": [
+      "璅聲金徹閤門環，簾捲珍珠十二間。",
+      "別殿春風呼萬歲，中丞新押散朝班。"
+    ],
+    "part_index": 46,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_47",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十七",
+    "poem": [
+      "雞人報曉傳三唱，玉井金牀轉轆轤。",
+      "煙引御爐香繞殿，漏簽初刻上銅壺。"
+    ],
+    "part_index": 47,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_48",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十八",
+    "poem": [
+      "御按橫金殿幄紅，扇開雲表露天容。",
+      "太常奏備三千曲，樂府新調十二鐘。"
+    ],
+    "part_index": 48,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_49",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其四十九",
+    "poem": [
+      "宮女薰香進御衣，殿門開鎖請金匙。",
+      "朝陽初上黃金屋，禁夜春深晝漏遲。"
+    ],
+    "part_index": 49,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_50",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十",
+    "poem": [
+      "三月金明柳絮飛，岸花堤草弄春時。",
+      "樓船百戲催宣賜，御輦今年不上池。"
+    ],
+    "part_index": 50,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_51",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十一",
+    "poem": [
+      "內人稀見水鞦韆，爭擘珠簾帳殿前。",
+      "第一錦標誰奪得，右軍輸卻小龍船。"
+    ],
+    "part_index": 51,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_52",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十二",
+    "poem": [
+      "夜色樓臺月數層，金猊煙穗繞觚稜。",
+      "重廊屈折連三殿，密上真珠百寶燈。"
+    ],
+    "part_index": 52,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_53",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十三",
+    "poem": [
+      "天門晏閉九重關，樓倚銀河氣象間。",
+      "一點星毬重絳闕，五雲仙仗下蓬山。"
+    ],
+    "part_index": 53,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_54",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十四",
+    "poem": [
+      "禁裏春濃蝶自飛，御蠶眠處弄新絲。",
+      "碧窗盡日教鸚鵡，念得君王數首詩。"
+    ],
+    "part_index": 54,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_55",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十五",
+    "poem": [
+      "鬬草深宮玉檻前，春蒲如箭荇如錢。",
+      "不知紅藥闌干曲，日暮何人落翠鈿。"
+    ],
+    "part_index": 55,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_56",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十六",
+    "poem": [
+      "太液波清水殿涼，畫船驚起宿鴛鴦。",
+      "翠眉不及池邊柳，取次飛花入建章。"
+    ],
+    "part_index": 56,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_57",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十七",
+    "poem": [
+      "御座垂簾繡額單，冰山重疊貯金盤。",
+      "玉清迢遰無塵到，殿角東西五月寒。"
+    ],
+    "part_index": 57,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_58",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十八",
+    "poem": [
+      "春心滴破花邊漏，曉夢敲回禁裏鐘。",
+      "十二楚山何處是，御樓曾見兩三峯。"
+    ],
+    "part_index": 58,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "曾",
+        "variant": "恍",
+        "source": "一作「恍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_59",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其五十九",
+    "poem": [
+      "博山夜宿沈香火，帳外時聞暖鳳笙。",
+      "理遍從頭新上曲，殿前龍直未交更。"
+    ],
+    "part_index": 59,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_60",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十",
+    "poem": [
+      "春殿千官宴卻歸，上林鶯舌報花時。",
+      "宣徽旋進新裁曲，學士爭吟應詔詩。"
+    ],
+    "part_index": 60,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_61",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十一",
+    "poem": [
+      "釣線沈波漾彩舟，魚爭芳餌上龍鉤。",
+      "內人急捧金盤接，撥剌紅鱗躍未休。"
+    ],
+    "part_index": 61,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_62",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十二",
+    "poem": [
+      "蕙炷香銷燭影殘，御衣熏盡輒更闌。",
+      "歸來困頓眠紅帳，一枕西風夢裏寒。"
+    ],
+    "part_index": 62,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_63",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十三",
+    "poem": [
+      "東宮降誕挺佳辰，少海星邊擁瑞雲。",
+      "中尉傳聞三日宴，翰林當撰洗兒文。"
+    ],
+    "part_index": 63,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_64",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十四",
+    "poem": [
+      "酒庫新修近水傍，潑醅初熟五雲漿。",
+      "殿前供御頻宣索，追入花間一陣香。"
+    ],
+    "part_index": 64,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "潑",
+        "variant": "撥",
+        "source": "一作「撥」"
+      },
+      {
+        "line": 2,
+        "text": "追",
+        "variant": "進",
+        "source": "一作「進」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_65",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十五",
+    "poem": [
+      "白藤花限白銀花，閤子門當寢殿斜。",
+      "近被宮中知了事，每來隨駕使煎茶。"
+    ],
+    "part_index": 65,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "花限",
+        "variant": "籠搯",
+        "source": "一作「籠搯」"
+      },
+      {
+        "line": 2,
+        "text": "煎",
+        "variant": "烹",
+        "source": "一作「烹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_66",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十六",
+    "poem": [
+      "西球場裏打毬回，御宴先於苑內開。",
+      "宣索教坊諸伎樂，傍池催喚入船來。"
+    ],
+    "part_index": 66,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "於",
+        "variant": "從",
+        "source": "一作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_67",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十七",
+    "poem": [
+      "昭儀侍宴足精神，玉燭抽看記飲廵。",
+      "倚賴識書為錄事，燈前時復錯瞞人。"
+    ],
+    "part_index": 67,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_68",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十八",
+    "poem": [
+      "後宮阿監裹羅巾，出入經過苑囿頻。",
+      "承奉聖顏憂誤失，就中長怕內夫人。"
+    ],
+    "part_index": 68,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_69",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其六十九",
+    "poem": [
+      "管弦聲急滿龍池，宮女藏鉤夜宴時。",
+      "好是聖人親捉得，便將濃墨掃雙眉。"
+    ],
+    "part_index": 69,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "鉤",
+        "variant": "？",
+        "source": "一作「？」"
+      },
+      {
+        "line": 2,
+        "text": "掃",
+        "variant": "？",
+        "source": "一作「？」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_70",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十",
+    "poem": [
+      "密室紅泥地火爐，內人冬日晚傳呼。",
+      "今宵駕幸池頭宿，排比椒房得煖無。"
+    ],
+    "part_index": 70,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_71",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十一",
+    "poem": [
+      "畫船花舫總新妝，進入池心近島傍。",
+      "松柏樓窗楠木板，暖風吹過一團香。"
+    ],
+    "part_index": 71,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "樓",
+        "variant": "鏤",
+        "source": "一作「鏤」"
+      },
+      {
+        "line": 2,
+        "text": "一團",
+        "variant": "四圍",
+        "source": "一作「四圍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_72",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十二",
+    "poem": [
+      "三清臺近苑牆東，樓檻層層映水紅。",
+      "盡日綺羅人度曲，管弦聲在半天中。"
+    ],
+    "part_index": 72,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_73",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十三",
+    "poem": [
+      "安排諸院接行廊，外檻周回十里強。",
+      "青錦地衣紅繡毯，盡鋪龍腦鬱金香。"
+    ],
+    "part_index": 73,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "外",
+        "variant": "水",
+        "source": "一作「水」"
+      },
+      {
+        "line": 1,
+        "text": "強",
+        "variant": "長",
+        "source": "一作「長」"
+      },
+      {
+        "line": 2,
+        "text": "繡",
+        "variant": "線",
+        "source": "一作「線」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_74",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十四",
+    "poem": [
+      "安排竹柵與笆籬，養得新生鵓鴿兒。",
+      "宣受內家專餵飼，花毛間看總皆知。"
+    ],
+    "part_index": 74,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "間",
+        "variant": "閑",
+        "source": "一作「閑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_75",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十五",
+    "poem": [
+      "年初十五最風流，新賜雲鬟便上頭。",
+      "按罷霓裳歸院裏，畫樓雲閣總重修。"
+    ],
+    "part_index": 75,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "便",
+        "variant": "使",
+        "source": "一作「使」"
+      },
+      {
+        "line": 2,
+        "text": "重",
+        "variant": "新",
+        "source": "一作「新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_76",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十六",
+    "poem": [
+      "金畫香臺出露盤，黃龍雕刻遶朱闌。",
+      "焚修每遇三元節，天子親簪白玉冠。"
+    ],
+    "part_index": 76,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_77",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十七",
+    "poem": [
+      "六宮一例雞冠子，新樣交鐫白玉花。",
+      "欲試澹妝兼道服，面前宣與唾盂家。"
+    ],
+    "part_index": 77,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "雞",
+        "variant": "羅",
+        "source": "一作「羅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_78",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十八",
+    "poem": [
+      "三月櫻桃乍熟時，內人相引看紅枝。",
+      "回頭索取黃金彈，遶樹藏身打雀兒。"
+    ],
+    "part_index": 78,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_79",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其七十九",
+    "poem": [
+      "小小宮娥到內園，未梳雲鬢臉如蓮。",
+      "自從配與夫人後，不使尋花亂入船。"
+    ],
+    "part_index": 79,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_80",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十",
+    "poem": [
+      "錦城上起凝煙閣，擁殿遮樓一向高。",
+      "認得聖顏遙望見，碧闌干映赭黃袍。"
+    ],
+    "part_index": 80,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_81",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十一",
+    "poem": [
+      "水車踏水上宮城，寢殿簷頭滴滴鳴。",
+      "助得聖人高枕興，夜涼長作遠灘聲。"
+    ],
+    "part_index": 81,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_82",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十二",
+    "poem": [
+      "平頭船子小龍床，多少神仙立御旁。",
+      "旋刺篙竿令過岸，滿池春水蘸紅妝。"
+    ],
+    "part_index": 82,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_83",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十三",
+    "poem": [
+      "苑東天子愛巡遊，御岸花堤枕碧流。",
+      "新教內人供射鴨，長將弓箭繞池頭。"
+    ],
+    "part_index": 83,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_84",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十四",
+    "poem": [
+      "羅衫玉帶最風流，斜插銀篦慢裹頭。",
+      "閑向殿前騎御馬，揮鞭橫過小紅樓。"
+    ],
+    "part_index": 84,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "閑向",
+        "variant": "聞得",
+        "source": "一作「聞得」"
+      },
+      {
+        "line": 2,
+        "text": "騎",
+        "variant": "調",
+        "source": "一作「調」"
+      },
+      {
+        "line": 2,
+        "text": "揮",
+        "variant": "掉",
+        "source": "一作「掉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_85",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十五",
+    "poem": [
+      "沉香亭子傍池斜，夏日巡遊歇翠華。",
+      "簾畔玉盆盛淨水，內人手裏剖銀瓜。"
+    ],
+    "part_index": 85,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_86",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十六",
+    "poem": [
+      "薄羅衫子透肌膚，夏日初長板閣虛。",
+      "獨自憑闌無一事，水風涼處讀文書。"
+    ],
+    "part_index": 86,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_87",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十七",
+    "poem": [
+      "婕妤生長帝王家，常近龍顏逐翠華。",
+      "楊柳岸長春日暮，傍池行困倚桃花。"
+    ],
+    "part_index": 87,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_88",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十八",
+    "poem": [
+      "月頭支給買花錢，滿殿宮人近數千。",
+      "遇著唱名多不語，含羞走過御牀前。"
+    ],
+    "part_index": 88,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "支",
+        "variant": "又",
+        "source": "一作「又」"
+      },
+      {
+        "line": 1,
+        "text": "近數",
+        "variant": "盡十",
+        "source": "一作「盡十」"
+      },
+      {
+        "line": 2,
+        "text": "語",
+        "variant": "應",
+        "source": "一作「應」"
+      },
+      {
+        "line": 2,
+        "text": "走",
+        "variant": "急",
+        "source": "一作「急」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_89",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其八十九",
+    "poem": [
+      "小雨霏微潤綠苔，石楠紅杏傍池開。",
+      "一枝插向金瓶裏，捧進君王玉殿來。"
+    ],
+    "part_index": 89,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_90",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十",
+    "poem": [
+      "錦鱗躍水出浮萍，荇草牽風翠帶橫。",
+      "恰似金梭攛碧沼，好題幽恨寫閨情。"
+    ],
+    "part_index": 90,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_91",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十一",
+    "poem": [
+      "春天睡起曉妝成，隨侍君王觸處行。",
+      "畫得自家梳洗漾，相憑女伴把來呈。"
+    ],
+    "part_index": 91,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_92",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十二",
+    "poem": [
+      "舞頭皆著畫羅衣，唱得新翻御製詞。",
+      "每日內庭聞教隊，樂聲飛上到龍墀。"
+    ],
+    "part_index": 92,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_93",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十三",
+    "poem": [
+      "春早尋花入內園，競傳宣旨欲黃昬。",
+      "明朝駕幸遊蠶市，暗使氈車就苑門。"
+    ],
+    "part_index": 93,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_94",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十四",
+    "poem": [
+      "半夜搖船載內家，水門紅蠟一行斜。",
+      "聖人正在宮中飲，宣使池頭旋折花。"
+    ],
+    "part_index": 94,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_95",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十五",
+    "poem": [
+      "春日龍池小宴開，岸邊亭子號流杯。",
+      "沈檀刻作神仙女，對捧金尊水上來。"
+    ],
+    "part_index": 95,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "尊",
+        "variant": "杯",
+        "source": "一作「杯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_96",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十六",
+    "poem": [
+      "梨園子弟簇池頭，小樂攜來候宴遊。",
+      "旋炙銀笙先按拍，海棠花下合梁州。"
+    ],
+    "part_index": 96,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_97",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十七",
+    "poem": [
+      "慢梳鬟髻著輕紅，春早爭求芍藥叢。",
+      "近日承恩移住處，夾城裏面占新宮。"
+    ],
+    "part_index": 97,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_98",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十八",
+    "poem": [
+      "別色官司御輦家，黃衫束帶臉如花。",
+      "深宮內院參承慣，常從金輿到日斜。"
+    ],
+    "part_index": 98,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_99",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其九十九",
+    "poem": [
+      "日高房裏學圍碁，等候官家未出時。",
+      "為賭金錢爭路數，專憂女伴怪來遲。"
+    ],
+    "part_index": 99,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_100",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百",
+    "poem": [
+      "摴蒱冷澹學投壺，箭倚腰身約畫圖。",
+      "盡對君王稱妙手，一人來射一人輸。"
+    ],
+    "part_index": 100,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_101",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零一",
+    "poem": [
+      "慢揎紅袖指纖纖，學釣池魚傍水邊。",
+      "忍冷不禁還自去，釣竿常被別人牽。"
+    ],
+    "part_index": 101,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "揎",
+        "variant": "揮",
+        "source": "一作「揮」"
+      },
+      {
+        "line": 1,
+        "text": "紅",
+        "variant": "羅",
+        "source": "一作「羅」"
+      },
+      {
+        "line": 1,
+        "text": "邊",
+        "variant": "弦",
+        "source": "一作「弦」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_102",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零二",
+    "poem": [
+      "宣城院約池南岸，粉壁紅窗畫不成。",
+      "總是一人行幸處，徹宵聞奏管弦聲。"
+    ],
+    "part_index": 102,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "城",
+        "variant": "嶽",
+        "source": "一作「嶽」"
+      },
+      {
+        "line": 2,
+        "text": "聞",
+        "variant": "長",
+        "source": "一作「長」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_103",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零三",
+    "poem": [
+      "丹霞亭浸池心冷，曲沼門含水腳清。",
+      "傍岸鴛鴦皆著對，時時出向淺沙行。"
+    ],
+    "part_index": 103,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_104",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零四",
+    "poem": [
+      "楊柳陰中引御溝，碧梧桐樹擁朱樓。",
+      "金陵城共滕王閣，畫向丹青也合羞。"
+    ],
+    "part_index": 104,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_105",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零五",
+    "poem": [
+      "晚來隨駕上城遊，行到東西百子樓。",
+      "回望苑中花柳色，綠陰紅豔滿池頭。"
+    ],
+    "part_index": 105,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 1,
+        "text": "子",
+        "variant": "尺",
+        "source": "一作「尺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_106",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零六",
+    "poem": [
+      "牡丹移向苑中栽，儘是藩方進入來。",
+      "未到末春緣地暖，數般顏色一時開。"
+    ],
+    "part_index": 106,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_107",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零七",
+    "poem": [
+      "明朝臘日官家出，隨駕先須點內人。",
+      "回鶻衣裝回鶻馬，就中偏稱小腰身。"
+    ],
+    "part_index": 107,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_108",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零八",
+    "poem": [
+      "盤鳳鞍韉閃色妝，黃金壓胯紫游韁。",
+      "自從揀得真龍種，別置東頭小馬坊。"
+    ],
+    "part_index": 108,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "盤鳳鞍韉閃",
+        "variant": "鞍韉盤龍鬬",
+        "source": "一作「鞍韉盤龍鬬」"
+      },
+      {
+        "line": 1,
+        "text": "游",
+        "variant": "油",
+        "source": "一作「油」"
+      },
+      {
+        "line": 2,
+        "text": "種",
+        "variant": "骨",
+        "source": "一作「骨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_109",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百零九",
+    "poem": [
+      "翠輦每從城畔出，內人相次簇池隈。",
+      "嫩荷花裏搖船去，一陣香風逐水來。"
+    ],
+    "part_index": 109,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "出",
+        "variant": "去",
+        "source": "一作「去」"
+      },
+      {
+        "line": 1,
+        "text": "簇",
+        "variant": "立",
+        "source": "一作「立」"
+      },
+      {
+        "line": 1,
+        "text": "隈",
+        "variant": "邊",
+        "source": "一作「邊」"
+      },
+      {
+        "line": 2,
+        "text": "去",
+        "variant": "出",
+        "source": "一作「出」"
+      },
+      {
+        "line": 2,
+        "text": "來",
+        "variant": "仙",
+        "source": "一作「仙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_110",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十",
+    "poem": [
+      "高燒紅燭點銀燈，秋晚花池景色澄。",
+      "今夜聖人新殿宿，後宮相競覔祗承。"
+    ],
+    "part_index": 110,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_111",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十一",
+    "poem": [
+      "苑中排比宴秋宵，弦管掙摐各自調。",
+      "日晚閣門傳聖旨，明朝盡放紫宸朝。"
+    ],
+    "part_index": 111,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_112",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十二",
+    "poem": [
+      "夜深飲散月初斜，無限宮嬪亂插花。",
+      "近侍婕妤先過水，遙聞隔岸喚船家。"
+    ],
+    "part_index": 112,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_113",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十三",
+    "poem": [
+      "宮娥小小豔紅妝，唱得歌聲繞畫梁。",
+      "緣是太妃新進入，座前頒賜小羅箱。"
+    ],
+    "part_index": 113,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_114",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十四",
+    "poem": [
+      "池心小樣釣魚船，入玩偏宜向晚天。",
+      "掛得綵帆教便放，急風吹過水門前。"
+    ],
+    "part_index": 114,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "前",
+        "variant": "邊",
+        "source": "一作「邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_115",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十五",
+    "poem": [
+      "傍池居住有漁家，收網搖船到淺沙。",
+      "預進活魚供日料，滿筐跳躍白銀花。"
+    ],
+    "part_index": 115,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_116",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十六",
+    "poem": [
+      "秋晚紅妝傍水行，競將衣袖撲蜻蜓。",
+      "回頭瞥見宮中喚，幾度藏身入畫屏。"
+    ],
+    "part_index": 116,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_117",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十七",
+    "poem": [
+      "御溝春水碧於天，宮女尋花入內園。",
+      "汗溼紅妝行漸困，岸頭相喚洗花鈿。"
+    ],
+    "part_index": 117,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_118",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十八",
+    "poem": [
+      "亭高百尺立風，引得君王到此中。",
+      "牀上翠屏開六扇，折枝花綻牡丹紅。"
+    ],
+    "part_index": 118,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "折枝花",
+        "variant": "檻花初",
+        "source": "一作「檻花初」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_119",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百一十九",
+    "poem": [
+      "內人承寵賜新房，紅紙泥窗遶畫廊。",
+      "種得海柑纔結子，乞求自送與君王。"
+    ],
+    "part_index": 119,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "紙",
+        "variant": "錦",
+        "source": "一作「錦」"
+      },
+      {
+        "line": 1,
+        "text": "畫",
+        "variant": "四",
+        "source": "一作「四」"
+      },
+      {
+        "line": 2,
+        "text": "送",
+        "variant": "進",
+        "source": "一作「進」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_120",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十",
+    "poem": [
+      "翡翠簾前日影斜，御溝春水浸成霞。",
+      "侍臣向晚隨天步，共看池頭滿樹花。"
+    ],
+    "part_index": 120,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "簾",
+        "variant": "簷",
+        "source": "一作「簷」"
+      },
+      {
+        "line": 1,
+        "text": "春",
+        "variant": "流",
+        "source": "一作「流」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_121",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十一",
+    "poem": [
+      "金碧闌干倚岸邊，捲簾初聽一聲蟬。",
+      "殿頭日午搖紈扇，宮女爭來玉座前。"
+    ],
+    "part_index": 121,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_122",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十二",
+    "poem": [
+      "嫩荷香撲釣魚亭，水面文魚作隊行。",
+      "宮女齊來池畔看，傍簾呼喚勿高聲。"
+    ],
+    "part_index": 122,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "齊",
+        "variant": "競",
+        "source": "一作「競」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_123",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十三",
+    "poem": [
+      "新翻酒令著詞章，侍宴初聞憶卻忙。",
+      "宣使近臣傳賜本，書家院裏徧抄將。"
+    ],
+    "part_index": 123,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "聞憶",
+        "variant": "開意",
+        "source": "一作「開意」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_124",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十四",
+    "poem": [
+      "寒食清明小殿旁，綵樓雙夾鬬雞場。",
+      "內人對御分明看，先賭紅羅被十牀。"
+    ],
+    "part_index": 124,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "被十",
+        "variant": "滿擔",
+        "source": "一作「滿擔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_125",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十五",
+    "poem": [
+      "寢殿門前曉色開，紅泥藥樹間花栽。",
+      "君王未起翠簾捲，又發宮人上直來。"
+    ],
+    "part_index": 125,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "又發宮人",
+        "variant": "宮女更番",
+        "source": "一作「宮女更番」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_126",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十六",
+    "poem": [
+      "海棠花發盛春天，游賞無時引御筵。",
+      "遶岸結成紅錦帳，暖枝猶拂畫樓船。"
+    ],
+    "part_index": 126,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_127",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十七",
+    "poem": [
+      "日晚宮人外按回，自牽驄馬出林隈。",
+      "御前接得高叉手，射得山雞喜進來。"
+    ],
+    "part_index": 127,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "日晚",
+        "variant": "曉日",
+        "source": "一作「曉日」"
+      },
+      {
+        "line": 2,
+        "text": "射",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_128",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十八",
+    "poem": [
+      "朱雀門高花外開，毬場空闊淨塵埃。",
+      "預排白兔兼蒼狗，等候君王按鶻來。"
+    ],
+    "part_index": 128,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_129",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百二十九",
+    "poem": [
+      "會仙觀內玉清壇，新點宮人作女冠。",
+      "每度駕來羞不出，羽衣初著怕人看。"
+    ],
+    "part_index": 129,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_130",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十",
+    "poem": [
+      "老大初教學道人，鹿皮冠子澹黃裙。",
+      "後宮歌舞今拋擲，每日焚香事老君。"
+    ],
+    "part_index": 130,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "學",
+        "variant": "作",
+        "source": "一作「作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_131",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十一",
+    "poem": [
+      "法雲寺裏中元節，又是官家誕降辰。",
+      "滿殿香花爭供養，內園先占得鋪陳。"
+    ],
+    "part_index": 131,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "誕降",
+        "variant": "降誕",
+        "source": "一作「降誕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_132",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十二",
+    "poem": [
+      "金章紫綬選高班，每每東頭近聖顏。",
+      "才藝足當恩寵別，只堪供奉一場閑。"
+    ],
+    "part_index": 132,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "堪",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_133",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十三",
+    "poem": [
+      "內人深夜學迷藏，徧遶花叢水岸傍。",
+      "乘興忽來仙洞裏，大家尋覔一時忙。"
+    ],
+    "part_index": 133,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "忽",
+        "variant": "或",
+        "source": "一作「或」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_134",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十四",
+    "poem": [
+      "小院珠簾著地垂，院中排比不相知。",
+      "羨他鸚鵡能言語，窗裏偷教鸜鵒兒。"
+    ],
+    "part_index": 134,
+    "total_parts": 157
+  },
+  {
+    "uid": "QTS_798_001_135",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十五",
+    "poem": [
+      "島樹高低約浪痕，苑中斜日欲黃昏。",
+      "樹頭木刻雙飛鶴，蕩起晴空映水門。"
+    ],
+    "part_index": 135,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "島",
+        "variant": "窗",
+        "source": "一作「窗」"
+      },
+      {
+        "line": 1,
+        "text": "苑",
+        "variant": "島",
+        "source": "一作「島」"
+      },
+      {
+        "line": 2,
+        "text": "蕩起",
+        "variant": "遠漾",
+        "source": "一作「遠漾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_136",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十六",
+    "poem": [
+      "大臣承寵賜新莊，梔子園東柳岸傍。",
+      "今日聖恩親幸到，板橋頭是讀書堂。"
+    ],
+    "part_index": 136,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "今",
+        "variant": "每",
+        "source": "一作「每」"
+      },
+      {
+        "line": 2,
+        "text": "親",
+        "variant": "新",
+        "source": "一作「新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_137",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十七",
+    "poem": [
+      "樹葉初成鳥窠，石榴花裏笑聲多。",
+      "眾中遺卻金釵子，拾得從他要贖麼。"
+    ],
+    "part_index": 137,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "裏",
+        "variant": "底",
+        "source": "一作「底」"
+      },
+      {
+        "line": 2,
+        "text": "眾",
+        "variant": "舞",
+        "source": "一作「舞」"
+      },
+      {
+        "line": 2,
+        "text": "贖",
+        "variant": "賞",
+        "source": "一作「賞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_138",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十八",
+    "poem": [
+      "小殿初成粉未乾，貴妃姊妹自來看。",
+      "為逢好日先移入，續向街西索牡丹。"
+    ],
+    "part_index": 138,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "初成",
+        "variant": "新裝",
+        "source": "一作「新裝」"
+      },
+      {
+        "line": 1,
+        "text": "未",
+        "variant": "欲",
+        "source": "一作「欲」"
+      },
+      {
+        "line": 2,
+        "text": "街",
+        "variant": "階",
+        "source": "一作「階」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_139",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百三十九",
+    "poem": [
+      "內人相續報花開，准擬君王便看來。",
+      "逢著五弦琴繡袋，宜春院裏按歌回。"
+    ],
+    "part_index": 139,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "逢",
+        "variant": "縫",
+        "source": "一作「縫」"
+      },
+      {
+        "line": 2,
+        "text": "琴",
+        "variant": "紅",
+        "source": "一作「紅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_140",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十",
+    "poem": [
+      "廵吹慢遍不相和，暗數看誰曲校多。",
+      "明日梨花園裏見，先須逐得內家歌。"
+    ],
+    "part_index": 140,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "數看誰",
+        "variant": "看誰人",
+        "source": "一作「看誰人」"
+      },
+      {
+        "line": 2,
+        "text": "花園",
+        "variant": "園花",
+        "source": "一作「園花」"
+      },
+      {
+        "line": 2,
+        "text": "逐",
+        "variant": "直",
+        "source": "一作「直」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_141",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十一",
+    "poem": [
+      "黃金合裏盛紅雪，重結香羅四出花。",
+      "一一傍邊書勑字，中官送與大臣家。"
+    ],
+    "part_index": 141,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "中官",
+        "variant": "分明",
+        "source": "一作「分明」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_142",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十二",
+    "poem": [
+      "宮人早起笑相呼，不識堦前掃地夫。",
+      "乞與金錢爭借問，外頭還似此間無。"
+    ],
+    "part_index": 142,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "早起",
+        "variant": "拍手",
+        "source": "一作「拍手」"
+      },
+      {
+        "line": 1,
+        "text": "堦",
+        "variant": "庭",
+        "source": "一作「庭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_143",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十三",
+    "poem": [
+      "小隨阿姊學吹笙，見好君王賜與名。",
+      "夜拂玉牀朝把鏡，黃金殿外不教行。"
+    ],
+    "part_index": 143,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "小隨阿姊",
+        "variant": "不隨阿妹",
+        "source": "一作「不隨阿妹」"
+      },
+      {
+        "line": 1,
+        "text": "見好",
+        "variant": "好見",
+        "source": "一作「好見」"
+      },
+      {
+        "line": 1,
+        "text": "賜",
+        "variant": "乞",
+        "source": "一作「乞」"
+      },
+      {
+        "line": 2,
+        "text": "殿外",
+        "variant": "堦下",
+        "source": "一作「堦下」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_144",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十四",
+    "poem": [
+      "日高殿裏有香煙，萬歲聲長動九天。",
+      "妃子院中初降誕，內人爭乞洗兒錢。"
+    ],
+    "part_index": 144,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "初",
+        "variant": "迎",
+        "source": "一作「迎」"
+      },
+      {
+        "line": 2,
+        "text": "爭乞",
+        "variant": "分得",
+        "source": "一作「分得」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_145",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十五",
+    "poem": [
+      "宮花不共外花同，正月長生一半紅。",
+      "供御櫻桃看守別，直無鴉鵲到園中。"
+    ],
+    "part_index": 145,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "共",
+        "variant": "與",
+        "source": "一作「與」"
+      },
+      {
+        "line": 1,
+        "text": "花",
+        "variant": "邊",
+        "source": "一作「邊」"
+      },
+      {
+        "line": 1,
+        "text": "生",
+        "variant": "先",
+        "source": "一作「先」"
+      },
+      {
+        "line": 1,
+        "text": "半",
+        "variant": "朶",
+        "source": "一作「朶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_146",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十六",
+    "poem": [
+      "殿前鋪設兩邊樓，寒食宮人步打毬。",
+      "一半走來爭跪拜，上棚先謝得頭籌。"
+    ],
+    "part_index": 146,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "爭",
+        "variant": "齊",
+        "source": "一作「齊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_147",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十七",
+    "poem": [
+      "大儀前日暖房來，囑向朝陽乞藥栽。",
+      "勑賜一窠紅躑躅，謝恩未了奏花開。"
+    ],
+    "part_index": 147,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "朝",
+        "variant": "昭",
+        "source": "一作「昭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_148",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十八",
+    "poem": [
+      "御前新賜紫羅襦，步步金堦上軟輿。",
+      "宮局總來為喜樂，院中新拜內尚書。"
+    ],
+    "part_index": 148,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "御",
+        "variant": "牀",
+        "source": "一作「牀」"
+      },
+      {
+        "line": 1,
+        "text": "賜",
+        "variant": "謝",
+        "source": "一作「謝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_149",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百四十九",
+    "poem": [
+      "鸚鵡誰教轉舌關，內人手裏養來姦。",
+      "語多更覺承恩澤，數對君王憶隴山。"
+    ],
+    "part_index": 149,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "更覺",
+        "variant": "近更",
+        "source": "一作「近更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_150",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十",
+    "poem": [
+      "分朋閑坐賭櫻桃，收卻投壺玉腕勞。",
+      "各把沈香雙陸子，局中鬬累阿誰高。"
+    ],
+    "part_index": 150,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "朋",
+        "variant": "明",
+        "source": "一作「明」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_151",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十一",
+    "poem": [
+      "禁寺紅樓內裏通，笙歌引駕夾城東。",
+      "裹頭宮監堂前立，手把牙鞘竹彈弓。"
+    ],
+    "part_index": 151,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "笙歌引駕夾城東",
+        "variant": "香山引駕夾城中",
+        "source": "一作「香山引駕夾城中」"
+      },
+      {
+        "line": 2,
+        "text": "宮監堂",
+        "variant": "蕃女簾",
+        "source": "一作「蕃女簾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_152",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十二",
+    "poem": [
+      "舞來汗溼羅衣徹，樓上人扶下玉梯。",
+      "歸到院中重洗面，金花盆裏潑銀泥。"
+    ],
+    "part_index": 152,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "花盆",
+        "variant": "盆水",
+        "source": "一作「盆水」"
+      },
+      {
+        "line": 2,
+        "text": "銀",
+        "variant": "紅",
+        "source": "一作「紅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_153",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十三",
+    "poem": [
+      "宿妝殘粉未明天，總立昭陽花樹邊。",
+      "寒食內人長白打，庫中先散與金錢。"
+    ],
+    "part_index": 153,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "立",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_154",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十四",
+    "poem": [
+      "眾中偏得君王笑，偷把金箱筆硯開。",
+      "書破紅蠻隔子上，旋推當直美人來。"
+    ],
+    "part_index": 154,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "偏",
+        "variant": "愛",
+        "source": "一作「愛」"
+      },
+      {
+        "line": 1,
+        "text": "笑",
+        "variant": "喚",
+        "source": "一作「喚」"
+      },
+      {
+        "line": 2,
+        "text": "推",
+        "variant": "摧",
+        "source": "一作「摧」"
+      },
+      {
+        "line": 2,
+        "text": "美",
+        "variant": "內",
+        "source": "一作「內」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_155",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十五",
+    "poem": [
+      "水中芹葉土中花，拾得還將避眾家。",
+      "總待別人般數盡，袖中拈出鬱金芽。"
+    ],
+    "part_index": 155,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "水中芹葉土中花，拾得還將避眾家。",
+        "variant": "艾心芹葉初生小，秪鬬時新不鬬花。",
+        "source": "一作「艾心芹葉初生小，秪鬬時新不鬬花。」"
+      },
+      {
+        "line": 2,
+        "text": "別人",
+        "variant": "大家",
+        "source": "一作「大家」"
+      },
+      {
+        "line": 2,
+        "text": "拈出",
+        "variant": "捻得",
+        "source": "一作「捻得」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_156",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十六",
+    "poem": [
+      "玉簫改調箏移柱，催換紅羅繡舞筵。",
+      "未戴柘枝花帽子，兩行宮監在簾前。"
+    ],
+    "part_index": 156,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 1,
+        "text": "箏移柱",
+        "variant": "移纖指",
+        "source": "一作「移纖指」"
+      },
+      {
+        "line": 1,
+        "text": "換",
+        "variant": "赴",
+        "source": "一作「赴」"
+      },
+      {
+        "line": 2,
+        "text": "戴",
+        "variant": "著",
+        "source": "一作「著」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_798_001_157",
+    "volume": 798,
+    "author": {
+      "canonical": "花蕊夫人",
+      "recorded": "花蕊夫人",
+      "gender": "female"
+    },
+    "title": "宮詞 其一百五十七",
+    "poem": [
+      "窗窗戶戶院相當，總有珠簾玳瑁牀。",
+      "雖道君王不來宿，帳中長是炷牙香。"
+    ],
+    "part_index": 157,
+    "total_parts": 157,
+    "variants": [
+      {
+        "line": 2,
+        "text": "牙",
+        "variant": "衙",
+        "source": "一作「衙」"
+      }
+    ]
+  }
+]

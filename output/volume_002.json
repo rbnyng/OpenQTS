@@ -1,0 +1,466 @@
+[
+  {
+    "uid": "QTS_002_001_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "太子納妃太平公主出降",
+    "poem": [
+      "龍樓光曙景",
+      "魯館啓朝扉",
+      "豔日濃妝影",
+      "低星降婺輝",
+      "玉庭浮瑞色",
+      "銀牓藻祥徽",
+      "雲轉花縈蓋",
+      "霞飄葉綴旂",
+      "雕軒回翠陌",
+      "寶駕歸丹殿",
+      "鳴珠佩曉衣",
+      "鏤璧輪開扇",
+      "華冠列綺筵",
+      "蘭醑申芳宴",
+      "環階鳳樂陳",
+      "玳席珍羞薦",
+      "蝶舞袖香新",
+      "歌分落素塵",
+      "歡凝歡懿戚",
+      "慶葉慶初姻",
+      "暑闌炎氣息",
+      "涼早吹疏頻",
+      "方期六合泰",
+      "共賞萬年春"
+    ]
+  },
+  {
+    "uid": "QTS_002_002_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "七夕宴懸圃二首 一",
+    "poem": [
+      "羽蓋飛天漢",
+      "鳳駕越層巒",
+      "俱歎三秋阻",
+      "共敍一宵歡",
+      "璜虧夜月落",
+      "靨碎曉星殘",
+      "誰能重操杼",
+      "纖手濯清瀾"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_002_002_02",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "七夕宴懸圃二首 二",
+    "poem": [
+      "霓裳轉雲路",
+      "鳳駕儼天潢",
+      "虧星凋夜靨",
+      "殘月落朝璜",
+      "促歡今夕促",
+      "長離別後長",
+      "輕梭聊駐織",
+      "掩淚獨悲傷"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_002_003_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "過溫湯",
+    "poem": [
+      "溫渚停仙蹕",
+      "豐郊駐曉旌",
+      "路曲迴輸影",
+      "巖虛傳漏聲",
+      "暖溜驚湍駛",
+      "寒空碧霧輕",
+      "林黃疏葉下",
+      "野白曙霜明",
+      "眺聽良無已",
+      "煙霞斷續生"
+    ]
+  },
+  {
+    "uid": "QTS_002_004_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "九月九日",
+    "poem": [
+      "端居臨玉扆，初律啓金商。",
+      "鳳闕澄秋色，龍闈引夕涼。",
+      "野淨山氣斂，林疎風露長。",
+      "砌蘭虧半影，巖桂發全香。",
+      "滿蓋荷凋翠，圓花菊散黃。",
+      "揮鞭爭電烈，飛羽亂星光。",
+      "柳空穿石碎，弦虛側月張。",
+      "怯猿啼落岫，驚雁斷分行。",
+      "斜輪低夕景，歸斾擁通莊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "初",
+        "variant": "永",
+        "source": "一作「永」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_002_005_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "謁慈恩寺題奘法師房",
+    "poem": [
+      "停軒觀福殿",
+      "遊目眺皇畿",
+      "法輪含日轉",
+      "花蓋接雲飛",
+      "翠煙香綺閣",
+      "丹霞光寶衣",
+      "幡虹遙合彩",
+      "定水迥分暉",
+      "蕭然登十地",
+      "自得會三歸"
+    ]
+  },
+  {
+    "uid": "QTS_002_006_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "謁大慈恩寺",
+    "poem": [
+      "日宮開萬仞，月殿聳千尋。",
+      "花蓋飛團影，幡虹曳曲陰。",
+      "綺霞遙籠帳，叢珠細網林。",
+      "寥廓煙雲表，超然物外心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "萬",
+        "variant": "百",
+        "source": "一作「百」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_002_007_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "守歲",
+    "poem": [
+      "今宵冬律盡",
+      "來朝麗景新",
+      "花餘凝地雪",
+      "條含煖吹分",
+      "綬吐芽猶嫩",
+      "冰□已鏤津",
+      "薄紅梅色冷",
+      "淺綠柳輕春",
+      "送迎交兩節",
+      "暄寒變一辰"
+    ]
+  },
+  {
+    "uid": "QTS_002_008_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李治",
+      "recorded": "高宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Gaozong of Tang",
+      "wikidata_id": "Q9703"
+    },
+    "title": "咸亨殿宴近臣諸親柏梁體",
+    "poem": [
+      "屏欲除奢政返淳"
+    ],
+    "notes": [
+      {
+        "content": "聯句",
+        "context": "咸亨殿宴近臣諸親柏梁體",
+        "original_title": "咸亨殿宴近臣諸親柏梁體"
+      },
+      {
+        "content": "霍王以下和句亡",
+        "context": "咸亨殿宴近臣諸親柏梁體",
+        "original_title": "咸亨殿宴近臣諸親柏梁體"
+      }
+    ],
+    "preface": "(聯句)"
+  },
+  {
+    "uid": "QTS_002_009_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "九月九日幸臨渭亭登高得秋字",
+    "poem": [
+      "陶潛盈把，既浮九醖之歡。",
+      "畢卓持螯，須盡一生之興。",
+      "人題四韻，同賦五言，其最後成，罰之引滿。"
+    ]
+  },
+  {
+    "uid": "QTS_002_010_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "九月九日幸臨渭亭登高得秋字",
+    "poem": [
+      "九月正乘秋",
+      "三杯興已周",
+      "泛桂迎尊滿",
+      "吹花向酒浮",
+      "長房萸早熟",
+      "彭澤菊初收",
+      "何藉龍沙上",
+      "方得恣淹留"
+    ]
+  },
+  {
+    "uid": "QTS_002_011_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "登驪山高頂寓目",
+    "poem": [
+      "四郊秦漢國",
+      "八水帝王都",
+      "閶闔雄里閈",
+      "城闕壯規模",
+      "貫渭稱天邑",
+      "含岐實奧區",
+      "金門披玉館",
+      "因此識皇圖"
+    ]
+  },
+  {
+    "uid": "QTS_002_012_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "幸秦始皇陵",
+    "poem": [
+      "眷言君失德，驪邑想秦餘。",
+      "政煩方改篆，愚俗乃焚書。",
+      "阿房久已滅，閣道遂成墟。",
+      "欲厭東南氣，翻傷掩鮑車。"
+    ]
+  },
+  {
+    "uid": "QTS_002_013_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "立春日遊苑迎春",
+    "poem": [
+      "神皋福地三秦邑",
+      "玉臺金闕九仙家",
+      "寒光猶戀甘泉樹",
+      "淑景偏臨建始花",
+      "綵蝶黃鶯未歌舞",
+      "梅香柳色已矜誇",
+      "迎春正啓流霞席",
+      "暫囑曦輪勿遽斜"
+    ]
+  },
+  {
+    "uid": "QTS_002_014_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "十月誕辰內殿宴羣臣效柏梁體聯句",
+    "poem": [
+      "潤色鴻業寄賢才",
+      "叨居右弼愧鹽梅",
+      "運籌帷幄荷時來",
+      "職掌圖籍濫蓬萊",
+      "兩司謬忝謝鍾裴",
+      "禮樂銓管效涓埃",
+      "陳師振旅清九垓",
+      "欣承顧問侍天杯",
+      "銜恩獻壽梁柏臺",
+      "黃縑青簡奉康哉",
+      "鯫生侍從忝王枚",
+      "右掖司言實不才",
+      "宗伯秩禮天地開",
+      "帝歌難續仰昭回",
+      "微臣捧日變寒灰",
+      "遠慚班左愧遊陪"
+    ]
+  },
+  {
+    "uid": "QTS_002_015_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "景龍四年正月五日移仗蓬萊宮御大明殿會吐蕃騎馬之戲因重爲柏梁體聯句",
+    "poem": [
+      "大明御宇臨萬方",
+      "顧慚內政翊陶唐",
+      "鸞鳴鳳舞向平陽",
+      "秦樓魯館沐恩光",
+      "無心爲子輒求郎",
+      "雄才七步謝陳王",
+      "當熊讓輦愧前芳",
+      "再司銓筦恩可忘",
+      "文江學海思濟航",
+      "萬邦考績臣所詳",
+      "著作不休出中腸",
+      "權豪屏跡肅嚴霜",
+      "鑄鼎開岳造明堂",
+      "玉醴由來獻壽觴"
+    ]
+  },
+  {
+    "uid": "QTS_002_016_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李顯",
+      "recorded": "中宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Zhongzong of Tang",
+      "wikidata_id": "Q9717"
+    },
+    "title": "石淙",
+    "poem": [
+      "三陽本是標靈紀",
+      "二室由來獨擅名",
+      "霞衣霞錦千般狀",
+      "雲峯雲岫百重生",
+      "水炫珠光遇泉客",
+      "巖懸石鏡厭山精",
+      "永願乾坤符睿算",
+      "長居膝下屬歡情"
+    ]
+  },
+  {
+    "uid": "QTS_002_017_01",
+    "volume": 2,
+    "author": {
+      "canonical": "李旦",
+      "recorded": "睿宗皇帝",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Emperor Ruizong of Tang",
+      "wikidata_id": "Q9722"
+    },
+    "title": "石淙",
+    "poem": [
+      "奇峯嶾嶙箕山北",
+      "秀崿岹嶢嵩鎮南",
+      "地首地肺何曾擬",
+      "天目天台倍覺慚",
+      "樹影蒙蘢鄣疊岫",
+      "波深洶湧落懸潭",
+      "□願紫宸居得一",
+      "永欣丹扆御通三"
+    ]
+  }
+]

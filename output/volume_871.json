@@ -1,0 +1,391 @@
+[
+  {
+    "uid": "QTS_871_001_01",
+    "volume": 871,
+    "author": {
+      "canonical": "甘洽",
+      "recorded": "甘洽"
+    },
+    "title": "與王仙客互嘲",
+    "poem": [
+      "王，計爾應姓田。",
+      "為你面撥獺，抽卻你兩邊。",
+      "甘，計爾應姓丹。",
+      "為你頭不曲，回腳向上安。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "甘洽",
+        "context": "為你面撥獺，抽卻你兩邊。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 4,
+        "content": "仙客",
+        "context": "為你頭不曲，回腳向上安。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_871_002_01",
+    "volume": 871,
+    "author": {
+      "canonical": "閻敬愛",
+      "recorded": "閻敬愛"
+    },
+    "title": "題濠州高塘館",
+    "poem": [
+      "借問襄王安在哉，山川此地勝陽臺。",
+      "今宵寓宿高塘館，神女何曾入夢來。"
+    ]
+  },
+  {
+    "uid": "QTS_871_003_01",
+    "volume": 871,
+    "author": {
+      "canonical": "李和風",
+      "recorded": "李和風"
+    },
+    "title": "題敬愛詩後",
+    "poem": [
+      "高唐不是這高塘，淮畔荊南各異方。",
+      "若向此中求薦枕，參差笑殺楚襄王。"
+    ]
+  },
+  {
+    "uid": "QTS_871_004_01",
+    "volume": 871,
+    "author": {
+      "canonical": "歸氏子",
+      "recorded": "歸氏子"
+    },
+    "title": "答日休皮字詩",
+    "poem": [
+      "八片尖裁浪作球，火中燖了水中揉。",
+      "一包閒氣如長在，惹踢招拳卒未休。"
+    ]
+  },
+  {
+    "uid": "QTS_871_005_01",
+    "volume": 871,
+    "author": {
+      "canonical": "張魯封",
+      "recorded": "張魯封"
+    },
+    "title": "謔池亳二州賓佐兼寄宣武軍掌書記李晝",
+    "poem": [
+      "杜叟學仙輕蕙質，韋公事佛畏青娥。",
+      "樂營卻是閒人管，兩地風情日漸多。"
+    ]
+  },
+  {
+    "uid": "QTS_871_006_01",
+    "volume": 871,
+    "author": {
+      "canonical": "李晝",
+      "recorded": "李晝"
+    },
+    "title": "戲酬張魯封",
+    "poem": [
+      "秋浦亞卿顏叔子，譙都中憲老桑門。",
+      "如今柳巷通車馬，唯恐他時立棘垣。"
+    ]
+  },
+  {
+    "uid": "QTS_871_007_01",
+    "volume": 871,
+    "author": {
+      "canonical": "楊鷥",
+      "recorded": "楊鷥"
+    },
+    "title": "即事",
+    "poem": [
+      "白日蒼蠅滿飯盤，夜間蚊子又成團。",
+      "每到更深人靜後，定來頭上咬楊鸞。"
+    ]
+  },
+  {
+    "uid": "QTS_871_008_01",
+    "volume": 871,
+    "author": {
+      "canonical": "座客",
+      "recorded": "座客"
+    },
+    "title": "嘲周顓",
+    "poem": [
+      "龍津掉尾十年勞，聲價當時鬥月高。",
+      "惟有紅妝回舞手，似持霜刀向猿猱。"
+    ]
+  },
+  {
+    "uid": "QTS_871_009_01",
+    "volume": 871,
+    "author": {
+      "canonical": "周顓",
+      "recorded": "周顓"
+    },
+    "title": "和座客",
+    "poem": [
+      "十載文場敢憚勞，宋都回鶂為風高。",
+      "今朝甘被花枝笑，任道尊前愛縛猱。"
+    ]
+  },
+  {
+    "uid": "QTS_871_010_01",
+    "volume": 871,
+    "author": {
+      "canonical": "張鷟",
+      "recorded": "張鷟",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Zhang Zhuo",
+      "wikidata_id": "Q11069272"
+    },
+    "title": "答或人",
+    "poem": [
+      "寧可且將朱唇飲酒，誰能逐你黑齒常之。"
+    ]
+  },
+  {
+    "uid": "QTS_871_011_01",
+    "volume": 871,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "嘲崔嘏",
+    "poem": [
+      "二十九人及第，五十七眼看花。"
+    ]
+  },
+  {
+    "uid": "QTS_871_012_01",
+    "volume": 871,
+    "author": {
+      "canonical": "蘇芸",
+      "recorded": "蘇芸"
+    },
+    "title": "嶺南詩句",
+    "poem": [
+      "郭裏多榕樹，街中足使君。"
+    ]
+  },
+  {
+    "uid": "QTS_871_013_01",
+    "volume": 871,
+    "author": {
+      "canonical": "寶賀",
+      "recorded": "寶賀"
+    },
+    "title": "諧詩逸句",
+    "poem": [
+      "霧是山巾子，船為水靸鞋。",
+      "棹搖船掠鬢，風動水槌胸。",
+      "苦竹筍抽青橛子，石榴樹掛小瓶兒。"
+    ]
+  },
+  {
+    "uid": "QTS_871_014_01",
+    "volume": 871,
+    "author": {
+      "canonical": "蔡押衙",
+      "recorded": "蔡押衙"
+    },
+    "title": "題洞庭湖",
+    "poem": [
+      "可憐洞庭湖，恰到三冬無髭須。"
+    ]
+  },
+  {
+    "uid": "QTS_871_015_01",
+    "volume": 871,
+    "author": {
+      "canonical": "溫庭筠",
+      "recorded": "溫庭筠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Wen Tingyun",
+      "wikidata_id": "Q1367928"
+    },
+    "title": "戲令狐相",
+    "poem": [
+      "自從元老登庸後，天下諸胡悉帶鈴。"
+    ]
+  },
+  {
+    "uid": "QTS_871_016_01",
+    "volume": 871,
+    "author": {
+      "canonical": "顧雲",
+      "recorded": "顧雲",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gu Yun",
+      "wikidata_id": "Q18909119"
+    },
+    "title": "與羅隱互謔",
+    "poem": [
+      "青蠅被扇扇離席，",
+      "白澤遭釘釘在門。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "顧雲",
+        "context": "青蠅被扇扇離席，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "羅隱",
+        "context": "白澤遭釘釘在門。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_871_017_01",
+    "volume": 871,
+    "author": {
+      "canonical": "孫光憲",
+      "recorded": "孫光憲",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Sun Guangxian",
+      "wikidata_id": "Q10124003"
+    },
+    "title": "引自落便宜句",
+    "poem": [
+      "窗下有時留客宿，室中無事伴僧眠。"
+    ]
+  },
+  {
+    "uid": "QTS_871_018_01",
+    "volume": 871,
+    "author": {
+      "canonical": "商則",
+      "recorded": "商則"
+    },
+    "title": "嘲廩丘令丞",
+    "poem": [
+      "令丞俱動手，縣尉止回身。"
+    ]
+  },
+  {
+    "uid": "QTS_871_019_01",
+    "volume": 871,
+    "author": {
+      "canonical": "羅穎",
+      "recorded": "羅穎"
+    },
+    "title": "題漢祖廟",
+    "poem": [
+      "項羽英雄猶不懼，可憐容得辟陽侯。"
+    ]
+  },
+  {
+    "uid": "QTS_871_020_01",
+    "volume": 871,
+    "author": {
+      "canonical": "陳嶠",
+      "recorded": "陳嶠",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Chen Qiao",
+      "wikidata_id": "Q45375039"
+    },
+    "title": "自賦催妝詩",
+    "poem": [
+      "彭祖尚聞年八百，陳郎猶是小孩兒。"
+    ]
+  },
+  {
+    "uid": "QTS_871_021_01",
+    "volume": 871,
+    "author": {
+      "canonical": "何承裕",
+      "recorded": "何承裕"
+    },
+    "title": "戲為舉子對句",
+    "poem": [
+      "曉來犬吠張三婦，日暮猿啼呂四妻。"
+    ]
+  },
+  {
+    "uid": "QTS_871_022_01",
+    "volume": 871,
+    "author": {
+      "canonical": "李濤",
+      "recorded": "李濤",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Li Tao",
+      "wikidata_id": "Q11097334"
+    },
+    "title": "答弟婦歇後語",
+    "poem": [
+      "慚無竇建，愧作梁山。"
+    ]
+  },
+  {
+    "uid": "QTS_871_023_01",
+    "volume": 871,
+    "author": {
+      "canonical": "程紫霄",
+      "recorded": "程紫霄"
+    },
+    "title": "與釋惠江互謔",
+    "poem": [
+      "僧錄琵琶腿，",
+      "先生觱栗頭。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "程紫霄",
+        "context": "僧錄琵琶腿，"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "釋惠江",
+        "context": "先生觱栗頭。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_871_024_01",
+    "volume": 871,
+    "author": {
+      "canonical": "僧法軌",
+      "recorded": "僧法軌",
+      "gender": "male"
+    },
+    "title": "與李榮互謔",
+    "poem": [
+      "姓李應須禮，言榮又不榮。",
+      "身長三尺半，頭毛猶未生。"
+    ],
+    "notes": [
+      {
+        "type": "author_attribution",
+        "line": 1,
+        "content": "僧法軌",
+        "context": "姓李應須禮，言榮又不榮。"
+      },
+      {
+        "type": "author_attribution",
+        "line": 2,
+        "content": "李榮",
+        "context": "身長三尺半，頭毛猶未生。"
+      }
+    ]
+  }
+]

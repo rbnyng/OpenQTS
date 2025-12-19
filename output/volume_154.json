@@ -1,0 +1,915 @@
+[
+  {
+    "uid": "QTS_154_001_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其一",
+    "poem": [
+      "江有楓，其葉蒙蒙。",
+      "我友自東，於以遊從。"
+    ],
+    "part_index": 1,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_02",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其二",
+    "poem": [
+      "山有槭，其葉漠漠。",
+      "我友徂北，於以休息。"
+    ],
+    "part_index": 2,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_03",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其三",
+    "poem": [
+      "想彼槭矣，亦類其楓。",
+      "矧伊懷人，而忘其東。"
+    ],
+    "part_index": 3,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_04",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其四",
+    "poem": [
+      "東可遊矣，會之丘矣。",
+      "於山於水，於廟於寺。",
+      "於亭於里，君子遊焉。",
+      "於以宴喜，其樂亹亹。"
+    ],
+    "part_index": 4,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_05",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其五",
+    "poem": [
+      "粵東可居，彼吳之墟。",
+      "有田有庭，有朋有書。",
+      "有蓴有魚，君子居焉。",
+      "惟以宴醑，其樂徐徐。"
+    ],
+    "part_index": 5,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_06",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其六",
+    "poem": [
+      "我朋在矣，彼陸之子。",
+      "如松如杞，淑問不已。"
+    ],
+    "part_index": 6,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_07",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其七",
+    "poem": [
+      "我友于征，彼鄭之子。",
+      "如琇如英，德音孔明。"
+    ],
+    "part_index": 7,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_08",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其八",
+    "poem": [
+      "我思震澤，菱芡幕幕。",
+      "寤寐如覿，我思剡谿。",
+      "杉篠萋萋，寤寐無迷。"
+    ],
+    "part_index": 8,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_09",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其九",
+    "poem": [
+      "有鳥有鳥，粵鷗與鷺。",
+      "浮湍戲渚，皓然潔素。",
+      "忘其猜妒，彼何人斯，曾足傷懼。"
+    ],
+    "part_index": 9,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_001_10",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有楓一篇十章 其十",
+    "poem": [
+      "此懼惟何，懼寘於羅。",
+      "彼驕者子，讒言孔多。",
+      "我聞先師，體命委和。",
+      "公伯之愬，則如予何。",
+      "悵然山河，惟以嘯歌，其憂也哉。"
+    ],
+    "part_index": 10,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_154_002_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "菊榮一篇五章 其一",
+    "poem": [
+      "采采者菊，芬其榮斯。",
+      "紫英黃萼，照灼丹墀。",
+      "愷悌君子，佩服攸宜。",
+      "王國是維，大君是毗。",
+      "貽爾子孫，百祿萃之。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_002_02",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "菊榮一篇五章 其二",
+    "poem": [
+      "采采者菊，於邑之城。",
+      "舊根新莖，布葉垂英。",
+      "彼美淑人，應家之禎。",
+      "有弦既鳴，我政則平。",
+      "宜爾棟崇，必復其慶。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_002_03",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "菊榮一篇五章 其三",
+    "poem": [
+      "采采者菊，於邦之府。",
+      "陰槐翳柳，邇楹近宇。",
+      "彼勞者子，喧卑是處。",
+      "慨其莫知，蘊結誰語。",
+      "企彼高人，色斯遐舉。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_002_04",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "菊榮一篇五章 其四",
+    "poem": [
+      "采采者菊，於賓之館。",
+      "既低其枝，又弱其幹。",
+      "有斐君子，是焉披翫。",
+      "良辰旨酒，宴飲無算。",
+      "愴其仳別，終然永歎。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_002_05",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "菊榮一篇五章 其五",
+    "poem": [
+      "歲方晏矣，霜露殘促。",
+      "誰其榮斯，有英者菊。",
+      "豈微春華，懿此貞色。",
+      "人之侮我，混於薪棘。",
+      "詩人有言，好是正直。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_003_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "涼雨一章",
+    "poem": [
+      "習習涼風，泠泠浮飆。",
+      "君子樂胥，於其賓僚。",
+      "有女斯夭，式歌且謠。",
+      "欲言終宥，惟以招邀，於胥樂兮。"
+    ]
+  },
+  {
+    "uid": "QTS_154_004_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其一",
+    "poem": [
+      "有竹斯竿，於閣之前。",
+      "君子秉心，惟其貞堅兮。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_02",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其二",
+    "poem": [
+      "有竿斯竹，於閣之側。",
+      "君子秉操，惟其正直兮。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_03",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其三",
+    "poem": [
+      "彼蔚者竹，蕭其森矣。",
+      "有開者閤，宛其深矣。",
+      "迴簷幽砌，如翼如齒。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_04",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其四",
+    "poem": [
+      "冬之霄，霰雪斯瀌。",
+      "我有金鑪，熺其以歊。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_05",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其五",
+    "poem": [
+      "夏之日，炎景斯鬱。",
+      "我有珍簟，淒其以栗。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_06",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其六",
+    "poem": [
+      "彼紛者務，體其豫矣。",
+      "有旨者酒，歡其且矣。",
+      "友僚萃止，跗蕚載韡。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_004_07",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "有竹一篇七章 其七",
+    "poem": [
+      "彼美公之姓兮，那歟應積慶兮，期子惟去之柄兮。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_154_005_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有歸舟三章 其一",
+    "poem": [
+      "江有歸舟，亦亂其流。",
+      "之子言旋，嘉名孔修。",
+      "揚於王庭，允焯其休。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_154_005_02",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有歸舟三章 其二",
+    "poem": [
+      "舟既歸止，人亦榮止。",
+      "兄矣弟矣，孝斯踐矣。",
+      "稱觴燕喜，於岵於屺。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_154_005_03",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "江有歸舟三章 其三",
+    "poem": [
+      "彼遊惟帆，匪風不揚。",
+      "有彬伊父，匪學不彰。",
+      "予其懷而，勉爾無忘。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_154_006_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "過河濱和文學張志尹",
+    "poem": [
+      "隆古日以遠，舉世喪其淳。",
+      "慷慨懷黃虞，化理何由臻。",
+      "步出城西門，裴回見河濱。",
+      "當其側陋時，河水清且潾。",
+      "滄桑一以變，莽然翳荊榛。",
+      "至化無苦窳，宇宙將陶甄。",
+      "太息感悲泉，人往跡未湮。",
+      "瑟瑟寒原暮，冷風吹衣巾。",
+      "顧我譾劣質，希聖杳無因。",
+      "且盡登臨意，斗酒歡相親。"
+    ]
+  },
+  {
+    "uid": "QTS_154_007_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "舟中遇陸棣兄西歸數日得廣陵二三子書知遲晚次沙墊西岸作",
+    "poem": [
+      "林烏遙岸鳴，早知東方曙。",
+      "波上風雨歇，舟人叫將去。",
+      "蒼蒼前洲日，的的回沙鷺。",
+      "水氣清曉陰，灘聲隱川霧。",
+      "舊山勞魂想，憶人阻洄泝。",
+      "信宿千里餘，佳期曷由遇。",
+      "前程入楚鄉，弭棹問維揚。",
+      "但見土音異，始知程路長。",
+      "寥寥晚空靜，漫漫風淮涼。",
+      "雲景信可美，風潮殊未央。",
+      "故人江皋上，永日念容光。",
+      "中路枉尺書，謂余瓊樹芳。",
+      "深期結晤語，竟夕恨相望。",
+      "冀願崇朝霽，吾其一葦航。"
+    ]
+  },
+  {
+    "uid": "QTS_154_008_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "重陽日陪元魯山德秀登北城矚對新霽因以贈別",
+    "poem": [
+      "山縣繞古堞，悠悠快登望。",
+      "雨餘秋天高，目盡無隱狀。",
+      "綿連滍川迴，杳渺鴉路深。",
+      "彭澤興不淺，臨風動歸心。",
+      "賴茲琴堂暇，傲睨傾菊酒。",
+      "人和歲已登，從政復何有。",
+      "遠山十里碧，一道銜長雲。",
+      "青霞半落日，混合疑晴曛。",
+      "漸聞驚棲羽，坐歎清夜月。",
+      "中歡愴有違，行子念明發。",
+      "僅能泯寵辱，未免傷別離。",
+      "江湖不可忘，風雨勞相思。",
+      "明時當盛才，短伎安所設。",
+      "何日謝百里，從君漢之澨。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "風",
+        "variant": "流",
+        "source": "一作「流」"
+      },
+      {
+        "line": 9,
+        "text": "驚棲",
+        "variant": "棲林",
+        "source": "一作「棲林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_154_009_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "留別二三子得韻字",
+    "poem": [
+      "二紀尚雌伏，徒然忝先進。",
+      "英英爾眾賢，名實鬱雙振。",
+      "殘春惜將別，清洛行不近。",
+      "相與愛後時，無令孤逸韻。"
+    ]
+  },
+  {
+    "uid": "QTS_154_010_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "仰荅韋司業垂訪五首 其一",
+    "poem": [
+      "呦呦食苹鹿，常飲清泠川。",
+      "但悅豐草美，寧知牢饌鮮。",
+      "主人有幽意，將以充林泉。",
+      "羅網倖免傷，蒙君復羈牽。",
+      "高堂列衆賓，廣座鳴清絃。",
+      "俯仰轉驚惕，裴回獨憂煎。",
+      "緬懷雲巖路，欲往無由緣。",
+      "物各有所好，違之傷自然。"
+    ],
+    "part_index": 1,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 6,
+        "text": "驚",
+        "variant": "傷",
+        "source": "一作「傷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_154_010_02",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "仰荅韋司業垂訪五首 其二",
+    "poem": [
+      "神龜在南國，緬邈湘川陰。",
+      "遊止蓮葉上，歲時嘉樹林。",
+      "毒蟲且不近，斤斧何由尋。",
+      "錯落負奇文，熒煌耀丹金。",
+      "江山萬里餘，淮海阻且深。",
+      "獨保貞素質，不爲寒暑侵。",
+      "一逢盛明代，應見通靈心。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_010_03",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "仰荅韋司業垂訪五首 其三",
+    "poem": [
+      "晉代有儒臣，當年富詞藻。",
+      "立言寄青史，將以贊王道。",
+      "遼落緬歲時，辛勤歷江島。",
+      "且言風波倦，探涉豈爲寶。",
+      "不遇庾征西，雲誰展懷抱。",
+      "士貧乏知己，安得成所好。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_010_04",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "仰荅韋司業垂訪五首 其四",
+    "poem": [
+      "彭陽昔遊說，願謁南郢都。",
+      "王果尚未達，況從夷節謨。",
+      "豈知晉叔向，無罪嬰囚拘。",
+      "臨難俟解紛，獨知祁大夫。",
+      "舉讐且不棄，何必論親疎。",
+      "夫子覺者也，其能遺我乎。"
+    ],
+    "part_index": 4,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 6,
+        "text": "能",
+        "variant": "肯",
+        "source": "一作「肯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_154_010_05",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "仰荅韋司業垂訪五首 其五",
+    "poem": [
+      "關西一公子，年貌獨青春。",
+      "被褐來上京，翳然聲未振。",
+      "中郎何爲者，倒屣驚座賓。",
+      "詞賦豈不佳，盛名亦相因。",
+      "爲君奏此曲，此曲多苦辛。",
+      "千載不可誣，孰言今無人。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_154_011_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "答鄒象先",
+    "poem": [
+      "桂枝常共擢，茅茨冀同薦。",
+      "一命何阻脩，載馳各川縣。",
+      "壯圖悲歲月，明代恥貧賤。",
+      "回首無津梁，祗令二毛變。"
+    ]
+  },
+  {
+    "uid": "QTS_154_012_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "蒙山作",
+    "poem": [
+      "東蒙鎮海沂，合沓餘百里。",
+      "清秋淨氛靄，崖崿隱天起。",
+      "於役勞往還，息徒暫攀躋。",
+      "將窮絕跡處，偶得冥心理。",
+      "雲氣雜虹霓，松聲亂風水。",
+      "微明綠林際，杳窱丹洞裡。",
+      "仙鳥時可聞，羽人邈難視。",
+      "此焉多深邃，賢達昔所止。",
+      "子尚捐俗紛，季隨躡遐軌。",
+      "蘊真道彌曠，懷古情未已。",
+      "白鹿凡幾遊，黃精復奚似。",
+      "顧予尚牽纏，家業重書史。",
+      "少學務從師，壯年貴趨仕。",
+      "方馳桂林譽，未暇桃源美。",
+      "歲暮期再尋，幽哉羨門子。"
+    ]
+  },
+  {
+    "uid": "QTS_154_013_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "早春過七嶺寄題硤石裴丞廳壁",
+    "poem": [
+      "出硤寄趣少，晚行偏憶君。",
+      "依然向來處，官路谿邊雲。",
+      "茲路豈不劇，能無俗累紛。",
+      "槐陰永未合，泉聲細猶聞。",
+      "彌歎春罷酒，牽卑從此分。",
+      "登高望城入，斜影半風薰。"
+    ]
+  },
+  {
+    "uid": "QTS_154_014_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "送張翬下第歸江東",
+    "poem": [
+      "俱飛仍失路，綵服邇清波。",
+      "地積東南美，朝遺甲乙科。",
+      "客愁千里別，春色五湖多。",
+      "明日舊山去，其如相望何。"
+    ]
+  },
+  {
+    "uid": "QTS_154_015_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "越江秋曙",
+    "poem": [
+      "扁舟東路遠，曉月下江濆。",
+      "瀲灩信潮上，蒼茫孤嶼分。",
+      "林聲寒動葉，水氣曙連雲。",
+      "暾日浪中出，榜歌天際聞。",
+      "伯鸞常去國，安道惜離群。",
+      "延首剡谿近，詠言懷數君。"
+    ]
+  },
+  {
+    "uid": "QTS_154_016_01",
+    "volume": 154,
+    "author": {
+      "canonical": "蕭穎士",
+      "recorded": "蕭穎士",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yingshi Xiao",
+      "wikidata_id": "Q11622107"
+    },
+    "title": "山莊月夜作",
+    "poem": [
+      "獻書嗟棄置，疲拙歸田園。",
+      "且事計然策，將符公冶言。",
+      "桑榆清暮景，雞犬應遙村。",
+      "蠶罷里閭晏，麥秋田野喧。",
+      "澗聲連枕簟，峰勢入階軒。",
+      "未奏東山妓，先傾北海尊。",
+      "隴瓜香早熟，庭果落初繁。",
+      "更愜野人意，農談朝竟昏。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "清",
+        "variant": "畏",
+        "source": "一作「畏」"
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "uid": "QTS_778_001_01",
+    "volume": 778,
+    "author": {
+      "canonical": "李季華",
+      "recorded": "李季華"
+    },
+    "title": "題季子廟",
+    "poem": [
+      "季子讓社稷，又能聽國風。",
+      "寧知千載後，蘋藻冷祠宮。"
+    ]
+  },
+  {
+    "uid": "QTS_778_002_01",
+    "volume": 778,
+    "author": {
+      "canonical": "王玄",
+      "recorded": "王玄"
+    },
+    "title": "聽琴",
+    "poem": [
+      "拂塵開按匣，何事獨顰眉。",
+      "古調俗不樂，正聲君自知。"
+    ]
+  },
+  {
+    "uid": "QTS_778_003_01",
+    "volume": 778,
+    "author": {
+      "canonical": "李歸唐",
+      "recorded": "李歸唐"
+    },
+    "title": "失鷺鶿",
+    "poem": [
+      "惜養來來歲月深，籠開不見意沈吟。",
+      "也知只在秋江上，明月蘆花何處尋。"
+    ]
+  },
+  {
+    "uid": "QTS_778_004_01",
+    "volume": 778,
+    "author": {
+      "canonical": "朱光弼",
+      "recorded": "朱光弼"
+    },
+    "title": "銅雀妓",
+    "poem": [
+      "魏王銅雀妓，日暮管弦清。",
+      "一見西陵樹，心悲舞不成。"
+    ]
+  },
+  {
+    "uid": "QTS_778_005_01",
+    "volume": 778,
+    "author": {
+      "canonical": "朱光弼",
+      "recorded": "朱光弼"
+    },
+    "title": "宮詞",
+    "poem": [
+      "夢裏君王近，宮中河漢高。",
+      "秋風能再熱，團扇不辭勞。"
+    ]
+  },
+  {
+    "uid": "QTS_778_006_01",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其一",
+    "poem": [
+      "魂黯黯兮情脈脈，簾風清兮窗月白。",
+      "夢驚枕上爐燼銷，不見蘂珠宮裏客。"
+    ],
+    "part_index": 1,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_02",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其二",
+    "poem": [
+      "禁漏聲稀蟾魄冷，紗廚筠簟波光淨。",
+      "獨坐愁吟暗斷魂，滿窗風動芭蕉影。"
+    ],
+    "part_index": 2,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_03",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其三",
+    "poem": [
+      "別恨離腸空惻惻，風動虛軒池水白。",
+      "莫言靈圃步難尋，有心終效偷桃客。"
+    ],
+    "part_index": 3,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_04",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其四",
+    "poem": [
+      "愁遇人間好風景，焦桐韻滿華堂靜。",
+      "鑒鸞釵燕恨何窮，忍向銀牀空抱影。"
+    ],
+    "part_index": 4,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_05",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其五",
+    "poem": [
+      "綠槐影裏傍青樓，陌上行人空舉頭。",
+      "煙水露花無處問，搖鞭凝睇不勝愁。"
+    ],
+    "part_index": 5,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_06",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其六",
+    "poem": [
+      "役盡心神銷盡骨，恩情未斷忽分離。",
+      "平生此恨無言處，只有衣襟淚得知。"
+    ],
+    "part_index": 6,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_07",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其七",
+    "poem": [
+      "濃醪豔唱愁難破，骨瘦魂消病已成。",
+      "若為多羅年少死，始甘人道有風情。"
+    ],
+    "part_index": 7,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_08",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其八",
+    "poem": [
+      "淚滿羅衣酒滿卮，一聲歌斷怨傷離。",
+      "如今兩地心中事，直是瞿曇也不知。"
+    ],
+    "part_index": 8,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_006_09",
+    "volume": 778,
+    "author": {
+      "canonical": "顧甄遠",
+      "recorded": "顧甄遠"
+    },
+    "title": "惆悵詩九首 其九",
+    "poem": [
+      "橫泥杯觴醉複醒，愁牽時有小詩成。",
+      "早知惹得千般恨，悔不天生解薄情。"
+    ],
+    "part_index": 9,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_778_007_01",
+    "volume": 778,
+    "author": {
+      "canonical": "魏巒",
+      "recorded": "魏巒"
+    },
+    "title": "登清居臺",
+    "poem": [
+      "迤邐清居臺，連延白雲外。",
+      "側聆天上語，下視飛鳥背。"
+    ]
+  },
+  {
+    "uid": "QTS_778_008_01",
+    "volume": 778,
+    "author": {
+      "canonical": "柳明獻",
+      "recorded": "柳明獻"
+    },
+    "title": "遊昌化精舍",
+    "poem": [
+      "寶臺侵漢遠，金地接霞高。",
+      "何必遊天外，忻此契盧敖。"
+    ]
+  },
+  {
+    "uid": "QTS_778_009_01",
+    "volume": 778,
+    "author": {
+      "canonical": "蔡崑",
+      "recorded": "蔡崑"
+    },
+    "title": "善卷先生壇",
+    "poem": [
+      "幾到壇邊登閣望，因思遺跡詠今朝。",
+      "當時為有重華出，不是先生傲帝堯。"
+    ]
+  },
+  {
+    "uid": "QTS_778_010_01",
+    "volume": 778,
+    "author": {
+      "canonical": "蔡崑",
+      "recorded": "蔡崑"
+    },
+    "title": "句",
+    "poem": [
+      "飄飄隨暮雨，颯颯落秋山。",
+      "[2]"
+    ]
+  },
+  {
+    "uid": "QTS_778_011_01",
+    "volume": 778,
+    "author": {
+      "canonical": "令狐挺",
+      "recorded": "令狐挺",
+      "gender": "male",
+      "wikidata_id": "Q16076375"
+    },
+    "title": "題鄜州相思鋪",
+    "poem": [
+      "誰把相思號此河，塞垣車馬往來多。",
+      "只應自古征人淚，灑向空川作逝波。"
+    ]
+  },
+  {
+    "uid": "QTS_778_012_01",
+    "volume": 778,
+    "author": {
+      "canonical": "滕潛",
+      "recorded": "滕潛"
+    },
+    "title": "鳳歸雲二首 其一",
+    "poem": [
+      "金井欄邊見羽儀，梧桐枝上宿寒枝。",
+      "五陵公子憐文彩，畫與佳人刺繡衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_778_012_02",
+    "volume": 778,
+    "author": {
+      "canonical": "滕潛",
+      "recorded": "滕潛"
+    },
+    "title": "鳳歸雲二首 其二",
+    "poem": [
+      "飲啄蓬山最上頭，和煙飛下禁城秋。",
+      "曾將弄玉歸雲去，金翿斜開十二樓。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_778_013_01",
+    "volume": 778,
+    "author": {
+      "canonical": "夏侯子雲",
+      "recorded": "夏侯子雲"
+    },
+    "title": "藥圃",
+    "poem": [
+      "綠葉紅英遍，僊經自討論。",
+      "偶移巖畔菊，鋤斷白雲根。"
+    ]
+  },
+  {
+    "uid": "QTS_778_014_01",
+    "volume": 778,
+    "author": {
+      "canonical": "方愚",
+      "recorded": "方愚"
+    },
+    "title": "讀《孝經》",
+    "poem": [
+      "星彩滿天朝北極，源流是處赴東溟。",
+      "為臣為子不忠孝，辜負宣尼一卷經。"
+    ]
+  },
+  {
+    "uid": "QTS_778_015_01",
+    "volume": 778,
+    "author": {
+      "canonical": "潘雍",
+      "recorded": "潘雍"
+    },
+    "title": "贈葛氏小娘子",
+    "poem": [
+      "曾聞仙子住天台，欲結靈姻媿短才。",
+      "若許隨君洞中住，不同劉阮卻歸來。"
+    ]
+  },
+  {
+    "uid": "QTS_778_016_01",
+    "volume": 778,
+    "author": {
+      "canonical": "梁陟",
+      "recorded": "梁陟"
+    },
+    "title": "送孫舍人歸湘州",
+    "poem": [
+      "盛才傾世重，清論滿朝歸。",
+      "作隼他年計，為鴛此日飛。",
+      "比肩移日近，抗首出郊畿。",
+      "為報清漳水，分明照錦衣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "計",
+        "variant": "繫",
+        "source": "一作「繫」"
+      },
+      {
+        "line": 3,
+        "text": "移",
+        "variant": "趨",
+        "source": "一作「趨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_778_017_01",
+    "volume": 778,
+    "author": {
+      "canonical": "朱延",
+      "recorded": "朱延"
+    },
+    "title": "再登河陽城懷古",
+    "poem": [
+      "客遊倦旅思，憩駕陟崇墉。",
+      "元凱標奇跡，安仁擅美蹤。",
+      "遠近濁河流，出沒青山峰。",
+      "佇想空不極，懷古悵無從。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "遠近",
+        "variant": "遠遠",
+        "source": "一作「遠遠」"
+      },
+      {
+        "line": 3,
+        "text": "流",
+        "variant": "溜",
+        "source": "一作「溜」"
+      },
+      {
+        "line": 3,
+        "text": "沒",
+        "variant": "浸",
+        "source": "一作「浸」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_778_018_01",
+    "volume": 778,
+    "author": {
+      "canonical": "寇埴",
+      "recorded": "寇埴"
+    },
+    "title": "題瑩上人院",
+    "poem": [
+      "捨筏求香偈，因泉演妙音。",
+      "是明捐俗網，何獨在山林。",
+      "繚繞藤軒密，逶迤竹徑深。",
+      "為傳同學志，茲宇可清心。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "獨",
+        "variant": "必",
+        "source": "一作「必」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_778_019_01",
+    "volume": 778,
+    "author": {
+      "canonical": "馮渚",
+      "recorded": "馮渚"
+    },
+    "title": "燕銜泥",
+    "poem": [
+      "雙燕碌碌飛入屋，屋中老人喜燕歸，裴回繞我床頭飛。",
+      "去年為爾逐黃雀，雨多屋漏泥土落。",
+      "爾莫厭老翁茅屋低，梁頭作窠梁下棲。",
+      "爾不見東家黃鷇鳴嘖嘖，蛇盤瓦溝鼠穿壁。",
+      "豪家大屋爾莫居，驕兒少婦採爾雛。",
+      "井旁寫水泥自足，銜泥上屋隨爾欲。"
+    ],
+    "notes": [
+      {
+        "content": "一作馮著詩。",
+        "context": "燕銜泥",
+        "original_title": "燕銜泥",
+        "type": "footnote"
+      }
+    ]
+  }
+]

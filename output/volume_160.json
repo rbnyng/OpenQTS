@@ -1,0 +1,6055 @@
+[
+  {
+    "uid": "QTS_160_001_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和張丞相春朝對雪",
+    "poem": [
+      "迎氣當春至，承恩喜雪來。",
+      "潤從河漢下，花逼豔陽開。",
+      "不覩豐年瑞，焉知燮理才。",
+      "撒鹽如可擬，願糝和羹梅。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "至",
+        "variant": "立",
+        "source": "一作「立」"
+      },
+      {
+        "line": 2,
+        "text": "下",
+        "variant": "落",
+        "source": "一作「落」"
+      },
+      {
+        "line": 3,
+        "text": "焉",
+        "variant": "安",
+        "source": "一作「安」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_002_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和張明府登鹿門作",
+    "poem": [
+      "忽示登高作，能寬旅寓情。",
+      "弦歌既多暇，山水思微清。",
+      "草得風光動，虹因雨氣成。",
+      "謬承巴里和，非敢應同聲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "微",
+        "variant": "彌",
+        "source": "一作「彌」"
+      },
+      {
+        "line": 3,
+        "text": "得",
+        "variant": "色",
+        "source": "一作「色」"
+      },
+      {
+        "line": 3,
+        "text": "光",
+        "variant": "先",
+        "source": "一作「先」"
+      },
+      {
+        "line": 3,
+        "text": "氣",
+        "variant": "後",
+        "source": "一作「後」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_003_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和張二自穰縣還途中遇雪",
+    "poem": [
+      "風吹沙海雪，漸作柳園春。",
+      "宛轉隨香騎，輕盈伴玉人。",
+      "歌疑郢中客，態比洛川神。",
+      "今日南歸楚，雙飛似入秦。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "漸",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_004_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和賈主簿弁九日登峴山",
+    "poem": [
+      "楚萬重陽日，羣公賞讌來。",
+      "共乘休沐暇，同醉菊花杯。",
+      "逸思高秋發，歡情落景催。",
+      "國人咸寡和，遙媿洛陽才。"
+    ]
+  },
+  {
+    "uid": "QTS_160_005_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "望洞庭湖贈張丞相",
+    "poem": [
+      "八月湖水平，涵虛混太清。",
+      "氣蒸雲夢澤，波撼岳陽城。",
+      "欲濟無舟楫，端居恥聖明。",
+      "坐觀垂釣者，徒有羨魚情。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "撼",
+        "variant": "動",
+        "source": "一作「動」"
+      },
+      {
+        "line": 4,
+        "text": "坐觀",
+        "variant": "徒憐",
+        "source": "一作「徒憐」"
+      },
+      {
+        "line": 4,
+        "text": "者",
+        "variant": "叟",
+        "source": "一作「叟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_006_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "贈道士參寥",
+    "poem": [
+      "蜀琴久不弄，玉匣細塵生。",
+      "絲脆弦將斷，金徽色尚榮。",
+      "知音徒自惜，聾俗本相輕。",
+      "不遇鍾期聽，誰知鸞鳳聲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_007_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "京還贈張維",
+    "poem": [
+      "拂衣何處去，高枕南山南。",
+      "欲徇五斗祿，其如七不堪。",
+      "早朝非晚起，束帶異抽簪。",
+      "因向智者說，遊魚思舊潭。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "何處去",
+        "variant": "去何處",
+        "source": "一作「去何處」"
+      },
+      {
+        "line": 3,
+        "text": "晚",
+        "variant": "晏",
+        "source": "一作「晏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_008_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題李十四莊兼贈綦毋校書",
+    "poem": [
+      "聞君息陰地，東郭柳林間。",
+      "左右瀍澗水，門庭緱氏山。",
+      "抱琴來取醉，垂釣坐乘閑。",
+      "歸客莫相待，尋源殊未還。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "陰",
+        "variant": "蔭",
+        "source": "一作「蔭」"
+      },
+      {
+        "line": 4,
+        "text": "尋",
+        "variant": "緣",
+        "source": "一作「緣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_009_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "九日龍沙作寄劉大眘虛",
+    "poem": [
+      "龍沙豫章北，九日掛帆過。",
+      "風俗因時見，湖山發興多。",
+      "客中誰送酒，櫂裏自成歌。",
+      "歌竟乘流去，滔滔任夕波。"
+    ]
+  },
+  {
+    "uid": "QTS_160_010_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "寄趙正字",
+    "poem": [
+      "正字芸香閣，幽人竹素園。",
+      "經過宛如昨，歸臥寂無喧。",
+      "高鳥能擇木，羚羊漫觸藩。",
+      "物情今已見，從此願忘言。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "素",
+        "variant": "葉",
+        "source": "一作「葉」"
+      },
+      {
+        "line": 3,
+        "text": "漫",
+        "variant": "屢",
+        "source": "一作「屢」"
+      },
+      {
+        "line": 4,
+        "text": "從此",
+        "variant": "徒自",
+        "source": "一作「徒自」"
+      },
+      {
+        "line": 4,
+        "text": "願",
+        "variant": "欲",
+        "source": "一作「欲」"
+      },
+      {
+        "line": 4,
+        "text": "忘",
+        "variant": "無",
+        "source": "一作「無」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_011_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "洞庭湖寄閻九",
+    "poem": [
+      "洞庭秋正闊，余欲泛歸船。",
+      "莫辨荊吳地，唯餘水共天。",
+      "渺瀰江樹沒，合沓海潮連。",
+      "遲爾爲舟楫，相將濟巨川。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "潮",
+        "variant": "湖",
+        "source": "一作「湖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_012_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "秦中感秋寄遠上人",
+    "poem": [
+      "一丘常欲臥，三徑苦無資。",
+      "北土非吾願，東林懷我師。",
+      "黃金然桂盡，壯志逐年衰。",
+      "日夕涼風至，聞蟬但益悲。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "北土：《河嶽英靈集》作「北上」；《文苑英華》作「北山」",
+        "context": "黃金然桂盡，壯志逐年衰。"
+      },
+      {
+        "content": "日夕：《文苑英華》作「旦夕」",
+        "context": "秦中感秋寄遠上人"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_013_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宿永嘉江寄山陰崔少府國輔",
+    "poem": [
+      "我行窮水國，君使入京華。",
+      "相去日千里，孤帆天一涯。",
+      "臥聞海潮至，起視江月斜。",
+      "借問同舟客，何時到永嘉。"
+    ]
+  },
+  {
+    "uid": "QTS_160_014_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "上巳洛中寄王九迥",
+    "poem": [
+      "卜洛成周地，浮杯上巳筵。",
+      "鬬雞寒食下，走馬射堂前。",
+      "垂柳金堤合，平沙翠幕連。",
+      "不知王逸少，何處會羣賢。"
+    ]
+  },
+  {
+    "uid": "QTS_160_015_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "聞裴侍御朏自襄州司戶除豫州司戶因以投寄",
+    "poem": [
+      "故人荊府掾，尚有柏臺威。",
+      "移職自樊衍，芳聲聞帝畿。",
+      "昔余臥林巷，載酒過柴扉。",
+      "松菊無時賞，鄉園欲懶歸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "府",
+        "variant": "河",
+        "source": "一作「河」"
+      },
+      {
+        "line": 2,
+        "text": "衍",
+        "variant": "沔",
+        "source": "一作「沔」"
+      },
+      {
+        "line": 3,
+        "text": "昔余",
+        "variant": "共子",
+        "source": "一作「共子」"
+      },
+      {
+        "line": 4,
+        "text": "時",
+        "variant": "君",
+        "source": "一作「君」"
+      },
+      {
+        "line": 4,
+        "text": "欲懶",
+        "variant": "懶欲",
+        "source": "一作「懶欲」"
+      },
+      {
+        "line": 4,
+        "text": "歸",
+        "variant": "飛",
+        "source": "一作「飛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_016_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "江上寄山陰崔少府國輔",
+    "poem": [
+      "春堤楊柳發，憶與故人期。",
+      "草木本無意，榮枯自有時。",
+      "山陰定遠近，江上日相思。",
+      "不及蘭亭會，空吟祓禊詩。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "會",
+        "variant": "事",
+        "source": "一作「事」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_017_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夜泊廬江聞故人在東寺以詩寄之",
+    "poem": [
+      "江路經廬阜，松門入虎谿。",
+      "聞君尋寂樂，清夜宿招提。",
+      "石鏡山精怯，禪枝怖鴿棲。",
+      "一燈如悟道，爲照客心迷。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "枝",
+        "variant": "林",
+        "source": "一作「林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_018_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宿桐廬江寄廣陵舊遊",
+    "poem": [
+      "山暝聽猿愁，滄江急夜流。",
+      "風鳴兩岸葉，月照一孤舟。",
+      "建德非吾土，維揚憶舊遊。",
+      "還將兩行淚，遙寄海西頭。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "兩",
+        "variant": "數",
+        "source": "一作「數」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_019_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "南還舟中寄袁太祝",
+    "poem": [
+      "沿泝非便習，風波厭苦辛。",
+      "忽聞遷谷鳥，來報五陵春。",
+      "嶺北回征帆，巴東問故人。",
+      "桃源何處是，遊子正迷津。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "五",
+        "variant": "武",
+        "source": "一作「武」"
+      },
+      {
+        "line": 3,
+        "text": "帆",
+        "variant": "棹",
+        "source": "一作「棹」"
+      },
+      {
+        "line": 4,
+        "text": "桃",
+        "variant": "花",
+        "source": "一作「花」"
+      },
+      {
+        "line": 4,
+        "text": "何處是",
+        "variant": "在何處",
+        "source": "一作「在何處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_020_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "東陂遇雨率爾貽謝南池",
+    "poem": [
+      "田家春事起，丁壯就東陂。",
+      "殷殷雷聲作，森森雨足垂。",
+      "海虹晴始見，河柳潤初移。",
+      "予意在耕鑿，因君問土宜。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "因君問土宜",
+        "variant": "問君田事宜",
+        "source": "一作「問君田事宜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_021_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "行至汝墳寄盧徵君",
+    "poem": [
+      "行乏憩予駕，依然見汝墳。",
+      "洛川方罷雪，嵩嶂有殘雲。",
+      "曳曳半空裏，明明五色分。",
+      "聊題一時興，因寄盧徵君。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "明明",
+        "variant": "溶溶",
+        "source": "一作「溶溶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_022_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "寄天台道士",
+    "poem": [
+      "海上求仙客，三山望幾時。",
+      "焚香宿華頂，裛露采靈芝。",
+      "屢躡莓苔滑，將尋汗漫期。",
+      "倘因松子去，長與世人辭。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "躡",
+        "variant": "踐",
+        "source": "一作「踐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_023_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "唐城館中早發寄楊使君",
+    "poem": [
+      "犯霜驅曉駕，數里見唐城。",
+      "旅館歸心逼，荒村客思盈。",
+      "訪人留後信，策蹇赴前程。",
+      "欲識離魂斷，長空聽雁聲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_024_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "澗南即事貽皎上人",
+    "poem": [
+      "弊廬在郭外，素產惟田園。",
+      "左右林野曠，不聞朝市喧。",
+      "釣竿垂北澗，樵唱入南軒。",
+      "書取幽棲事，將尋靜者論。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "朝",
+        "variant": "城",
+        "source": "一作「城」"
+      },
+      {
+        "line": 4,
+        "text": "論",
+        "variant": "言",
+        "source": "一作「言」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_025_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "重酬李少府見贈",
+    "poem": [
+      "養疾衡簷下，由來浩氣真。",
+      "五行將禁火，十步任尋春。",
+      "致敬惟桑梓，邀歡即主人。",
+      "回看後彫色，青翠有松筠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "簷",
+        "variant": "茅",
+        "source": "一作「茅」"
+      },
+      {
+        "line": 2,
+        "text": "任",
+        "variant": "想",
+        "source": "一作「想」，又作「枉」"
+      },
+      {
+        "line": 3,
+        "text": "主",
+        "variant": "故",
+        "source": "一作「故」"
+      },
+      {
+        "line": 4,
+        "text": "回",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_026_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "九日懷襄陽",
+    "poem": [
+      "去國似如昨，倏然經杪秋。",
+      "峴山不可見，風景令人愁。",
+      "誰采籬下菊，應閑池上樓。",
+      "宜城多美酒，歸與葛彊遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "似",
+        "variant": "巳",
+        "source": "一作「巳」"
+      },
+      {
+        "line": 1,
+        "text": "然",
+        "variant": "焉",
+        "source": "一作「焉」"
+      },
+      {
+        "line": 2,
+        "text": "不可",
+        "variant": "望不",
+        "source": "一作「望不」"
+      },
+      {
+        "line": 4,
+        "text": "多美酒",
+        "variant": "名善醞",
+        "source": "一作「名善醞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_027_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "初出關旅亭夜坐懷王大校書",
+    "poem": [
+      "向夕槐煙起，蔥蘢池館曛。",
+      "客中無偶坐，關外惜離羣。",
+      "燭至螢光滅，荷枯雨滴聞。",
+      "永懷芸閣友，寂寞滯揚雲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "芸",
+        "variant": "蓬",
+        "source": "一作「蓬」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_028_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "人日登南陽驛門亭子懷漢川諸友",
+    "poem": [
+      "朝來登陟處，不似豔陽時。",
+      "異縣殊風物，羈懷多所思。",
+      "剪花驚歲早，看柳訝春遲。",
+      "未有南飛雁，裁書欲寄誰。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "書",
+        "variant": "衣",
+        "source": "一作「衣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_029_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "早寒江上有懷",
+    "poem": [
+      "木落雁南度，北風江上寒。",
+      "我家襄水上，遙隔楚雲端。",
+      "鄉淚客中盡，孤帆天際看。",
+      "迷津欲有問，平海夕漫漫。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "南",
+        "variant": "初",
+        "source": "一作「初」"
+      },
+      {
+        "line": 2,
+        "text": "襄",
+        "variant": "湘",
+        "source": "一作「湘」，又作「江」"
+      },
+      {
+        "line": 2,
+        "text": "上",
+        "variant": "曲",
+        "source": "一作「曲」"
+      },
+      {
+        "line": 2,
+        "text": "雲",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 3,
+        "text": "孤",
+        "variant": "歸",
+        "source": "一作「歸」"
+      },
+      {
+        "line": 3,
+        "text": "際",
+        "variant": "外",
+        "source": "一作「外」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_030_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "閑園懷蘇子",
+    "poem": [
+      "林園雖少事，幽獨自多違。",
+      "向夕開簾坐，庭陰落景微。",
+      "鳥過煙樹宿，螢傍水軒飛。",
+      "感念同懷子，京華去不歸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "落景",
+        "variant": "葉落",
+        "source": "一作「葉落」"
+      },
+      {
+        "line": 3,
+        "text": "過",
+        "variant": "從",
+        "source": "一作「從」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_031_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同盧明府餞張郎中除義王府司馬海園作",
+    "poem": [
+      "上國山河列，賢王邸第開。",
+      "故人分職去，潘令寵行來。",
+      "冠蓋趨梁苑，江湘失楚材。",
+      "豫愁軒騎動，賓客散池臺。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "山",
+        "variant": "星",
+        "source": "一作「星」"
+      },
+      {
+        "line": 1,
+        "text": "列",
+        "variant": "裂",
+        "source": "一作「裂」"
+      },
+      {
+        "line": 1,
+        "text": "邸",
+        "variant": "甲",
+        "source": "一作「甲」"
+      },
+      {
+        "line": 3,
+        "text": "湘",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_032_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送張子容進士赴舉",
+    "poem": [
+      "夕曛山照滅，送客出柴門。",
+      "惆悵野中別，殷勤岐路言。",
+      "茂林予偃息，喬木爾飛翻。",
+      "無使谷風誚，須令友道存。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "岐路",
+        "variant": "醉後",
+        "source": "一作「醉後」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_033_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送張參明經舉兼向涇州覲省",
+    "poem": [
+      "十五綵衣年，承歡慈母前。",
+      "孝廉因歲貢，懷橘向秦川。",
+      "四座推文舉，中郎許仲宣。",
+      "泛舟江上別，誰不仰神仙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "慈",
+        "variant": "戀",
+        "source": "一作「戀」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_034_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送張祥之房陵",
+    "poem": [
+      "我家南渡頭，慣習野人舟。",
+      "日夕弄清淺，林湍逆上流。",
+      "山河據形勝，天地生豪酋。",
+      "君意在利往，知音期自投。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "山河",
+        "variant": "鄢陵",
+        "source": "一作「鄢陵」"
+      },
+      {
+        "line": 4,
+        "text": "往",
+        "variant": "涉",
+        "source": "一作「涉」"
+      },
+      {
+        "line": 4,
+        "text": "自",
+        "variant": "暗",
+        "source": "一作「暗」，又作「暝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_035_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送吳宣從事",
+    "poem": [
+      "才有幕中士，寧無塞上勳。",
+      "漢兵將滅虜，王粲始從軍。",
+      "旌斾邊庭去，山川地脈分。",
+      "平生一匕首，感激贈夫君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "士",
+        "variant": "畫",
+        "source": "一作「畫」"
+      },
+      {
+        "line": 1,
+        "text": "寧",
+        "variant": "而",
+        "source": "一作「而」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_036_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送桓子之郢城禮",
+    "poem": [
+      "聞君馳綵騎，躞蹀指南荊。",
+      "爲結潘楊好，言過鄢郢城。",
+      "摽梅詩有贈，羔雁禮將行。",
+      "今夜神仙女，應來感夢情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "南荊",
+        "variant": "荊衡",
+        "source": "一作「荊衡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_037_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "留別王侍御維",
+    "poem": [
+      "寂寂竟何待，朝朝空自歸。",
+      "欲尋芳草去，惜與故人違。",
+      "當路誰相假，知音世所稀。",
+      "秪應守索寞，還掩故園扉。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "索",
+        "variant": "寂",
+        "source": "一作「寂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_038_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "早春潤州送從弟還鄉",
+    "poem": [
+      "兄弟遊吳國，庭闈戀楚關。",
+      "已多新歲感，更餞白眉還。",
+      "歸泛西江水，離筵北固山。",
+      "鄉園欲有贈，梅柳著先攀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "感",
+        "variant": "改",
+        "source": "一作「改」"
+      },
+      {
+        "line": 4,
+        "text": "著",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_039_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "峴山餞房琯崔宗之",
+    "poem": [
+      "貴賤平生隔，軒車是日來。",
+      "青陽一覯止，雲路豁然開。",
+      "祖道衣冠列，分亭驛騎催。",
+      "方期九日聚，還待二星回。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "路",
+        "variant": "霧",
+        "source": "一作「霧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_040_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送謝錄事之越",
+    "poem": [
+      "清旦江天迥，涼風西北吹。",
+      "白雲向吳會，征帆亦相隨。",
+      "想到耶溪日，應探禹穴奇。",
+      "仙書倘相示，予在此山陲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "此",
+        "variant": "北",
+        "source": "一作「北」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_041_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "洛中送奚三還揚州",
+    "poem": [
+      "水國無邊際，舟行共使風。",
+      "羨君從此去，朝夕見鄉中。",
+      "予亦離家久，南歸恨不同。",
+      "音書若有問，江上會相逢。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "共",
+        "variant": "興",
+        "source": "一作「興」"
+      },
+      {
+        "line": 1,
+        "text": "使",
+        "variant": "便",
+        "source": "一作「便」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_042_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送告八從軍",
+    "poem": [
+      "男兒一片氣，何必五車書。",
+      "好勇方過我，多才便起予。",
+      "運籌將入幕，養拙就閑居。",
+      "正待功名遂，從君繼兩疎。"
+    ]
+  },
+  {
+    "uid": "QTS_160_043_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送元公之鄂渚尋觀主張驂鸞",
+    "poem": [
+      "桃花春水漲，之子忽乘流。",
+      "峴首辭蛟浦，江中問鶴樓。",
+      "贈君青竹杖，送爾白蘋洲。",
+      "應是神仙子，相期汗漫遊。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "首辭",
+        "variant": "下離",
+        "source": "一作「下離」"
+      },
+      {
+        "line": 2,
+        "text": "中",
+        "variant": "邊",
+        "source": "一作「邊」"
+      },
+      {
+        "line": 4,
+        "text": "子",
+        "variant": "輩",
+        "source": "一作「輩」"
+      },
+      {
+        "line": 4,
+        "text": "期",
+        "variant": "逢",
+        "source": "一作「逢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_044_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送王五昆季省覲",
+    "poem": [
+      "公子戀庭闈，勞歌涉海涯。",
+      "水乘舟檝去，親望老萊歸。",
+      "斜日催烏鳥，清江照綵衣。",
+      "平生急難意，遙仰鶺鴒飛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "涯",
+        "variant": "沂",
+        "source": "一作「沂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_045_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送崔遏",
+    "poem": [
+      "片玉來誇楚，治中作主人。",
+      "江山增潤色，詞賦動陽春。",
+      "別館當虛敞，離情任吐伸。",
+      "因聲兩京舊，誰念臥漳濱。"
+    ]
+  },
+  {
+    "uid": "QTS_160_046_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送盧少府使入秦",
+    "poem": [
+      "楚關望秦國，相去千里餘。",
+      "州縣勤王事，山河轉使車。",
+      "祖筵江上列，離恨別前書。",
+      "願及芳年賞，嬌鶯二月初。"
+    ]
+  },
+  {
+    "uid": "QTS_160_047_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送袁十嶺南尋弟",
+    "poem": [
+      "早聞牛渚詠，今見鶺鴒心。",
+      "羽翼嗟零落，悲鳴別故林。",
+      "蒼梧白雲遠，煙水洞庭深。",
+      "萬里獨飛去，南風遲爾音。"
+    ]
+  },
+  {
+    "uid": "QTS_160_048_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "永嘉別張子容",
+    "poem": [
+      "舊國余歸楚，新年子北征。",
+      "掛帆愁海路，分手戀朋情。",
+      "日夕故園意，汀洲春草生。",
+      "何時一杯酒，重與季鷹傾。"
+    ]
+  },
+  {
+    "uid": "QTS_160_049_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "東京留別諸公",
+    "poem": [
+      "吾道昧所適，驅車還向東。",
+      "主人開舊館，留客醉新豐。",
+      "樹繞溫泉綠，塵遮晚日紅。",
+      "拂衣從此去，高步躡華嵩。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_050_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送袁太祝尉豫章",
+    "poem": [
+      "何幸遇休明，觀光來上京。",
+      "相逢武陵客，獨送豫章行。",
+      "隨牒牽黃綬，離羣會墨卿。",
+      "江南佳麗地，山水舊難名。"
+    ]
+  },
+  {
+    "uid": "QTS_160_051_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "都下送辛大之鄂",
+    "poem": [
+      "南國辛居士，言歸舊竹林。",
+      "未逢調鼎用，徒有濟川心。",
+      "予亦忘機者，田園在漢陰。",
+      "因君故鄉去，遙寄式微吟。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "遙",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_052_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送席大",
+    "poem": [
+      "惜爾懷其寶，迷邦倦客遊。",
+      "江山歷全楚，河洛越成周。",
+      "道路疲千里，鄉園老一丘。",
+      "知君命不偶，同病亦同憂。"
+    ]
+  },
+  {
+    "uid": "QTS_160_053_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送賈昇主簿之荊府",
+    "poem": [
+      "奉使推能者，勤王不暫閑。",
+      "觀風隨按察，乘騎度荊關。",
+      "送別登何處，開筵舊峴山。",
+      "征軒明日遠，空望郢門間。"
+    ]
+  },
+  {
+    "uid": "QTS_160_054_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送王大校書",
+    "poem": [
+      "導漾自嶓冢，東流爲漢川。",
+      "維桑君有意，解纜我開筵。",
+      "雲雨從茲別，林端意渺然。",
+      "尺書能不恡，時望鯉魚傳。"
+    ]
+  },
+  {
+    "uid": "QTS_160_055_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "遊江西留別富陽裴劉二少府",
+    "poem": [
+      "西上遊江西，臨流恨解攜。",
+      "千山疊成嶂，萬水瀉爲溪。",
+      "石淺流難泝，藤長險易躋。",
+      "誰憐問津者，歲晏此中迷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "遊",
+        "variant": "浙",
+        "source": "一作「浙」"
+      },
+      {
+        "line": 1,
+        "text": "恨",
+        "variant": "慍",
+        "source": "一作「慍」"
+      },
+      {
+        "line": 2,
+        "text": "水瀉",
+        "variant": "壑合",
+        "source": "一作「壑合」"
+      },
+      {
+        "line": 3,
+        "text": "泝",
+        "variant": "注",
+        "source": "一作「注」"
+      },
+      {
+        "line": 4,
+        "text": "者",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_056_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "廣陵別薛八",
+    "poem": [
+      "士有不得志，棲棲吳楚間。",
+      "廣陵相遇罷，彭蠡泛舟還。",
+      "檣出江中樹，波連海上山。",
+      "風帆明日遠，何處更追攀。"
+    ]
+  },
+  {
+    "uid": "QTS_160_057_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送洗然弟進士舉",
+    "poem": [
+      "獻策金門去，承歡綵服違。",
+      "以吾一日長，念爾聚星稀。",
+      "昏定須溫席，寒多未授衣。",
+      "桂枝如已擢，早逐雁南飛。"
+    ]
+  },
+  {
+    "uid": "QTS_160_058_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "崔明府宅夜觀妓",
+    "poem": [
+      "白日既雲暮，朱顏亦已酡。",
+      "畫堂初點燭，金幌半垂羅。",
+      "長袖平陽曲，新聲子夜歌。",
+      "從來慣留客，茲夕爲誰多。"
+    ]
+  },
+  {
+    "uid": "QTS_160_059_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同盧明府早秋宴張郎中海亭",
+    "poem": [
+      "側聽弦歌宰，文書游夏徒。",
+      "故園欣賞竹，爲邑幸來蘇。",
+      "華省曾聯事，仙舟復與俱。",
+      "欲知臨泛久，荷露漸成珠。"
+    ]
+  },
+  {
+    "uid": "QTS_160_060_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "盧明府早秋宴張郎中海園即事得秋字",
+    "poem": [
+      "邑有弦歌宰，翔鸞狎野鷗。",
+      "眷言華省舊，暫拂海池遊。",
+      "鬱島藏深竹，前溪對舞樓。",
+      "更聞書即事，雲物是清秋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "狎野",
+        "variant": "已狎",
+        "source": "一作「已狎」"
+      },
+      {
+        "line": 2,
+        "text": "拂",
+        "variant": "滯",
+        "source": "一作「滯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_061_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宴榮二山池",
+    "poem": [
+      "甲第開金穴，榮期樂自多。",
+      "櫪嘶支遁馬，池養右軍鵝。",
+      "竹引攜琴入，花邀載酒過。",
+      "山公來取醉，時唱接䍦歌。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "開金穴",
+        "variant": "金張宅",
+        "source": "一作「金張宅」"
+      },
+      {
+        "line": 3,
+        "text": "攜",
+        "variant": "嵇",
+        "source": "一作「嵇」"
+      },
+      {
+        "line": 3,
+        "text": "載酒",
+        "variant": "戴客",
+        "source": "一作「戴客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_062_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夏日與崔二十一同集衛明府宅",
+    "poem": [
+      "言避一時暑，池亭五月開。",
+      "喜逢金馬客，同飲玉人杯。",
+      "舞鶴乘軒至，遊魚擁釣來。",
+      "座中殊未起，簫管莫相催。"
+    ]
+  },
+  {
+    "uid": "QTS_160_063_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "清明日宴梅道士房",
+    "poem": [
+      "林臥愁春盡，開軒覽物華。",
+      "忽逢青鳥使，邀入赤松家。",
+      "丹竈初開火，仙桃正落花。",
+      "童顏若可駐，何惜醉流霞。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "開軒",
+        "variant": "褰帷",
+        "source": "一作「褰帷」"
+      },
+      {
+        "line": 2,
+        "text": "入",
+        "variant": "我",
+        "source": "一作「我」"
+      },
+      {
+        "line": 3,
+        "text": "落",
+        "variant": "發",
+        "source": "一作「發」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_064_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "寒夜張明府宅宴",
+    "poem": [
+      "瑞雪初盈尺，寒宵始半更。",
+      "列筵邀酒伴，刻燭限詩成。",
+      "香炭金爐煖，嬌弦玉指清。",
+      "醉來方欲臥，不覺曉雞鳴。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "醉來方欲臥，不覺曉雞鳴",
+        "variant": "厭厭不覺醉，歸路曉霞生",
+        "source": "一作「厭厭不覺醉，歸路曉霞生」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_065_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宴張別駕新齋",
+    "poem": [
+      "世業傳珪組，江城佐股肱。",
+      "高齋徵學問，虛薄濫先登。",
+      "講論陪諸子，文章得舊朋。",
+      "士元多賞激，衰病恨無能。"
+    ]
+  },
+  {
+    "uid": "QTS_160_066_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與諸子登峴山",
+    "poem": [
+      "人事有代謝，往來成古今。",
+      "江山留勝跡，我輩復登臨。",
+      "水落魚梁淺，天寒夢澤深。",
+      "羊公碑尚在，讀罷淚沾襟。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "尚",
+        "variant": "字",
+        "source": "一作「字」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_067_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與杭州薛司戶登樟亭樓作",
+    "poem": [
+      "水樓一登眺，半出青林高。",
+      "帟幕英僚敞，芳筵下客叨。",
+      "山藏伯禹穴，城壓伍胥濤。",
+      "今日觀溟漲，垂綸學釣鼇。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "眺",
+        "variant": "望",
+        "source": "一作「望」"
+      },
+      {
+        "line": 4,
+        "text": "學",
+        "variant": "欲",
+        "source": "一作「欲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_068_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋天台山",
+    "poem": [
+      "吾友太乙子，餐霞臥赤城。",
+      "欲尋華頂去，不憚惡谿名。",
+      "歇馬憑雲宿，揚帆截海行。",
+      "高高翠微裡，遙見石梁橫。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "友",
+        "variant": "愛",
+        "source": "一作「愛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_069_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同曹三御史行泛湖歸越",
+    "poem": [
+      "秋入詩人意，巴歌和者稀。",
+      "泛湖同逸旅，吟會是思歸。",
+      "白簡徒推薦，滄洲已拂衣。",
+      "杳冥雲外去，誰不羨鴻飛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "意",
+        "variant": "興",
+        "source": "一作「興」"
+      },
+      {
+        "line": 2,
+        "text": "逸旅",
+        "variant": "旅泊",
+        "source": "一作「旅泊」"
+      },
+      {
+        "line": 4,
+        "text": "外",
+        "variant": "海",
+        "source": "一作「海」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_070_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "晚泊潯陽望廬山",
+    "poem": [
+      "掛席幾千里，名山都未逢。",
+      "泊舟潯陽郭，始見香爐峰。",
+      "嘗讀遠公傳，永懷塵外蹤。",
+      "東林精舍近，日暮但聞鐘。"
+    ]
+  },
+  {
+    "uid": "QTS_160_071_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪張丞相登嵩陽樓",
+    "poem": [
+      "獨步人何在，嵩陽有故樓。",
+      "歲寒問耆舊，行縣擁諸候。",
+      "林莽北彌望，沮漳東會流。",
+      "客中遇知己，無復越鄉憂。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "林",
+        "variant": "泱",
+        "source": "一作「泱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_072_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "武陵泛舟",
+    "poem": [
+      "武陵川路狹，前櫂入花林。",
+      "莫測幽源裏，仙家信幾深。",
+      "水回青嶂合，雲度綠溪陰。",
+      "坐聽閑猿嘯，彌清塵外心。"
+    ]
+  },
+  {
+    "uid": "QTS_160_073_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與顏錢塘登障樓望潮作",
+    "poem": [
+      "百里聞雷震，鳴弦暫輟彈。",
+      "府中連騎出，江上待潮觀。",
+      "照日秋雲廻，浮天渤澥寬。",
+      "驚濤來似雪，一坐凜生寒。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "雲",
+        "variant": "空",
+        "source": "一作「空」"
+      },
+      {
+        "line": 3,
+        "text": "天",
+        "variant": "雲",
+        "source": "一作「雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_074_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "姚開府山池",
+    "poem": [
+      "主人新邸第，相國舊池臺。",
+      "館是招賢闢，樓因教舞開。",
+      "軒車人已散，簫管鳳初來。",
+      "今日龍門下，誰知文舉才。"
+    ]
+  },
+  {
+    "uid": "QTS_160_075_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夏日浮舟過陳大水亭",
+    "poem": [
+      "水亭涼氣多，閑櫂晚來過。",
+      "澗影見松竹，潭香聞芰荷。",
+      "野童扶醉舞，山鳥助酣歌。",
+      "幽賞未雲徧，煙光奈夕何。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "松",
+        "variant": "籐",
+        "source": "一作「籐」"
+      },
+      {
+        "line": 3,
+        "text": "助",
+        "variant": "笑",
+        "source": "一作「笑」"
+      },
+      {
+        "line": 4,
+        "text": "光",
+        "variant": "花",
+        "source": "一作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_076_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與白明府遊江",
+    "poem": [
+      "故人來自遠，邑宰復初臨。",
+      "執手恨爲別，同舟無異心。",
+      "沿洄洲渚趣，演漾弦歌音。",
+      "誰識躬耕者，年年梁甫吟。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "識",
+        "variant": "爲",
+        "source": "一作「爲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_077_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "遊鳳林寺西嶺",
+    "poem": [
+      "共喜年華好，來遊水石間。",
+      "煙容開遠樹，春色滿幽山。",
+      "壺酒朋情洽，琴歌野興閑。",
+      "莫愁歸路暝，招月伴人還。"
+    ]
+  },
+  {
+    "uid": "QTS_160_078_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "秋日陪李侍御渡松滋江",
+    "poem": [
+      "南紀西江闊，皇華御史雄。",
+      "截流寧假楫，掛席自生風。",
+      "僚宷爭攀鷁，魚龍亦避驄。",
+      "坐聽白雲唱，翻入櫂歌中。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "聽",
+        "variant": "聞",
+        "source": "一作「聞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_079_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪獨孤使君同與蕭員外證登萬山亭",
+    "poem": [
+      "萬山青嶂曲，千騎使君遊。",
+      "神女鳴環佩，仙郎接獻酬。",
+      "遍觀雲夢野，自愛江城樓。",
+      "何必東南守，空傳沈隱侯。"
+    ]
+  },
+  {
+    "uid": "QTS_160_080_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "秋登張明府海亭",
+    "poem": [
+      "海亭秋日望，委曲見江山。",
+      "染翰聊題壁，傾壺一解顏。",
+      "歌逢彭澤令，歸賞故園間。",
+      "予亦將琴史，棲遲共取閑。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "歌",
+        "variant": "歡",
+        "source": "一作「歡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_081_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "臨渙裴明府席遇張十一房六",
+    "poem": [
+      "河縣柳林邊，河橋晚泊船。",
+      "文叨才子會，官喜故人連。",
+      "笑語同今夕，輕肥異往年。",
+      "晨風理歸櫂，吳楚各依然。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "連",
+        "variant": "憐",
+        "source": "一作「憐」"
+      },
+      {
+        "line": 4,
+        "text": "歸",
+        "variant": "征",
+        "source": "一作「征」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_082_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "梅道士水亭",
+    "poem": [
+      "傲吏非凡吏，名流即道流。",
+      "隱居不可見，高論莫能酬。",
+      "水接仙源近，山藏鬼谷幽。",
+      "再來迷處所，花下問漁舟。"
+    ]
+  },
+  {
+    "uid": "QTS_160_083_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "遊景空寺蘭若",
+    "poem": [
+      "龍象經行處，山腰度石關。",
+      "屢迷青嶂合，時愛綠蘿閑。",
+      "宴息花林下，高談竹嶼間。",
+      "寥寥隔塵事，疑是入雞山。"
+    ]
+  },
+  {
+    "uid": "QTS_160_084_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪李侍御訪聰上人禪居",
+    "poem": [
+      "欣逢柏臺友，共謁聰公禪。",
+      "石室無人到，繩牀見虎眠。",
+      "陰崖常抱雪，枯澗爲生泉。",
+      "出處雖雲異，同歡在法筵。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "友",
+        "variant": "舊",
+        "source": "一作「舊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_085_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "遊精思觀回王白雲在後",
+    "poem": [
+      "出谷未停午，到家日已曛。",
+      "回瞻下山路，但見牛羊羣。",
+      "樵子暗相失，草蟲寒不聞。",
+      "衡門猶未掩，佇立望夫君。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "至",
+        "source": "一作「至」"
+      },
+      {
+        "line": 2,
+        "text": "下山",
+        "variant": "山下",
+        "source": "一作「山下」"
+      },
+      {
+        "line": 4,
+        "text": "望",
+        "variant": "待",
+        "source": "一作「待」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_086_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夏日辨玉法師茅齋",
+    "poem": [
+      "夏日茅齋裏，無風坐亦涼。",
+      "竹林深筍穊，藤架引梢長。",
+      "燕覓巢窠處，蜂來造蜜房。",
+      "物華皆可翫，花橤四時芳。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "深",
+        "variant": "新",
+        "source": "一作「新」"
+      },
+      {
+        "line": 2,
+        "text": "穊",
+        "variant": "穉",
+        "source": "一作「穉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_087_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與張折衝遊耆闍寺",
+    "poem": [
+      "釋子彌天秀，將軍武庫才。",
+      "橫行塞北盡，獨步漢南來。",
+      "貝葉傳金口，山樓作賦開。",
+      "因君振嘉藻，江楚氣雄哉。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "樓",
+        "variant": "櫻",
+        "source": "一作「櫻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_088_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "遊精思題觀主山房",
+    "poem": [
+      "誤入桃源裡，初憐竹逕深。",
+      "方知仙子宅，未有世人尋。",
+      "舞鶴過閒砌，飛猿嘯密林。",
+      "漸通玄妙理，深得坐忘心。"
+    ]
+  },
+  {
+    "uid": "QTS_160_089_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宿立公房",
+    "poem": [
+      "支遁初求道，深公笑買山。",
+      "何如石巖趣，自入戶庭間。",
+      "苔潤春泉滿，蘿軒夜月閑。",
+      "能令許玄度，吟臥不知還。"
+    ]
+  },
+  {
+    "uid": "QTS_160_090_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋陳逸人故居",
+    "poem": [
+      "人事一朝盡，荒蕪三徑休。",
+      "始聞漳浦臥，奄作岱宗遊。",
+      "池水猶含墨，風雲已落秋。",
+      "今宵泉壑裏，何處覓藏舟。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "含",
+        "variant": "涵",
+        "source": "一作「涵」"
+      },
+      {
+        "line": 3,
+        "text": "風",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 4,
+        "text": "宵",
+        "variant": "朝",
+        "source": "一作「朝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_091_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋梅道士",
+    "poem": [
+      "彭澤先生柳，山陰道士鵝。",
+      "我來從所好，停策漢陰多。",
+      "重以觀魚樂，因之鼓枻歌。",
+      "崔徐跡未朽，千載揖清波。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "漢陰",
+        "variant": "夏雲",
+        "source": "一作「夏雲」"
+      },
+      {
+        "line": 3,
+        "text": "觀",
+        "variant": "窺",
+        "source": "一作「窺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_092_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪姚使君題惠上人房",
+    "poem": [
+      "帶雪梅初煖，含煙柳尚青。",
+      "來窺童子偈，得聽法王經。",
+      "會理知無我，觀空厭有形。",
+      "迷心應覺悟，客思未遑寧。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "未",
+        "variant": "不",
+        "source": "一作「不」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_093_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "晚春題遠上人南亭",
+    "poem": [
+      "給園支遁隱，虛寂養身和。",
+      "春晚羣木秀，間關黃鳥歌。",
+      "林棲居士竹，池養右軍鵝。",
+      "炎月北窗下，清風期再過。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "身",
+        "variant": "閑",
+        "source": "一作「閑」"
+      },
+      {
+        "line": 2,
+        "text": "間",
+        "variant": "關",
+        "source": "一作「關」"
+      },
+      {
+        "line": 4,
+        "text": "炎",
+        "variant": "花",
+        "source": "一作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_094_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題大禹寺義公禪房",
+    "poem": [
+      "義公習禪處，結構依空林。",
+      "戶外一峰秀，階前羣壑深。",
+      "夕陽連雨足，空翠落庭陰。",
+      "看取蓮花淨，應知不染心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "處",
+        "variant": "寂",
+        "source": "一作「寂」"
+      },
+      {
+        "line": 1,
+        "text": "構",
+        "variant": "宇",
+        "source": "一作「宇」"
+      },
+      {
+        "line": 2,
+        "text": "羣",
+        "variant": "衆",
+        "source": "一作「衆」"
+      },
+      {
+        "line": 3,
+        "text": "連",
+        "variant": "照",
+        "source": "一作「照」"
+      },
+      {
+        "line": 4,
+        "text": "應",
+        "variant": "方",
+        "source": "一作「方」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_095_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋白鶴巖張子容隱居",
+    "poem": [
+      "白鶴青巖半，幽人有隱居。",
+      "階庭空水石，林壑罷樵漁。",
+      "歲月青松老，風霜苦竹疎。",
+      "覩茲懷舊業，回策返吾廬。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "隱",
+        "variant": "舊",
+        "source": "一作「舊」"
+      },
+      {
+        "line": 3,
+        "text": "疎",
+        "variant": "餘",
+        "source": "一作「餘」"
+      },
+      {
+        "line": 4,
+        "text": "回",
+        "variant": "杖",
+        "source": "一作「杖」，一作「攜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_096_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題融公蘭若",
+    "poem": [
+      "精舍買金開，流泉遶砌回。",
+      "芰荷薰講席，松柏映香臺。",
+      "法雨晴飛去，天花晝下來。",
+      "談玄殊未已，歸騎夕陽催。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "開",
+        "variant": "地",
+        "source": "一作「地」"
+      },
+      {
+        "line": 2,
+        "text": "映",
+        "variant": "繞",
+        "source": "一作「繞」"
+      },
+      {
+        "line": 3,
+        "text": "飛",
+        "variant": "霏",
+        "source": "一作「霏」"
+      },
+      {
+        "line": 4,
+        "text": "談玄殊未已",
+        "variant": "一乘談未了",
+        "source": "一作「一乘談未了」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_097_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "過景空寺故融公蘭若",
+    "poem": [
+      "池上青蓮宇，林間白馬泉。",
+      "故人成異物，過客獨潸然。",
+      "既禮新松塔，還尋舊石筵。",
+      "平生竹如意，猶掛草堂前。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "客",
+        "variant": "憩",
+        "source": "一作「憩」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_098_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題張野人園廬",
+    "poem": [
+      "與君園廬竝，微尚頗亦同。",
+      "耕釣方自逸，壺觴趣不空。",
+      "門無俗士駕，人有上皇風。",
+      "何處先賢傳，惟稱龐德公。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "處",
+        "variant": "必",
+        "source": "一作「必」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_099_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "李少府與楊九再來",
+    "poem": [
+      "弱歲早登龍，今來喜再逢。",
+      "如何春月柳，猶憶歲寒松。",
+      "煙火臨寒食，笙歌達曙鐘。",
+      "喧喧鬬雞道，行樂羨朋從。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "達",
+        "variant": "咽",
+        "source": "一作「咽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_100_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋張五回夜園作",
+    "poem": [
+      "聞就龐公隱，移居近洞湖。",
+      "興來林是竹，歸臥谷名愚。",
+      "掛席樵風便，開軒琴月孤。",
+      "歲寒何用賞，霜落故園蕪。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "洞",
+        "variant": "澗",
+        "source": "一作「澗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_101_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "裴司士員司戶見尋",
+    "poem": [
+      "府僚能枉駕，家醞復新開。",
+      "落日池上酌，清風松下來。",
+      "廚人具雞黍，稚子摘楊梅。",
+      "誰道山公醉，猶能騎馬回。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "駕",
+        "variant": "顧",
+        "source": "一作「顧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_102_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "春中喜王九相尋",
+    "poem": [
+      "二月湖水清，家家春鳥鳴。",
+      "林花掃更落，徑草踏還生。",
+      "酒伴來相命，開尊共解酲。",
+      "當杯已入手，歌妓莫停聲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_103_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "李氏園林臥疾",
+    "poem": [
+      "我愛陶家趣，園林無俗情。",
+      "春雷百卉坼，寒食四鄰清。",
+      "伏枕嗟公幹，歸山羨子平。",
+      "年年白社客，空滯洛陽城。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "山",
+        "variant": "田",
+        "source": "一作「田」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_104_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "過故人莊",
+    "poem": [
+      "故人具雞黍，邀我至田家。",
+      "綠樹村邊合，青山郭外斜。",
+      "開筵面場圃，把酒話桑麻。",
+      "待到重陽日，還來就菊花。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "筵",
+        "variant": "軒",
+        "source": "一作「軒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_105_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "張七及辛大見尋南亭醉作",
+    "poem": [
+      "山公能飲酒，居士好彈箏。",
+      "世外交初得，林中契已幷。",
+      "納涼風颯至，逃暑日將傾。",
+      "便就南亭裏，餘尊惜解酲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_106_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "歲暮歸南山",
+    "poem": [
+      "北闕休上書，南山歸敝廬。",
+      "不才明主棄，多病故人疎。",
+      "白髮催年老，青陽逼歲除。",
+      "永懷愁不寐，松月夜窗虛。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "多",
+        "variant": "臥",
+        "source": "一作「臥」"
+      },
+      {
+        "line": 3,
+        "text": "老",
+        "variant": "去",
+        "source": "一作「去」"
+      },
+      {
+        "line": 4,
+        "text": "寐",
+        "variant": "寢",
+        "source": "一作「寢」"
+      },
+      {
+        "line": 4,
+        "text": "窗",
+        "variant": "堂",
+        "source": "一作「堂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_107_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "南山下與老圃期種瓜",
+    "poem": [
+      "樵牧南山近，林閭北郭賒。",
+      "先人留素業，老圃作鄰家。",
+      "不種千株橘，惟資五色瓜。",
+      "邵平能就我，開徑剪蓬麻。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "剪",
+        "variant": "有",
+        "source": "一作「有」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_108_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "泝江至武昌",
+    "poem": [
+      "家本洞湖上，歲時歸思催。",
+      "客心徒欲速，江路苦邅回。",
+      "殘凍因風解，新正度臘開。",
+      "行看武昌柳，髣髴映樓臺。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "湖",
+        "variant": "庭",
+        "source": "一作「庭」"
+      },
+      {
+        "line": 3,
+        "text": "正度",
+        "variant": "梅變",
+        "source": "一作「梅變」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_109_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "舟中曉望",
+    "poem": [
+      "掛席東南望，青山水國遙。",
+      "舳艫爭利涉，來往接風潮。",
+      "問我今何去，天台訪石橋。",
+      "坐看霞色曉，疑是赤城標。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "接",
+        "variant": "任",
+        "source": "一作「任」"
+      },
+      {
+        "line": 3,
+        "text": "去",
+        "variant": "適",
+        "source": "一作「適」"
+      },
+      {
+        "line": 4,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_110_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "自洛之越",
+    "poem": [
+      "皇皇三十載，書劒兩無成。",
+      "山水尋吳越，風塵厭洛京。",
+      "扁舟泛湖海，長揖謝公卿。",
+      "且樂杯中物，誰論世上名。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "物",
+        "variant": "酒",
+        "source": "一作「酒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_111_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "途中遇晴",
+    "poem": [
+      "已失巴陵雨，猶逢蜀坂泥。",
+      "天開斜景遍，山出晚雲低。",
+      "餘濕猶霑草，殘流尚入溪。",
+      "今宵有明月，鄉思遠悽悽。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "巴",
+        "variant": "武",
+        "source": "一作「武」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_112_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "歸至郢中",
+    "poem": [
+      "遠遊經海嶠，返櫂歸山阿。",
+      "日夕見喬木，鄉關在伐柯。",
+      "愁隨江路盡，喜入郢門多。",
+      "左右看桑土，依然即匪他。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "關",
+        "variant": "園",
+        "source": "一作「園」"
+      },
+      {
+        "line": 2,
+        "text": "在",
+        "variant": "成",
+        "source": "一作「成」"
+      },
+      {
+        "line": 3,
+        "text": "喜",
+        "variant": "意",
+        "source": "一作「意」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_113_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夕次蔡陽館",
+    "poem": [
+      "日暮馬行疾，城荒人住稀。",
+      "聽歌知近楚，投館忽如歸。",
+      "魯堰田疇廣，章陵氣色微。",
+      "明朝拜嘉慶，須著老萊衣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "知",
+        "variant": "疑",
+        "source": "一作「疑」"
+      },
+      {
+        "line": 4,
+        "text": "嘉",
+        "variant": "家",
+        "source": "一作「家」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_114_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "他鄉七夕",
+    "poem": [
+      "他鄉逢七夕，旅館益羇愁。",
+      "不見穿鍼婦，空懷故國樓。",
+      "緒風初減熱，新月始臨秋。",
+      "誰忍窺河漢，迢迢問鬥牛。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "臨",
+        "variant": "登",
+        "source": "一作「登」"
+      },
+      {
+        "line": 4,
+        "text": "問",
+        "variant": "望",
+        "source": "一作「望」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_115_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夜泊牛渚趁薛八船不及",
+    "poem": [
+      "星羅牛渚夕，風退鷁舟遲。",
+      "浦漵嘗同宿，煙波忽間之。",
+      "榜歌空裏失，船火望中疑。",
+      "明發泛潮海，茫茫何處期。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "潮",
+        "variant": "湖",
+        "source": "一作「湖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_116_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "曉入南山",
+    "poem": [
+      "瘴氣曉氛氳，南山復水雲。",
+      "鯤飛今始見，鳥墮舊來聞。",
+      "地接長沙近，江從汨渚分。",
+      "賈生曾弔屈，予亦痛斯文。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "復",
+        "variant": "沒",
+        "source": "一作「沒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_117_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夜渡湘水",
+    "poem": [
+      "客舟貪利涉，闇裏渡湘川。",
+      "露氣聞芳杜，歌聲識采蓮。",
+      "榜人投岸火，漁子宿潭煙。",
+      "行侶時相問，潯陽何處邊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "舟",
+        "variant": "行",
+        "source": "一作「行」"
+      },
+      {
+        "line": 1,
+        "text": "闇",
+        "variant": "夜",
+        "source": "一作「夜」"
+      },
+      {
+        "line": 2,
+        "text": "采",
+        "variant": "暗",
+        "source": "一作「暗」"
+      },
+      {
+        "line": 4,
+        "text": "時",
+        "variant": "遙",
+        "source": "一作「遙」"
+      },
+      {
+        "line": 4,
+        "text": "潯",
+        "variant": "涔",
+        "source": "一作「涔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_118_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "赴京途中遇雪",
+    "poem": [
+      "迢遞秦京道，蒼茫藏暮天。",
+      "窮陰連晦朔，積雪滿山川。",
+      "落雁迷沙渚，饑烏集野田。",
+      "客愁空佇立，不見有人煙。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "滿",
+        "variant": "遍",
+        "source": "一作「遍」"
+      },
+      {
+        "line": 3,
+        "text": "集",
+        "variant": "噪",
+        "source": "一作「噪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_119_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "途次望鄉",
+    "poem": [
+      "客行愁落日，鄉思重相催。",
+      "況在他山外，天寒夕鳥來。",
+      "雪深迷郢路，雲暗失陽臺。",
+      "可歎悽惶子，高歌誰爲媒。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "悽惶",
+        "variant": "棲遲",
+        "source": "一作「棲遲」"
+      },
+      {
+        "line": 4,
+        "text": "高",
+        "variant": "狂",
+        "source": "一作「狂」，又作「勞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_120_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "永嘉上浦館逢張八子容",
+    "poem": [
+      "逆旅相逢處，江村日暮時。",
+      "衆山遙對酒，孤嶼共題詩。",
+      "廨宇鄰蛟室，人煙接島夷。",
+      "鄉園萬餘里，失路一相悲。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "園",
+        "variant": "關",
+        "source": "一作「關」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_121_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宿武陽即事",
+    "poem": [
+      "川暗夕陽盡，孤舟泊岸初。",
+      "嶺猿相呌嘯，潭嶂似空虛。",
+      "就枕滅明燭，扣舷聞夜漁。",
+      "雞鳴問何處，人物是秦餘。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "嶂",
+        "variant": "影",
+        "source": "一作「影」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_122_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "渡揚子江",
+    "poem": [
+      "桂檝中流望，京江兩畔明。",
+      "林開揚子驛，山出潤州城。",
+      "海盡邊陰靜，江寒朔吹生。",
+      "更聞楓葉下，淅瀝度秋聲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "桂檝",
+        "variant": "掛席",
+        "source": "一作「掛席」"
+      },
+      {
+        "line": 1,
+        "text": "京江",
+        "variant": "空波",
+        "source": "一作「空波」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_123_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "田家元日",
+    "poem": [
+      "昨夜斗回北，今朝歲起東。",
+      "我年已強仕，無祿尚憂農。",
+      "桑野就耕父，荷鋤隨牧童。",
+      "田家占氣候，共說此年豐。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "尚憂",
+        "variant": "惟尚",
+        "source": "一作「惟尚」"
+      },
+      {
+        "line": 3,
+        "text": "桑野就耕父",
+        "variant": "野老就耕去",
+        "source": "一作「野老就耕去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_124_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "九日得新字",
+    "poem": [
+      "初九未成旬，重陽即此晨。",
+      "登高聞古事，載酒訪幽人。",
+      "落帽恣歡飲，授衣同試新。",
+      "茱萸正可佩，折取寄情親。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "初九",
+        "variant": "九日",
+        "source": "一作「九日」"
+      },
+      {
+        "line": 2,
+        "text": "聞古",
+        "variant": "尋故",
+        "source": "一作「尋故」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_125_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "除夜樂城逢張少府",
+    "poem": [
+      "雲海泛甌閩，風潮泊島濱。",
+      "何知歲除夜，得見故鄉親。",
+      "余是乘槎客，君爲失路人。",
+      "平生復能幾，一別十餘春。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "泛",
+        "variant": "訪",
+        "source": "一作「訪」"
+      },
+      {
+        "line": 1,
+        "text": "潮",
+        "variant": "濤",
+        "source": "一作「濤」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_126_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "歲除夜會樂城張少府宅",
+    "poem": [
+      "疇昔通家好，相知無間然。",
+      "續明催畫燭，守歲接長筵。",
+      "舊曲梅花唱，新正柏酒傳。",
+      "客行隨處樂，不見度年年。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "知",
+        "variant": "思",
+        "source": "一作「思」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_127_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "寒夜",
+    "poem": [
+      "閨夕綺窗閉，佳人罷縫衣。",
+      "理琴開寶匣，就枕臥重幃。",
+      "夜久燈花落，薰籠香氣微。",
+      "錦衾重自煖，遮莫曉霜飛"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "重",
+        "variant": "羅",
+        "source": "一作「羅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_128_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "賦得盈盈樓上女",
+    "poem": [
+      "夫壻久離別，青樓空望歸。",
+      "妝成卷簾坐，愁思嬾縫衣。",
+      "燕子家家入，楊花處處飛。",
+      "空牀難獨守，誰爲報金徽。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "報",
+        "variant": "解",
+        "source": "一作「解」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_129_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "春意",
+    "poem": [
+      "佳人能畫眉，妝罷出簾帷。",
+      "照水空自愛，折花將遺誰。",
+      "春情多豔逸，春意倍相思。",
+      "愁心極楊柳，一種亂如絲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_130_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "閨情",
+    "poem": [
+      "一別隔炎涼，君衣忘短長。",
+      "裁縫無處等，以意忖情量。",
+      "畏瘦疑傷窄，防寒更厚裝。",
+      "半啼封裹了，知欲寄誰將。"
+    ]
+  },
+  {
+    "uid": "QTS_160_131_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "美人分香",
+    "poem": [
+      "豔色本傾城，分香更有情。",
+      "髻鬟垂欲解，眉黛拂能輕。",
+      "舞學平陽態，歌翻子夜聲。",
+      "春風狹斜道，含笑待逢迎。"
+    ]
+  },
+  {
+    "uid": "QTS_160_132_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "傷峴山雲表觀主",
+    "poem": [
+      "少小學書劒，秦吳多歲年。",
+      "歸來一登眺，陵谷尚依然。",
+      "豈意餐霞客，溘隨朝露先。",
+      "因之問閭里，把臂幾人全。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "溘",
+        "variant": "忽",
+        "source": "一作「忽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_133_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題梧州陳司馬山齋",
+    "poem": [
+      "南國無霜霰，連年對物華。",
+      "青林暗換葉，紅橤亦開花。",
+      "春去無山鳥，秋來見海槎。",
+      "流芳雖可悅，會自泣長沙。"
+    ]
+  },
+  {
+    "uid": "QTS_160_134_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "歲除夜有懷",
+    "poem": [
+      "迢遞三巴路，羈危萬里身。",
+      "亂山殘雪夜，孤燈異鄉人。",
+      "漸與骨肉遠，轉於奴僕親。",
+      "那堪正飄泊，來日歲華新。"
+    ]
+  },
+  {
+    "uid": "QTS_160_135_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "登安陽城樓",
+    "poem": [
+      "縣城南面漢江流，江漲開成南雍州。",
+      "才子乘春來騁望，羣公暇日坐銷憂。",
+      "樓臺晚映青山郭，羅綺晴驕綠水洲。",
+      "向夕波搖明月動，更疑神女弄珠遊。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "漲",
+        "variant": "嶂",
+        "source": "一作「嶂」"
+      },
+      {
+        "line": 3,
+        "text": "驕",
+        "variant": "嬌",
+        "source": "一作「嬌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_136_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "登萬歲樓",
+    "poem": [
+      "萬歲樓頭望故鄉，獨令鄉思更茫茫。",
+      "天寒雁度堪垂淚，日落猿啼欲斷腸。",
+      "曲引古堤臨凍浦，斜分遠岸近枯楊。",
+      "今朝偶見同袍友，卻喜家書寄八行。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_137_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "除夜有懷",
+    "poem": [
+      "五更鐘漏欲相催，四氣推遷往復回。",
+      "帳裏殘燈纔去熖，爐中香氣盡成灰。",
+      "漸看春逼芙蓉枕，頓覺寒銷竹葉杯。",
+      "守歲家家應未臥，相思那得夢魂來。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "纔去",
+        "variant": "猶有",
+        "source": "一作「猶有」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_138_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "春情",
+    "poem": [
+      "青樓曉日珠簾映，紅粉春妝寶鏡催。",
+      "已厭交歡憐枕席，相將遊戲繞池臺。",
+      "坐時衣帶縈纖草，行即裙裾掃落梅。",
+      "更道明朝不當作，相期共鬬管絃來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "日",
+        "variant": "色",
+        "source": "一作「色」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_139_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "長安早春",
+    "poem": [
+      "關戍惟東井，城池起北辰。",
+      "咸歌太平日，共樂建寅春。",
+      "雪盡青山樹，冰開黑水濱。",
+      "草迎金埒馬，花伴玉樓人。",
+      "鴻漸看無數，鶯歌聽欲頻。",
+      "何當遂榮擢，歸及柳條新。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "關戍",
+        "variant": "開國",
+        "source": "一作「開國」"
+      },
+      {
+        "line": 1,
+        "text": "井",
+        "variant": "漢",
+        "source": "一作「漢」"
+      },
+      {
+        "line": 6,
+        "text": "遂榮",
+        "variant": "桂枝",
+        "source": "一作「桂枝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_140_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "荊門上張丞相",
+    "poem": [
+      "共理分荊國，招賢媿不材。",
+      "召南風更闡，丞相閣還開。",
+      "覯止欣眉睫，沈淪拔草萊。",
+      "坐登徐孺榻，頻接李膺杯。",
+      "始慰蟬鳴柳，俄看雪間梅。",
+      "四時年籥盡，千里客程催。",
+      "日下瞻歸翼，沙邊厭曝鰓。",
+      "佇聞宣室召，星象列三台。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "柳",
+        "variant": "稻",
+        "source": "一作「稻」"
+      },
+      {
+        "line": 8,
+        "text": "列三台",
+        "variant": "復中台",
+        "source": "一作「復中台」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_141_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪張丞相登荊城樓因寄薊州張使君及浪泊戍主劉家",
+    "poem": [
+      "薊門天北畔，銅柱日南端。",
+      "出守聲彌遠，投荒法未寬。",
+      "側身聊倚望，攜手莫同歡。",
+      "白璧無瑕玷，青松有歲寒。",
+      "府中丞相閣，江上使君灘。",
+      "興盡回舟去，方知行路難。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "行",
+        "variant": "茲",
+        "source": "一作「茲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_142_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪張丞相祠紫蓋山途經玉泉寺",
+    "poem": [
+      "望秩宣王命，齋心待漏行。",
+      "青衿列冑子，從事有參卿。",
+      "五馬尋歸路，雙林指化城。",
+      "聞鐘度門近，照膽玉泉清。",
+      "皁蓋依松憩，緇徒擁錫迎。",
+      "天宮上兜率，沙界豁迷明。",
+      "欲就終焉志，恭聞智者名。",
+      "人隨逝水沒，波逐覆舟傾。",
+      "想像若在眼，周流空復情。",
+      "謝公還欲臥，誰與濟蒼生。"
+    ],
+    "variants": [
+      {
+        "line": 7,
+        "text": "恭",
+        "variant": "先",
+        "source": "一作「先」"
+      },
+      {
+        "line": 8,
+        "text": "沒",
+        "variant": "歎",
+        "source": "一作「歎」"
+      },
+      {
+        "line": 8,
+        "text": "波",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_143_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪張丞相自松滋江東泊渚宮",
+    "poem": [
+      "放溜下松滋，登舟命楫師。",
+      "詎忘經濟日，不憚冱寒時。",
+      "洗幘豈獨古，濯纓良在茲。",
+      "政成人自理，機息鳥無疑。",
+      "雲物凝孤嶼，江山辨四維。",
+      "晚來風稍急，冬至日行遲。",
+      "臘響驚雲夢，漁歌激楚辭。",
+      "渚宮何處是，川暝欲安之。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "詎",
+        "variant": "寧",
+        "source": "一作「寧」"
+      },
+      {
+        "line": 5,
+        "text": "凝",
+        "variant": "吟",
+        "source": "一作「吟」"
+      },
+      {
+        "line": 6,
+        "text": "急",
+        "variant": "緊",
+        "source": "一作「緊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_144_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和張判官登萬山亭因贈洪府都督韓公",
+    "poem": [
+      "韓公是襄士，日賞城西岑。",
+      "結搆意不淺，巖潭趣轉深。",
+      "皇華一動詠，荊國幾謠吟。",
+      "舊徑蘭勿剪，新堤柳欲陰。",
+      "砌傍餘怪石，沙上有閑禽。",
+      "自牧豫章郡，空瞻楓樹林。",
+      "因聲寄流水，善聽在知音。",
+      "耆舊眇不接，崔徐無處尋。",
+      "物情多貴遠，賢俊豈無今。",
+      "遲爾長江暮，澄清一洗心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "是",
+        "variant": "美",
+        "source": "一作「美」"
+      },
+      {
+        "line": 1,
+        "text": "士",
+        "variant": "土",
+        "source": "一作「土」"
+      },
+      {
+        "line": 2,
+        "text": "轉",
+        "variant": "亦",
+        "source": "一作「亦」"
+      },
+      {
+        "line": 3,
+        "text": "幾謠",
+        "variant": "盛謳",
+        "source": "一作「盛謳」"
+      },
+      {
+        "line": 9,
+        "text": "無",
+        "variant": "遙",
+        "source": "一作「遙」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_145_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "和宋太史北樓新亭",
+    "poem": [
+      "返耕意未遂，日夕登城隅。",
+      "誰道山林近，坐爲符竹拘。",
+      "麗譙非改作，軒檻是新圖。",
+      "遠水自嶓冢，長雲吞具區。",
+      "願隨江燕賀，羞逐府僚趨。",
+      "欲識狂歌者，丘園一豎儒。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "道",
+        "variant": "謂",
+        "source": "一作「謂」"
+      },
+      {
+        "line": 5,
+        "text": "隨",
+        "variant": "爲",
+        "source": "一作「爲」"
+      },
+      {
+        "line": 6,
+        "text": "者",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_146_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "贈蕭少府",
+    "poem": [
+      "上德如流水，安仁道若山。",
+      "聞君秉高節，而得奉清顏。",
+      "鴻漸昇儀羽，牛刀列下班。",
+      "處腴能不潤，居劇體常閑。",
+      "去詐人無諂，除邪吏息姦。",
+      "欲知清與潔，明月照澄灣。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "如流",
+        "variant": "流如",
+        "source": "一作「流如」"
+      },
+      {
+        "line": 5,
+        "text": "詐",
+        "variant": "訐",
+        "source": "一作「訐」"
+      },
+      {
+        "line": 6,
+        "text": "照",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_147_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "秦中苦雨思歸贈袁左丞賀侍郎",
+    "poem": [
+      "苦學三十載，閉門江漢陰。",
+      "用賢遭聖日，羇旅屬秋霖。",
+      "豈直昏墊苦，亦爲權勢沈。",
+      "二毛催白髮，百鎰罄黃金。",
+      "淚憶峴山墮，愁懷湘水深。",
+      "謝公積憤懣，莊舃空謠吟。",
+      "躍馬非吾事，狎鷗宜我心。",
+      "寄言當路者，去矣北山岑。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "苦",
+        "variant": "爲",
+        "source": "一作「爲」"
+      },
+      {
+        "line": 2,
+        "text": "用賢遭聖日",
+        "variant": "明敭逢聖代",
+        "source": "一作「明敭逢聖代」"
+      },
+      {
+        "line": 7,
+        "text": "宜",
+        "variant": "真",
+        "source": "一作「真」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_148_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同張明府碧溪贈答",
+    "poem": [
+      "別業聞新製，同聲和者多。",
+      "還看碧溪答，不羨綠珠歌。",
+      "自有陽臺女，朝朝拾翠過。",
+      "綺筵鋪錦繡，妝牖閉藤蘿。",
+      "秩滿休閑日，春餘景氣和。",
+      "仙鳧能作伴，羅襪共凌波。",
+      "曲島尋花藥，回潭折芰荷。",
+      "更憐斜日照，紅粉豔青娥。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "綺筵",
+        "variant": "舞庭",
+        "source": "一作「舞庭」"
+      },
+      {
+        "line": 5,
+        "text": "氣",
+        "variant": "色",
+        "source": "一作「色」"
+      },
+      {
+        "line": 7,
+        "text": "曲",
+        "variant": "別",
+        "source": "一作「別」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_149_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "久滯越中貽謝南池會稽賀少府",
+    "poem": [
+      "陳平無產業，尼父倦東西。",
+      "負郭昔雲翳，問津今亦迷。",
+      "未能忘魏闕，空此滯秦稽。",
+      "兩見夏雲起，再聞春鳥啼。",
+      "懷仙梅福市，訪舊若耶溪。",
+      "聖主賢爲寶，君何隱遯棲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "亦",
+        "variant": "已",
+        "source": "一作「已」"
+      },
+      {
+        "line": 6,
+        "text": "君",
+        "variant": "卿",
+        "source": "一作「卿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_150_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送韓使君除洪州都曹",
+    "poem": [
+      "述職撫荊衡，分符襲寵榮。",
+      "往來看擁傳，前後賴專城。",
+      "勿翦棠猶在，波澄水更清。",
+      "重推江漢理，旋改豫章行。",
+      "召父多遺愛，羊公有令名。",
+      "衣冠列祖道，耆舊擁前旌。",
+      "峴首晨風送，江陵夜火迎。",
+      "無才慙孺子，千里媿同聲。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "旌",
+        "variant": "程",
+        "source": "一作「程」"
+      },
+      {
+        "line": 4,
+        "text": "送",
+        "variant": "接",
+        "source": "一作「接」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_151_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送莫甥兼諸昆弟從韓司馬入西軍",
+    "poem": [
+      "念爾習詩禮，未曾違戶庭。",
+      "平生早偏露，萬里更飄零。",
+      "坐棄三牲養，行觀八陣形。",
+      "飾裝辭故里，謀策赴邊庭。",
+      "壯志吞鴻鵠，遙心伴鶺鴒。",
+      "所從文且武，不戰自應寧。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "曾違",
+        "variant": "常離",
+        "source": "一作「常離」"
+      },
+      {
+        "line": 2,
+        "text": "平生早偏露",
+        "variant": "嚴君先早露",
+        "source": "一作「嚴君先早露」"
+      },
+      {
+        "line": 3,
+        "text": "牲養",
+        "variant": "冬業",
+        "source": "一作「冬業」"
+      },
+      {
+        "line": 6,
+        "text": "且",
+        "variant": "與",
+        "source": "一作「與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_152_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "峴山送蕭員外之荊州",
+    "poem": [
+      "峴山江岸曲，郢水郭門前。",
+      "自古登臨處，非今獨黯然。",
+      "亭樓明落照，井邑秀通川。",
+      "澗竹生幽興，林風入管弦。",
+      "再飛鵬激水，一舉鶴沖天。",
+      "佇立三荊使，看君駟馬旋。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "照",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_153_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送王昌齡之嶺南",
+    "poem": [
+      "洞庭去遠近，楓葉早驚秋。",
+      "峴首羊公愛，長沙賈誼愁。",
+      "土毛無縞紵，鄉味有槎頭。",
+      "已抱沈痼疾，更貽魑魅憂。",
+      "數年同筆硯，茲夕間衾裯。",
+      "意氣今何在，相思望鬥牛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "驚",
+        "variant": "經",
+        "source": "一作「經」"
+      },
+      {
+        "line": 3,
+        "text": "毛",
+        "variant": "風",
+        "source": "一作「風」"
+      },
+      {
+        "line": 3,
+        "text": "槎",
+        "variant": "查",
+        "source": "一作「查」"
+      },
+      {
+        "line": 4,
+        "text": "痼",
+        "variant": "痾",
+        "source": "一作「痾」"
+      },
+      {
+        "line": 5,
+        "text": "間",
+        "variant": "異",
+        "source": "一作「異」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_154_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "峴山送張去非遊巴東",
+    "poem": [
+      "峴山南郭外，送別每登臨。",
+      "沙岸江村近，松門山寺深。",
+      "一言予有贈，三峽爾將尋。",
+      "祖席宜城酒，征途雲夢林。",
+      "蹉跎遊子意，眷戀故人心。",
+      "去矣勿淹滯，巴東猿夜吟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "松",
+        "variant": "村",
+        "source": "一作「村」"
+      },
+      {
+        "line": 3,
+        "text": "將",
+        "variant": "相",
+        "source": "一作「相」"
+      },
+      {
+        "line": 6,
+        "text": "東",
+        "variant": "江",
+        "source": "一作「江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_155_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "奉先張明府休沐還鄉海亭宴集",
+    "poem": [
+      "自君理畿甸，予亦經江淮。",
+      "萬里書信斷，數年雲雨乖。",
+      "歸來休澣日，始得賞心諧。",
+      "朱紱恩雖重，滄州趣每懷。",
+      "樹低新舞閣，山對舊書齋。",
+      "何以發秋興，陰蟲鳴夜堦。"
+    ]
+  },
+  {
+    "uid": "QTS_160_156_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宴張記室宅",
+    "poem": [
+      "甲第金張館，門庭車騎多。",
+      "家封漢陽郡，文會楚材過。",
+      "曲島浮觴酌，前山入詠歌。",
+      "妓堂花映發，書閣柳逶迤。",
+      "玉指調箏柱，金泥飾舞羅。",
+      "寧知書劒者，歲月獨蹉跎。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "車",
+        "variant": "軒",
+        "source": "一作「軒」"
+      },
+      {
+        "line": 6,
+        "text": "寧",
+        "variant": "誰",
+        "source": "一作「誰」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_157_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宴崔明府宅夜觀妓",
+    "poem": [
+      "畫堂觀妙妓，長夜正留賓。",
+      "燭吐蓮花豔，妝成桃李春。",
+      "髻鬟低舞席，衫袖掩歌脣。",
+      "汗濕偏宜粉，羅輕詎著身。",
+      "調移箏柱促，歡會酒杯頻。",
+      "倘使曹王見，應嫌洛浦神。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "畫堂",
+        "variant": "書室",
+        "source": "一作「書室」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_158_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "盧明府九日峴山宴袁使君張郎中崔員外",
+    "poem": [
+      "宇宙誰開闢，江山此鬱盤。",
+      "登臨今古用，風俗歲時觀。",
+      "地理荊州分，天涯楚塞寬。",
+      "百城今刺史，華省舊郎官。",
+      "共美重陽節，俱懷落帽歡。",
+      "酒邀彭澤載，琴輟武城彈。",
+      "獻壽先浮菊，尋幽或藉蘭。",
+      "煙虹鋪藻翰，松竹掛衣冠。",
+      "叔子神如在，山公興未闌。",
+      "傳聞騎馬醉，還向習池看。"
+    ],
+    "variants": [
+      {
+        "line": 8,
+        "text": "翰",
+        "variant": "麗",
+        "source": "一作「麗」"
+      },
+      {
+        "line": 10,
+        "text": "傳",
+        "variant": "常",
+        "source": "一作「常」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_159_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "登龍興寺閣",
+    "poem": [
+      "閣道乘空出，披軒遠目開。",
+      "逶迤見江勢，客至屢緣回。",
+      "茲郡何填委，遙山復幾哉。",
+      "蒼蒼皆草木，處處盡樓臺。",
+      "驟雨一陽散，行舟四海來。",
+      "鳥歸餘興遠，周覽更裴回。"
+    ]
+  },
+  {
+    "uid": "QTS_160_160_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "登總持寺浮圖",
+    "poem": [
+      "半空躋寶塔，晴望盡京華。",
+      "竹遶渭川遍，山連上苑斜。",
+      "四門開帝宅，阡陌俯人家。",
+      "累劫從初地，爲童憶聚沙。",
+      "一窺功德見，彌益道心加。",
+      "坐覺諸天近，空香送落花。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "門",
+        "variant": "郊",
+        "source": "一作「郊」"
+      },
+      {
+        "line": 6,
+        "text": "送",
+        "variant": "逐",
+        "source": "一作「逐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_161_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "與崔二十一遊鏡湖寄包賀二公",
+    "poem": [
+      "試覽鏡湖物，中流到底清。",
+      "不知鱸魚味，但識鷗鳥情。",
+      "帆得樵風送，春逢穀雨晴。",
+      "將探夏禹穴，稍背越王城。",
+      "府掾有包子，文章推賀生。",
+      "滄浪醉後唱，因此寄同聲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "到",
+        "variant": "見",
+        "source": "一作「見」"
+      },
+      {
+        "line": 4,
+        "text": "將探",
+        "variant": "特尋",
+        "source": "一作「特尋」"
+      },
+      {
+        "line": 5,
+        "text": "府",
+        "variant": "守",
+        "source": "一作「守」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_162_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夜登孔伯昭南樓時沈太清朱昇在座",
+    "poem": [
+      "誰家無風月，此地有琴尊。",
+      "山水會稽郡，詩書孔氏門。",
+      "再來值秋杪，高閣夜無喧。",
+      "華燭罷然蠟，清絃方奏鵾。",
+      "沈生隱侯胤，朱子買臣孫。",
+      "好我意不淺，登茲共話言。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "夜",
+        "variant": "閑",
+        "source": "一作「閑」"
+      },
+      {
+        "line": 3,
+        "text": "共",
+        "variant": "同",
+        "source": "一作「同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_163_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "陪盧明府泛舟回作",
+    "poem": [
+      "百里行春返，清流逸興多。",
+      "鷁舟隨雁泊，江火共星羅。",
+      "已救田家旱，仍醫俗化訛。",
+      "文章推後輩，風雅激頹波。",
+      "高岸迷陵谷，新聲滿棹歌。",
+      "猶憐不才子，白首未登科。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "雁泊",
+        "variant": "鳥沒",
+        "source": "一作「鳥沒」"
+      },
+      {
+        "line": 3,
+        "text": "醫",
+        "variant": "憂",
+        "source": "一作「憂」"
+      },
+      {
+        "line": 6,
+        "text": "才子",
+        "variant": "調者",
+        "source": "一作「調者」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_164_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "臘月八日於剡縣石城寺禮拜",
+    "poem": [
+      "石壁開金像，香山倚鐵圍。",
+      "下生彌勒見，回向一心歸。",
+      "竹柏禪庭古，樓臺世界稀。",
+      "夕嵐增氣色，餘照發光輝。",
+      "講席邀談柄，泉堂施浴衣。",
+      "願承功德水，從此濯塵機。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "倚",
+        "variant": "繞",
+        "source": "一作「繞」"
+      },
+      {
+        "line": 3,
+        "text": "竹柏",
+        "variant": "松竹",
+        "source": "一作「松竹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_165_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同獨孤使君東齋作",
+    "poem": [
+      "郎官舊華省，天子命分憂。",
+      "襄土歲頻旱，隨車雨再流。",
+      "雲陰自南楚，河潤及東周。",
+      "廨宇宜新霽，田家賀有秋。",
+      "竹間殘照入，池上夕陽浮。",
+      "寄謝東陽守，何如八詠樓。"
+    ]
+  },
+  {
+    "uid": "QTS_160_166_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同王九題就師山房",
+    "poem": [
+      "晚憩支公室，故人逢右軍。",
+      "軒窗避炎暑，翰墨動新文。",
+      "竹蔽簷前日，雨隨堦下雲。",
+      "周遊清蔭徧，吟臥夕陽曛。",
+      "江靜櫂歌歇，溪深樵語聞。",
+      "歸途未忍去，攜手戀清芬。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "蔽",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 3,
+        "text": "簷前",
+        "variant": "窗裏",
+        "source": "一作「窗裏」"
+      },
+      {
+        "line": 4,
+        "text": "周",
+        "variant": "同",
+        "source": "一作「同」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_167_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "冬至後過吳張二子檀溪別業",
+    "poem": [
+      "卜築因自然，檀溪不更穿。",
+      "園廬二友接，水竹數家連。",
+      "直與南山對，非關選地偏。",
+      "草堂時偃曝，蘭枻日周旋。",
+      "外事情都遠，中流性所便。",
+      "閑垂太公釣，興發子猷船。",
+      "余亦幽棲者，經過竊慕焉。",
+      "梅花殘臘月，柳色半春天。",
+      "鳥泊隨陽雁，魚藏縮項鯿。",
+      "停杯問山簡，何似習池邊。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "與",
+        "variant": "取",
+        "source": "一作「取」"
+      },
+      {
+        "line": 4,
+        "text": "枻",
+        "variant": "棹",
+        "source": "一作「棹」"
+      },
+      {
+        "line": 5,
+        "text": "遠",
+        "variant": "遣",
+        "source": "一作「遣」"
+      },
+      {
+        "line": 8,
+        "text": "殘",
+        "variant": "初",
+        "source": "一作「初」"
+      },
+      {
+        "line": 8,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_168_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "韓大使東齋會岳上人諸學士",
+    "poem": [
+      "郡守虛陳榻，林間召楚材。",
+      "山川祈雨畢，雲物喜晴開。",
+      "抗禮尊縫掖，臨流揖渡杯。",
+      "徒攀朱仲李，誰薦和羹梅。",
+      "翰墨緣情製，高深以意裁。",
+      "滄洲趣不遠，何必問蓬萊。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "雲",
+        "variant": "品",
+        "source": "一作「品」"
+      },
+      {
+        "line": 4,
+        "text": "誰",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_169_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "上巳日澗南園期王山人陳七諸公不至",
+    "poem": [
+      "搖艇候明發，花源弄晚春。",
+      "在山懷綺季，臨漢憶荀陳。",
+      "上巳期三月，浮杯興十旬。",
+      "坐歌空有待，行樂恨無鄰。",
+      "日晚蘭亭北，煙開曲水濱。",
+      "浴蠶逢奼女，采艾值幽人。",
+      "石壁堪題序，沙場好解紳。",
+      "羣公望不至，虛擲此芳晨。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "開",
+        "variant": "花",
+        "source": "一作「花」"
+      },
+      {
+        "line": 7,
+        "text": "紳",
+        "variant": "神",
+        "source": "一作「神」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_170_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "齒坐呈山南諸隱",
+    "poem": [
+      "習公有遺坐，高在白雲陲。",
+      "樵子不見識，山僧賞自知。",
+      "以余為好事，攜手一來窺。",
+      "竹露閒夜滴，松風清晝吹。",
+      "從來抱微尚，況復感前規。",
+      "於此無奇策，蒼生奚以為。"
+    ]
+  },
+  {
+    "uid": "QTS_160_171_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "來闍黎新亭作",
+    "poem": [
+      "八解禪林秀，三明給苑才。",
+      "地偏香界遠，心淨水亭開。",
+      "傍險山查立，尋幽石逕回。",
+      "瑞花長自下，靈藥豈須栽。",
+      "碧網交紅樹，清泉盡綠苔。",
+      "戲魚聞法聚，閑鳥誦經來。",
+      "棄象玄應悟，忘言理必該。",
+      "靜中何所得，吟詠也徒哉。"
+    ]
+  },
+  {
+    "uid": "QTS_160_172_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "西山尋辛諤",
+    "poem": [
+      "漾舟尋水便，因訪故人居。",
+      "落日清川裏，誰言獨羨魚。",
+      "石潭窺洞徹，沙岸歷紆徐。",
+      "竹嶼見垂釣，茅齋聞讀書。",
+      "款言忘景夕，清興屬涼初。",
+      "回也一瓢飲，賢哉常晏如。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "尋",
+        "variant": "乘",
+        "source": "一作「乘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_173_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "題長安主人壁",
+    "poem": [
+      "久廢南山田，叨陪東閣賢。",
+      "欲隨平子去，猶未獻甘泉。",
+      "枕籍琴書滿，褰帷遠岫連。",
+      "我來如昨日，庭樹忽鳴蟬。",
+      "促織驚寒女，秋風感長年。",
+      "授衣當九月，無褐竟誰憐。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "叨",
+        "variant": "謬",
+        "source": "一作「謬」"
+      },
+      {
+        "line": 3,
+        "text": "籍",
+        "variant": "席",
+        "source": "一作「席」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_174_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "行出東山望漢川",
+    "poem": [
+      "異縣非吾土，連山盡綠篁。",
+      "平田出郭少，盤坂入雲長。",
+      "萬壑歸於漢，千峰劃彼蒼。",
+      "猿聲亂楚峽，人語帶巴鄉。",
+      "石上攢椒樹，藤間綴蜜房。",
+      "雪餘春未煖，嵐解晝初陽。",
+      "征馬疲登頓，歸帆愛渺茫。",
+      "坐欣沿溜下，信宿見維桑。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "漢",
+        "variant": "海",
+        "source": "一作「海」"
+      },
+      {
+        "line": 5,
+        "text": "綴",
+        "variant": "養",
+        "source": "一作「養」"
+      },
+      {
+        "line": 8,
+        "text": "維",
+        "variant": "浮",
+        "source": "一作「浮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_175_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "夜泊宣城界",
+    "poem": [
+      "西塞沿江島，南陵問驛樓。",
+      "湖平津濟闊，風止客帆收。",
+      "去去懷前浦，茫茫泛夕流。",
+      "石逢羅剎礙，山泊敬亭幽。",
+      "火識梅根冶，煙迷楊葉洲。",
+      "離家復水宿，相伴賴沙鷗。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "識",
+        "variant": "熾",
+        "source": "一作「熾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_176_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "下灨石",
+    "poem": [
+      "灨石三百里，沿洄千嶂間。",
+      "沸聲常活活，洊勢亦潺潺。",
+      "跳沫魚龍沸，垂藤猿狖攀。",
+      "榜人苦奔峭，而我忘險難。",
+      "放溜情彌愜，登艫目自閑。",
+      "暝帆何處宿，遙指落星灣。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "活活",
+        "variant": "浩浩",
+        "source": "一作「浩浩」"
+      },
+      {
+        "line": 5,
+        "text": "彌",
+        "variant": "深",
+        "source": "一作「深」"
+      },
+      {
+        "line": 5,
+        "text": "愜",
+        "variant": "遠",
+        "source": "一作「遠」"
+      },
+      {
+        "line": 6,
+        "text": "宿",
+        "variant": "泊",
+        "source": "一作「泊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_177_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "初年樂城館中臥疾懷歸作",
+    "poem": [
+      "異縣天隅僻，孤帆海畔過。",
+      "往來鄉信斷，留滯客情多。",
+      "臘月聞雷震，東風感歲和。",
+      "蟄蟲驚戶穴，巢鵲眄庭柯。",
+      "徒對芳尊酒，其如伏枕何。",
+      "歸嶼理舟楫，江海正無波。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "嶼",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_178_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "醉後贈馬四",
+    "poem": [
+      "四海重然諾，吾嘗聞白眉。",
+      "秦城遊俠客，相得半酣時。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "客",
+        "variant": "窟",
+        "source": "一作「窟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_179_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "贈王九",
+    "poem": [
+      "日暮田家遠，山中勿久淹。",
+      "歸人須早去，稚子望陶潛。"
+    ]
+  },
+  {
+    "uid": "QTS_160_180_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "登峴山亭寄晉陵張少府",
+    "poem": [
+      "峴首風湍急，雲帆若鳥飛。",
+      "憑軒試一問，張翰欲來歸。"
+    ]
+  },
+  {
+    "uid": "QTS_160_181_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送朱大入秦",
+    "poem": [
+      "遊人五陵去，寶劍值千金。",
+      "分手脫相贈，平生一片心。"
+    ]
+  },
+  {
+    "uid": "QTS_160_182_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送友人之京",
+    "poem": [
+      "君登青雲去，予望青山歸。",
+      "雲山從此別，淚濕薜蘿衣。"
+    ]
+  },
+  {
+    "uid": "QTS_160_183_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送張郎中遷京",
+    "poem": [
+      "碧溪常共賞，朱邸忽遷榮。",
+      "豫有相思意，聞君琴上聲。"
+    ]
+  },
+  {
+    "uid": "QTS_160_184_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同張將薊門觀燈",
+    "poem": [
+      "異俗非鄉俗，新年改故年。",
+      "薊門看火樹，疑是燭龍然。"
+    ]
+  },
+  {
+    "uid": "QTS_160_185_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "張郎中梅園中",
+    "poem": [
+      "綺席鋪蘭杜，珠盤折芰荷。",
+      "故園留不住，應是戀絃歌。"
+    ]
+  },
+  {
+    "uid": "QTS_160_186_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "北澗泛舟",
+    "poem": [
+      "北澗流恆滿，浮舟觸處通。",
+      "沿洄自有趣，何必五湖中。"
+    ]
+  },
+  {
+    "uid": "QTS_160_187_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "春曉",
+    "poem": [
+      "春眠不覺曉，處處聞啼鳥。",
+      "夜來風雨聲，花落知多少。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "夜來風雨聲，花落知多少",
+        "variant": "欲知昨夜風，花落無多少",
+        "source": "一作「欲知昨夜風，花落無多少」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_188_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "洛中訪袁拾遺不遇",
+    "poem": [
+      "洛陽訪才子，江嶺作流人。",
+      "聞說梅花早，何如北地春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "北",
+        "variant": "此",
+        "source": "一作「此」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_189_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "尋菊花潭主人不遇",
+    "poem": [
+      "行至菊花潭，村西日已斜。",
+      "主人登高去，雞犬空在家。"
+    ]
+  },
+  {
+    "uid": "QTS_160_190_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "檀溪尋故人",
+    "poem": [
+      "花伴成龍竹，池分躍馬溪。",
+      "田園人不見，疑向洞中棲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "花伴",
+        "variant": "苑半",
+        "source": "一作「苑半」"
+      },
+      {
+        "line": 2,
+        "text": "洞中棲",
+        "variant": "武陵迷",
+        "source": "一作「武陵迷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_191_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "揚子津望京口",
+    "poem": [
+      "北固臨京口，夷山近海濱。",
+      "江風白浪起，愁殺渡頭人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "近",
+        "variant": "對",
+        "source": "一作「對」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_192_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "同儲十二洛陽道中作",
+    "poem": [
+      "珠彈繁華子，金羈遊俠人。",
+      "酒酣白日暮，走馬入紅塵。"
+    ]
+  },
+  {
+    "uid": "QTS_160_193_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "初下浙江舟中口號",
+    "poem": [
+      "八月觀潮罷，三江越海潯。",
+      "回瞻魏闕路，空復子牟心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "潮",
+        "variant": "濤",
+        "source": "一作「濤」"
+      },
+      {
+        "line": 2,
+        "text": "空",
+        "variant": "無",
+        "source": "一作「無」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_194_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "宿建德江",
+    "poem": [
+      "移舟泊煙渚，日暮客愁新。",
+      "野曠天低樹，江清月近人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "煙",
+        "variant": "幽",
+        "source": "一作「幽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_195_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "問舟子",
+    "poem": [
+      "向夕問舟子，前程復幾多。",
+      "灣頭正堪泊，淮裏足風波。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "復",
+        "variant": "無",
+        "source": "一作「無」"
+      },
+      {
+        "line": 2,
+        "text": "堪",
+        "variant": "好",
+        "source": "一作「好」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_196_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "戲題",
+    "poem": [
+      "客醉眠未起，主人呼解酲。",
+      "已言雞黍熟，復道甕頭清。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "道",
+        "variant": "說",
+        "source": "一作「說」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_197_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "涼州詞",
+    "poem": [
+      "渾成紫檀金屑文，作得琵琶聲入雲。",
+      "胡地迢迢三萬里，那堪馬上送明君。",
+      "異方之樂令人悲，羌笛胡笳不用吹。",
+      "坐看今夜關山月，思殺邊城游俠兒。"
+    ]
+  },
+  {
+    "uid": "QTS_160_198_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送新安張少府歸秦中",
+    "poem": [
+      "試登秦嶺望秦川，遙憶青門春可憐。",
+      "仲月送君從此去，瓜時須及邵平田。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "嶺",
+        "variant": "望",
+        "source": "一作「望」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_199_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "送杜十四之江南",
+    "poem": [
+      "荊吳相接水爲鄉，君去春江正淼茫。",
+      "日暮征帆何處泊，天涯一望斷人腸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "爲",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 1,
+        "text": "春江",
+        "variant": "江村",
+        "source": "一作「江村」"
+      },
+      {
+        "line": 2,
+        "text": "何處泊",
+        "variant": "泊何處",
+        "source": "一作「泊何處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_200_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "渡浙江問舟中人",
+    "poem": [
+      "潮落江平未有風，扁舟共濟與君同。",
+      "時時引領望天末，何處青山是越中。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "舟",
+        "variant": "舠",
+        "source": "一作「舠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_201_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "初秋",
+    "poem": [
+      "不覺初秋夜漸長，清風習習重淒涼。",
+      "炎炎暑退茅齋靜，堦下叢莎有露光。"
+    ]
+  },
+  {
+    "uid": "QTS_160_202_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "過融上人蘭若",
+    "poem": [
+      "山頭禪室掛僧衣，窗外無人水鳥飛。",
+      "黃昏半在下山路，卻聽泉聲戀翠微。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "頭",
+        "variant": "間",
+        "source": "一作「間」"
+      },
+      {
+        "line": 1,
+        "text": "水",
+        "variant": "溪",
+        "source": "一作「溪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_160_203_01",
+    "volume": 160,
+    "author": {
+      "canonical": "孟浩然",
+      "recorded": "孟浩然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Meng Haoran",
+      "wikidata_id": "Q455589"
+    },
+    "title": "句",
+    "poem": [
+      "微雲淡河漢，疎雨滴梧桐。",
+      "逐逐懷良馭，蕭蕭顧樂鳴。"
+    ],
+    "part_index": 1
+  }
+]

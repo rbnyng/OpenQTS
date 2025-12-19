@@ -1,0 +1,994 @@
+[
+  {
+    "uid": "QTS_598_001_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "言懷",
+    "poem": [
+      "恨乏平戎策，慚登拜將壇。",
+      "手持金鉞冷，身掛鐵衣寒。",
+      "主聖扶持易，恩深報効難。",
+      "三邊猶未靜，何敢便休官。"
+    ],
+    "preface": "高駢，字千里，南平郡王崇文之孫，家世禁衛，幼頗修飭。折節為文學，初事朱叔明，為司馬，後歴右神策軍都虞候，秦州刺史。咸通中，拜安南都䕶，進檢校刑部尚書，以都䕶府為靜海軍授駢節度兼諸道行營招討使。僖宗立，加同中書門下平章事，遷劍南西川節度，進檢校司徒，封燕國公；徙荊南節度，加諸道行營都統鹽鐵轉運等使；俄徙淮南節度副大使。廣明初，進檢校太尉，東面都繞京西京北神策軍諸道兵馬等使，封渤海郡王，為部將畢師鐸所害。詩一卷。"
+  },
+  {
+    "uid": "QTS_598_002_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "寄鄠杜李遂良處士",
+    "poem": [
+      "小隠堪忘世上情，可能休夢入重城。",
+      "池邊寫字師前輩，座右題銘律後生。",
+      "吟社客歸秦渡晚，醉鄉漁去渼陂晴。",
+      "春來不得山中信，盡日無人傍水行。"
+    ]
+  },
+  {
+    "uid": "QTS_598_003_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "和王昭符進士贈洞庭趙先生",
+    "poem": [
+      "爲愛君山景最靈，角冠秋禮一壇星。",
+      "藥將雞犬雲間試，琴許魚龍月下聽。",
+      "自要乘風隨羽客，誰同種玉驗仙經。",
+      "煙霞澹泊無人到，唯有漁翁過洞庭。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "澹泊",
+        "variant": "寂寞",
+        "source": "一作「寂寞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_004_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "依韻奉酬李迪",
+    "poem": [
+      "柳下官資顏子居，閒情入骨若為除。",
+      "詩成斬將奇難敵，酒熟封侯快未如。",
+      "只見絲綸終日降，不知功業是誰書。",
+      "而今共飲醇滋味，消得揶揄勢利疎。"
+    ]
+  },
+  {
+    "uid": "QTS_598_005_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "留別彰德軍從事范校書",
+    "poem": [
+      "無金寄與白頭親，節槩猶誇似古人。",
+      "未出塵埃真落魄，不趨權勢正因循。",
+      "桂攀明月曾觀國，蓬轉西風卻問津。",
+      "匹馬東歸羨知巳，燕王臺上結交新。"
+    ]
+  },
+  {
+    "uid": "QTS_598_006_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "途次內黃馬病寄僧舍呈諸友人",
+    "poem": [
+      "官閒馬病客深秋，肻學張衡詠四愁。",
+      "紅葉寺多詩景致，白衣人盡酒交遊。",
+      "依違諷刺因行得，澹泊供需不在求。",
+      "好與高陽結吟社，況無名跡達珠旒。"
+    ]
+  },
+  {
+    "uid": "QTS_598_007_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "遣興",
+    "poem": [
+      "浮世忙忙蟻子羣，莫嗔頭上雪紛紛。",
+      "沈憂萬種與千種，行樂十分無一分。",
+      "越外險巇防俗事，就中拘檢信人文。",
+      "醉鄉日月終須覓，去作先生號白雲。"
+    ]
+  },
+  {
+    "uid": "QTS_598_008_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "南海神祠",
+    "poem": [
+      "滄溟八千里，今古畏波濤。",
+      "此日征南將，安然渡萬艘。"
+    ]
+  },
+  {
+    "uid": "QTS_598_009_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "送春",
+    "poem": [
+      "水淺魚爭躍，花深鳥競啼。",
+      "春光看欲盡，判卻醉如泥。"
+    ]
+  },
+  {
+    "uid": "QTS_598_010_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "海翻",
+    "poem": [
+      "幾經人事變，又見海濤翻。",
+      "徒起如山浪，何曾洗至冤。"
+    ]
+  },
+  {
+    "uid": "QTS_598_011_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "笻竹杖寄僧",
+    "poem": [
+      "堅輕笻竹杖，一枝有九節。",
+      "寄與沃洲人，閒步青山月。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "人",
+        "variant": "僧",
+        "source": "一作「僧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_012_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "遣興",
+    "poem": [
+      "把盞非憐酒，持竿不爲魚。",
+      "唯應嵇叔夜，似我性慵疎。"
+    ]
+  },
+  {
+    "uid": "QTS_598_013_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "歎征人",
+    "poem": [
+      "心堅膽壯箭頭親，十載沙場受苦辛。",
+      "力盡路傍行不得，廣張紅斾是何人？"
+    ]
+  },
+  {
+    "uid": "QTS_598_014_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "湘妃廟",
+    "poem": [
+      "帝舜南巡去不還，二妃幽怨水雲間。",
+      "當時珠淚垂多少，直到如今竹尚斑。"
+    ]
+  },
+  {
+    "uid": "QTS_598_015_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "赴安南卻寄台司",
+    "poem": [
+      "曾驅萬馬上天山，風去雲回頃刻間。",
+      "今日海門南面事，莫教還似鳯林關。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "上天",
+        "variant": "靜江",
+        "source": "一作「靜江」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_016_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "閨怨",
+    "poem": [
+      "人世悲歡不可知，夫君初破黑山歸。",
+      "如今又獻征南策，早晩催縫帶號衣。"
+    ]
+  },
+  {
+    "uid": "QTS_598_017_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "馬嵬驛",
+    "poem": [
+      "玉顏雖掩馬嵬塵，冤氣和煙鎖渭津。",
+      "蟬鬢不隨鑾駕去，至今空感往來人。"
+    ]
+  },
+  {
+    "uid": "QTS_598_018_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "宴犒蕃軍有感",
+    "poem": [
+      "蜀地恩留馬嵬哭，煙雨濛濛春草綠。",
+      "滿眼由來是舊人，那堪更奏梁州曲。"
+    ]
+  },
+  {
+    "uid": "QTS_598_019_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "寓懷",
+    "poem": [
+      "關山萬里恨難銷，鐵馬金鞭出塞遙。",
+      "為問昔時青海畔，幾人歸到鳯林橋。"
+    ]
+  },
+  {
+    "uid": "QTS_598_020_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "步虛詞",
+    "poem": [
+      "青溪道士人不識，上天下天鶴一隻。",
+      "洞門深鎻碧窗寒，滴露研朱㸃《周易》。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "天",
+        "variant": "地",
+        "source": "一作「地」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_021_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "贈歌者二首 其一",
+    "poem": [
+      "酒滿金船花滿枝，佳人立唱慘愁眉。",
+      "一聲直入青雲去，多少悲歡起此時。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_598_021_02",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "贈歌者二首 其二",
+    "poem": [
+      "公子邀歡月滿樓，雙成掲調唱伊州。",
+      "便從席上風沙起，直到陽關水盡頭。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_598_022_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "入蜀",
+    "poem": [
+      "萬水千山音信希，空勞魂夢到京畿。",
+      "漫天嶺上頻回首，不見虞封淚滿衣。"
+    ]
+  },
+  {
+    "uid": "QTS_598_023_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "邊城聽角",
+    "poem": [
+      "席箕風起雁聲秋，隴水邊沙滿目愁。",
+      "三會五更欲吹盡，不知凡白幾人頭。"
+    ]
+  },
+  {
+    "uid": "QTS_598_024_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "渭川秋望寄右軍王特進",
+    "poem": [
+      "長川終日碧潺湲，知道天河與地連。",
+      "憑寄兩行朝闕淚，願隨流入御溝泉。"
+    ]
+  },
+  {
+    "uid": "QTS_598_025_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "山亭夏日",
+    "poem": [
+      "綠樹陰濃夏日長，樓臺倒影入池塘。",
+      "水晶簾動微風起，滿架薔薇一院香。"
+    ]
+  },
+  {
+    "uid": "QTS_598_026_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "蜀路感懷",
+    "poem": [
+      "蜀山蒼翠隴雲愁，鑾駕西巡陷幾州。",
+      "唯有縈回深澗水，潺湲不改舊時流。"
+    ]
+  },
+  {
+    "uid": "QTS_598_027_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "殘春遣興",
+    "poem": [
+      "畫舸輕橈柳色新，摩訶池上醉青春。",
+      "不辭不爲青春醉，只恐鶯花也怪人。"
+    ]
+  },
+  {
+    "uid": "QTS_598_028_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "春日招賓",
+    "poem": [
+      "花枝如火酒如餳，正好狂歌醉復醒。",
+      "對酒看花何處好，延和閣下碧筠亭。"
+    ]
+  },
+  {
+    "uid": "QTS_598_029_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "過天威徑",
+    "poem": [
+      "豺狼坑盡卻朝天，戰馬休嘶瘴嶺煙。",
+      "歸路嶮巇今坦蕩，一條千里直如弦。"
+    ]
+  },
+  {
+    "uid": "QTS_598_030_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "對花呈幕中",
+    "poem": [
+      "海棠初發去春枝，首唱曾題七字詩。",
+      "今日能來花下飲，不辭頻把使頭旗。"
+    ]
+  },
+  {
+    "uid": "QTS_598_031_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "寄題羅浮別業",
+    "poem": [
+      "不將真性染埃塵，為有煙霞伴此身。",
+      "帶日長江好歸信，博羅山下碧桃春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      },
+      {
+        "line": 2,
+        "text": "信",
+        "variant": "去",
+        "source": "一作「去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_032_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "塞上曲二首 其一",
+    "poem": [
+      "二年邊戍絶煙塵，一曲河灣萬恨新。",
+      "從此鳯林關外事，不知誰是苦心人？"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "戍",
+        "variant": "塞",
+        "source": "一作「塞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_032_02",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "塞上曲二首 其二",
+    "poem": [
+      "隴上征夫隴下魂，死生同恨漢將軍。",
+      "不知萬里沙場苦，空舉平安火入雲。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_598_033_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "廣陵宴次戲簡幕賓",
+    "poem": [
+      "一曲狂歌酒百分，蛾眉畫出月爭新。",
+      "將軍醉罷無餘事，亂把花枝折贈人。"
+    ]
+  },
+  {
+    "uid": "QTS_598_034_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "安南送曹別勑歸朝",
+    "poem": [
+      "雲水蒼茫日欲收，野煙深處鷓鴣愁。",
+      "知君萬里朝天去，為説征南巳五秋。"
+    ]
+  },
+  {
+    "uid": "QTS_598_035_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "對雪",
+    "poem": [
+      "六出飛花入戶時，坐看青竹變瓊枝。",
+      "如今好上高樓望，蓋盡人間惡路岐。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "青",
+        "variant": "修",
+        "source": "一作「修」"
+      },
+      {
+        "line": 2,
+        "text": "如今",
+        "variant": "逡巡",
+        "source": "一作「逡巡」"
+      },
+      {
+        "line": 2,
+        "text": "望",
+        "variant": "看",
+        "source": "一作「看」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_036_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "訪隱者不遇",
+    "poem": [
+      "落花流水認天台，半醉閒吟獨自來。",
+      "惆悵仙翁何處去，滿庭紅杏碧桃開。"
+    ]
+  },
+  {
+    "uid": "QTS_598_037_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "赴西川途經虢縣作",
+    "poem": [
+      "亞夫重過柳營門，路指岷峨隔暮雲。",
+      "紅額少年遮道拜，殷勤認得舊將軍。"
+    ]
+  },
+  {
+    "uid": "QTS_598_038_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "錦城寫望",
+    "poem": [
+      "蜀江波影碧悠悠，四望煙花匝郡樓。",
+      "不會人家多少錦，春來盡掛樹梢頭。"
+    ]
+  },
+  {
+    "uid": "QTS_598_039_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "太公廟",
+    "poem": [
+      "青山長在境長新，寂寞持竿一水濱。",
+      "及得王師身已老，不知辛苦為何人。"
+    ]
+  },
+  {
+    "uid": "QTS_598_040_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "邊方春興",
+    "poem": [
+      "草色青青柳色濃，玉壺頃酒滿金鍾。",
+      "笙歌嘹亮隨風去，知盡關山第幾重。"
+    ]
+  },
+  {
+    "uid": "QTS_598_041_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "塞上寄家兄",
+    "poem": [
+      "棣萼分張信使希，幾多鄉淚濕征衣。",
+      "笳聲未斷腸先斷，萬里胡天鳥不飛。"
+    ]
+  },
+  {
+    "uid": "QTS_598_042_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "寫懷二首 其一",
+    "poem": [
+      "漁竿消日酒消愁，一醉忘情萬事休。",
+      "卻恨韓彭興漢室，功成不向五湖遊。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_598_042_02",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "寫懷二首 其二",
+    "poem": [
+      "花滿西園月滿池，笙歌搖曳畫船移。",
+      "如今暗與心相約，不動征旗動酒旗。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_598_043_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "池上送春",
+    "poem": [
+      "持竿閒坐思沈吟，釣得江鱗出碧潯。",
+      "回首看花花欲盡，可憐寥落送春心。"
+    ]
+  },
+  {
+    "uid": "QTS_598_044_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "南征敘懷",
+    "poem": [
+      "萬里驅兵過海門，此生今日報君恩。",
+      "回期直待烽煙靜，不遣征衣有淚痕。"
+    ]
+  },
+  {
+    "uid": "QTS_598_045_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "風箏",
+    "poem": [
+      "夜靜弦聲響碧空，宮商信任往來風。",
+      "依稀似曲才堪聽，又被移將別調中。"
+    ],
+    "notes": [
+      {
+        "content": "一作題風箏寄意",
+        "context": "風箏",
+        "original_title": "風箏〈一作題風箏寄意〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "移將",
+        "variant": "風吹",
+        "source": "一作「風吹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_598_046_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "平流園席上",
+    "poem": [
+      "畫舸搖煙水滿塘，柳絲輕軟小桃香。",
+      "卻緣龍節爲縈絆，好是狂時不得狂。"
+    ]
+  },
+  {
+    "uid": "QTS_598_047_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "聞河中王鐸加都統",
+    "poem": [
+      "煉汞燒鉛四十年，至今猶在藥爐前。",
+      "不知子晉緣何事，只學吹簫便得仙。"
+    ]
+  },
+  {
+    "uid": "QTS_598_048_01",
+    "volume": 598,
+    "author": {
+      "canonical": "高駢",
+      "recorded": "高駢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Gao Pian",
+      "wikidata_id": "Q5521624"
+    },
+    "title": "句",
+    "poem": [
+      "人間無限傷心事，不得尊前折一枝。",
+      "滿宮多少承恩者，似有容華妾也無。",
+      "滿身珠翠將何用，唯與豪家拂象牀。",
+      "何人種得西施花，千古春風開不盡。"
+    ],
+    "notes": [
+      {
+        "content": "以上見《桂苑叢談》",
+        "context": "高駢 句",
+        "original_title": "高駢 句"
+      }
+    ]
+  }
+]

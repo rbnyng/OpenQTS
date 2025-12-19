@@ -1,0 +1,1892 @@
+[
+  {
+    "uid": "QTS_371_001_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "吐蕃別館月夜",
+    "poem": [
+      "三五窮荒月，還應照北堂。",
+      "迴身向暗臥，不忍見圓光。"
+    ]
+  },
+  {
+    "uid": "QTS_371_002_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "望思臺作",
+    "poem": [
+      "浸潤成宮蠱，蒼黃弄父兵。",
+      "人情疑始變，天性感還生。",
+      "宇縣猶能洽，閨門詎不平。",
+      "空令千載後，悽愴望思名。"
+    ]
+  },
+  {
+    "uid": "QTS_371_003_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "孟冬蒲津關河亭作",
+    "poem": [
+      "息駕非窮途，未濟豈迷津。",
+      "獨立大河上，北風來吹人。",
+      "雪霜自茲始，草木當更新。",
+      "嚴冬不肅殺，何以見陽春。"
+    ]
+  },
+  {
+    "uid": "QTS_371_004_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "鞏路感懷",
+    "poem": [
+      "馬嘶白日暮，劍鳴秋氣來。",
+      "我心浩無際，河上空徘徊。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "浩",
+        "variant": "𦕈",
+        "source": "一作「𦕈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_005_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題梁宣帝陵二首 其一",
+    "poem": [
+      "即讐終自翦，覆國豈為雄。",
+      "假號孤城裏，何殊在甬東？"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "殊",
+        "variant": "如",
+        "source": "一作「如」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_005_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題梁宣帝陵二首 其二",
+    "poem": [
+      "祀夏功何薄，尊周義不成。",
+      "淒涼庾信賦，千載共傷情。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_006_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "岳陽懷古",
+    "poem": [
+      "晨飈發荊州，落日到巴丘。",
+      "方知刳剡利，可接鬼神遊。",
+      "二湖豁南寖，九𣲖駛東流。",
+      "襟帶三千里，盡在岳陽樓。",
+      "憶昔鬭羣雄，此焉爭上游。",
+      "吳昌屯虎旅，晉盛騖龍舟。",
+      "宋齊紛禍難，梁陳成冦讐。",
+      "鐘鼓長震耀，魚龍不得休。",
+      "風雪一蕭散，功業忽如浮。",
+      "今日時無事，空江滿白鷗。"
+    ]
+  },
+  {
+    "uid": "QTS_371_007_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州途中即事",
+    "poem": [
+      "零桂佳山水，榮陽舊自同。",
+      "經途看不暇，遇境說難窮。",
+      "疊嶂青時合，澄湘漫處空。",
+      "舟移明鏡裡，路入畫屛中。",
+      "巖壑千家接，松蘿一徑通。",
+      "漁煙生縹緲，犬吠隔籠䓤。",
+      "戲鳥留餘翠，幽花恡晩紅。",
+      "光翻沙瀬日，香散橘園風。",
+      "信美非吾土，分憂屬賤躬。",
+      "守愚資地僻，䘏隱望年豐。",
+      "且保心能靜，那求政必工。",
+      "課終如免戾，歸飬洛城東。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "自",
+        "variant": "日",
+        "source": "一作「日」"
+      },
+      {
+        "line": 6,
+        "text": "煙",
+        "variant": "燈",
+        "source": "一作「燈」"
+      },
+      {
+        "line": 7,
+        "text": "恡",
+        "variant": "悅",
+        "source": "一作「悅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_008_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "登少陵原望秦中諸川，太原王至德妙用有水術因用感歎",
+    "poem": [
+      "少陵最高處，曠望極秋空。",
+      "君山噴清源，脈散秦川中。",
+      "荷鍤自成雨，由來非鬼工。",
+      "如何盛明代，委棄傷豳風。",
+      "涇㶚徒絡繹，漆沮虛會同。",
+      "東流滔滔去，沃野飛秋蓬。",
+      "大禹平水土，吾人得其宗。",
+      "發機迴地勢，運思與天通。",
+      "早欲獻奇䇿，豐財敘西戎。",
+      "豈知年三十，未識大明宮。",
+      "卷爾出岫雲，追吾入冥鴻。",
+      "無為學驚俗，狂醉哭途窮。"
+    ],
+    "notes": [
+      {
+        "content": "一本無用字",
+        "context": "王至德妙用",
+        "original_title": "登少陵原望秦中諸川，太原王至德妙用〈一本無用字〉有水術因用感歎"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "自",
+        "variant": "動",
+        "source": "一作「動」"
+      },
+      {
+        "line": 3,
+        "text": "雨",
+        "variant": "雲",
+        "source": "一作「雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_009_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "奉敕祭南嶽十四韻",
+    "poem": [
+      "皇家禮赤帝，謬獲司風域。",
+      "致齋紫蓋下，宿設祝融側。",
+      "鳴澗驚宵寐，清猿遞時刻。",
+      "澡潔事夙興，簪佩思盡飾。",
+      "危壇象嶽趾，秘殿翹翬翼。",
+      "登拜不遑願，酌獻皆累息。",
+      "贊道儀匪繁，祝史詞甚直。",
+      "忽覺心魂悸，如有精靈逼。",
+      "漠漠雲氣生，森森杉栢黑。",
+      "風吹虛簫韻，露洗寒玉色。",
+      "寂寞有至公，馨香在明德。",
+      "禮成謝邑吏，駕言歸郡職。",
+      "憩桑訪蠶事，遵疇課農力。",
+      "所願風雨時，迴首瞻南極。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "盡",
+        "variant": "晝",
+        "source": "一作「晝」"
+      },
+      {
+        "line": 6,
+        "text": "願",
+        "variant": "顧",
+        "source": "一作「顧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_010_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "經河源軍漢邨作",
+    "poem": [
+      "行行忽到舊河源，城外千家作漢村。",
+      "樵採未侵征虜墓，耕耘猶就破羌屯。",
+      "金湯天險長全設，伏臘華風亦暗存。",
+      "暫駐單車空下淚，有心無力復何言。"
+    ]
+  },
+  {
+    "uid": "QTS_371_011_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題河州赤岸橋",
+    "poem": [
+      "左南橋上見河州，遺老相依赤岸頭。",
+      "匝塞歌鐘受恩者，誰憐被髮哭東流。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "鐘",
+        "variant": "中",
+        "source": "一作「中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_012_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題陽人城",
+    "poem": [
+      "忠驅義感即風雷，誰道南方乏武才。",
+      "天下起兵誅董卓，長沙子弟最先來。"
+    ]
+  },
+  {
+    "uid": "QTS_371_013_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "晉王龍驤墓",
+    "poem": [
+      "虎旗龍艦順長風，坐引全吳入掌中。",
+      "孫皓小兒何足取，便令千載笑爭功。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "長",
+        "variant": "天",
+        "source": "一作「天」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_014_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題石勒城二首 其一",
+    "poem": [
+      "長驅到處積人頭，大斾連營壓上游。",
+      "建業烏棲何足問，慨然歸去王中州。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_014_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題石勒城二首 其二",
+    "poem": [
+      "天生傑異固難馴，應變摧枯若有神。",
+      "夷甫自能疑倚嘯，忍將虛誕誤時人。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "時",
+        "variant": "吳",
+        "source": "一作「吳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_015_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "劉郎浦口號",
+    "poem": [
+      "吳蜀成婚此水潯，明珠步障幄黃金。",
+      "誰將一女輕天下，欲換劉郎鼎峙心。"
+    ]
+  },
+  {
+    "uid": "QTS_371_016_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "自江華之衡陽途中作",
+    "poem": [
+      "孤棹遲遲悵有違，沿湘數日逗晴暉。",
+      "人生隨分爲憂喜，迴雁峰南是北歸。"
+    ]
+  },
+  {
+    "uid": "QTS_371_017_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "吐蕃別館送楊七錄事先歸",
+    "poem": [
+      "愁雲重拂地，飛雪亂遙程。",
+      "莫慮前山暗，歸人正眼明。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "正眼",
+        "variant": "眼自",
+        "source": "一作「眼自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_018_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "奉送范司空赴朔方",
+    "poem": [
+      "築壇登上將，膝席委前籌。",
+      "虜滅南侵跡，朝分北顧憂。",
+      "抗旌迴廣漠，撫劍動旄頭。",
+      "坐見黃雲暮，行看白草秋。",
+      "山橫舊秦塞，河繞古靈州。",
+      "戍守如無事，惟應獵騎遊。"
+    ],
+    "notes": [
+      {
+        "content": "得游字",
+        "context": "司空赴朔方",
+        "original_title": "奉送范司空赴朔方〈得游字〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "戍",
+        "variant": "善",
+        "source": "一作「善」"
+      },
+      {
+        "line": 6,
+        "text": "如無",
+        "variant": "兵家",
+        "source": "一作「兵家」，又作「知兵」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_019_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "送文暢上人東遊",
+    "poem": [
+      "隨緣聊振錫，高步出東城。",
+      "水止無恆地，雲行不計程。",
+      "到時為彼岸，過處即前生。",
+      "今日臨岐別，吾徒自有情。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "水止",
+        "variant": "月上",
+        "source": "一作「月上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_020_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "喜儉北至送宗禮南行",
+    "poem": [
+      "洞庭舟始泊，桂江帆又開。",
+      "魂從會處斷，愁向笑中來。",
+      "惝怳看殘景，殷勤祝此盃。",
+      "衡陽刷羽待，成取一行迴。"
+    ]
+  },
+  {
+    "uid": "QTS_371_021_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "送段九秀才歸澧州",
+    "poem": [
+      "湘南孤白芷，幽託在清潯。",
+      "豈有馨香發，空勞知處深。",
+      "推賢路已隔，賑乏力不任。",
+      "慙我一言分，貞君千里心。",
+      "寸義薄聯組，片誠敵兼金。",
+      "方期踐冰雪，無使弱思侵。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "有",
+        "variant": "在",
+        "source": "一作「在」"
+      },
+      {
+        "line": 3,
+        "text": "不",
+        "variant": "弗",
+        "source": "一作「弗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_022_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州送李十一兵曹赴浙東",
+    "poem": [
+      "慷慨視別劍，淒清泛離琴。",
+      "前程楚塞斷，此恨洞庭深。",
+      "文字已久廢，循良非所任。",
+      "期君碧雲上，千里一揚音。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "清",
+        "variant": "涼",
+        "source": "一作「涼」"
+      },
+      {
+        "line": 2,
+        "text": "此恨",
+        "variant": "此別",
+        "source": "一作「此別」，一作「別恨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_023_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "臨洮送袁七書記歸朝",
+    "poem": [
+      "憶年十五在江湄，聞說平涼且半疑。",
+      "豈料殷勤洮水上，卻將家信託袁師。"
+    ],
+    "notes": [
+      {
+        "content": "時袁生作僧蕃人呼為袁師",
+        "context": "七書記歸朝",
+        "original_title": "臨洮送袁七書記歸朝〈時袁生作僧蕃人呼為袁師〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "家",
+        "variant": "歸",
+        "source": "一作「歸」"
+      },
+      {
+        "line": 2,
+        "text": "託",
+        "variant": "寄",
+        "source": "一作「寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_024_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "江陵酒中畱別坐客",
+    "poem": [
+      "尋常縱恣倚青春，不契心期便不親。",
+      "今日煙波九疑去，相逢盡是眼中人。"
+    ]
+  },
+  {
+    "uid": "QTS_371_025_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州酬送何山人之容州",
+    "poem": [
+      "匣有青萍筒有書，何門不可曳長裾？",
+      "應須定取眞知者，遣對明君說子虛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "筒",
+        "variant": "笥",
+        "source": "一作「笥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_026_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州送戴簡處士往賀州謁楊侍郎",
+    "poem": [
+      "羸馬孤童鳥道微，三千客散獨南歸。",
+      "山公念舊偏知我，今日因君淚滿衣。"
+    ]
+  },
+  {
+    "uid": "QTS_371_027_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "春日遊郭駙馬大安亭子",
+    "poem": [
+      "戚里容閒客，山泉若化成。",
+      "寄遊芳徑好，借賞彩船輕。",
+      "春至花常滿，年多水更清。",
+      "此中如傳舍，但自立功名。"
+    ]
+  },
+  {
+    "uid": "QTS_371_028_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "楚州追制後舍弟直長安縣失囚花下共飲",
+    "poem": [
+      "天子收郡印，京兆責獄囚。",
+      "狂兄與狂弟，不解對花愁。"
+    ]
+  },
+  {
+    "uid": "QTS_371_029_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州歲前遊合江亭見山櫻蕊未折因賦含彩恡驚春",
+    "poem": [
+      "山櫻先春發，紅蕊滿霜枝。",
+      "幽處竟誰見，芳心空自知。",
+      "似奪朝日照，疑畏煖風吹。",
+      "欲問含彩意，恐驚輕薄兒。"
+    ]
+  },
+  {
+    "uid": "QTS_371_030_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州登樓望南館臨水花呈房戴段李諸公",
+    "poem": [
+      "夭桃臨方塘，暮色堪秋思。",
+      "託根豈求潤，照影非自媚。",
+      "罥掛青柳絲，零落綠錢地。",
+      "佳期竟何許，時有幽禽至。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "竟",
+        "variant": "意",
+        "source": "一作「意」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_031_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "合江亭檻前多高竹不見遠岸花客命翦之感而成詠",
+    "poem": [
+      "吉凶豈前卜，人事何翻覆。",
+      "緣看數日花，卻翦凌霜竹。",
+      "常言契君操，今乃妨衆目。",
+      "自古病當門，誰言出幽獨。"
+    ]
+  },
+  {
+    "uid": "QTS_371_032_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州春遊歐陽家林亭",
+    "poem": [
+      "道州城北歐陽家，去郭一里占煙霞。",
+      "主人雖朴甚有思，解留滿地紅桃花。",
+      "桃花成泥不須掃，明朝更訪桃源老。",
+      "政成興足告即歸，門前便是家山道。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "告即",
+        "variant": "即告",
+        "source": "一作「即告」，一作「則告」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_033_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州早春偶遊黃溪口號",
+    "poem": [
+      "偶尋黃溪日欲沒，早梅未盡山櫻發。",
+      "無事江城閉此身，不得坐待花間月。"
+    ]
+  },
+  {
+    "uid": "QTS_371_034_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州夜後把火看花留客",
+    "poem": [
+      "紅芳暗落碧池頭，把火遙看且少留半。",
+      "夜忽然風更起，明朝不復上南樓。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "暗",
+        "variant": "暖",
+        "source": "一作「暖」"
+      },
+      {
+        "line": 1,
+        "text": "且",
+        "variant": "更",
+        "source": "一作「更」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_035_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "夜後把火看花南園招李十一兵曹不至呈座上諸公",
+    "poem": [
+      "夭桃紅燭正相鮮，傲吏閒齋困獨眠。",
+      "應是夢中飛作蝶，悠揚只在此花前。"
+    ]
+  },
+  {
+    "uid": "QTS_371_036_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "順宗至德大聖大安孝皇帝輓歌詞三首 其一",
+    "poem": [
+      "遐視輕神寳，傳歸屬聖猷。",
+      "堯功終有待，文德本無憂。",
+      "坐受朝汾水，行看告岱丘。",
+      "那知鼎成後，龍馭弗淹留。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_371_036_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "順宗至德大聖大安孝皇帝輓歌詞三首 其二",
+    "poem": [
+      "監撫垂三紀，聲徽洽萬方。",
+      "禮因馳道著，明自墾田彰。",
+      "積漸承鴻業，從容守太康。",
+      "更留園寢詔，恭聼有餘芳。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_371_036_03",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "順宗至德大聖大安孝皇帝輓歌詞三首 其三",
+    "poem": [
+      "早秋同軌至，晨斾露華滋。",
+      "挽度千夫咽，笳凝六馬遲。",
+      "劍悲長閉日，衣望出遊時。",
+      "風起西陵樹，淒涼滿孝思。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_371_037_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "詠蜀客石琹枕",
+    "poem": [
+      "可憐他山石，幾度負貞堅。",
+      "推遷強為用，彫斵傷自然。",
+      "文含巴江浪，色起青城煙。",
+      "更聞餘玉聲，時入朱絲弦。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "度",
+        "variant": "歲",
+        "source": "一作「歲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_038_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "河南府試贖帖賦得鄉飲酒詩",
+    "poem": [
+      "酌言修舊典，刈楚始登堂。",
+      "百拜賓儀盡，三終樂奏長。",
+      "想同鶯出谷，看似雁成行。",
+      "禮罷知何適，隨雲入帝鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_371_039_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "賦得失羣鶴",
+    "poem": [
+      "杳杳沖天鶴，風排勢暫違。",
+      "有心長自負，無伴可相依。",
+      "萬里寜辭遠，三山詎憶歸。",
+      "但令毛羽在，何處不翻飛。"
+    ]
+  },
+  {
+    "uid": "QTS_371_040_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州南樓換柱",
+    "poem": [
+      "鴻災起無朕，有見非前知。",
+      "蟻入不足恤，柱傾何可追。",
+      "良工操斤斧，沉吟方在斯。",
+      "殫材事朽廢，曷若新宏規。"
+    ]
+  },
+  {
+    "uid": "QTS_371_041_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州北池放鵝",
+    "poem": [
+      "我非好鵝癖，爾乏鳴雁姿。",
+      "安得免沸鼎，澹然遊清池。",
+      "見生不忍食，深情固在斯。",
+      "能自遠飛去，無念稻粱為。"
+    ]
+  },
+  {
+    "uid": "QTS_371_042_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "迴風有懷",
+    "poem": [
+      "銀宮翠島煙霏霏，珠樹玲瓏朝日暉。",
+      "神仙望見不得到，卻逐迴風何處歸？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "霏霏",
+        "variant": "菲菲",
+        "source": "一作「菲菲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_043_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "蕃中答退渾詞二首 其一",
+    "poem": [
+      "退渾兒，退渾兒，朔風長在氣何衰？",
+      "萬羣鐵馬從奴虜，強弱由人莫歎時。"
+    ],
+    "notes": [
+      {
+        "content": "退渾種落盡在而為吐蕃所鞭撻有譯者訢情於予故以此答之",
+        "context": "退渾詞二首",
+        "original_title": "蕃中答退渾詞二首〈退渾種落盡在而為吐蕃所鞭撻有譯者訢情於予故以此答之〉"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_043_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "蕃中答退渾詞二首 其二",
+    "poem": [
+      "退渾兒，退渾兒，冰消青海草如絲。",
+      "明堂天子朝萬國，神島龍駒將與誰？"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_044_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "上官昭容書樓歌",
+    "poem": [
+      "漢家婕妤唐昭容，工詩能賦千載同。",
+      "自言才藝是天眞，不服丈夫勝婦人。",
+      "歌闌舞罷閒無事，縱恣優游㺯文字。",
+      "玉樓寳架中天居，緘奇秘異萬卷餘。",
+      "水精編帙綠鈿軸，雲母搗紙黃金書。",
+      "風吹花露清旭時，綺忩高掛紅綃帷。",
+      "香囊盛煙繡結絡，翠羽拂案青琉璃。",
+      "吟披嘯卷終無已，皎皎淵機破研理。",
+      "詞縈彩翰紫鸞迴，思耿寥天碧雲起。",
+      "碧雲起，心悠哉，境深轉苦坐自摧。",
+      "金梯珠履聲一斷，瑤階日夜生青苔。",
+      "青苔秘空關，曾比羣玉山。",
+      "神仙杳何許？遺逸滿人間。",
+      "君不見，洛陽南市賣書肆，有人買得《研神記》，紙上香多蠹不成，昭容題處猶分明，令人惆悵難為情！"
+    ],
+    "notes": [
+      {
+        "content": "貞元十四年，友人崔仁亮於東都買得《硏神記》一卷，有昭容列名書縫處，因用感歎而作是歌",
+        "context": "昭容書樓歌",
+        "original_title": "上官昭容書樓歌〈貞元十四年，友人崔仁亮於東都買得《硏神記》一卷，有昭容列名書縫處，因用感歎而作是歌〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "婕",
+        "variant": "媫",
+        "source": "一作「媫」"
+      },
+      {
+        "line": 6,
+        "text": "吹",
+        "variant": "飄",
+        "source": "一作「飄」"
+      },
+      {
+        "line": 7,
+        "text": "青",
+        "variant": "碧",
+        "source": "一作「碧」"
+      },
+      {
+        "line": 8,
+        "text": "終",
+        "variant": "紛",
+        "source": "一作「紛」"
+      },
+      {
+        "line": 8,
+        "text": "破",
+        "variant": "碎",
+        "source": "一作「碎」"
+      },
+      {
+        "line": 10,
+        "text": "摧",
+        "variant": "催",
+        "source": "一作「催」"
+      },
+      {
+        "line": 11,
+        "text": "金",
+        "variant": "玉",
+        "source": "一作「玉」"
+      },
+      {
+        "line": 12,
+        "text": "秘空",
+        "variant": "閉九",
+        "source": "一作「閉九」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_045_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "聞砧有感",
+    "poem": [
+      "千門儼雲端，此地富羅紈。",
+      "秋月三五夜，砧聲滿長安。",
+      "幽人感中懷，靜聼淚汍瀾。",
+      "所恨搗衣者，不知天下寒。"
+    ]
+  },
+  {
+    "uid": "QTS_371_046_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "早覺有感",
+    "poem": [
+      "東方殊未明，暗室蟲正飛。",
+      "先覺忽先起，衣裳顚倒時。",
+      "嚴冬寒漏長，此夜如何其。",
+      "不用思秉燭，扶桑有清暉。"
+    ]
+  },
+  {
+    "uid": "QTS_371_047_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "冬日病中即事",
+    "poem": [
+      "墻下長安道，囂塵咫尺間。",
+      "久牽身外役，暫得病中閒。",
+      "背喜朝陽滿，心憐暮鳥還。",
+      "吾廬在何處，南有白雲山。"
+    ]
+  },
+  {
+    "uid": "QTS_371_048_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "病中自戶部員外郎轉司封",
+    "poem": [
+      "羸臥承新命，優容獲所安。",
+      "遣兒迎賀客，無力拂塵冠。",
+      "偃仰晴軒暖，支離曉鏡寒。",
+      "那堪報恩去，感激對衰蘭。"
+    ]
+  },
+  {
+    "uid": "QTS_371_049_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "久病初朝衢中即事",
+    "poem": [
+      "沉痾曠十旬，還過直城闉。",
+      "老馬猶知路，羸童欲怕人。",
+      "久隳三徑計，更強百年身。",
+      "許國將何力，空生衣上塵。"
+    ]
+  },
+  {
+    "uid": "QTS_371_050_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州城北樓觀李花",
+    "poem": [
+      "夜疑關山月，暁似沙塲雪。",
+      "曾使西域來，幽情望超越。",
+      "將念浩無際，欲言忘所説。",
+      "豈是花感人，自憐抱孤節。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "花感人",
+        "variant": "感懷抱",
+        "source": "一作「感懷抱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_051_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州秋夜南樓即事",
+    "poem": [
+      "誰念獨坐愁？日暮此南樓。",
+      "雲去舜祠閉，月明瀟水流。",
+      "猿聲何處曉，楓葉滿山秋。",
+      "不分匣中鏡，少年看白頭。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "念",
+        "variant": "憐",
+        "source": "一作「憐」，又作「令」。"
+      },
+      {
+        "line": 4,
+        "text": "分",
+        "variant": "照",
+        "source": "一作「照」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_052_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州觀野火",
+    "poem": [
+      "南風吹烈火，熖熖燒楚澤。",
+      "陽景當晝遲，陰天半夜赤。",
+      "過處若彗掃，來時如電激。",
+      "豈復辨蕭蘭，焉能分玉石？",
+      "蟲蛇盡爍爛，虎兕出奔廹。",
+      "積穢一蕩除，和氣始融液。",
+      "堯時既敬授，禹稼斯肇跡。",
+      "遍生合穎禾，大秀兩岐麥。",
+      "家有京坻詠，人無溝壑慼。",
+      "乃悟焚如功，來歲終受益。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遲",
+        "variant": "連",
+        "source": "一作「連」"
+      },
+      {
+        "line": 4,
+        "text": "蘭",
+        "variant": "艾",
+        "source": "一作「艾」"
+      },
+      {
+        "line": 5,
+        "text": "出",
+        "variant": "亦",
+        "source": "一作「亦」"
+      },
+      {
+        "line": 6,
+        "text": "一",
+        "variant": "皆",
+        "source": "一作「皆」"
+      },
+      {
+        "line": 7,
+        "text": "跡",
+        "variant": "植",
+        "source": "一作「植」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_053_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州早春二首 其一",
+    "poem": [
+      "碧水何逶迤，東風吹沙草。",
+      "煙波千萬曲，不辨嵩陽道。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "沙",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 2,
+        "text": "萬",
+        "variant": "里",
+        "source": "一作「里」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_053_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "衡州早春二首 其二",
+    "poem": [
+      "病肺不飲酒，傷心不看花。",
+      "惟驚望鄉處，猶自隔長沙。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_054_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "郡內書懷寄劉連州竇䕫州",
+    "poem": [
+      "朱邑何為者？桐鄉有古祠。",
+      "我心常所慕，二郡老人知。"
+    ]
+  },
+  {
+    "uid": "QTS_371_055_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "偶然作二首 其一",
+    "poem": [
+      "棲棲復汲汲，忽覺年四十。",
+      "今朝滿衣淚，不是傷春泣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "滿衣淚",
+        "variant": "淚滿衣",
+        "source": "一作「淚滿衣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_055_02",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "偶然作二首 其二",
+    "poem": [
+      "中夜兀然坐，無言空涕洟。",
+      "丈夫志氣事，兒女安得知。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_371_056_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "古興",
+    "poem": [
+      "越歐百鍊時，楚卞三泣地。",
+      "二寳無人識，千齡皆棄置。",
+      "空巖起白虹，古獄生紫氣。",
+      "安得命世客，直來開奧秘。",
+      "劍任刜鐘看，玉從投火試。",
+      "必能絶疑惑，然後論奇異。"
+    ]
+  },
+  {
+    "uid": "QTS_371_057_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "風詠",
+    "poem": [
+      "微風生青萍，習習出金塘。",
+      "輕揺深林翠，靜獵幽徑芳。",
+      "掩抑時未來，鴻毛亦無傷。",
+      "一朝乘嚴氣，萬里號清霜。",
+      "北走摧鄧林，東去落扶桑。",
+      "掃卻垂天雲，澄清無私光。",
+      "悠然返空寂，晏海通舟航。"
+    ]
+  },
+  {
+    "uid": "QTS_371_058_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "鏡中歎白髮",
+    "poem": [
+      "年過潘岳纔三歲，還見星星兩鬢中。",
+      "縱使他時能早逹，定知不作黑頭公。"
+    ]
+  },
+  {
+    "uid": "QTS_371_059_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "友人邀聼歌有感",
+    "poem": [
+      "文章拋盡愛功名，三十無成白髮生。",
+      "辜負壯心羞欲死，勞君貴買斷腸聲。"
+    ]
+  },
+  {
+    "uid": "QTS_371_060_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "貞元十四年旱甚見權門移芍藥花",
+    "poem": [
+      "綠原青壠漸成塵，汲井開園日日新。",
+      "四月帶花移芍藥，不知憂國是何人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "井",
+        "variant": "水",
+        "source": "一作「水」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_061_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "冬夜即事",
+    "poem": [
+      "百憂攢心起復臥，夜長耿耿不可過。",
+      "風吹雪片似花落，月照冰文如鏡破。"
+    ]
+  },
+  {
+    "uid": "QTS_371_062_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州郡齋臥疾寄東館諸賢",
+    "poem": [
+      "東池送客醉年華，聞道風流勝習家。",
+      "獨臥郡齋寥落意，隔簾微雨濕梨花。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "意",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_063_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "讀小弟詩有感因口號以示之",
+    "poem": [
+      "憶吾未冠賞年華，二十年間在咄嗟。",
+      "今來羨汝看花歲，似汝追思昨日花。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "吾",
+        "variant": "君",
+        "source": "一作「君」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_064_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "讀句踐傳",
+    "poem": [
+      "丈夫可殺不可羞，如何送我海西頭。",
+      "更生更聚終須報，二十年間死即休。"
+    ]
+  },
+  {
+    "uid": "QTS_371_065_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州月歎",
+    "poem": [
+      "別館月，犁牛冰河金山雪；",
+      "道州月，霜樹子規啼是血。",
+      "壯心感此孤劍鳴，沉火在灰殊未滅。"
+    ],
+    "notes": [
+      {
+        "content": "追述蕃中事與道州對言之",
+        "context": "道州月歎",
+        "original_title": "道州月歎〈追述蕃中事與道州對言之〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_066_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "風歎",
+    "poem": [
+      "青海風，飛沙射面隨驚蓬；",
+      "洞庭風，危檣欲折身若空。",
+      "西馳南走有何事？會須一決百年中。"
+    ]
+  },
+  {
+    "uid": "QTS_371_067_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "道州感興",
+    "poem": [
+      "當代知文字，先皇記姓名。",
+      "七年天下立，萬裏海西行。",
+      "苦節終難辨，勞生竟自輕。",
+      "今朝流落處，嘯水遶孤城。"
+    ]
+  },
+  {
+    "uid": "QTS_371_068_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "和李使君三郎早秋城北亭宴崔司士因寄關中張評事",
+    "poem": [
+      "黃花古城路，上盡見青山。",
+      "桑柘晴川口，牛羊落照間。",
+      "野情隨卷幔，塵事隔重關。",
+      "道合偏重賞，官微獨不閒。",
+      "鶴分琴久罷，書到雁應還。",
+      "為謝登臨客，瓊林寄一攀。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "林",
+        "variant": "枝",
+        "source": "一作「枝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_371_069_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "題從叔園林",
+    "poem": [
+      "阮宅閒園暮，窻中見樹陰。",
+      "樵歌依野草，僧語過長林。",
+      "鳥向花間井，人彈竹裡琴。",
+      "自嫌身未老，已有住山心。"
+    ]
+  },
+  {
+    "uid": "QTS_371_070_01",
+    "volume": 371,
+    "author": {
+      "canonical": "呂溫",
+      "recorded": "呂溫",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lü Wen",
+      "wikidata_id": "Q10919969"
+    },
+    "title": "送僧歸漳州",
+    "poem": [
+      "幾夏京城住，今朝獨遠歸。",
+      "修行四分律，䕶淨七條衣。",
+      "溪寺黃橙熟，沙田紫芋肥。",
+      "九龍潭上路，同去客應稀。"
+    ]
+  }
+]

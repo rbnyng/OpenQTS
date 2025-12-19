@@ -1,0 +1,2525 @@
+[
+  {
+    "uid": "QTS_301_001_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題柏岩禪師影堂",
+    "poem": [
+      "山中磚塔閉，松下影堂新。",
+      "恨不生前識，今朝禮畫身。"
+    ]
+  },
+  {
+    "uid": "QTS_301_002_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送人",
+    "poem": [
+      "河亭收酒器，語盡各西東。",
+      "回首不相見，行車秋雨中。"
+    ]
+  },
+  {
+    "uid": "QTS_301_003_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "春意二首 其一",
+    "poem": [
+      "去日丁寧別，情知寒食歸。",
+      "緣逢好天氣，教熨看花衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_003_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "春意二首 其二",
+    "poem": [
+      "誰是杏園主，一枝臨古岐。",
+      "從傷早春意，乞取欲開枝。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_004_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "夜聞子規",
+    "poem": [
+      "子規啼不歇，到曉口應穿。",
+      "況是不眠夜，聲聲在耳邊。"
+    ]
+  },
+  {
+    "uid": "QTS_301_005_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "四望驛松",
+    "poem": [
+      "當初北澗別，直至此庭中。",
+      "何意聞鞞耳，聽君枝上風。"
+    ]
+  },
+  {
+    "uid": "QTS_301_006_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江館",
+    "poem": [
+      "水面細風生，菱歌慢慢聲。",
+      "客亭臨小市，燈火夜妝明。"
+    ]
+  },
+  {
+    "uid": "QTS_301_007_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題江台驛",
+    "poem": [
+      "水北金台路，年年行客稀。",
+      "近聞天子使，多取雁門歸。"
+    ],
+    "notes": [
+      {
+        "content": "一作江台驛有題",
+        "context": "題江台驛",
+        "original_title": "題江台驛（一作江台驛有題）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_008_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈謫者",
+    "poem": [
+      "何罪過長沙，年年北望家。",
+      "重封嶺頭信，一樹海邊花。"
+    ]
+  },
+  {
+    "uid": "QTS_301_009_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "戲酬盧秘書",
+    "poem": [
+      "芸香閣裏人，採摘禦園春。",
+      "取此和仙藥，猶治老病身。"
+    ]
+  },
+  {
+    "uid": "QTS_301_010_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "小松",
+    "poem": [
+      "小松初數尺，未有直生枝。",
+      "閑即傍邊立，看多長卻遲。"
+    ]
+  },
+  {
+    "uid": "QTS_301_011_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "秋夜",
+    "poem": [
+      "夜久葉露滴，秋蟲入戶飛。",
+      "臥多骨髓冷，起覆舊綿衣。"
+    ]
+  },
+  {
+    "uid": "QTS_301_012_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "水精",
+    "poem": [
+      "映水色不別，向月光還度。",
+      "傾在荷葉中，有時看是露。"
+    ]
+  },
+  {
+    "uid": "QTS_301_013_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "香印",
+    "poem": [
+      "閑坐燒印香，滿戶松柏氣。",
+      "火盡轉分明，青苔碑上字。"
+    ]
+  },
+  {
+    "uid": "QTS_301_014_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "秋燈",
+    "poem": [
+      "向壁暖悠悠，羅幃寒寂寂。",
+      "斜照碧山圖，松間一片石。"
+    ]
+  },
+  {
+    "uid": "QTS_301_015_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "落葉",
+    "poem": [
+      "陳綠向參差，初紅已重疊。",
+      "中庭初掃地，繞樹三兩葉。"
+    ]
+  },
+  {
+    "uid": "QTS_301_016_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "園果",
+    "poem": [
+      "雨中梨果病，每樹無數個。",
+      "小兒出入看，一半鳥啄破。"
+    ]
+  },
+  {
+    "uid": "QTS_301_017_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "野菊",
+    "poem": [
+      "晚豔出荒籬，冷香著秋水。",
+      "憶向山中見，伴蛩石壁裏。"
+    ]
+  },
+  {
+    "uid": "QTS_301_018_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "荒園",
+    "poem": [
+      "朝日滿園霜，牛沖籬落壞。",
+      "掃掠黃葉中，時時一窠薤。"
+    ]
+  },
+  {
+    "uid": "QTS_301_019_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "南澗",
+    "poem": [
+      "野桂香滿溪，石莎寒覆水。",
+      "愛此南澗頭，終日潺湲裏。"
+    ]
+  },
+  {
+    "uid": "QTS_301_020_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "晚蝶",
+    "poem": [
+      "粉翅嫩如水，繞砌乍依風。",
+      "日高山露解，飛入菊花中。"
+    ]
+  },
+  {
+    "uid": "QTS_301_021_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "田家",
+    "poem": [
+      "啾啾雀滿樹，靄靄東坡雨。",
+      "田家夜無食，水中摘禾黍。"
+    ]
+  },
+  {
+    "uid": "QTS_301_022_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "新嫁娘詞三首 其一",
+    "poem": [
+      "鄰家人未識，床上坐堆堆。",
+      "郎來傍門戶，滿口索錢財。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_301_022_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "新嫁娘詞三首 其二",
+    "poem": [
+      "錦幛兩邊橫，遮掩侍娘行。",
+      "遣郎鋪簟席，相並拜親情。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_301_022_03",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "新嫁娘詞三首 其三",
+    "poem": [
+      "三日入廚下，洗手作羹湯。",
+      "未諳姑食性，先遣小姑嘗。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_301_023_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "故行宮",
+    "poem": [
+      "寥落古行宮，宮花寂寞紅。",
+      "白頭宮女在，閑坐說玄宗。"
+    ]
+  },
+  {
+    "uid": "QTS_301_024_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "酬從侄再看詩本",
+    "poem": [
+      "眼暗沒功夫，慵來剪刻粗。",
+      "自看花樣古，稱得少年無。"
+    ],
+    "notes": [
+      {
+        "content": "一作酬從侄借詩本",
+        "context": "侄再看詩本",
+        "original_title": "酬從侄再看詩本（一作酬從侄借詩本）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_025_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "別自栽小樹",
+    "poem": [
+      "去年今日栽，臨去見花開。",
+      "好住守空院，夜間人不來。"
+    ]
+  },
+  {
+    "uid": "QTS_301_026_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "早發汾南",
+    "poem": [
+      "橋上車馬發，橋南煙樹開。",
+      "青山斜不斷，迢遞故鄉來。"
+    ]
+  },
+  {
+    "uid": "QTS_301_027_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "宮中三臺詞二首 其一",
+    "poem": [
+      "魚藻池邊射鴨，芙蓉園裏看花。",
+      "日色柘袍相似，不著紅鸞扇遮。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_027_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "宮中三臺詞二首 其二",
+    "poem": [
+      "池北池南草綠，殿前殿後花紅。",
+      "天子千年萬歲，未央明月清風。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_028_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江南三臺詞四首 其一",
+    "poem": [
+      "揚州橋邊少婦，長安城裏商人。",
+      "二年不得消息，各自拜鬼求神。"
+    ],
+    "part_index": 1,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_301_028_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江南三臺詞四首 其二",
+    "poem": [
+      "青草湖邊草色，飛猿嶺上猿聲。",
+      "萬里湘江客到，有風有雨人行。"
+    ],
+    "part_index": 2,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_301_028_03",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江南三臺詞四首 其三",
+    "poem": [
+      "樹頭花落花開，道上人去人來。",
+      "朝愁暮愁即老，百年幾度三台。"
+    ],
+    "part_index": 3,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_301_028_04",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江南三臺詞四首 其四",
+    "poem": [
+      "聞身強健且為，頭白齒落難追。",
+      "准擬百年千歲，能得幾許多時。"
+    ],
+    "part_index": 4,
+    "total_parts": 4
+  },
+  {
+    "uid": "QTS_301_029_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "禦獵",
+    "poem": [
+      "青山直繞鳳城頭，滻水斜分入禦溝。",
+      "新教內人唯射鴨，長隨天子苑東游。"
+    ]
+  },
+  {
+    "uid": "QTS_301_030_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "長門燭",
+    "poem": [
+      "秋夜床前蠟燭微，銅壺滴盡曉鐘遲。",
+      "殘光欲滅還吹著，年少宮人未睡時。"
+    ]
+  },
+  {
+    "uid": "QTS_301_031_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "過綺岫宮",
+    "poem": [
+      "玉樓傾倒粉牆空，重疊青山繞故宮。",
+      "武帝去來羅袖盡，野花黃蝶領春風。"
+    ],
+    "notes": [
+      {
+        "content": "東都永寧縣西五裏",
+        "context": "過綺岫宮",
+        "original_title": "過綺岫宮（東都永寧縣西五裏）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_032_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其一",
+    "poem": [
+      "山川初展國圖寬，未識龍顏坐不安。",
+      "風動白髯旌節下，過時天子禦樓看。"
+    ],
+    "part_index": 1,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其二",
+    "poem": [
+      "相感君臣總淚流，恩深舞蹈不知休。",
+      "初從戰地來無物，唯奏新添十八州。"
+    ],
+    "part_index": 2,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_03",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其三",
+    "poem": [
+      "催修水殿宴沂公，與別諸侯總不同。",
+      "隔月太常先習樂，金書牌纛彩雲中。"
+    ],
+    "part_index": 3,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_04",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其四",
+    "poem": [
+      "無人敢奪在先籌，天子門邊送與球。",
+      "遙索彩箱新樣錦，內人舁出馬前頭。"
+    ],
+    "part_index": 4,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_05",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其五",
+    "poem": [
+      "禦馬牽來親自試，珠球到處玉蹄知。",
+      "殿頭宣賜連催上，未解紅纓不敢騎。"
+    ],
+    "part_index": 5,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_06",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其六",
+    "poem": [
+      "老作三公經獻壽，臨時猶自語差池。",
+      "私從班裏來長跪，捧上金杯便合儀。"
+    ],
+    "part_index": 6,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_07",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其七",
+    "poem": [
+      "四海無波乞放閑，三封手疏犯龍顏。",
+      "他時若有邊塵動，不待天書自出山。"
+    ],
+    "part_index": 7,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_08",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其八",
+    "poem": [
+      "胡馬悠悠未盡歸，玉關猶隔吐蕃旗。",
+      "老臣一表求高臥，邊事從今欲問誰。"
+    ],
+    "part_index": 8,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_09",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其九",
+    "poem": [
+      "威容難畫改頻頻，眉目分毫恐不真。",
+      "有詔別圖書閣上，先教粉本定風神。"
+    ],
+    "part_index": 9,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_032_10",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "朝天詞十首寄上魏博田侍中 其十",
+    "poem": [
+      "重賜弓刀內宴回，看人城外滿樓臺。",
+      "君臣不作多時別，收盡邊旗當日來。"
+    ],
+    "part_index": 10,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其一",
+    "poem": [
+      "弟子部中留一色，聽風聽水作霓裳。",
+      "散聲未足重來授，直到床前見上皇。"
+    ],
+    "part_index": 1,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其二",
+    "poem": [
+      "中管五弦初半曲，遙教合上隔簾聽。",
+      "一聲聲向天頭落，效得仙人夜唱經。"
+    ],
+    "part_index": 2,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_03",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其三",
+    "poem": [
+      "自直梨園得出稀，更番上曲不教歸。",
+      "一時跪拜霓裳徹，立地階前賜紫衣。"
+    ],
+    "part_index": 3,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_04",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其四",
+    "poem": [
+      "旋翻新譜聲初足，除卻梨園未教人。",
+      "宣與書家分手寫，中官走馬賜功臣。"
+    ],
+    "part_index": 4,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_05",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其五",
+    "poem": [
+      "伴教霓裳有貴妃，從初直到曲成時。",
+      "日長耳裏聞聲熟，拍數分毫錯總知。"
+    ],
+    "part_index": 5,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_06",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其六",
+    "poem": [
+      "弦索摐摐隔彩雲，五更初發一山聞。",
+      "武皇自送西王母，新換霓裳月色裙。"
+    ],
+    "part_index": 6,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_07",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其七",
+    "poem": [
+      "敕賜宮人澡浴回，遙看美女院門開。",
+      "一山星月霓裳動，好字先從殿裏來。"
+    ],
+    "part_index": 7,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_08",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其八",
+    "poem": [
+      "傳呼法部按霓裳，新得承恩別作行。",
+      "應是貴妃樓上看，內人舁下彩羅箱。"
+    ],
+    "part_index": 8,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_09",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其九",
+    "poem": [
+      "朝元閣上山風起，夜聽霓裳玉露寒。",
+      "宮女月中更替立，黃金梯滑並行難。"
+    ],
+    "part_index": 9,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_033_10",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "霓裳詞十首 其十",
+    "poem": [
+      "知向華清年月滿，山頭山底種長生。",
+      "去時留下霓裳曲，總是離宮別館聲。"
+    ],
+    "part_index": 10,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_301_034_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "宮前早春",
+    "poem": [
+      "酒幔高樓一百家，宮前楊柳寺前花。",
+      "內園分得溫湯水，二月中旬已進瓜。"
+    ],
+    "notes": [
+      {
+        "content": "一作華清宮",
+        "context": "宮前早春",
+        "original_title": "宮前早春（一作華清宮）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_035_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "奉同曾郎中題石甕寺得嵌韻",
+    "poem": [
+      "寺門連內繞丹岩，下界雲開數過帆。",
+      "遙指上皇翻曲處，百官題字滿西嵌。"
+    ]
+  },
+  {
+    "uid": "QTS_301_036_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "舊宮人",
+    "poem": [
+      "先帝舊宮宮女在，亂絲猶掛鳳凰釵。",
+      "霓裳法曲渾拋卻，獨自花間掃玉階。"
+    ]
+  },
+  {
+    "uid": "QTS_301_037_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "新授戒尼師",
+    "poem": [
+      "新短方裙疊作棱，聽鐘洗缽繞青蠅。",
+      "自知戒相分明後，先出壇場禮大僧。"
+    ]
+  },
+  {
+    "uid": "QTS_301_038_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "太和公主和蕃",
+    "poem": [
+      "塞黑雲黃欲渡河，風沙眯眼雪相和。",
+      "琵琶淚濕行聲小，斷得人腸不在多。"
+    ]
+  },
+  {
+    "uid": "QTS_301_039_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "元太守同游七泉寺",
+    "poem": [
+      "盤磴迴廊古塔深，紫芝紅藥入雲尋。",
+      "晚吹簫管秋山裏，引得獮猴出象林。"
+    ]
+  },
+  {
+    "uid": "QTS_301_040_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "望定州寺",
+    "poem": [
+      "回看佛閣青山半，三四年前到上頭。",
+      "省得老僧留不住，重尋更可有因由。"
+    ]
+  },
+  {
+    "uid": "QTS_301_041_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "道中寄杜書記",
+    "poem": [
+      "西南東北暮天斜，巴字江邊楚樹花。",
+      "珍重荊州杜書記，閒時多在廣師家。"
+    ]
+  },
+  {
+    "uid": "QTS_301_042_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "聽琴",
+    "poem": [
+      "無事此身離白雲，松風溪水不曾聞。",
+      "至心聽著仙翁引，今看青山圍繞君。"
+    ]
+  },
+  {
+    "uid": "QTS_301_043_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈陳評事",
+    "poem": [
+      "識君雖向歌鐘會，說事不離雲水間。",
+      "春夜酒醒長起坐，燈前一紙洞庭山。"
+    ]
+  },
+  {
+    "uid": "QTS_301_044_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄畫松僧",
+    "poem": [
+      "天香寺裏古松僧，不畫枯松落石層。",
+      "最愛臨江兩三樹，水禽棲處解無藤。"
+    ]
+  },
+  {
+    "uid": "QTS_301_045_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "花褐裘",
+    "poem": [
+      "對織芭蕉雪毳新，長縫雙袖窄裁身。",
+      "到頭須向邊城著，消殺秋風稱獵塵。"
+    ]
+  },
+  {
+    "uid": "QTS_301_046_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "夜看美人宮棋",
+    "poem": [
+      "宮棋佈局不依經，黑白分明子數停。",
+      "巡拾玉沙天漢曉，猶殘織女兩三星。"
+    ]
+  },
+  {
+    "uid": "QTS_301_047_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "上田僕射",
+    "poem": [
+      "一方新地隔河煙，曾接諸生聽管弦。",
+      "卻憶去年寒食會，看花猶在水堂前。"
+    ]
+  },
+  {
+    "uid": "QTS_301_048_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江陵道中",
+    "poem": [
+      "菱葉參差萍葉重，新蒲半折夜來風。",
+      "江村水落平地出，溪畔漁船青草中。"
+    ]
+  },
+  {
+    "uid": "QTS_301_049_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "冬至後招於秀才",
+    "poem": [
+      "日近山紅暖氣新，一陽先入禦溝春。",
+      "聞閑立馬重來此，沐浴明年稱意身。"
+    ]
+  },
+  {
+    "uid": "QTS_301_050_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "別曲",
+    "poem": [
+      "毒蛇在腸瘡滿背，去年別家今別弟。",
+      "馬頭對哭各東西，天邊柳絮無根蒂。"
+    ]
+  },
+  {
+    "uid": "QTS_301_051_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "長安別",
+    "poem": [
+      "長安清明好時節，只宜相送不宜別。",
+      "噁心床上銅片明，照見離人白頭髮。"
+    ]
+  },
+  {
+    "uid": "QTS_301_052_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "宮人斜",
+    "poem": [
+      "未央牆西青草路，宮人斜裏紅妝墓。",
+      "一邊載出一邊來，更衣不減尋常數。"
+    ]
+  },
+  {
+    "uid": "QTS_301_053_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "春詞",
+    "poem": [
+      "良人朝早半夜起，櫻桃如珠露如水。",
+      "下堂把火送郎回，移枕重眠曉窗裏。"
+    ]
+  },
+  {
+    "uid": "QTS_301_054_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "野池",
+    "poem": [
+      "野池水滿連秋堤，菱花結實蒲葉齊。",
+      "川口雨晴風複止，蜻蜓上下魚東西。"
+    ]
+  },
+  {
+    "uid": "QTS_301_055_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題崔秀才裏居",
+    "poem": [
+      "自知名出休呈卷，愛去人家遠處居。",
+      "時複打門無別事，鋪頭來索買殘書。"
+    ]
+  },
+  {
+    "uid": "QTS_301_056_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "酬柏侍禦答酒",
+    "poem": [
+      "茱萸酒法大家同，好是盛來白碗中。",
+      "這度自知顏色重，不消詩里弄溪翁。"
+    ]
+  },
+  {
+    "uid": "QTS_301_057_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "別藥欄",
+    "poem": [
+      "芍藥丁香手裏栽，臨行一日繞千回。",
+      "外人應怪難辭別，總是山中自取來。"
+    ]
+  },
+  {
+    "uid": "QTS_301_058_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "長門",
+    "poem": [
+      "長門閉定不求生，燒卻頭花卸卻箏。",
+      "病臥玉窗秋雨下，遙聞別院喚人聲。"
+    ]
+  },
+  {
+    "uid": "QTS_301_059_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題渭亭",
+    "poem": [
+      "雲開遠水傍秋天，沙岸蒲帆隔野煙。",
+      "一片蔡州青草色，日西鋪在古台邊。"
+    ]
+  },
+  {
+    "uid": "QTS_301_060_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "過喜祥山館",
+    "poem": [
+      "夜過深山算驛程，三回黑地聽泉聲。",
+      "自離軍馬身輕健，得向溪邊盡足行。"
+    ]
+  },
+  {
+    "uid": "QTS_301_061_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送遷客",
+    "poem": [
+      "萬里潮州一逐臣，悠悠青草海邊春。",
+      "天涯莫道無回日，上嶺還逢向北人。"
+    ]
+  },
+  {
+    "uid": "QTS_301_062_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "廢寺",
+    "poem": [
+      "廢寺亂來為縣驛，荒松老柏不生煙。",
+      "空廊屋漏畫僧盡，梁上猶書天寶年。"
+    ]
+  },
+  {
+    "uid": "QTS_301_063_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題禪師房",
+    "poem": [
+      "浮生不住葉隨風，填海移山總是空。",
+      "長向人間愁老病，誰來閑坐此房中。"
+    ]
+  },
+  {
+    "uid": "QTS_301_064_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "看石楠花",
+    "poem": [
+      "留得行人忘卻歸，雨中須是石楠枝。",
+      "明朝獨上銅台路，容見花開少許時。"
+    ]
+  },
+  {
+    "uid": "QTS_301_065_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "長安縣後亭看畫",
+    "poem": [
+      "水凍橫橋雪滿池，新排石筍繞巴籬。",
+      "縣門斜掩無人吏，看畫雙飛白鷺鷥。"
+    ]
+  },
+  {
+    "uid": "QTS_301_066_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "華嶽廟二首 其一",
+    "poem": [
+      "女巫遮客買神盤，爭取琵琶廟裏彈。",
+      "聞有馬蹄生拍樹，路人來去向南看。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_066_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "華嶽廟二首 其二",
+    "poem": [
+      "自移西嶽門長鎖，一個行人一遍開。",
+      "上廟參天今見在，夜頭風起覺神來。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_067_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "酬趙侍禦",
+    "poem": [
+      "年少同為鄴下游，閑尋野寺醉登樓。",
+      "別來衣馬從勝舊，爭向邊塵滿白頭。"
+    ]
+  },
+  {
+    "uid": "QTS_301_068_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "鑷白",
+    "poem": [
+      "總道老來無用處，何須白髮在前生。",
+      "如今不用偷年少，拔卻三莖又五莖。"
+    ]
+  },
+  {
+    "uid": "QTS_301_069_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送山人二首 其一",
+    "poem": [
+      "嵩山古寺離來久，回見溪橋野葉黃。",
+      "辛苦老師看守處，為懸秋藥閉空房。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_069_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送山人二首 其二",
+    "poem": [
+      "山客狂來跨白驢，袖中遺卻潁陽書。",
+      "人間亦有妻兒在，拋向嵩陽古觀居。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_070_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "揚州尋張籍不見",
+    "poem": [
+      "別後知君在楚城，揚州寺裏覓君名。",
+      "西江水闊吳山遠，卻打船頭向北行。"
+    ]
+  },
+  {
+    "uid": "QTS_301_071_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "宿長安縣後齋",
+    "poem": [
+      "新向金階奏罷兵，長安縣裏繞池行。",
+      "喜歡得伴山僧宿，看雪吟詩直到明。"
+    ]
+  },
+  {
+    "uid": "QTS_301_072_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "夜看揚州市",
+    "poem": [
+      "夜市千燈照碧雲，高樓紅袖客紛紛。",
+      "如今不似時平日，猶自笙歌徹曉聞。"
+    ]
+  },
+  {
+    "uid": "QTS_301_073_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄韋諫議",
+    "poem": [
+      "百年看似暫時間，頭白求官亦未閑。",
+      "獨有龍門韋諫議，三征不起戀青山。"
+    ]
+  },
+  {
+    "uid": "QTS_301_074_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "尋補闕舊宅",
+    "poem": [
+      "知得清名二十年，登山上阪乞新篇。",
+      "除書近拜侍臣去，空院鳥啼風竹前。"
+    ]
+  },
+  {
+    "uid": "QTS_301_075_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "初冬旅遊",
+    "poem": [
+      "遠投人宿趁房遲，僮僕傷寒馬亦饑。",
+      "為客悠悠十月盡，莊頭栽竹已過時。"
+    ]
+  },
+  {
+    "uid": "QTS_301_076_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江館對雨",
+    "poem": [
+      "鳥聲愁雨似秋天，病客思家一向眠。",
+      "草館門臨廣州路，夜聞蠻語小江邊。"
+    ]
+  },
+  {
+    "uid": "QTS_301_077_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雨過山村",
+    "poem": [
+      "雨裏雞鳴一兩家，竹溪村路板橋斜。",
+      "婦姑相喚浴蠶去，閑看中庭梔子花。"
+    ]
+  },
+  {
+    "uid": "QTS_301_078_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "山店",
+    "poem": [
+      "登登石路何時盡，決決溪泉到處聞。",
+      "風動葉聲山犬吠，一家松火隔秋雲。"
+    ],
+    "notes": [
+      {
+        "content": "一作盧綸詩",
+        "context": "山店",
+        "original_title": "山店（一作盧綸詩）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_079_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "雨中寄東溪韋處士",
+    "poem": [
+      "雨中溪破無干地，浸著床頭濕著書。",
+      "一個月來山水隔，不知茅屋若為居。"
+    ]
+  },
+  {
+    "uid": "QTS_301_080_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "乞竹",
+    "poem": [
+      "乞取池西三兩竿，房前栽著病時看。",
+      "亦知自惜難判割，猶勝橫根引出欄。"
+    ]
+  },
+  {
+    "uid": "QTS_301_081_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "人家看花",
+    "poem": [
+      "年少狂疏逐君馬，去來憔悴到京華。",
+      "恨無閑地栽仙藥，長傍人家看好花。"
+    ]
+  },
+  {
+    "uid": "QTS_301_082_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "未央風",
+    "poem": [
+      "五更先起玉階東，漸入千門萬戶中。",
+      "總向高樓吹舞袖，秋風還不及春風。"
+    ]
+  },
+  {
+    "uid": "QTS_301_083_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "歸山莊",
+    "poem": [
+      "長安寄食半年餘，重向人邊乞薦書。",
+      "山路獨歸沖夜雪，落斜騎馬避柴車。"
+    ]
+  },
+  {
+    "uid": "QTS_301_084_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寒食憶歸",
+    "poem": [
+      "京中曹局無多事，寒食貧兒要在家。",
+      "遮莫杏園勝別處，亦須歸看傍村花。"
+    ]
+  },
+  {
+    "uid": "QTS_301_085_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "留別張廣文",
+    "poem": [
+      "謝恩新入鳳凰城，亂定相逢合眼明。",
+      "千萬求方好將息，杏花寒食的同行。"
+    ]
+  },
+  {
+    "uid": "QTS_301_086_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送鄭山人歸山",
+    "poem": [
+      "玉作車轅蒲作輪，當初不起潁陽人。",
+      "一家總入嵩山去，天子何因得諫臣。"
+    ]
+  },
+  {
+    "uid": "QTS_301_087_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "傷墮水烏",
+    "poem": [
+      "一烏墮水百烏啼，相吊相號繞故堤。",
+      "眼見行人車輾過，不妨同伴各東西。"
+    ]
+  },
+  {
+    "uid": "QTS_301_088_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "看棋",
+    "poem": [
+      "彼此抽先局勢平，傍人道死的還生。",
+      "兩邊對坐無言語，盡日時聞下子聲。"
+    ]
+  },
+  {
+    "uid": "QTS_301_089_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "設酒寄獨孤少府",
+    "poem": [
+      "自看和釀一依方，緣看松花色較黃。",
+      "不分君家新酒熟，好詩收得被回將。"
+    ]
+  },
+  {
+    "uid": "QTS_301_090_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈人二首 其一",
+    "poem": [
+      "金爐煙裏要班頭，欲得歸山可自由。",
+      "每度報朝愁入閣，在先教示小千牛。"
+    ],
+    "notes": [
+      {
+        "content": "一作贈工部郎中",
+        "context": "贈人二首",
+        "original_title": "贈人二首（一作贈工部郎中）"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_090_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈人二首 其二",
+    "poem": [
+      "多在蓬萊少在家，越緋衫上有紅霞。",
+      "朝回不向諸餘處，騎馬城西檢校花。"
+    ],
+    "notes": [
+      {
+        "content": "一作贈工部郎中",
+        "context": "贈人二首",
+        "original_title": "贈人二首（一作贈工部郎中）"
+      }
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_091_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "樓前",
+    "poem": [
+      "天寶年前勤政樓，每年三日作千秋。",
+      "飛龍老馬曾教舞，聞著音聲總舉頭。"
+    ]
+  },
+  {
+    "uid": "QTS_301_092_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄劉蕡問疾",
+    "poem": [
+      "年少病多應為酒，誰家將息過今春。",
+      "賒來半夏重熏盡，投著山中舊主人。"
+    ]
+  },
+  {
+    "uid": "QTS_301_093_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "聽雨",
+    "poem": [
+      "半夜思家睡裏愁，雨聲落落屋簷頭。",
+      "照泥星出依前黑，淹爛庭花不肯休。"
+    ],
+    "notes": [
+      {
+        "content": "一作司空圖詩",
+        "context": "聽雨",
+        "original_title": "聽雨（一作司空圖詩）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_094_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "新晴",
+    "poem": [
+      "夏夜新晴星校少，雨收殘水入天河。",
+      "簷前熟著衣裳坐，風冷渾無撲火蛾。"
+    ]
+  },
+  {
+    "uid": "QTS_301_095_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "秋日後",
+    "poem": [
+      "住處近山常足雨，聞晴㬠曝舊芳茵。",
+      "立秋日後無多熱，漸覺生衣不著身。"
+    ],
+    "notes": [
+      {
+        "content": "一作新晴後",
+        "context": "秋日後",
+        "original_title": "秋日後（一作新晴後）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_096_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "哭孟東野二首 其一",
+    "poem": [
+      "吟損秋天月不明，蘭無香氣鶴無聲。",
+      "自從東野先生死，側近雲山得散行。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_096_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "哭孟東野二首 其二",
+    "poem": [
+      "老松臨死不生枝，東野先生早哭兒。",
+      "但是洛陽城裏客，家傳一本杏殤詩。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_097_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄蜀中薛濤校書",
+    "poem": [
+      "萬里橋邊女校書，枇杷花裏閉門居。",
+      "掃眉才子於今少，管領春風總不如。"
+    ],
+    "notes": [
+      {
+        "content": "一作胡曾詩",
+        "context": "中薛濤校書",
+        "original_title": "寄蜀中薛濤校書（一作胡曾詩）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_098_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "路中上田尚書",
+    "poem": [
+      "去路何詞見六親，手中刀尺不如人。",
+      "可憐池閣秋風夜，愁綠嬌紅一遍新。"
+    ]
+  },
+  {
+    "uid": "QTS_301_099_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "於主簿廳看花",
+    "poem": [
+      "小葉稠枝粉壓摧，暖風吹動鶴翎開。",
+      "若無別事為留滯，應便拋家宿看來。"
+    ]
+  },
+  {
+    "uid": "QTS_301_100_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江樓對雨寄杜書記",
+    "poem": [
+      "竹煙花雨細相和，看著閒書睡更多。",
+      "好是主人無事日，應持小酒按新歌。"
+    ]
+  },
+  {
+    "uid": "QTS_301_101_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "觀蠻妓",
+    "poem": [
+      "欲說昭君斂翠蛾，清聲委曲怨於歌。",
+      "誰家年少春風裏，拋與金錢唱好多。"
+    ]
+  },
+  {
+    "uid": "QTS_301_102_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "送顧非熊秀才歸丹陽",
+    "poem": [
+      "江城柳色海門煙，欲到茅山始下船。",
+      "知道君家當瀑布，菖蒲潭在草堂前。"
+    ]
+  },
+  {
+    "uid": "QTS_301_103_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "老人歌",
+    "poem": [
+      "白髮老人垂淚行，上皇生日出京城。",
+      "如今供奉多新意，錯唱當時一半聲。"
+    ]
+  },
+  {
+    "uid": "QTS_301_104_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和元郎中從八月十二至十五夜玩月五首 其一",
+    "poem": [
+      "半秋初入中旬夜，已向階前守月明。",
+      "從未圓時看卻好，一分分見傍輪生。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_301_104_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和元郎中從八月十二至十五夜玩月五首 其二",
+    "poem": [
+      "亂雲遮卻台東月，不許教依次第看。",
+      "莫為詩家先見鏡，被他籠與作艱難。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_301_104_03",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和元郎中從八月十二至十五夜玩月五首 其三",
+    "poem": [
+      "今夜月明勝昨夜，新添桂樹近東枝。",
+      "立多地濕舁床坐，看過牆西寸寸遲。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_301_104_04",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和元郎中從八月十二至十五夜玩月五首 其四",
+    "poem": [
+      "月似圓來色漸凝，玉盆盛水欲侵棱。",
+      "夜深盡放家人睡，直到天明不炷燈。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_301_104_05",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和元郎中從八月十二至十五夜玩月五首 其五",
+    "poem": [
+      "合望月時常望月，分明不得似今年。",
+      "仰頭五夜風中立，從未圓時直到圓。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_301_105_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "對酒",
+    "poem": [
+      "為病比來渾斷絕，緣花不免卻知聞。",
+      "從來事事關身少，主領春風只在君。"
+    ]
+  },
+  {
+    "uid": "QTS_301_106_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "曉望華清宮",
+    "poem": [
+      "曉來樓閣更鮮明，日出闌幹見鹿行。",
+      "武帝自知身不死，看修玉殿號長生。"
+    ]
+  },
+  {
+    "uid": "QTS_301_107_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈李愬僕射二首 其一",
+    "poem": [
+      "和雪翻營一夜行，神旗凍定馬無聲。",
+      "遙看火號連營赤，知是先鋒已上城。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_107_02",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "贈李愬僕射二首 其二",
+    "poem": [
+      "旗幡四面下營稠，手詔頻來老將憂。",
+      "每日城南空挑戰，不知生縛入唐州。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_301_108_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "秋夜對雨寄石甕寺二秀才",
+    "poem": [
+      "夜山秋雨滴空廊，燈照堂前樹葉光。",
+      "對坐讀書終卷後，自披衣被掃僧房。"
+    ]
+  },
+  {
+    "uid": "QTS_301_109_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "華清宮前柳",
+    "poem": [
+      "楊柳宮前忽地春，在先驚動探春人。",
+      "曉來唯欠驪山雨，洗卻枝頭綠上塵。"
+    ]
+  },
+  {
+    "uid": "QTS_301_110_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "別楊校書",
+    "poem": [
+      "從軍秣馬十三年，白髮營中聽早蟬。",
+      "故作老丞身不避，縣名昭應管山泉。"
+    ]
+  },
+  {
+    "uid": "QTS_301_111_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "和門下武相公春曉聞鶯",
+    "poem": [
+      "侵黑行飛一兩聲，春寒囀小未分明。",
+      "若教更解諸餘語，應向宮花不惜情。"
+    ]
+  },
+  {
+    "uid": "QTS_301_112_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "田侍郎歸鎮",
+    "poem": [
+      "去處長將決勝籌，回回身在陣前頭。",
+      "賊城破後先鋒入，看著紅妝不敢收。",
+      "熨帖朝衣拋戰袍，夔龍班裏侍中高。",
+      "對時先奏牙間將，次第天恩與節旄。",
+      "踏著家鄉馬腳輕，暮山秋色眼前明。",
+      "老人上酒齊頭拜，得侍中來盡再生。",
+      "功成誰不擁藩方，富貴還須是本鄉。",
+      "萬里雙旌汾水上，玉鞭遙指白雲莊。",
+      "鼓吹幡旗道兩邊，行男走女喜駢闐。",
+      "舊交省得當時別，指點如今卻少年。",
+      "廣場破陣樂初休，彩纛高於百尺樓。",
+      "老將氣雄爭起舞，管弦回作大纏頭。",
+      "笳聲萬里動燕山，草白天清塞馬閑。",
+      "觸處不如別處樂，可憐秋月照江關。",
+      "將士請衣忘卻貧，綠窗紅燭酒樓新。",
+      "家家盡踏還鄉曲，明月街中不絕人。"
+    ],
+    "notes": [
+      {
+        "content": "一作上魏博田侍中八首",
+        "context": "田侍郎歸鎮",
+        "original_title": "田侍郎歸鎮（一作上魏博田侍中八首）"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_301_113_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄廣文張博士",
+    "poem": [
+      "春明門外作卑官，病友經年不得看。",
+      "莫道長安近於日，升天卻易到城難。"
+    ]
+  },
+  {
+    "uid": "QTS_301_114_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "早春書情",
+    "poem": [
+      "漸老風光不著人，花溪柳陌早逢春。",
+      "近來行到門前少，趁暖閑眠似病人。"
+    ]
+  },
+  {
+    "uid": "QTS_301_115_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "唐昌觀玉蕊花",
+    "poem": [
+      "一樹籠松玉刻成，飄廊點地色輕輕。",
+      "女冠夜覓香來處，唯見階前碎月明。"
+    ]
+  },
+  {
+    "uid": "QTS_301_116_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "眼病寄同官",
+    "poem": [
+      "天寒眼痛少心情，隔霧看人夜裏行。",
+      "年少往來常不住，牆西凍地馬蹄聲。"
+    ]
+  },
+  {
+    "uid": "QTS_301_117_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "九日登叢台",
+    "poem": [
+      "平原池閣在誰家，雙塔叢台野菊花。",
+      "零落故宮無入路，西來澗水繞城斜。"
+    ]
+  },
+  {
+    "uid": "QTS_301_118_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "題酸棗縣蔡中郎碑",
+    "poem": [
+      "蒼苔滿字土埋龜，風雨銷磨絕妙詞。",
+      "不向圖經中舊見，無人知是蔡邕碑。"
+    ]
+  },
+  {
+    "uid": "QTS_301_119_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "江陵使至汝州",
+    "poem": [
+      "回看巴路在雲間，寒食離家麥熟還。",
+      "日暮數峰青似染，商人說是汝州山。"
+    ]
+  },
+  {
+    "uid": "QTS_301_120_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "十五夜望月寄杜郎中",
+    "poem": [
+      "中庭地白樹棲鴉，冷露無聲濕桂花。",
+      "今夜月明人盡望，不知秋思在誰家。"
+    ]
+  },
+  {
+    "uid": "QTS_301_121_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "寄同州田長史",
+    "poem": [
+      "除聽好語耳常聾，不見詩人眼底空。",
+      "莫怪出城為長史，總緣山在白雲中。"
+    ]
+  },
+  {
+    "uid": "QTS_301_122_01",
+    "volume": 301,
+    "author": {
+      "canonical": "王建",
+      "recorded": "王建",
+      "gender": "male",
+      "wikidata_id": "Q697433"
+    },
+    "title": "外按",
+    "poem": [
+      "夾城門向野田開，白鹿非時出洞來。",
+      "日暮秦陵塵土起，從東外按使初回。"
+    ]
+  }
+]

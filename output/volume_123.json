@@ -1,0 +1,310 @@
+[
+  {
+    "uid": "QTS_123_001_01",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其一",
+    "poem": [
+      "山爲宅兮草爲堂，芝蘭兮葯房。",
+      "羅蘼蕪兮拍薜荔，荃壁兮蘭砌。",
+      "蘼蕪薜荔兮成草堂，陰陰邃兮馥馥香。",
+      "中有人兮信宜常，讀金書兮飲玉漿，童顏幽操兮不易長。"
+    ],
+    "part_index": 1,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 4,
+        "text": "不易長",
+        "variant": "長不揚",
+        "source": "一作「長不揚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_02",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其二",
+    "poem": [
+      "天門豁兮仙臺聳，傑屹崒兮零澒湧。",
+      "窮三休兮曠一觀，忽若登崑崙兮中期汗漫仙。",
+      "聳天關兮倒景臺，鯊顥氣兮軼囂埃。",
+      "皎皎之子兮自獨立，雲可朋兮赮可吸，曾何榮辱之所及。"
+    ],
+    "part_index": 2,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "零",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 2,
+        "text": "觀",
+        "variant": "覩",
+        "source": "一作「覩」"
+      },
+      {
+        "line": 3,
+        "text": "關",
+        "variant": "開",
+        "source": "一作「開」"
+      },
+      {
+        "line": 3,
+        "text": "鯊",
+        "variant": "凌",
+        "source": "一作「凌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_03",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其三",
+    "poem": [
+      "紫巖隈兮青谿側，雲松煙蔦兮千古色。",
+      "芳靃蘼兮蔭蒙蘢，幽人構館兮在其中。",
+      "靃蘼蒙蘢兮開樾館，臥風霄兮坐赮旦。",
+      "粵有賓兮時戾止，樵蘇不爨兮清淡已，永歲終朝兮常若此。"
+    ],
+    "part_index": 3,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 3,
+        "text": "赮",
+        "variant": "赭",
+        "source": "一作「赭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_04",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其四",
+    "poem": [
+      "臨泱漭兮背青熒，吐雲煙兮合窅冥。",
+      "怳欻翕兮杳幽靄，意縹緲兮羣仙會。",
+      "窅冥仙會兮枕煙庭，竦魂形兮凝視聽。",
+      "聞夫至誠必感兮祈此巔，契顥氣，養丹田，終彷像兮覯靈仙。"
+    ],
+    "part_index": 4,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 4,
+        "text": "契",
+        "variant": "潔",
+        "source": "一作「潔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_05",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其五",
+    "poem": [
+      "水攢衝兮石叢聳，煥雲錦兮噴洶湧。",
+      "苔駮犖兮草夤緣，芳冪冪兮瀨濺濺。",
+      "石攢叢兮雲錦淙，波連珠兮文沓綘。",
+      "有潔冥者媚此幽，漱靈液兮樂天休，實獲我心兮夫何求。"
+    ],
+    "part_index": 5,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 4,
+        "text": "冥",
+        "variant": "員",
+        "source": "一作「員」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_06",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其六",
+    "poem": [
+      "霏微陰壑兮氣騰虹，迤邐危磴兮上凌空。",
+      "青霞杪兮紫雲垂，鸞歌鳳舞兮吹參差。",
+      "鸞吹鳳舞兮期仙磴，鴻駕迎兮瑤華贈。",
+      "山中人兮好神仙，想像聞此兮欲升煙，鑄月煉液兮竚還年。"
+    ],
+    "part_index": 6,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_123_001_07",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其七",
+    "poem": [
+      "靈磯盤礴兮溜奔錯漱，冷風兮鎮冥壑。",
+      "研苔滋兮泉珠潔，一飲一憩兮氣想滅。",
+      "磷漣清淬兮滌煩磯，靈仙境兮仁智歸。",
+      "中有琴兮徽以玉，峨峨湯湯兮彈此曲，寄聲知音兮同所欲。"
+    ],
+    "part_index": 7,
+    "total_parts": 10
+  },
+  {
+    "uid": "QTS_123_001_08",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其八",
+    "poem": [
+      "青崖陰兮月磵曲，重幽疊邃兮隱淪躅。",
+      "草樹緜冪兮翠蒙蘢，當其無兮庭在中。",
+      "當無有用兮冪翠庭，神可谷兮道可冥。",
+      "有幽人兮張素琴，皇徽兮綠水陰，德之愔兮澹多心。"
+    ],
+    "part_index": 8,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 2,
+        "text": "樹",
+        "variant": "附",
+        "source": "一作「附」，一作「拊」"
+      },
+      {
+        "line": 4,
+        "text": "多",
+        "variant": "忘",
+        "source": "一作「忘」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_09",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其九",
+    "poem": [
+      "嵐氣肅兮巖翠冥，空陰虛兮戶芳迎。",
+      "披蕙帳兮促蘿筵，談空空兮覈元元。",
+      "蕙帳蘿筵兮洞元室，祕而幽兮真可吉。",
+      "返自然兮道可冥，澤妙思兮草玄經，結幽門兮在黃庭。"
+    ],
+    "part_index": 9,
+    "total_parts": 10,
+    "variants": [
+      {
+        "line": 1,
+        "text": "冥",
+        "variant": "沓",
+        "source": "一作「沓」"
+      },
+      {
+        "line": 1,
+        "text": "空",
+        "variant": "室",
+        "source": "一作「室」"
+      },
+      {
+        "line": 1,
+        "text": "迎",
+        "variant": "匝",
+        "source": "一作「匝」"
+      },
+      {
+        "line": 3,
+        "text": "可",
+        "variant": "且",
+        "source": "一作「且」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_123_001_10",
+    "volume": 123,
+    "author": {
+      "canonical": "盧鴻一",
+      "recorded": "盧鴻一",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Lu Hong",
+      "wikidata_id": "Q3264577"
+    },
+    "title": "嵩山十志十首 其十",
+    "poem": [
+      "水碧色兮石金光，灩熠熠兮濙湟湟。",
+      "泉葩映兮煙蔦臨，紅灼灼，翠陰陰。",
+      "翠相鮮兮金碧潭，霜天洞兮煙景涵。",
+      "有幽人兮好冥絕，炳其煥兮凝其潔，悠悠千古長不滅。"
+    ],
+    "part_index": 10,
+    "total_parts": 10
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "uid": "QTS_113_001_01",
+    "volume": 113,
+    "author": {
+      "canonical": "裴耀卿",
+      "recorded": "裴耀卿",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Pei Yaoqing",
+      "wikidata_id": "Q1564717"
+    },
+    "title": "敬酬張九齡當塗界留贈之作",
+    "poem": [
+      "茂先寔王佐，仲舉信時英。",
+      "氣覩衝天發，人將下榻迎。",
+      "珪符肅有命，江國遠徂征。",
+      "九派期方越，千鈞或所輕。",
+      "高帆出風迥，孤嶼入雲平。",
+      "遄邁嗟于役，離憂空自情。",
+      "餙簪陪早歲，接壤廁專城。",
+      "曠別心彌軫，宏規義轉傾。",
+      "徒然恨飢渴，況乃諷瑤瓊。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "所",
+        "variant": "可",
+        "source": "一作「可」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_113_002_01",
+    "volume": 113,
+    "author": {
+      "canonical": "裴耀卿",
+      "recorded": "裴耀卿",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Pei Yaoqing",
+      "wikidata_id": "Q1564717"
+    },
+    "title": "酬張九齡使風見示",
+    "poem": [
+      "茲地五湖隣，艱哉萬里人。",
+      "驚飆翻是託，危浪亦相因。",
+      "宣室才華子，金閨諷議臣。",
+      "承明有三人，去去速歸輪。"
+    ]
+  },
+  {
+    "uid": "QTS_113_003_01",
+    "volume": 113,
+    "author": {
+      "canonical": "宋鼎",
+      "recorded": "宋鼎",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Ding",
+      "wikidata_id": "Q24835410"
+    },
+    "title": "贈張丞相",
+    "poem": [
+      "漢上登飛幰，荆南歷舊居。",
+      "已嘗臨砌橘，更覩躍池魚。",
+      "盛德繼微渺，深衷能卷舒。",
+      "義申蓬閣際，情切廟堂初。",
+      "郡挹文章美，人懷燮理餘。",
+      "皇恩儻照亮，豈厭承明廬。"
+    ]
+  },
+  {
+    "uid": "QTS_113_004_01",
+    "volume": 113,
+    "author": {
+      "canonical": "宋鼎",
+      "recorded": "宋鼎",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Song Ding",
+      "wikidata_id": "Q24835410"
+    },
+    "title": "酬故人還山",
+    "poem": [
+      "舉櫂乘春水，歸山撫歲華。",
+      "碧潭宵見月，紅樹晚開花。",
+      "肅穆輕風度，依微隱徑斜。",
+      "危亭暗松石，幽澗落雲霞。",
+      "思鳥吟高樹，游魚戲淺沙。",
+      "安知餘興盡，相望紫煙賒。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "晚",
+        "variant": "曉",
+        "source": "一作「曉」"
+      },
+      {
+        "line": 5,
+        "text": "吟",
+        "variant": "鳴",
+        "source": "一作「鳴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_113_005_01",
+    "volume": 113,
+    "author": {
+      "canonical": "崔頌",
+      "recorded": "崔頌",
+      "gender": "male",
+      "wikidata_id": "Q18908680"
+    },
+    "title": "和張荆州九齡晨出郡舍林下",
+    "poem": [
+      "優閑表政清，林薄賞秋成。",
+      "江上懸曉月，往來虧復盈。",
+      "天雲抗真意，郡閣晦高名。",
+      "坐嘯應無欲，寧辜濟物情。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "真",
+        "variant": "直",
+        "source": "一作「直」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_113_006_01",
+    "volume": 113,
+    "author": {
+      "canonical": "孫翃",
+      "recorded": "孫翃",
+      "gender": "male",
+      "wikidata_id": "Q18908338"
+    },
+    "title": "奉酬張洪州九齡江上見贈",
+    "poem": [
+      "受命讞封疆，逢君牧豫章。",
+      "於焉審虞芮，復爾共舟航。",
+      "悵別秋陰盡，懷歸客思長。",
+      "江臯枉離贈，持此慰他鄉。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "讞",
+        "variant": "議",
+        "source": "一作「議」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_113_007_01",
+    "volume": 113,
+    "author": {
+      "canonical": "徐仁友",
+      "recorded": "徐仁友"
+    },
+    "title": "古意贈孫翃",
+    "poem": [
+      "南望緱氏嶺，山居共澗陰。",
+      "東西十數里，緬邈方寸心。",
+      "雲日落廣廈，鶯花對孤琴。",
+      "琴中多苦調，悽切誰復尋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "嶺",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 3,
+        "text": "廈",
+        "variant": "庭",
+        "source": "一作「庭」"
+      },
+      {
+        "line": 3,
+        "text": "對",
+        "variant": "坐",
+        "source": "一作「坐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_113_008_01",
+    "volume": 113,
+    "author": {
+      "canonical": "蘇綰",
+      "recorded": "蘇綰",
+      "gender": "male",
+      "english_name": "Su Wan",
+      "wikidata_id": "Q18906822"
+    },
+    "title": "奉和姚令公駕幸溫湯喜雪應制",
+    "poem": [
+      "漢主新豐邑，周王尚父師。",
+      "雲符沛童唱，雪應海神期。",
+      "林變驚春早，山明訝夕遲。",
+      "況逢溫液霈，恩重御裘詩。"
+    ]
+  },
+  {
+    "uid": "QTS_113_009_01",
+    "volume": 113,
+    "author": {
+      "canonical": "康庭芝",
+      "recorded": "康庭芝"
+    },
+    "title": "詠月",
+    "poem": [
+      "天使下西樓，光含萬里秋。",
+      "臺前疑挂鏡，簾外似懸鉤。",
+      "張尹將眉學，班姬取扇儔。",
+      "佳期應借問，爲報在刀頭。"
+    ]
+  },
+  {
+    "uid": "QTS_113_010_01",
+    "volume": 113,
+    "author": {
+      "canonical": "張宣明",
+      "recorded": "張宣明",
+      "gender": "male",
+      "english_name": "Zhang Xuanming",
+      "wikidata_id": "Q18909072"
+    },
+    "title": "山行見孤松成詠",
+    "poem": [
+      "孤松鬱山椒，肅爽凌清霄。",
+      "既挺千丈幹，亦生百尺條。",
+      "青青恆一色，落落非一朝。",
+      "大廈今已構，惜哉無人招。",
+      "寒霜十二月，枝葉獨不凋。"
+    ]
+  },
+  {
+    "uid": "QTS_113_011_01",
+    "volume": 113,
+    "author": {
+      "canonical": "張宣明",
+      "recorded": "張宣明",
+      "gender": "male",
+      "english_name": "Zhang Xuanming",
+      "wikidata_id": "Q18909072"
+    },
+    "title": "使至三姓咽麵",
+    "poem": [
+      "昔聞班家子，筆硯忽然投。",
+      "一朝撫長劒，萬里入荒陬。",
+      "豈不服艱險，只思清國讐。",
+      "山川去何歲，霜露幾逢秋。",
+      "玉塞已遐廓，鐵關方阻修。",
+      "東都日窅窅，西海此悠悠。",
+      "卒使功名建，長封萬里侯。"
+    ]
+  },
+  {
+    "uid": "QTS_113_012_01",
+    "volume": 113,
+    "author": {
+      "canonical": "盧崇道",
+      "recorded": "盧崇道"
+    },
+    "title": "新都南亭別郭大元振",
+    "poem": [
+      "竹徑女蘿蹊，蓮洲文石隄。",
+      "靜深人俗斷，尋翫往還迷。",
+      "碧潭秀初月，素林驚夕棲。",
+      "褰幌納鳥侶，罷琴聽猨啼。",
+      "佳辰改宿昔，勝寄在暌攜。",
+      "長懷賞心愛，如玉復如珪。"
+    ]
+  }
+]

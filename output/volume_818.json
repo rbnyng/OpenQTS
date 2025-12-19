@@ -1,0 +1,1795 @@
+[
+  {
+    "uid": "QTS_818_001_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送梁拾遺肅歸朝",
+    "poem": [
+      "明主重文諫，才臣出江東。",
+      "束書辭東山，改服臨北風。",
+      "萬里望皇邑，九重當曙空。",
+      "天開芙蓉闕，日上蒲桃宮。",
+      "天子初未起，金閨籍先通。",
+      "身逢軒轅世，名貴鴛鸞中。",
+      "故人榮此別，何用悲絲桐。"
+    ]
+  },
+  {
+    "uid": "QTS_818_002_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉陪楊使君頊送段校書赴南海幕",
+    "poem": [
+      "碩賢靜廣州，信為天下貞。",
+      "屈茲大將佐，藉彼延閣英。",
+      "聲動柳吳興，郊餞意不輕。",
+      "吾知段夫子，高論關蒼生。",
+      "處以德為藩，出則道可行。",
+      "遙知南樓會，新景當詩情。",
+      "天高林瘴洗，秋遠海色清。",
+      "時泰罷飛檄，唯應頌公成。"
+    ]
+  },
+  {
+    "uid": "QTS_818_003_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送陸侍御士佳赴上京",
+    "poem": [
+      "長安三千里，喜行不言永。",
+      "清路黃塵飛，大河滄流靜。",
+      "更懷西川府，主公昔和鼎。",
+      "伊鬱瑤瑟情，威遲花驄影。",
+      "此時已難別，日又無停景。",
+      "出餞闕相從，心隨過前嶺。"
+    ]
+  },
+  {
+    "uid": "QTS_818_004_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉陪顏使君真卿登峴山，送張侍御嚴歸臺",
+    "poem": [
+      "峴首千里情，北轅自茲發。",
+      "煙霞正登覽，簪筆限趨謁。",
+      "黃鶴望天衢，白雲歸帝闕。",
+      "客心南浦柳，離思西樓月。",
+      "留賞景不延，感時芳易歇。",
+      "他晨有山信，一為訪林樾。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "景不延",
+        "variant": "不延景",
+        "source": "一作「不延景」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_005_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "酬元主簿子球別贈",
+    "poem": [
+      "故人方遠適，訪我陳別情。",
+      "此夜偶禪室，一言了無生。",
+      "覽君緘中寶，如搴清玉瑛。",
+      "胡為蘊高價，歲晚徒營營。",
+      "辭秩貧且病，何人見艱貞。",
+      "出無黃金橐，空歌白薴行。",
+      "威遲策駑馬，獨望故關樹。",
+      "渺渺千里心，春風起中路。",
+      "近聞新拜命，鸞鳳猶棲棘。",
+      "勸君寄一枝，且養冥冥翼。",
+      "甘泉多竹花，明年待君食。"
+    ]
+  },
+  {
+    "uid": "QTS_818_006_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "答道素上人別",
+    "poem": [
+      "春色遍遠道，寂寞閩中行。",
+      "碧水何渺渺，白雲亦英英。",
+      "離人不可望，日暮芳洲情。",
+      "黃鶴有逸翮，翹首白雲傾。",
+      "欲為山中侶，肯秘遼天聲。",
+      "藍縷真子褐，葳蕤近臣纓。",
+      "以茲奪爾懷，常恐道不成。",
+      "吾門弟子中，不減惠休名。",
+      "一性研已遠，五言功更精。",
+      "從君汗漫遊，莫廢學無生。",
+      "忍草肯搖落，禪枝不枯榮。",
+      "采采慰長路，知吾心不輕。",
+      "幻情有去住，真性無離別。",
+      "留取老桂枝，歸來共攀折。"
+    ]
+  },
+  {
+    "uid": "QTS_818_007_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "霅溪館送韓明府章辭滿歸",
+    "poem": [
+      "洛令從告還，故人東門餞。",
+      "惠愛三年積，軒車一夜遠。",
+      "曉月離館空，秋風故山晚。",
+      "榮君有嘉薦，顧我阻遊衍。",
+      "宿昔峰頂心，依依不可卷。"
+    ]
+  },
+  {
+    "uid": "QTS_818_008_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送穆寂赴舉",
+    "poem": [
+      "天子錫玄纁，傾山禮隱淪。",
+      "君拋青霞去，榮資觀國賓。",
+      "劍光既陸離，瓊彩何璘玢。",
+      "夙駕別情遠，商弦秋意新。",
+      "冥冥鴻鵠姿，數尺看蒼旻。",
+      "殘寇近宋郊，西行惡飆塵。",
+      "立身素耿介，處難思經綸。",
+      "春府搜才日，高科得一人。"
+    ]
+  },
+  {
+    "uid": "QTS_818_009_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送張彝歸長沙",
+    "poem": [
+      "早聞凌雲彩，謂在鴛鷺儔。",
+      "華髮始相遇，滄江仍旅遊。",
+      "策名忘苟進，澹慮輕所求。",
+      "常服遠遊誡，緬懷經世謀。",
+      "片帆背風渚，萬里還湘洲。",
+      "別望荊雲積，歸心漢水流。",
+      "蘭苕行采采，桂櫂思悠悠。",
+      "宿昔無機者，為君動離憂。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「仲」字。",
+        "context": "送張彝歸長沙",
+        "original_title": "送張彝歸長沙",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_010_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "秋日毘陵南寺送潘述之揚州",
+    "poem": [
+      "孤客秋易傷，嘶蟬靜仍續。",
+      "佳晨亦已屢，歡會常不足。",
+      "禪地非路岐，我心豈羈束。",
+      "情生遠別時，坐恨清景促。",
+      "望中千里隔，暮歸西山曲。",
+      "蕭條月中道，彩蒨原上綠。",
+      "不見同心人，幽懷增躑躅。"
+    ]
+  },
+  {
+    "uid": "QTS_818_011_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "春日又送潘述之揚州",
+    "poem": [
+      "別渚望邗城，岐路春日遍。",
+      "柔風吹楊柳，芳景流郊甸。",
+      "日日東林期，今夕異鄉縣。",
+      "文房曠佳士，禪室阻清盼。",
+      "離恨奪賞心，不得諧所願。",
+      "莫憶山中人，碧雲遙可見。"
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "content": "潘生曾受禪印。",
+        "context": "離恨奪賞心，不得諧所願。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_012_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "新秋送盧判官",
+    "poem": [
+      "故人念宿昔，欲別增遠情。",
+      "入座炎氣屏，為君秋景清。",
+      "由來空山客，不怨離弦聲。",
+      "唯有暮蟬起，相思碧雲生。"
+    ]
+  },
+  {
+    "uid": "QTS_818_013_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉送袁高使君詔徵赴行在，效曹劉體",
+    "poem": [
+      "皇心亭毒廣，蝥賊皆陶甄。",
+      "未刈蚩尤旗，方同軒後年。",
+      "天子幸漢中，轘轅阻氛煙。",
+      "璽書召幕牧，名在列岳仙。",
+      "國難倚長城，廟謀資大賢。",
+      "清損休汝騎，仁留述職篇。",
+      "遐路渺天末，繁笳思河邊。",
+      "飾徒促遠期，祗命赴急宣。",
+      "謏才豈足稱，深仁顧何偏。",
+      "那堪臨流意，千里望旗旃。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "幕",
+        "variant": "英",
+        "source": "一作「英」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_014_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉送陸中丞長源詔徵入朝",
+    "poem": [
+      "詔下酇侯幕，徵賢寵勳。",
+      "才當持漢典，道可致堯君。",
+      "藩牧今榮餞，詩流此盛文。",
+      "水從吳渚別，樹向楚門分。",
+      "宿寺期嘉月，看山識故雲。",
+      "歸心復何奈，怊悵在江濆。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "復",
+        "variant": "欲",
+        "source": "一作「欲」"
+      },
+      {
+        "line": 6,
+        "text": "奈",
+        "variant": "託",
+        "source": "一作「託」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_015_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉送李中丞道昌入朝",
+    "poem": [
+      "文憲中司盛，恩榮外鎮崇。",
+      "諸侯皆取則，八使獨推功。",
+      "詔喜新銜鳳，車看舊飾熊。",
+      "去思今武子，餘教昔文翁。",
+      "清在如江水，仁留是國風。",
+      "光徵二千石，掃第望司空。"
+    ],
+    "variants": [
+      {
+        "line": 5,
+        "text": "在",
+        "variant": "白",
+        "source": "一作「白」"
+      },
+      {
+        "line": 6,
+        "text": "光",
+        "variant": "先",
+        "source": "一作「先」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_016_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "冬日送顏延之明府撫州覲叔父",
+    "poem": [
+      "臨川千里別，惆悵上津橋。",
+      "日暮人歸盡，山空雪未消。",
+      "鄉雲心渺渺，楚水路遙遙。",
+      "林下方歡會，山中獨寂寥。",
+      "天寒驚斷雁，江信望回潮。",
+      "歲晚流芳歇，思君在此宵。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「奉」字。",
+        "context": "冬日送顏延之明府撫州覲叔父",
+        "original_title": "冬日送顏延之明府撫州覲叔父",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_017_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送關小師還金陵",
+    "poem": [
+      "如何有歸思，愛別欲忘難。",
+      "白鷺沙洲晚，青龍水寺寒。",
+      "蕉花鋪淨地，桂子落空壇。",
+      "持此心為境，應堪月夜看。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "境",
+        "variant": "鏡",
+        "source": "一作「鏡」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_018_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "峴山送裴秀才赴舉",
+    "poem": [
+      "漢家招秀士，峴上送君行。",
+      "萬里見秋色，兩河傷遠情。",
+      "王師出西鎬，虜寇避東平。",
+      "天府登名後，迴看楚水清。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "寇",
+        "variant": "寢",
+        "source": "一作「寢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_019_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "酬別襄陽詩僧少微",
+    "poem": [
+      "證心何有夢，示說夢歸頻。",
+      "文字齎秦本，詩騷學楚人。",
+      "蘭開衣上色，柳向手中春。",
+      "別後須相見，浮雲是我身。"
+    ],
+    "notes": [
+      {
+        "content": "詩中荅上人歸夢之意。",
+        "context": "酬別襄陽詩僧少微",
+        "original_title": "酬別襄陽詩僧少微",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_020_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送契上人遊揚州",
+    "poem": [
+      "西陵古江口，遠見東揚州。",
+      "淥水不同泛，春山應獨遊。",
+      "尋僧白岩寺，望月謝家樓。",
+      "宿昔心期在，人寰非久留。"
+    ]
+  },
+  {
+    "uid": "QTS_818_021_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送德清衛明府赴選",
+    "poem": [
+      "八使慎求能，東人獨薦君。",
+      "身猶千里限，名已九霄聞。",
+      "遠路翻喜別，離言暫惜分。",
+      "鳳門多士會，擁佩入卿雲。"
+    ],
+    "notes": [
+      {
+        "content": "時栁黜陟有薦狀。",
+        "context": "送德清衛明府赴選",
+        "original_title": "送德清衛明府赴選",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_022_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送鄭孝廉淮西覲省",
+    "poem": [
+      "離袂翠華滿，晨羞欲早行。",
+      "春風生楚樹，曉角發隋城。",
+      "野靄濕衣彩，江鴻增客情。",
+      "征途不用戒，坐見白波清。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "野靄",
+        "variant": "山露",
+        "source": "一作「山露」"
+      },
+      {
+        "line": 4,
+        "text": "見",
+        "variant": "月",
+        "source": "一作「月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_023_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送沈秀才之閩中",
+    "poem": [
+      "越客不成歌，春風起淥波。",
+      "嶺重寒不到，海近瘴偏多。",
+      "野戍桄榔發，人家翡翠過。",
+      "翻疑此中好，君問定如何。"
+    ]
+  },
+  {
+    "uid": "QTS_818_024_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送清會上人遊京",
+    "poem": [
+      "佳遊限衰疾，一笑向西風。",
+      "思見青門外，曾臨素滻東。",
+      "峯明雲際寺，日出露寒宮。",
+      "行道禪長在，香塵不染空。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "寺名。",
+        "context": "行道禪長在，香塵不染空。"
+      },
+      {
+        "line": 3,
+        "content": "宮名。",
+        "context": "行道禪長在，香塵不染空。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_025_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送沈居士還太原",
+    "poem": [
+      "辭官因世難，家族盛南朝。",
+      "名重《郊居賦》，才高《獨酌謠》。",
+      "浪花飄一葉，峯色向三條。",
+      "高逸雖成性，弓旌肯忘招。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "沈休文作《郊居賦》。",
+        "context": "浪花飄一葉，峯色向三條。"
+      },
+      {
+        "line": 2,
+        "content": "沈文子作。",
+        "context": "浪花飄一葉，峯色向三條。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "官",
+        "variant": "鄉",
+        "source": "一作「鄉」"
+      },
+      {
+        "line": 4,
+        "text": "忘",
+        "variant": "妄",
+        "source": "一作「妄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_026_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "同顏使君真卿峴山送李法曹陽冰西上獻書時會有詔徵赴京",
+    "poem": [
+      "漢日中郎妙，周王太史才。",
+      "雲書捧日去，鶴版下天來。",
+      "草見吳洲發，花思御苑開。",
+      "羊公惜風景，欲別幾遲迴。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "洲",
+        "variant": "宮",
+        "source": "一作「宮」"
+      },
+      {
+        "line": 4,
+        "text": "惜",
+        "variant": "昔",
+        "source": "一作「昔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_027_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "兵後送姚太祝赴選",
+    "poem": [
+      "兩河兵已偃，處處見歸舟。",
+      "日夜故人散，江皋芳樹秋。",
+      "楚雲傷遠思，秦月憶佳遊。",
+      "名動春官籍，翩翩才少儔。"
+    ]
+  },
+  {
+    "uid": "QTS_818_028_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "兵後送薛居士移家安吉",
+    "poem": [
+      "舊遊經喪亂，道在復何人。",
+      "寒草心易折，閒雲性常真。",
+      "交情別後見，詩句比來新。",
+      "向我桃州住，惜君東嶺春。"
+    ]
+  },
+  {
+    "uid": "QTS_818_029_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送鄔傪之洪州覲兄弟",
+    "poem": [
+      "年少足詩情，西江楚月清。",
+      "書囊山翠濕，琴匣雪花輕。",
+      "久別經離亂，新正憶弟兄。",
+      "贈君題樂府，為是豫章行。"
+    ]
+  },
+  {
+    "uid": "QTS_818_030_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送乾封李成",
+    "poem": [
+      "羽檄飛未息，離情遠近同。",
+      "感君由泛瑟，關我是征鴻。",
+      "眇默歸人盡，疎蕪夜渡空。",
+      "還期當歲晚，獨在路行中。"
+    ]
+  },
+  {
+    "uid": "QTS_818_031_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送崔判官還揚子",
+    "poem": [
+      "輕傳祗遠役，依依下姑亭。",
+      "秋聲滿楊柳，暮色繞郊坰。",
+      "煙水搖歸思，山當楚驛青。"
+    ]
+  },
+  {
+    "uid": "QTS_818_032_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "奉酬袁使君西樓餞秦山人與晝同赴李侍御招三韻",
+    "poem": [
+      "秋風怨別情，江守上西城。",
+      "竹署寒流淺，琴窓宿雨晴。",
+      "治書招遠意，知共楚狂行。"
+    ]
+  },
+  {
+    "uid": "QTS_818_033_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送清涼上人",
+    "poem": [
+      "何意欲歸山，道高由境勝。",
+      "花空覺性了，月盡知心證。",
+      "永夜出禪吟，清猨自相應。"
+    ]
+  },
+  {
+    "uid": "QTS_818_034_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送李丞使宣州",
+    "poem": [
+      "結駟何翩翩，落葉暗寒渚。",
+      "夢裏春穀泉，愁中洞庭雨。",
+      "聊持剡山茗，以代宜城醑。"
+    ]
+  },
+  {
+    "uid": "QTS_818_035_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送至洪沙彌遊越",
+    "poem": [
+      "知爾學無生，不應傷此別。",
+      "相逢宿我寺，獨往遊靈越。",
+      "早晚花會中，經行剡山月。"
+    ]
+  },
+  {
+    "uid": "QTS_818_036_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送皇甫侍御曾還丹陽別業",
+    "poem": [
+      "雲陽別夜憶春耕，花發菱湖問去程。",
+      "積水悠揚何處夢，亂山稠疊此時情。",
+      "將離有月教弦斷，贈遠無蘭覺意輕。",
+      "朝右要君持漢典，明年北墅可須營。"
+    ]
+  },
+  {
+    "uid": "QTS_818_037_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "白蘋洲送洛陽李丞使還",
+    "poem": [
+      "蘋洲北望楚山重，千里迴軺止一封。",
+      "臨水情來還共載，看花醉去更相從。",
+      "罷官風渚何時別，寄隱雲陽幾處逢。",
+      "後會那應似疇昔，年年覺老雪山容。"
+    ]
+  },
+  {
+    "uid": "QTS_818_038_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送履霜上人還金陵西山",
+    "poem": [
+      "攜錫西山步綠莎，禪心未了奈情何。",
+      "湘宮水寺清秋夜，月落風悲松柏多。"
+    ]
+  },
+  {
+    "uid": "QTS_818_039_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送辨聰上人還廣陵",
+    "poem": [
+      "莫學休公學遠公，了心須與我心同。",
+      "隋家古柳數株在，看取人間萬事空。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "須",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_040_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送清勵上人遊福建",
+    "poem": [
+      "禪子自矜禪性成，將來擬照建溪清。",
+      "南看閩樹花不落，更取何緣了妄情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "來",
+        "variant": "心",
+        "source": "一作「心」"
+      },
+      {
+        "line": 2,
+        "text": "緣",
+        "variant": "情",
+        "source": "一作「情」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_041_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送顧道士遊洞庭山",
+    "poem": [
+      "見說洞庭無上路，春遊亂踏五靈芝。",
+      "含桃風起花狼藉，正是仙翁棋散時。"
+    ]
+  },
+  {
+    "uid": "QTS_818_042_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送邢臺州濟",
+    "poem": [
+      "海上仙山屬使君，石橋琪樹古來聞。",
+      "他時畫出白團扇，乞取天台一片雲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "古",
+        "variant": "此",
+        "source": "一作「此」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_043_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送柳察諫議叔",
+    "poem": [
+      "東城南陌強經過，怨別無心亦放歌。",
+      "明日院公應問我，閒雲長在石門多。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "院",
+        "variant": "阮",
+        "source": "一作「阮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_044_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送柳淡扶侍赴洪州",
+    "poem": [
+      "中林許師友，忽阻夙心期。",
+      "自顧青緺好，來將黃鶴辭。",
+      "少年輕遠涉，世道得無欺。",
+      "煙雨孤舟上，晨昏千里時。",
+      "離魂渺天末，相望在江湄。",
+      "無限江南柳，春風卷亂絲。"
+    ],
+    "notes": [
+      {
+        "content": "此子素少宦情，共予有西山之好。",
+        "context": "送柳淡扶侍赴洪州",
+        "original_title": "送柳淡扶侍赴洪州",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_045_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "同李司直題虎丘寺兼留諸公與陸羽之無錫",
+    "poem": [
+      "陵寢成香阜，禪枝出白楊。",
+      "劍池留故事，月樹即他方。",
+      "應世緣須別，棲心趣不忘。",
+      "還將陸居士，晨發泛歸航。"
+    ]
+  },
+  {
+    "uid": "QTS_818_046_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "夏日題鄭谷江上納涼館",
+    "poem": [
+      "迢遙山意外，清風又對君。",
+      "若為於此地，翻作路岐分。",
+      "別館琴徒語，前洲鶴自羣。",
+      "明朝天畔遠，何處逐閑雲。"
+    ]
+  },
+  {
+    "uid": "QTS_818_047_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "太湖館送殷秀才赴舉",
+    "poem": [
+      "春風洞庭路，搖盪暮天多。",
+      "衰疾見芳草，別離傷遠波。",
+      "詩名推首薦，賦甲擬前科。",
+      "數日聞天府，山衣製芰荷。"
+    ]
+  },
+  {
+    "uid": "QTS_818_048_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送重鈞上人遊天台",
+    "poem": [
+      "漸看華頂出，幽賞意隨生。",
+      "十里行松色，千重過水聲。",
+      "海容雲正盡，山色雨初晴。",
+      "事事將心證，知君道可成。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "賞意",
+        "variant": "意尚",
+        "source": "一作「意尚」"
+      },
+      {
+        "line": 3,
+        "text": "色雨",
+        "variant": "態雪",
+        "source": "一作「態雪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_049_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "早春送顏主簿遊越東，兼謁元中丞",
+    "poem": [
+      "輕舸趣不已，東風吹綠蘋。",
+      "欲看梅市雪，知賞柳家春。",
+      "別意傾吳醑，芳聲動越人。",
+      "山陰三月會，內史得嘉賓。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "醑",
+        "variant": "醥",
+        "source": "一作「醥」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_050_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "同顏使君清明日遊，因送蕭主簿",
+    "poem": [
+      "誰知賞嘉節，別意忽相和。",
+      "暮色汀洲遍，春情楊柳多。",
+      "高城戀旌旆，極浦宿風波。",
+      "惆悵支山月，今宵不再過。"
+    ]
+  },
+  {
+    "uid": "QTS_818_051_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送道琚上人還金陵",
+    "poem": [
+      "一與鐘山別，山中得信稀。",
+      "經年求法後，及夏問安歸。",
+      "野實充甘膳，池花當綵衣。",
+      "慈親莫返拜，外禮欲無為。"
+    ]
+  },
+  {
+    "uid": "QTS_818_052_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送裴邕之上京",
+    "poem": [
+      "辭山偶世清，挾策忽西行。",
+      "帆過隨江疾，衣霑楚雪輕。",
+      "尚文須獻賦，重道莫論兵。",
+      "東觀今多事，應高白馬生。"
+    ]
+  },
+  {
+    "uid": "QTS_818_053_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送珍上人還天竺，兼寄廣通上人、秦山人",
+    "poem": [
+      "江寺名天竺，多居躡遠蹤。",
+      "春帆依柳浦，輕履上蓮峰。",
+      "禪子兼三隱，空書共一封。",
+      "因君達山信，應向白雲逢。"
+    ]
+  },
+  {
+    "uid": "QTS_818_054_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送張孝廉赴舉",
+    "poem": [
+      "名在諸生右，家經見素風。",
+      "春田休學稼，秋賦出儒宮。",
+      "別路殘雲濕，離情晚桂叢。",
+      "明年石渠署，應繼叔孫通。"
+    ]
+  },
+  {
+    "uid": "QTS_818_055_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送劉司法之越",
+    "poem": [
+      "蕭蕭鳴夜角，驅馬背城濠。",
+      "雨後寒流急，秋來朔吹高。",
+      "三山期望海，八月欲觀濤。",
+      "幾日西陵路，應逢謝法曹。"
+    ],
+    "notes": [
+      {
+        "content": "一本有「州」字。",
+        "context": "送劉司法之越",
+        "original_title": "送劉司法之越",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_056_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送簡棲上人之建州覲使君舅",
+    "poem": [
+      "亂峰江上色，羨爾及秋行。",
+      "釋氏推真子，郗家許貴甥。",
+      "氎花新雨淨，帆葉好風輕。",
+      "千里依元舅，回潮亦有情。"
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "content": "海人以木葉為帆。",
+        "context": "千里依元舅，回潮亦有情。"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "回潮亦有情",
+        "variant": "迴橈有遠情",
+        "source": "一作「迴橈有遠情」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_057_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "登開元寺樓送崔少府還平望驛",
+    "poem": [
+      "登望思慮積，長亭樹連連。",
+      "悠揚下樓日，杳映傍帆煙。",
+      "入夜四郊靜，南湖月待船。"
+    ]
+  },
+  {
+    "uid": "QTS_818_058_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送王居士游越",
+    "poem": [
+      "野性配雲泉，詩情屬風景。",
+      "愛作爛熳遊，閒尋東路永。",
+      "何山最好望，須上蕭然嶺。"
+    ]
+  },
+  {
+    "uid": "QTS_818_059_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "雜言重送皇甫侍御曾",
+    "poem": [
+      "人獨歸，日將暮。",
+      "孤帆帶孤嶼，遠水連遠樹。",
+      "難作別時心，還看別時路。"
+    ]
+  },
+  {
+    "uid": "QTS_818_060_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送演上人之撫州覲使君叔",
+    "poem": [
+      "臨川內史憐諸謝，爾在生緣比惠宗。",
+      "遠別應將秦本去，幽尋定有楚僧逢。",
+      "停船夜坐親孤月，把錫秋行入亂峯。",
+      "便道須過大師寺，白蓮池上訪高蹤。"
+    ]
+  },
+  {
+    "uid": "QTS_818_061_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送大寶上人歸楚山",
+    "poem": [
+      "厭上烏橋送別頻，湖光爛熳望行人。",
+      "欲將夜舸陪嘉月，肯住空林伴老身。",
+      "獨鶴翩翻飛不定，歸雲蕭散會無因。",
+      "從何得道懷惆悵，莫是人間屢見春。"
+    ]
+  },
+  {
+    "uid": "QTS_818_062_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送侯秀才南遊",
+    "poem": [
+      "芳草隨君自有情，不關山色與猨聲。",
+      "為看嚴子灘頭石，曾憶題詩不著名。"
+    ]
+  },
+  {
+    "uid": "QTS_818_063_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "別洞庭維諒上人",
+    "poem": [
+      "白雲關我不關他，此物留君情最多。",
+      "情著春風生橘樹，歸心不怕洞庭波。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "情",
+        "variant": "憶",
+        "source": "一作「憶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_064_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "康造錄事宅送太祝侄之虔吉訪兄弟",
+    "poem": [
+      "阮咸別曲四座愁，賴是春風不是秋。",
+      "漫漫江行訪兄弟，猨聲幾夜宿蘆洲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "行",
+        "variant": "帆",
+        "source": "一作「帆」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_065_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "冬日梅溪送裴方舟宣州",
+    "poem": [
+      "平明疋馬上村橋，花發梅溪雪未消。",
+      "日短天寒愁送客，楚山無限路遙遙。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "疋",
+        "variant": "走",
+        "source": "一作「走」"
+      },
+      {
+        "line": 1,
+        "text": "發",
+        "variant": "落",
+        "source": "一作「落」"
+      },
+      {
+        "line": 2,
+        "text": "遙遙",
+        "variant": "迢迢",
+        "source": "一作「迢迢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_066_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送韋向睦州謁獨孤使君汜",
+    "poem": [
+      "才子南看多遠情，閑舟蕩漾任春行。",
+      "新安江色長如此，何似新安太守清。"
+    ]
+  },
+  {
+    "uid": "QTS_818_067_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送至嚴山人歸山",
+    "poem": [
+      "初到人間柳始陰，山書昨夜報春深。",
+      "朝朝花落幾株樹，惱殺禪僧未證心。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "僧",
+        "variant": "翁",
+        "source": "一作「翁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_068_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送僧遊揚州",
+    "poem": [
+      "平明擇鉢向風輕，正及隋堤柳色行。",
+      "知爾禪心還似我，故宮春物肯傷情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "擇鉢",
+        "variant": "環錫",
+        "source": "一作「環錫」"
+      },
+      {
+        "line": 2,
+        "text": "物",
+        "variant": "草",
+        "source": "一作「草」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_069_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "對陸迅飲天目山茶，因寄元居士晟",
+    "poem": [
+      "喜見幽人會，初開野客茶。",
+      "日成東井葉，露採北山芽。",
+      "文火香偏勝，寒泉味轉嘉。",
+      "投鐺湧作沫，著椀聚生花。",
+      "稍與禪經近，聊將睡網賒。",
+      "知君在天目，此意日無涯。"
+    ]
+  },
+  {
+    "uid": "QTS_818_070_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "渡前溪",
+    "poem": [
+      "不意入前溪，愛溪從錯落。",
+      "清清鑒不足，非是深難度。"
+    ]
+  },
+  {
+    "uid": "QTS_818_071_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "送靈澈",
+    "poem": [
+      "我欲長生夢，無心解傷別。",
+      "千里萬里心，只似眼前月。"
+    ]
+  },
+  {
+    "uid": "QTS_818_072_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "寄路溫州",
+    "poem": [
+      "欲問采靈藥，如何學無生。",
+      "愛鶴頗似君，且非求仙情。"
+    ]
+  },
+  {
+    "uid": "QTS_818_073_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "浣紗女",
+    "poem": [
+      "清淺白沙灘，綠蒲尚堪把。",
+      "家住水東西，浣紗明月下。"
+    ],
+    "notes": [
+      {
+        "content": "一作王維詩，題雲《白石灘》。",
+        "context": "浣紗女",
+        "original_title": "浣紗女",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_818_074_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "待山月",
+    "poem": [
+      "夜夜憶故人，長教山月待。",
+      "今宵故人至，山月知何在。"
+    ]
+  },
+  {
+    "uid": "QTS_818_075_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "雜興",
+    "poem": [
+      "人生分已定，富貴豈妄來。",
+      "不見海底泥，飛上成塵埃。"
+    ]
+  },
+  {
+    "uid": "QTS_818_076_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "舂陵登望",
+    "poem": [
+      "西底空流水，東垣但聚雲。",
+      "最傷梅嶺望，花雪正紛紛。"
+    ]
+  },
+  {
+    "uid": "QTS_818_077_01",
+    "volume": 818,
+    "author": {
+      "canonical": "皎然",
+      "recorded": "皎然",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Jiaoran",
+      "wikidata_id": "Q11644522"
+    },
+    "title": "投知己",
+    "poem": [
+      "若為令憶洞庭春，上有閒雲可隱身。",
+      "無限白雲山要買，不知山價出何人。"
+    ]
+  }
+]

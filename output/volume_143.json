@@ -1,0 +1,1878 @@
+[
+  {
+    "uid": "QTS_143_001_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "朝來曲",
+    "poem": [
+      "月昃鳴珂動，花連繡戶春。",
+      "盤龍玉臺鏡，唯待畫眉人。"
+    ]
+  },
+  {
+    "uid": "QTS_143_002_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行",
+    "poem": [
+      "大將軍出戰，白日暗榆關。",
+      "三面黃金甲，單于破膽還。"
+    ]
+  },
+  {
+    "uid": "QTS_143_003_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "答武陵田太守",
+    "poem": [
+      "仗劒行千里，微軀感一言。",
+      "曾爲大梁客，不負信陵恩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "仗",
+        "variant": "按",
+        "source": "一作「按」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_004_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "題灞池二首 其一",
+    "poem": [
+      "腰鎌欲何之，東園刈秋韭。",
+      "世事不復論，悲歌和樵叟。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_004_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "題灞池二首 其二",
+    "poem": [
+      "開門望長川，薄暮見漁者。",
+      "借問白頭翁，垂綸幾年也。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_005_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "題僧房",
+    "poem": [
+      "棕櫚花滿院，苔蘚入閒房。",
+      "彼此名言絕，空中聞異香。"
+    ]
+  },
+  {
+    "uid": "QTS_143_006_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "擊磬老人",
+    "poem": [
+      "雙峰褐衣久，一磐白眉長。",
+      "誰識野人意，徒看春草芳。"
+    ]
+  },
+  {
+    "uid": "QTS_143_007_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送胡大",
+    "poem": [
+      "荊門不堪別，況乃瀟湘秋。",
+      "何處遙望君，江邊明月樓。"
+    ]
+  },
+  {
+    "uid": "QTS_143_008_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送郭司倉",
+    "poem": [
+      "暎門淮水綠，留騎主人心。",
+      "明月隨良掾，春潮夜夜深。"
+    ]
+  },
+  {
+    "uid": "QTS_143_009_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送李十五",
+    "poem": [
+      "怨別秦楚深，江中秋雲起。",
+      "天長杳無隔，月影在寒水。"
+    ]
+  },
+  {
+    "uid": "QTS_143_010_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送張四",
+    "poem": [
+      "楓林已愁暮，楚水復堪悲。",
+      "別後冷山月，清猿無斷時。"
+    ]
+  },
+  {
+    "uid": "QTS_143_011_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "武陵田太守席送司馬盧谿",
+    "poem": [
+      "諸侯分楚郡，飲餞五谿春。",
+      "山水清暉遠，俱憐一逐臣。"
+    ]
+  },
+  {
+    "uid": "QTS_143_012_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送譚八之桂林",
+    "poem": [
+      "客心仍在楚，江館復臨湘。",
+      "別意猿鳥外，天寒桂水長。"
+    ]
+  },
+  {
+    "uid": "QTS_143_013_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送劉十五之郡",
+    "poem": [
+      "平明江霧寒，客馬江上發。",
+      "扁舟事洛陽，窅窅含楚月。"
+    ]
+  },
+  {
+    "uid": "QTS_143_014_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其一",
+    "poem": [
+      "烽火城西百尺樓，黃昏獨上海風秋。",
+      "更吹羌笛關山月，無那金閨萬里愁。"
+    ],
+    "part_index": 1,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "上",
+        "variant": "坐",
+        "source": "一作「坐」"
+      },
+      {
+        "line": 2,
+        "text": "羌",
+        "variant": "橫",
+        "source": "一作「橫」"
+      },
+      {
+        "line": 2,
+        "text": "無那",
+        "variant": "誰解",
+        "source": "一作「誰解」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_014_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其二",
+    "poem": [
+      "琵琶起舞換新聲，總是關山舊別情。",
+      "撩亂邊愁聽不盡，高高秋月照長城。"
+    ],
+    "part_index": 2,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "舊",
+        "variant": "離",
+        "source": "一作「離」"
+      },
+      {
+        "line": 2,
+        "text": "聽",
+        "variant": "彈",
+        "source": "一作「彈」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_014_03",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其三",
+    "poem": [
+      "關城榆葉早疎黃，日暮雲沙古戰場。",
+      "表請回軍掩塵骨，莫教兵士哭龍荒。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_143_014_04",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其四",
+    "poem": [
+      "青海長雲暗雪山，孤城遙望玉門關。",
+      "黃沙百戰穿金甲，不破樓蘭終不還。"
+    ],
+    "part_index": 4,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "玉",
+        "variant": "雁",
+        "source": "一作「雁」"
+      },
+      {
+        "line": 2,
+        "text": "終",
+        "variant": "竟",
+        "source": "一作「竟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_014_05",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其五",
+    "poem": [
+      "大漠風塵日色昏，紅旗半捲出轅門。",
+      "前軍夜戰洮河北，已報生擒吐谷渾。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_143_014_06",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其六",
+    "poem": [
+      "胡瓶落膊紫薄汗，碎葉城西秋月團。",
+      "明敕星馳封寶劒，辭君一夜取樓蘭。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_143_014_07",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "從軍行七首 其七",
+    "poem": [
+      "玉門山嶂幾千重，山北山南總是烽。",
+      "人依遠戍須看火，馬踏深山不見蹤。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_143_015_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "出塞二首 其一",
+    "poem": [
+      "秦時明月漢時關，萬里長征人未還。",
+      "但使龍城飛將在，不教胡馬度陰山。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "長征人",
+        "variant": "征夫尚",
+        "source": "一作「征夫尚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_015_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "出塞二首 其二",
+    "poem": [
+      "騮馬新跨白玉鞍，戰罷沙場月色寒。",
+      "城頭鐵鼓聲猶振，匣裏金刀血未乾。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_016_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "采蓮曲二首 其一",
+    "poem": [
+      "吳姬越豔楚王妃，爭弄蓮舟水濕衣。",
+      "來時浦口花迎入，采罷江頭月送歸。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_016_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "采蓮曲二首 其二",
+    "poem": [
+      "荷葉羅裙一色裁，芙蓉向臉兩邊開。",
+      "亂入池中看不見，聞歌始覺有人來。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_017_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "殿前曲二首 其一",
+    "poem": [
+      "貴人妝梳殿前催，香風吹入殿後來。",
+      "仗引笙歌大宛馬，白蓮花發照池臺。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_017_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "殿前曲二首 其二",
+    "poem": [
+      "胡部笙歌西殿頭，梨園弟子和涼州。",
+      "新聲一段高樓月，聖主千秋樂未休。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_018_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "春宮曲",
+    "poem": [
+      "昨夜風開露井桃，未央前殿月輪高。",
+      "平陽歌舞新承寵，簾外春寒賜錦袍。"
+    ],
+    "preface": "〈《唐人絕句》作《殿前曲》〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "新承",
+        "variant": "承新",
+        "source": "一作「承新」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_019_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "西宮春怨",
+    "poem": [
+      "西宮夜靜百花香，欲捲珠簾春恨長。",
+      "斜抱雲和深見月，朦朧樹色隱昭陽。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "西",
+        "variant": "空",
+        "source": "一作「空」"
+      },
+      {
+        "line": 2,
+        "text": "深",
+        "variant": "渾",
+        "source": "一作「渾」"
+      },
+      {
+        "line": 2,
+        "text": "朦",
+        "variant": "朧",
+        "source": "一作「朧」"
+      },
+      {
+        "line": 2,
+        "text": "隱",
+        "variant": "隔",
+        "source": "一作「隔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_020_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "西宮秋怨",
+    "poem": [
+      "芙蓉不及美人妝，水殿風來珠翠香。",
+      "誰分含啼掩秋扇，空懸明月待君王。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "誰",
+        "variant": "卻",
+        "source": "一作「卻」"
+      },
+      {
+        "line": 2,
+        "text": "分",
+        "variant": "問",
+        "source": "一作「問」，一作「恨」"
+      },
+      {
+        "line": 2,
+        "text": "啼",
+        "variant": "情",
+        "source": "一作「情」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_021_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "長信秋詞五首 其一",
+    "poem": [
+      "金井梧桐秋葉黃，珠簾不捲夜來霜。",
+      "熏籠玉枕無顏色，臥聽南宮清漏長。"
+    ],
+    "part_index": 1,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "熏",
+        "variant": "金",
+        "source": "一作「金」"
+      },
+      {
+        "line": 2,
+        "text": "籠",
+        "variant": "爐",
+        "source": "一作「爐」"
+      },
+      {
+        "line": 2,
+        "text": "南宮",
+        "variant": "宮中",
+        "source": "一作「宮中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_021_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "長信秋詞五首 其二",
+    "poem": [
+      "高殿秋砧響夜闌，霜深猶憶御衣寒。",
+      "銀燈青瑣裁縫歇，還向金城明主看。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_143_021_03",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "長信秋詞五首 其三",
+    "poem": [
+      "奉帚平明金殿開，且將團扇暫裴回。",
+      "玉顏不及寒鴉色，猶帶朝陽日影來。"
+    ],
+    "part_index": 3,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 1,
+        "text": "金",
+        "variant": "秋",
+        "source": "一作「秋」"
+      },
+      {
+        "line": 1,
+        "text": "暫",
+        "variant": "共",
+        "source": "一作「共」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_021_04",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "長信秋詞五首 其四",
+    "poem": [
+      "真成薄命久尋思，夢見君王覺後疑。",
+      "火照西宮知夜飲，分明復道奉恩時。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_143_021_05",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "長信秋詞五首 其五",
+    "poem": [
+      "長信宮中秋月明，昭陽殿下擣衣聲。",
+      "白露堂中細草跡，紅羅帳裏不勝情。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_143_022_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "青樓曲二首 其一",
+    "poem": [
+      "白馬金鞍從武皇，旌旗十萬宿長楊。",
+      "樓頭小婦鳴箏坐，遙見飛塵入建章。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_022_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "青樓曲二首 其二",
+    "poem": [
+      "馳道楊花滿御溝，紅妝縵綰上青樓。",
+      "金章紫綬千餘騎，夫壻朝回初拜侯。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_023_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "青樓怨",
+    "poem": [
+      "香幃風動花入樓，高調鳴箏緩夜愁。",
+      "腸斷關山不解說，依依殘月下簾鉤。"
+    ]
+  },
+  {
+    "uid": "QTS_143_024_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "浣紗女",
+    "poem": [
+      "錢塘江邊是誰家，江上女兒全勝花。",
+      "吳王在時不得出，今日公然來浣紗。"
+    ]
+  },
+  {
+    "uid": "QTS_143_025_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "閨怨",
+    "poem": [
+      "閨中少婦不曾愁，春日凝妝上翠樓。",
+      "忽見陌頭楊柳色，悔教夫婿覓封侯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "婿",
+        "variant": "壻",
+        "source": "一作「壻」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_026_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "甘泉歌",
+    "poem": [
+      "乘輿執玉已登壇，細草霑衣春殿寒。",
+      "昨夜雲生拜初月，萬年甘露水晶盤。"
+    ]
+  },
+  {
+    "uid": "QTS_143_027_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "蕭駙馬宅花燭",
+    "poem": [
+      "青鸞飛入合歡宮，紫鳳銜花出禁中。",
+      "可憐今夜千門裡，銀漢星回一道通。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "門",
+        "variant": "家",
+        "source": "一作「家」"
+      },
+      {
+        "line": 2,
+        "text": "回",
+        "variant": "槎",
+        "source": "一作「槎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_028_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "觀獵",
+    "poem": [
+      "角鷹初下秋草稀，鐵驄拋鞚去如飛。",
+      "少年獵得平原兔，馬後橫捎意氣歸。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "後",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_029_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "寄穆侍御出幽州",
+    "poem": [
+      "一從恩譴度瀟湘，塞北江南萬里長。",
+      "莫道薊門書信少，鴈飛猶得到衡陽。"
+    ]
+  },
+  {
+    "uid": "QTS_143_030_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "寄陶副使",
+    "poem": [
+      "聞道將軍破海門，如何遠謫渡湘沅。",
+      "春來明主封西嶽，自有還君紫綬恩。"
+    ]
+  },
+  {
+    "uid": "QTS_143_031_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "至南陵答皇甫岳",
+    "poem": [
+      "與君同病復漂淪，昨夜宣城別故人。",
+      "明主恩深非歲久，長江還共五谿濱。"
+    ]
+  },
+  {
+    "uid": "QTS_143_032_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "西江寄越弟",
+    "poem": [
+      "南浦逢君嶺外還，沅谿更遠洞庭山。",
+      "堯時恩澤如春雨，夢裡相逢同入關。"
+    ]
+  },
+  {
+    "uid": "QTS_143_033_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "李四倉曹宅夜飲",
+    "poem": [
+      "霜天留後故情歡，銀燭金爐夜不寒。",
+      "欲問吳江別來意，青山明月夢中看。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "後",
+        "variant": "飲",
+        "source": "一作「飲」"
+      },
+      {
+        "line": 2,
+        "text": "意",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_034_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "宴春源",
+    "poem": [
+      "源向春城花幾重，江明深翠引諸峰。",
+      "與君醉失松溪路，山館寥寥傳暝鐘。"
+    ]
+  },
+  {
+    "uid": "QTS_143_035_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "龍標野宴",
+    "poem": [
+      "沅溪夏晚足涼風，春酒相攜就竹叢。",
+      "莫道絃歌愁遠謫，青山明月不曾空。"
+    ]
+  },
+  {
+    "uid": "QTS_143_036_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "聽流人水調子",
+    "poem": [
+      "孤舟微月對楓林，分付鳴箏與客心。",
+      "嶺色千重萬重雨，斷絃收與淚痕深。"
+    ]
+  },
+  {
+    "uid": "QTS_143_037_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "梁苑",
+    "poem": [
+      "梁園秋竹古時煙，城外風悲欲暮天。",
+      "萬乘旌旗何處在，平臺賓客有誰憐。"
+    ]
+  },
+  {
+    "uid": "QTS_143_038_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "武陵龍興觀黃道士房問易因題",
+    "poem": [
+      "齋心問易太陽宮，八卦真形一氣中。",
+      "仙老言餘鶴飛去，玉清壇上雨濛濛。"
+    ]
+  },
+  {
+    "uid": "QTS_143_039_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送魏二",
+    "poem": [
+      "醉別江樓橘柚香，江風引雨入舟涼。",
+      "憶君遙在瀟湘月，愁聽清猿夢裏長。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "瀟湘月",
+        "variant": "湘山月",
+        "source": "一作「湘山月」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_040_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "別李浦之京",
+    "poem": [
+      "故園今在灞陵西，江畔逢君醉不迷。",
+      "小弟鄰莊尚漁獵，一封書寄數行啼。"
+    ]
+  },
+  {
+    "uid": "QTS_143_041_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送狄宗亨",
+    "poem": [
+      "秋在水清山暮蟬，洛陽樹色鳴皋煙。",
+      "送君歸去愁不盡，又惜空度涼風天。"
+    ]
+  },
+  {
+    "uid": "QTS_143_042_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送薛大赴安陸",
+    "poem": [
+      "津頭雲雨暗湘山，遷客離憂楚地顏。",
+      "遙送扁舟安陸郡，天邊何處穆陵關。"
+    ]
+  },
+  {
+    "uid": "QTS_143_043_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "芙蓉樓送辛漸二首 其一",
+    "poem": [
+      "寒雨連江夜入吳，平明送客楚山孤。",
+      "洛陽親友如相問，一片冰心在玉壺。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_043_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "芙蓉樓送辛漸二首 其二",
+    "poem": [
+      "丹陽城南秋海陰，丹陽城北楚雲深。",
+      "高樓送客不能醉，寂寂寒江明月心。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_143_044_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "重別李評事",
+    "poem": [
+      "莫道秋江離別難，舟船明日是長安。",
+      "吳姬緩舞留君醉，隨意青楓白露寒。"
+    ]
+  },
+  {
+    "uid": "QTS_143_045_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "別陶副使歸南海",
+    "poem": [
+      "南越歸人夢海樓，廣陵新月海亭秋。",
+      "寶刀留贈長相憶，當取戈船萬戶侯。"
+    ]
+  },
+  {
+    "uid": "QTS_143_046_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送人歸江夏",
+    "poem": [
+      "寒江綠水楚雲深，莫道離憂遷遠心。",
+      "曉夕雙帆歸鄂渚，愁將孤月夢中尋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "江",
+        "variant": "天",
+        "source": "一作「天」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_047_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送李五",
+    "poem": [
+      "玉盌金罍傾送君，江西日入起黃雲。",
+      "扁舟乘月暫來去，誰道滄浪吳楚分。"
+    ]
+  },
+  {
+    "uid": "QTS_143_048_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送十五舅",
+    "poem": [
+      "深林秋水近日空，歸棹演漾清陰中。",
+      "夕浦離觴意何已，草根寒露悲鳴蟲。"
+    ]
+  },
+  {
+    "uid": "QTS_143_049_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "留別郭八",
+    "poem": [
+      "長亭駐馬未能前，井邑蒼茫含暮煙。",
+      "醉別何須更惆悵，回頭不語但垂鞭。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "但",
+        "variant": "便",
+        "source": "一作「便」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_050_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送竇七",
+    "poem": [
+      "清江月色傍林秋，波上熒熒望一舟。",
+      "鄂渚輕帆須早發，江邊明月為君留。"
+    ]
+  },
+  {
+    "uid": "QTS_143_051_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "巴陵送李十二",
+    "poem": [
+      "搖曳巴陵洲渚分，清江傳語便風聞。",
+      "山長不見秋城色，日暮蒹葭空水雲。"
+    ]
+  },
+  {
+    "uid": "QTS_143_052_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送裴圖南",
+    "poem": [
+      "黃河渡頭歸問津，離家幾日茱萸新。",
+      "漫道閨中飛破鏡，猶看陌上別行人。"
+    ]
+  },
+  {
+    "uid": "QTS_143_053_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "留別司馬太守",
+    "poem": [
+      "辰陽太守念王孫，遠謫沅谿何可論。",
+      "黃鶴青雲當一舉，明珠吐著報君恩。"
+    ]
+  },
+  {
+    "uid": "QTS_143_054_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "盧溪主人",
+    "poem": [
+      "武陵溪口駐扁舟，溪水隨君向北流。",
+      "行到荊門上三峽，莫將孤月對猿愁。"
+    ]
+  },
+  {
+    "uid": "QTS_143_055_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送程六",
+    "poem": [
+      "冬夜傷離在五溪，青魚雪落鱠橙虀。",
+      "武岡前路看斜月，片片舟中雲向西。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "傷",
+        "variant": "觴",
+        "source": "一作「觴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_056_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送朱越",
+    "poem": [
+      "遠別舟中蔣山暮，君行舉首燕城路。",
+      "薊門秋月隱黃雲，期向金陵醉江樹。"
+    ]
+  },
+  {
+    "uid": "QTS_143_057_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "別辛漸",
+    "poem": [
+      "別館蕭條風雨寒，扁舟月色渡江看。",
+      "酒酣不識關西道，卻望春江雲尚殘。"
+    ]
+  },
+  {
+    "uid": "QTS_143_058_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送柴侍御",
+    "poem": [
+      "流水通波接武岡，送君不覺有離傷。",
+      "青山一道同雲雨，明月何曾是兩鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_143_059_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送萬大歸長沙",
+    "poem": [
+      "桂陽秋水長沙縣，楚竹離聲為君變。",
+      "青山隱隱孤舟微，白鶴雙飛忽相見。"
+    ]
+  },
+  {
+    "uid": "QTS_143_060_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送吳十九往沅陵",
+    "poem": [
+      "沅江流水到辰陽，谿口逢君驛路長。",
+      "遠謫誰知望雷雨，明年春水共還鄉。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "誰",
+        "variant": "唯",
+        "source": "一作「唯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_061_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "別皇甫五",
+    "poem": [
+      "漵浦潭陽隔楚山，離尊不用起愁顏。",
+      "明祠靈響期昭應，天澤俱從此路還。"
+    ]
+  },
+  {
+    "uid": "QTS_143_062_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送崔參軍往龍溪",
+    "poem": [
+      "龍溪只在龍標上，秋月孤山兩相向。",
+      "譴謫離心是丈夫，鴻恩共侍春江漲。"
+    ]
+  },
+  {
+    "uid": "QTS_143_063_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送鄭判官",
+    "poem": [
+      "東楚吳山驛樹微，軺車銜命奉恩輝。",
+      "英僚攜出新豐酒，半道遙看驄馬歸。"
+    ]
+  },
+  {
+    "uid": "QTS_143_064_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送姚司法歸吳",
+    "poem": [
+      "吳掾留觴楚郡心，洞庭秋雨海門陰。",
+      "但令意遠扁舟近，不道滄江百丈深。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "近",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_065_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "送高三之桂林",
+    "poem": [
+      "留君夜飲對瀟湘，從此歸舟客夢長。",
+      "嶺上梅花侵雪暗，歸時還拂桂花香。"
+    ]
+  },
+  {
+    "uid": "QTS_143_066_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "旅望",
+    "poem": [
+      "白花原頭望京師，黃河水流無盡時。",
+      "窮秋曠野行人絕，馬首東來知是誰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "花",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 1,
+        "text": "頭",
+        "variant": "上",
+        "source": "一作「上」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_067_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "題朱鍊師山房",
+    "poem": [
+      "叩齒焚香出世塵，齋壇鳴磬步虛人。",
+      "百花仙醞能留客，一飯胡麻度幾春。"
+    ]
+  },
+  {
+    "uid": "QTS_143_068_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "武陵開元觀黃鍊師院三首 其一",
+    "poem": [
+      "松間白髮黃尊師，童子燒香禹步時。",
+      "欲訪桃源入溪路，忽聞雞犬使人疑。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_143_068_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "武陵開元觀黃鍊師院三首 其二",
+    "poem": [
+      "先賢盛說桃花源，塵忝何堪武陵郡。",
+      "聞道秦時避地人，至今不與人通問。"
+    ],
+    "part_index": 2,
+    "total_parts": 3,
+    "variants": [
+      {
+        "line": 2,
+        "text": "通",
+        "variant": "間",
+        "source": "一作「間」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_143_068_03",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "武陵開元觀黃鍊師院三首 其三",
+    "poem": [
+      "山觀空虛清靜門，從官役吏擾塵喧。",
+      "暫因問俗到真境，便欲投誠依道源。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_143_069_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "河上老人歌",
+    "poem": [
+      "河上老人坐古槎，合丹只用青蓮花。",
+      "至今八十如四十，口道滄溟是我家。"
+    ]
+  },
+  {
+    "uid": "QTS_143_070_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "春怨",
+    "poem": [
+      "音書杜絕白狼西，桃李無顏黃鳥啼。",
+      "寒雁春深歸去盡，出門腸斷草萋萋。"
+    ],
+    "preface": "〈《樂府近代曲》載《蓋羅縫》二首，前一曲乃王昌齡《出塞》第一首，第二曲即此詩也，不著作者姓名。〉"
+  },
+  {
+    "uid": "QTS_143_071_01",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "句 其一",
+    "poem": [
+      "朝薦抱良策，獨倚江城樓。",
+      "昨從金陵邑，遠謫沅溪濱。",
+      "娟魄已三孕。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_143_071_02",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "句 其二",
+    "poem": [
+      "駕幸溫泉日，嚴霜子月初。",
+      "長亭酒未醒，千里風動地。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_143_071_03",
+    "volume": 143,
+    "author": {
+      "canonical": "王昌齡",
+      "recorded": "王昌齡",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Changling",
+      "wikidata_id": "Q704344"
+    },
+    "title": "句 其三",
+    "poem": [
+      "蒼荻寒滄江，石頭岸邊飲。",
+      "天仗森森練雪凝，身騎鐵驄自臂鷹。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  }
+]

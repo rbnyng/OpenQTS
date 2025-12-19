@@ -1,0 +1,1571 @@
+[
+  {
+    "uid": "QTS_234_001_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "哭長孫侍御",
+    "poem": [
+      "道爲謀書重，名因賦頌雄。",
+      "禮闈曾擢桂，憲府舊乘驄。",
+      "流水生涯盡，浮雲世事空。",
+      "唯餘舊臺柏，蕭瑟九原中。"
+    ],
+    "preface": "〈一作杜誦詩。以下四首，他集互見。〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "謀",
+        "variant": "諫",
+        "source": "一作「諫」，一作「詩」"
+      },
+      {
+        "line": 2,
+        "text": "舊",
+        "variant": "近",
+        "source": "一作「近」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_002_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "虢國夫人",
+    "poem": [
+      "虢國夫人承主恩，平明上馬入宮門。",
+      "卻嫌脂粉涴顏色，澹埽蛾眉朝至尊。"
+    ],
+    "preface": "〈一作張祜〖祐〗集《靈臺》二首之一。〉"
+  },
+  {
+    "uid": "QTS_234_003_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "軍中醉飲寄沈八劉叟",
+    "poem": [
+      "酒渴愛江清，餘甘漱晚汀。",
+      "輭沙欹坐穩，冷石醉眠醒。",
+      "野膳隨行帳，華音發從伶。",
+      "數杯君不見，醉已遣沈冥。"
+    ],
+    "preface": "〈一作暢當詩〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "甘",
+        "variant": "酣",
+        "source": "一作「酣」"
+      },
+      {
+        "line": 4,
+        "text": "醉",
+        "variant": "都",
+        "source": "一作「都」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_004_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "杜鵑行",
+    "poem": [
+      "古時杜宇稱望帝，魂作杜鵑何微細。",
+      "跳枝竄葉樹木中，搶佯瞥捩雌隨雄。",
+      "毛衣慘黑貌顦顇，衆鳥安肯相尊崇。",
+      "隳形不敢棲華屋，短翮唯願巢深叢。",
+      "穿皮啄朽觜欲禿，苦飢始得食一蟲。",
+      "誰言養雛不自哺，此語亦足爲愚蒙。",
+      "聲音咽咽如有謂，號啼略與嬰兒同。",
+      "口乾垂血轉迫促，似欲上訴於蒼穹。",
+      "蜀人聞之皆起立，至今斅學傳遺風。",
+      "迺知變化不可窮，豈知昔日居深宮，嬪嬙左右如花紅。",
+      "【陳永明維基按，原文應該是：】",
+      "君不見昔日蜀天子。",
+      "化作杜鵑似老烏。",
+      "寄巢生子不自啄。",
+      "羣鳥至今與哺雛。",
+      "雖同君臣有舊禮。",
+      "骨肉滿眼身羈孤。",
+      "業工竄伏深樹裏。",
+      "四月五月偏號呼。",
+      "其聲哀痛口流血。",
+      "所訴何事常區區。",
+      "爾豈摧殘始發憤。",
+      "羞帶羽翮傷形愚。",
+      "蒼天變化誰料得。",
+      "萬事反覆何所無。",
+      "萬事反覆何所無。",
+      "豈憶當殿羣臣趨。"
+    ],
+    "notes": [
+      {
+        "content": "杜甫",
+        "context": "杜鵑行",
+        "original_title": "杜鵑行 (杜甫)"
+      }
+    ],
+    "preface": "〈一作司空曙詩〉",
+    "variants": [
+      {
+        "line": 2,
+        "text": "佯",
+        "variant": "翔",
+        "source": "一作「翔」"
+      },
+      {
+        "line": 3,
+        "text": "貌",
+        "variant": "自",
+        "source": "一作「自」"
+      },
+      {
+        "line": 4,
+        "text": "隳",
+        "variant": "陋",
+        "source": "一作「陋」"
+      },
+      {
+        "line": 7,
+        "text": "咽如",
+        "variant": "噦若",
+        "source": "一作「噦若」"
+      },
+      {
+        "line": 8,
+        "text": "似欲",
+        "variant": "欲以",
+        "source": "一作「欲以」"
+      },
+      {
+        "line": 9,
+        "text": "斅學",
+        "variant": "相效",
+        "source": "一作「相效」"
+      },
+      {
+        "line": 10,
+        "text": "嬙",
+        "variant": "妃",
+        "source": "一作「妃」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_005_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "聞惠二過東溪特一送",
+    "poem": [
+      "惠子白駒瘦，歸溪唯病身。",
+      "皇天無老眼，空谷滯斯人。",
+      "崖蜜松花熟，山杯竹葉新。",
+      "柴門了無事，黃綺未稱臣。"
+    ],
+    "preface": "〈一作送惠二歸故居，一作惠子過東溪。以下七首，吳若本逸詩。〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "駒",
+        "variant": "魚",
+        "source": "一作「魚」，一作「驢」"
+      },
+      {
+        "line": 2,
+        "text": "滯",
+        "variant": "值",
+        "source": "一作「值」"
+      },
+      {
+        "line": 3,
+        "text": "熟",
+        "variant": "白",
+        "source": "一作「白」，一作「古」"
+      },
+      {
+        "line": 3,
+        "text": "山杯",
+        "variant": "村醪",
+        "source": "一作「村醪」"
+      },
+      {
+        "line": 3,
+        "text": "新",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 4,
+        "text": "無",
+        "variant": "生",
+        "source": "一作「生」"
+      },
+      {
+        "line": 4,
+        "text": "黃",
+        "variant": "園",
+        "source": "一作「園」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_006_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "舟泛洞庭",
+    "poem": [
+      "蛟室圍青草，龍堆擁白沙。",
+      "護江盤古木，迎櫂舞神鵶。",
+      "破浪南風正，收颿畏日斜。",
+      "雲山千萬疊，底處上仙槎。"
+    ],
+    "preface": "〈一作過洞庭湖〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "擁",
+        "variant": "隱",
+        "source": "一作「隱」"
+      },
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "堤",
+        "source": "一作「堤」"
+      },
+      {
+        "line": 3,
+        "text": "收颿",
+        "variant": "回檣",
+        "source": "一作「回檣」，一作「歸舟」"
+      },
+      {
+        "line": 4,
+        "text": "雲山千萬疊，底處上仙槎",
+        "variant": "湖光與天遠，直欲泛仙槎",
+        "source": "一作「湖光與天遠，直欲泛仙槎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_007_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "李鹽鐵二首 其一",
+    "poem": [
+      "落葉春風起，高城煙霧開。",
+      "雜花分戶映，嬌燕入檐回。"
+    ],
+    "preface": "〈一首題作李監宅，已見第九卷中〉",
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_234_007_02",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "李鹽鐵二首 其二",
+    "poem": [
+      "一見能傾產，虛懷只愛才。",
+      "鹽官雖絆驥，名是漢庭來。"
+    ],
+    "preface": "〈一首題作李監宅，已見第九卷中〉",
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_234_008_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "長吟",
+    "poem": [
+      "江渚飜鷗戲，官橋帶柳陰。",
+      "江飛兢渡日，草見蹋春心。",
+      "已撥形骸累，真爲爛漫深。",
+      "賦詩歌句穩，不免自長吟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      },
+      {
+        "line": 4,
+        "text": "歌",
+        "variant": "新",
+        "source": "一作「新」"
+      },
+      {
+        "line": 4,
+        "text": "免",
+        "variant": "覺",
+        "source": "一作「覺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_009_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "絕句九首",
+    "poem": [
+      "聞道巴山裏，春船正好行。",
+      "都將百年興，一望九江城。"
+    ],
+    "preface": "〈前六首已見第十三卷中〉",
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_234_009_02",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "絕句九首",
+    "poem": [
+      "水檻溫江口，茅堂石筍西。",
+      "移船先主廟，洗藥浣沙溪。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_234_009_03",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "絕句九首",
+    "poem": [
+      "設道春來好，狂風大放顛。",
+      "吹花隨水去，翻卻釣魚船。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_234_010_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "瞿唐懷古",
+    "poem": [
+      "西南萬壑注，勍敵兩崖間。",
+      "地與山根裂，江從月窟來。",
+      "削成當白帝，空曲隱陽臺。",
+      "疏鑿功雖美，陶鈞力大哉。"
+    ],
+    "preface": "〈以下《草堂逸詩拾遺》。〉"
+  },
+  {
+    "uid": "QTS_234_011_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "送司馬入京",
+    "poem": [
+      "羣盜至今日，先朝忝從臣。",
+      "歎君能戀主，久客羨歸秦。",
+      "黃閣長司諫，丹墀有故人。",
+      "向來論社稷，爲話涕霑巾。"
+    ]
+  },
+  {
+    "uid": "QTS_234_012_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "惜別行送劉僕射判官",
+    "poem": [
+      "聞道南行市駿馬，不限匹數軍中須。",
+      "襄陽幕府天下異，主將儉省憂艱虞。",
+      "祗收壯健勝鐵甲，豈因格鬬求龍駒。",
+      "而今西北自反胡，騏驎蕩盡一匹無。",
+      "龍媒真種在帝都，子孫永落西南隅。",
+      "向非戎事備征伐，君肯辛苦越江湖。",
+      "江湖凡馬多顦顇，衣冠往往乘蹇驢。",
+      "梁公富貴於身疎，號令明白人安居。",
+      "俸錢時散士子盡，府庫不爲驕豪虛。",
+      "以茲報主寸心赤，氣卻西戎迴北狄。",
+      "羅網羣馬籍馬多，氣在驅馳出金帛。",
+      "劉侯奉使光推擇，滔滔才略滄溟窄。",
+      "杜陵老翁秋繫船，扶病相識長沙驛。",
+      "強梳白髮提胡盧，手把菊花路旁摘。",
+      "九州兵革浩茫茫，三歎聚散臨重陽。",
+      "當杯對客忍流涕，君不覺老夫神內傷。"
+    ],
+    "preface": "〈僕射乃其主將劉乃僕射之判官也〉",
+    "variants": [
+      {
+        "line": 1,
+        "text": "軍",
+        "variant": "官",
+        "source": "一作「官」"
+      },
+      {
+        "line": 11,
+        "text": "籍",
+        "variant": "藉",
+        "source": "一作「藉」"
+      },
+      {
+        "line": 11,
+        "text": "氣",
+        "variant": "用",
+        "source": "一作「用」"
+      },
+      {
+        "line": 14,
+        "text": "把",
+        "variant": "兼",
+        "source": "一作「兼」"
+      },
+      {
+        "line": 16,
+        "text": "流涕",
+        "variant": "涕淚",
+        "source": "一作「涕淚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_013_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "呀鶻行",
+    "poem": [
+      "病鶻孤飛俗眼醜，每夜江邊宿衰柳。",
+      "清秋落日已側身，過雁歸鵶錯回首。",
+      "緊腦雄姿迷所向，疎翮稀毛不可狀。",
+      "強神迷復皁雕前，俊才早在蒼鷹上。",
+      "風濤颯颯寒山陰，熊羆欲蟄龍蛇深。",
+      "念爾此時有一擲，失聲濺血非其心。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "孤",
+        "variant": "卑",
+        "source": "一作「卑」"
+      },
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      },
+      {
+        "line": 5,
+        "text": "蟄",
+        "variant": "縶",
+        "source": "一作「縶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_014_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "狂歌行贈四兄",
+    "poem": [
+      "與兄行年校一歲，賢者是兄愚者弟。",
+      "兄將富貴等浮雲，弟切功名好權勢。",
+      "長安秋雨十日泥，我曹鞴馬聽晨雞。",
+      "公卿朱門未開鎖，我曹已到肩相齊。",
+      "吾兄睡穩方舒膝，不襪不巾蹋曉日。",
+      "男啼女哭莫我知，身上須繒腹中實。",
+      "今年思我來嘉州，嘉州酒重花繞樓。",
+      "樓頭喫酒樓下臥，長歌短詠還相酬。",
+      "四時八節還拘禮，女拜弟妻男拜弟。",
+      "幅巾鞶帶不掛身，頭脂足垢何曾洗。",
+      "吾兄吾兄巢許倫，一生喜怒長任真。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "者",
+        "variant": "是",
+        "source": "一作「是」"
+      },
+      {
+        "line": 7,
+        "text": "重",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 7,
+        "text": "繞",
+        "variant": "滿",
+        "source": "一作「滿」"
+      },
+      {
+        "line": 8,
+        "text": "詠",
+        "variant": "歌",
+        "source": "一作「歌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_015_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "逃難",
+    "poem": [
+      "五十頭白翁，南北逃世難。",
+      "疎布纏枯骨，奔走苦不暖。",
+      "已衰病方入，四海一塗炭。",
+      "乾坤萬里內，莫見容身畔。",
+      "妻孥復隨我，回首共悲歡。",
+      "故國莽丘墟，鄰里各分散。",
+      "歸路從此迷，涕盡湘江岸。"
+    ]
+  },
+  {
+    "uid": "QTS_234_016_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "寄高適",
+    "poem": [
+      "楚隔乾坤遠，難招病客魂。",
+      "詩名惟我共，世事與誰論。",
+      "北闕更新主，南星落故園。",
+      "定知相見日，爛漫倒芳尊。"
+    ]
+  },
+  {
+    "uid": "QTS_234_017_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "送靈州李判官",
+    "poem": [
+      "犬戎腥四海，回首一茫茫。",
+      "血戰乾坤赤，氛迷日月黃。",
+      "將軍專策略，幕府盛材良。",
+      "近賀中興主，神兵動朔方。"
+    ]
+  },
+  {
+    "uid": "QTS_234_018_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "與嚴二郎奉禮別",
+    "poem": [
+      "別君誰暖眼，將老病纏身。",
+      "出涕同斜日，臨風看去塵。",
+      "商歌還入夜，巴俗自爲鄰。",
+      "尚媿微軀在，遙聞盛禮新。",
+      "山東羣盜散，闕下受降頻。",
+      "諸將歸應盡，題書報旅人。"
+    ]
+  },
+  {
+    "uid": "QTS_234_019_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "巴西驛亭觀江漲呈竇使君二首 其一",
+    "poem": [
+      "轉驚波作怒，即恐岸隨流。",
+      "賴有杯中物，還同海上鷗。",
+      "關心小剡縣，傍眼見揚州。",
+      "爲接情人飲，朝來減半愁。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "怒",
+        "variant": "惡",
+        "source": "一作「惡」"
+      },
+      {
+        "line": 4,
+        "text": "半",
+        "variant": "片",
+        "source": "一作「片」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_019_02",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "巴西驛亭觀江漲呈竇使君二首 其二",
+    "poem": [
+      "向晚波微綠，連空岸腳青。",
+      "日兼春有暮，愁與醉無醒。",
+      "漂泊猶杯酒，躊躇此驛亭。",
+      "相看萬里外，同是一浮萍。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "微",
+        "variant": "猶",
+        "source": "一作「猶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_020_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "遣憂",
+    "poem": [
+      "亂離知又甚，消息苦難真。",
+      "受諫無今日，臨危憶古人。",
+      "紛紛乘白馬，攘攘著黃巾。",
+      "隋氏留宮室，焚燒何太頻。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "憶古人",
+        "variant": "「傷故臣",
+        "source": "一作「「傷故臣」，或「憶故臣」」"
+      },
+      {
+        "line": 4,
+        "text": "留",
+        "variant": "營",
+        "source": "一作「營」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_021_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "早花",
+    "poem": [
+      "西京安穩未，不見一人來。",
+      "臘日巴江曲，山花已自開。",
+      "盈盈當雪杏，豔豔待春梅。",
+      "直苦風塵暗，誰憂容鬢催。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "日",
+        "variant": "月",
+        "source": "一作「月」"
+      },
+      {
+        "line": 3,
+        "text": "春",
+        "variant": "香",
+        "source": "一作「香」"
+      },
+      {
+        "line": 4,
+        "text": "容",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_022_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "巴山",
+    "poem": [
+      "巴山遇中使，雲自峽城來。",
+      "盜賊還奔突，乘輿恐未回。",
+      "天寒邵伯樹，地闊望仙臺。",
+      "狼狽風塵裏，羣臣安在哉？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "峽",
+        "variant": "陝",
+        "source": "一作「陝」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_023_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "收京",
+    "poem": [
+      "復道收京邑，兼聞殺犬戎。",
+      "衣冠卻扈從，車架已還宮。",
+      "克復成如此，安危在數公。",
+      "莫令回首地，慟哭起悲風。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "安危",
+        "variant": "扶持",
+        "source": "一作「扶持」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_024_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "巴西聞收宮闕送班司馬入京",
+    "poem": [
+      "聞道收宗廟，鳴鑾自陝歸。",
+      "傾都看黃屋，正殿引朱衣。",
+      "劒外春天遠，巴西敕使稀。",
+      "念君輕世亂，匹馬向王畿。"
+    ]
+  },
+  {
+    "uid": "QTS_234_025_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "花底",
+    "poem": [
+      "紫蕚扶千蘂，黃鬚照萬花。",
+      "忽疑行暮雨，何事入朝霞。",
+      "恐是潘安縣，堪留衛玠車。",
+      "深知好顏色，莫作委泥沙。"
+    ]
+  },
+  {
+    "uid": "QTS_234_026_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "柳邊",
+    "poem": [
+      "只道梅花發，那知柳亦新。",
+      "枝枝總到地，葉葉自開春。",
+      "紫燕時飜翼，黃鸝不露身。",
+      "漢南應老盡，霸上遠愁人。"
+    ]
+  },
+  {
+    "uid": "QTS_234_027_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "送竇九歸成都",
+    "poem": [
+      "文章亦不盡，竇子才縱橫。",
+      "非爾更苦節，何人符大名。",
+      "讀書雲閣觀，問絹錦官城。",
+      "我有浣花竹，題詩須一行。"
+    ]
+  },
+  {
+    "uid": "QTS_234_028_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "贈裴南部聞袁判官自來欲有按問",
+    "poem": [
+      "塵滿萊蕪甑，堂橫單父琴。",
+      "人皆知飲水，公輩不偷金。",
+      "梁獄書因上，秦臺鏡欲臨。",
+      "獨醒時所嫉，羣小謗能深。",
+      "即出黃沙在，何須白髮侵。",
+      "使君傳舊德，已見直繩心。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "因上",
+        "variant": "應作",
+        "source": "一作「應作」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_029_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "奉使崔都水翁下峽",
+    "poem": [
+      "無數涪江筏，鳴橈總發時。",
+      "別離終不久，宗族忍相遺。",
+      "白狗黃牛峽，朝雲暮雨祠。",
+      "所過頻問訊，到日自題詩。"
+    ]
+  },
+  {
+    "uid": "QTS_234_030_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "題郪縣郭三十二明府茅屋壁",
+    "poem": [
+      "江頭且繫船，爲爾獨相憐。",
+      "雲散灌壇雨，春青彭澤田。",
+      "頻驚適小國，一擬問高天。",
+      "別後巴東路，逢人問幾賢。"
+    ]
+  },
+  {
+    "uid": "QTS_234_031_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "遣悶戲呈路十九曹長",
+    "poem": [
+      "江浦雷聲喧昨夜，春城雨色動微寒。",
+      "黃鸝竝坐交愁濕，白鷺羣飛大劇乾。",
+      "晚節漸於詩律細，誰家數去酒杯寬。",
+      "惟吾最愛清狂客，百徧向看意未闌。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "吾最",
+        "variant": "君醉",
+        "source": "一作「君醉」"
+      },
+      {
+        "line": 4,
+        "text": "看",
+        "variant": "過",
+        "source": "一作「過」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_032_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "隨章留後新亭會送諸君",
+    "poem": [
+      "新亭有高會，行子得良時。",
+      "日動映江幕，風鳴排檻旗。",
+      "絕葷終不改，勸酒欲無詞。",
+      "已墮峴山淚，因題零雨詩。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "酒",
+        "variant": "醉",
+        "source": "一作「醉」"
+      },
+      {
+        "line": 3,
+        "text": "詞",
+        "variant": "辭",
+        "source": "一作「辭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_033_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "東津送韋諷攝閬州錄事",
+    "poem": [
+      "聞說江山好，憐君吏隱兼。",
+      "寵行舟遠泛，怯別酒頻添。",
+      "推薦非承乏，操持必去嫌。",
+      "他時如按縣，不得慢陶潛。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "怯",
+        "variant": "惜",
+        "source": "一作「惜」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_034_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "客舊館",
+    "poem": [
+      "陳跡隨人事，初秋別此亭。",
+      "重來棃葉赤，依舊竹林青。",
+      "風幔何時卷，寒砧昨夜聲。",
+      "無由出江漢，愁緒月冥冥。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "何",
+        "variant": "前",
+        "source": "一作「前」"
+      },
+      {
+        "line": 4,
+        "text": "愁緒",
+        "variant": "秋渚",
+        "source": "一作「秋渚」"
+      },
+      {
+        "line": 4,
+        "text": "月",
+        "variant": "日",
+        "source": "一作「日」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_035_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "閬州奉送二十四舅使自京赴任青城",
+    "poem": [
+      "聞道王喬舄，名因太史傳。",
+      "如何碧雞使，把詔紫微天。",
+      "秦嶺愁回馬，涪江醉泛船。",
+      "青城漫污雜，吾舅意淒然。"
+    ]
+  },
+  {
+    "uid": "QTS_234_036_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "愁坐",
+    "poem": [
+      "高齋常見野，愁坐更臨門。",
+      "十月山寒重，孤城月水昏。",
+      "葭萌氐種迥，左擔犬戎存。",
+      "終日憂奔走，歸期未敢論。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "月水",
+        "variant": "水氣",
+        "source": "一作「水氣」"
+      },
+      {
+        "line": 3,
+        "text": "存",
+        "variant": "屯",
+        "source": "一作「屯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_037_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "陪鄭公秋晚北池臨眺",
+    "poem": [
+      "北池雲水闊，華館闢秋風。",
+      "獨鶴元依渚，衰荷且映空。",
+      "采菱寒刺上，蹋藕野泥中。",
+      "素檝分曹往，金盤小徑通。",
+      "萋萋露草碧，片片晚旗紅。",
+      "杯酒霑津吏，衣裳與釣翁。",
+      "異方初豔菊，故里亦高桐。",
+      "搖落關山思，淹留戰伐功。",
+      "嚴城殊未掩，清宴已知終。",
+      "何補參卿事，歡娛到薄躬。"
+    ],
+    "variants": [
+      {
+        "line": 10,
+        "text": "卿事",
+        "variant": "軍乏",
+        "source": "一作「軍乏」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_038_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "去蜀",
+    "poem": [
+      "五載客蜀郡，一年居梓州。",
+      "如何關塞阻，轉作瀟湘游。",
+      "世事已黃髮，殘生隨白鷗。",
+      "安危大臣在，不必淚長流。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "世",
+        "variant": "萬",
+        "source": "一作「萬」"
+      },
+      {
+        "line": 4,
+        "text": "不",
+        "variant": "何",
+        "source": "一作「何」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_039_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "放船",
+    "poem": [
+      "收帆下急水，卷幔逐回灘。",
+      "江市戎戎暗，山雲淰淰寒。",
+      "村荒無徑入，獨鳥怪人看。",
+      "已泊城樓底，何曾夜色闌。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "村荒",
+        "variant": "荒林",
+        "source": "一作「荒林」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_040_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "哭台州鄭司戶蘇少監",
+    "poem": [
+      "故舊誰憐我，平生鄭與蘇。",
+      "存亡不重見，喪亂獨前途。",
+      "豪俊何人在，文章埽地無。",
+      "羇遊萬里闊，凶問一年俱。",
+      "白首中原上，清秋大海隅。",
+      "夜臺當北斗，泉路著東吳。",
+      "得罪台州去，時危棄碩儒。",
+      "移官蓬閣後，穀貴沒潛夫。",
+      "流慟嗟何及，銜冤有是夫。",
+      "道消詩興廢，心息酒爲徒。",
+      "許與才雖薄，追誰跡未拘。",
+      "班揚名甚盛，嵇阮逸相須。",
+      "會取君臣合，寧銓品命殊。",
+      "賢良不必展，廊廟偶然趨。",
+      "勝決風塵際，功安造化鑪。",
+      "從容拘舊學，慘澹閟陰符。",
+      "擺落嫌疑久，哀傷志力輸。",
+      "俗依緜谷異，客對雪山孤。",
+      "童稚思諸子，交朋列友於。",
+      "情乖清酒送，望絕撫墳呼。",
+      "瘧病餐巴水，瘡痍老蜀都。",
+      "飄零迷哭處，天地日榛蕪。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "何人",
+        "variant": "人誰",
+        "source": "一作「人誰」"
+      },
+      {
+        "line": 6,
+        "text": "著",
+        "variant": "窅",
+        "source": "一作「窅」"
+      },
+      {
+        "line": 16,
+        "text": "拘",
+        "variant": "詢",
+        "source": "一作「詢」"
+      },
+      {
+        "line": 21,
+        "text": "病",
+        "variant": "痢",
+        "source": "一作「痢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_041_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "送王侍御往東川放生池祖席",
+    "poem": [
+      "東川詩友合，此贈怯輕爲。",
+      "況復傳宗近，空然惜別離。",
+      "梅花交近野，草色向平池。",
+      "儻憶江邊臥，歸期願早知。"
+    ]
+  },
+  {
+    "uid": "QTS_234_042_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "惠義寺送王少尹赴成都",
+    "poem": [
+      "苒苒谷中寺，娟娟林表峰。",
+      "闌幹上處遠，結構坐來重。",
+      "騎馬行春徑，衣冠起晚鐘。",
+      "雲門青寂寂，此別惜相從。"
+    ],
+    "preface": "〈得峰字〉",
+    "variants": [
+      {
+        "line": 3,
+        "text": "晚",
+        "variant": "暮",
+        "source": "一作「暮」"
+      },
+      {
+        "line": 4,
+        "text": "青",
+        "variant": "春",
+        "source": "一作「春」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_043_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "避地",
+    "poem": [
+      "避地歲時晚，竄身筋骨勞。",
+      "詩書遂牆壁，奴僕且旌旄。",
+      "行在僅聞信，此生隨所遭。",
+      "神堯舊天下，會見出腥臊。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遂",
+        "variant": "逐",
+        "source": "一作「逐」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_044_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "惠義寺園送辛員外",
+    "poem": [
+      "朱櫻此日垂朱實，郭外誰家負郭田。",
+      "萬里相逢貪握手，高才卻望足離筵。"
+    ]
+  },
+  {
+    "uid": "QTS_234_045_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "又送",
+    "poem": [
+      "雙峰寂寂對春臺，萬竹青青照客杯。",
+      "細草留連侵坐輭，殘花悵望近人開。",
+      "同舟昨日何由得，竝馬今朝未擬迴。",
+      "直到緜州始分首，江邊樹裏共誰來。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "照",
+        "variant": "送",
+        "source": "一作「送」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_046_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "九日登梓州城",
+    "poem": [
+      "客心驚暮序，賓雁下襄州。",
+      "共賞重陽節，言尋戲馬遊。",
+      "湖風秋戍柳，江雨暗山樓。",
+      "且酌東籬菊，聊祛南國愁。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "襄",
+        "variant": "滄",
+        "source": "一作「滄」"
+      },
+      {
+        "line": 3,
+        "text": "秋",
+        "variant": "扶",
+        "source": "一作「扶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_234_047_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "闕題",
+    "poem": [
+      "三月雪連夜，未應傷物華。",
+      "只緣春欲盡，留著伴棃花。"
+    ]
+  },
+  {
+    "uid": "QTS_234_048_01",
+    "volume": 234,
+    "author": {
+      "canonical": "杜甫",
+      "recorded": "杜甫",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Du Fu",
+      "wikidata_id": "Q33772"
+    },
+    "title": "句",
+    "poem": [
+      "寒食少天氣，東風多柳花。",
+      "小桃知客意，春盡始開花。"
+    ],
+    "part_index": 1
+  }
+]

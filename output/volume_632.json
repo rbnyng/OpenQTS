@@ -1,0 +1,2587 @@
+[
+  {
+    "uid": "QTS_632_001_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "塞上",
+    "poem": [
+      "萬里隋城在，三邊虜氣衰。",
+      "沙填孤障角，燒斷故關碑。",
+      "馬色經寒慘，鵰聲帶晚悲。",
+      "將軍正閒暇，留客換歌辭。"
+    ],
+    "preface": "司空圖字表聖，河中虞鄉人。咸通末擢進士第，由宣歙幕歴禮部郎中。僖宗行在，用為知制誥中書舍人，歸隠中條山王官谷。龍紀、乾寜間，徴拜舊官，及以戶、兵二部侍郎召，皆不起。遷洛後被詔入朝，以野耄丏歸。朱全忠受禪，召為禮部尚書，不食而卒。圖少有俊才，晩年避世棲遯，自號知非子、耐辱居士。有先世別墅，泉石林亭頗愜幽趣，日與名僧高士遊詠其中。有《一鳴集》三十卷、《內詩》十卷。今編詩三卷。",
+    "variants": [
+      {
+        "line": 3,
+        "text": "悲",
+        "variant": "飢",
+        "source": "一作「飢」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_002_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "寄永嘉崔道融",
+    "poem": [
+      "旅寓雖難定，乘閒是勝遊。",
+      "碧雲蕭寺霽，紅樹謝村秋。",
+      "戍鼓和潮暗，船燈照島幽。",
+      "詩家多滯此，風景似相留。"
+    ]
+  },
+  {
+    "uid": "QTS_632_003_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "下方",
+    "poem": [
+      "三十年來往，中間京洛塵。",
+      "倦行今白首，歸臥已清神。",
+      "坡暖冬抽筍，松涼夏健人。",
+      "更慚徵詔起，避世跡非真。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "抽",
+        "variant": "生",
+        "source": "一作「生」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_004_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "華下",
+    "poem": [
+      "日炙旱雲裂，迸為千道血。",
+      "天地沸一鑊，竟自烹妖孽。",
+      "堯湯遇災數，災數還中輟。",
+      "何事姦與邪，古來難撲滅？"
+    ]
+  },
+  {
+    "uid": "QTS_632_005_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "僧舍貽友",
+    "poem": [
+      "笑破人間事，吾徒莫自欺。",
+      "解吟僧亦俗，愛舞鶴終卑。",
+      "竹上題幽夢，溪邊約敵棋。",
+      "舊山歸有阻，不是故遲遲。"
+    ]
+  },
+  {
+    "uid": "QTS_632_006_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "下方",
+    "poem": [
+      "昏旦松軒下，怡然對一瓢。",
+      "雨微吟思足，花落夢無聊。",
+      "細事當棋遣，衰容喜鏡饒。",
+      "溪僧有深趣，書至又相邀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "吟思",
+        "variant": "春未",
+        "source": "一作「春未」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_007_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "華下送文浦",
+    "poem": [
+      "郊居謝名利，何事最相親。",
+      "漸與論詩久，皆知得句新。",
+      "川明虹照雨，樹密鳥衝人。",
+      "應念從今去，還來嶽下頻。"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "《舊史》云：「河北亂，圖寓華陰。」",
+        "context": "漸與論詩久，皆知得句新。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_008_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "自誡",
+    "poem": [
+      "我祖銘座右，嘉謀貽厥孫。",
+      "勤此苟不怠，令名日可存。",
+      "媒衒士所聇，慈儉道所尊。",
+      "松柏豈不茂，桃李亦自繁。",
+      "眾人皆察察，而我獨昏昏。",
+      "取訓於老氏，大辯欲訥言。"
+    ]
+  },
+  {
+    "uid": "QTS_632_009_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "效陳拾遺子昂感遇二首 其一",
+    "poem": [
+      "高燕飛何捷，啄害恣羣雛。",
+      "人豈玩其暴，華軒容爾居。",
+      "強欺自天稟，剛吐信吾徒。",
+      "乃知不平者，矯世道終孤。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_009_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "效陳拾遺子昂感遇二首 其二",
+    "poem": [
+      "陽和含煦潤，卉木競紛華。",
+      "當為眾所悅，私已汝何誇。",
+      "北里秘穠豔，東園鎖名花。",
+      "豪奪乃常理，笑君徒咄嗟。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_010_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "效陳拾遺子昂",
+    "poem": [
+      "醜婦競簪花，花多映愈醜。",
+      "鄰女恃其姿，掇之不盈手。",
+      "量已苟自私，招損乃誰咎。",
+      "寵祿既非安，於吾竟何有？"
+    ]
+  },
+  {
+    "uid": "QTS_632_011_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "感時",
+    "poem": [
+      "好鳥無惡聲，仁獸肯狂噬。",
+      "寧教鸚鵡啞，不遣麒麟細。",
+      "人人語與默，唯觀利與勢。",
+      "愛毀亦自遭，掩謗終失計。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "細",
+        "variant": "吠",
+        "source": "一作「吠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_012_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "秋思",
+    "poem": [
+      "身病時亦危，逢秋多慟哭。",
+      "風波一搖盪，天地幾翻覆。",
+      "孤螢出荒池，落葉穿破屋。",
+      "勢利長草草，何人訪幽獨？"
+    ]
+  },
+  {
+    "uid": "QTS_632_013_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "早春",
+    "poem": [
+      "傷懷同客處，病眼卻花朝。",
+      "草嫩侵沙短，冰輕著雨消。",
+      "風光知可愛，容髮不相饒。",
+      "早晚丹丘去，飛書肯見招。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "同",
+        "variant": "仍",
+        "source": "一作「仍」"
+      },
+      {
+        "line": 2,
+        "text": "短",
+        "variant": "長",
+        "source": "一作「長」"
+      },
+      {
+        "line": 4,
+        "text": "去",
+        "variant": "伴",
+        "source": "一作「伴」"
+      },
+      {
+        "line": 4,
+        "text": "肯",
+        "variant": "首",
+        "source": "一作「首」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_014_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "上陌梯寺懷舊僧二首 其一",
+    "poem": [
+      "雲根禪客居，皆說舊無廬。",
+      "松日明金像，山風嚮木魚。",
+      "依棲應不阻，名利本來疎。",
+      "縱有人相問，林間懶拆書。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "無",
+        "variant": "吾",
+        "source": "一作「吾」"
+      },
+      {
+        "line": 2,
+        "text": "山風",
+        "variant": "苔龕",
+        "source": "一作「苔龕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_014_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "上陌梯寺懷舊僧二首 其二",
+    "poem": [
+      "高鴉隔谷見，路轉寺西門。",
+      "塔影蔭泉脈，山苗侵燒痕。",
+      "鐘疎含杳靄，閤迥亘黃昏。",
+      "更待他僧到，長如前信存。"
+    ],
+    "part_index": 2,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 3,
+        "text": "閤",
+        "variant": "閣",
+        "source": "一作「閣」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_015_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "寄懷元秀上人",
+    "poem": [
+      "悠悠干祿利，草草廢漁樵。",
+      "身世堪惆悵，風騷頓寂寥。",
+      "高秋期步野，積雨放趨朝。",
+      "得句如相憶，莎齋且見招。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "頓",
+        "variant": "頗",
+        "source": "一作「頗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_016_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "次韻和秀上人遊南五臺",
+    "poem": [
+      "中峰曾到處，題記沒蒼苔。",
+      "振錫傳深谷，翻經想舊臺。",
+      "危松臨砌偃，驚鹿驀溪來。",
+      "內殿御詩切，身迴心未迴。"
+    ],
+    "notes": [
+      {
+        "content": "師以文章應制。",
+        "context": "司空圖 次韻和秀上人遊南五臺"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "御",
+        "variant": "評",
+        "source": "一作「評」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_017_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "贈圓昉公",
+    "poem": [
+      "天階讓紫衣，冷格鶴猶卑。",
+      "道勝嫌名出，身閒覺老遲。",
+      "曉香延宿火，寒磬度高枝。",
+      "每說長松寺，他年與我期。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_018_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "贈信美寺岑上人",
+    "poem": [
+      "巡禮諸方遍，湘南頻有緣。",
+      "焚香老山寺，乞食向江船。",
+      "紗碧籠名畫，燈寒照淨禪。",
+      "我來能永日，蓮漏滴寒泉。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "寒泉",
+        "variant": "堦前",
+        "source": "一作「堦前」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_019_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "江行二首 其一",
+    "poem": [
+      "地闊分吳塞，楓高映楚天。",
+      "曲塘春盡雨，方響夜深船。",
+      "行紀添新夢，羇愁甚往年。",
+      "何時京洛路，馬上見人煙？"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《舊唐書》；「方響以鐵為之，長九寸，廣二寸，員上方下。」",
+        "context": "行紀添新夢，羇愁甚往年。"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 2,
+        "text": "曲",
+        "variant": "迴",
+        "source": "一作「迴」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_019_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "江行二首 其二",
+    "poem": [
+      "初程風信好，迴望失津樓。",
+      "日帶潮聲晚，煙含楚色秋。",
+      "戍旗當遠客，島樹轉驚鷗。",
+      "此去非名利，孤帆任白頭。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_020_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "長安贈王注",
+    "poem": [
+      "正下搜賢詔，多君獨避名。",
+      "客來當意愜，花發遇歌成。",
+      "樂地留高趣，權門讓後生。",
+      "東方御閑駟，園外好同行。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "東方御閑駟",
+        "variant": "東風閑小駟",
+        "source": "一作「東風閑小駟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_021_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "贈步寄李員外",
+    "poem": [
+      "危橋轉溪路，經雨石叢荒。",
+      "幽瀑下仙果，孤巢懸夕陽。",
+      "病辭青瑣秘，心在紫芝房。",
+      "更喜諧招隱，詩家有望郎。"
+    ]
+  },
+  {
+    "uid": "QTS_632_022_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "寄鄭仁規",
+    "poem": [
+      "清才鄭小戎，標的貴遊中。",
+      "萬里雲無侶，三山鶴不籠。",
+      "香和丹地暖，晚著彩衣風。",
+      "榮路期經濟，唯應在至公。"
+    ]
+  },
+  {
+    "uid": "QTS_632_023_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "寄考功王員外",
+    "poem": [
+      "喜聞三字耗，閒客是陪遊。",
+      "白鳥閒疎索，青山日滯留。",
+      "琴如高韻稱，詩愧逸才酬。",
+      "更勉匡君志，論思在獻謀。"
+    ]
+  },
+  {
+    "uid": "QTS_632_024_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜言",
+    "poem": [
+      "烏飛飛，兔蹶蹶，朝來暮去驅時節。",
+      "女媧祇解補青天，不解煎膠粘日月。"
+    ]
+  },
+  {
+    "uid": "QTS_632_025_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "陳疾",
+    "poem": [
+      "自憐旅舍亦酣歌，世路無機奈爾何。",
+      "霄漢逼來心不動，鬢毛白盡興猶多。",
+      "殘陽暫照鄉關近，遠鳥因投嶽廟過。",
+      "閒得此身歸未得，磬聲深夏隔煙蘿。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "逼",
+        "variant": "碧",
+        "source": "一作「碧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_026_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "淅上",
+    "poem": [
+      "華下支離已隔河，又來此地避干戈。",
+      "山田漸廣猨時到，邨舍新添燕亦多。",
+      "丹桂石楠宜並長，秦雲楚雨暗相和。",
+      "兒童栗熟迷歸路，歸得仍隨牧豎歌。"
+    ],
+    "notes": [
+      {
+        "content": "一作《江淅上》，是今鄖陽府地，在秦、楚之交，故有「秦雲楚雨」之句",
+        "context": "淅上",
+        "original_title": "淅上",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "歸路",
+        "variant": "新逕",
+        "source": "一作「新逕」"
+      },
+      {
+        "line": 4,
+        "text": "得",
+        "variant": "去",
+        "source": "一作「去」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_027_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "淅上",
+    "poem": [
+      "西北鄉關近帝京，煙塵一片正傷情。",
+      "愁看地色連空色，靜聽歌聲似哭聲。",
+      "紅蓼滿村人不在，青山遶檻路難平。",
+      "從他煙棹更南去，休向津頭問去程。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "滿",
+        "variant": "遮",
+        "source": "一作「遮」"
+      },
+      {
+        "line": 3,
+        "text": "在",
+        "variant": "見",
+        "source": "一作「見」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_028_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "山中",
+    "poem": [
+      "全家與我戀孤岑，蹋得蒼苔一徑深。",
+      "逃難人多分隙地，放生麋大出寒林。",
+      "名應不朽輕仙骨，理到忘機近佛心。",
+      "昨夜前溪驟雷雨，晚晴閒步數峰吟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "與",
+        "variant": "為",
+        "source": "一作「為」"
+      },
+      {
+        "line": 2,
+        "text": "麋",
+        "variant": "鹿",
+        "source": "一作「鹿」"
+      },
+      {
+        "line": 3,
+        "text": "仙",
+        "variant": "山",
+        "source": "一作「山」"
+      },
+      {
+        "line": 4,
+        "text": "前溪驟雷",
+        "variant": "雲又作風",
+        "source": "一作「雲又作風」"
+      },
+      {
+        "line": 4,
+        "text": "閒",
+        "variant": "獨",
+        "source": "一作「獨」"
+      },
+      {
+        "line": 4,
+        "text": "峰吟",
+        "variant": "溪禽",
+        "source": "一作「溪禽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_029_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "寄贈詩僧秀公",
+    "poem": [
+      "靈一心傳清塞心，可公吟後礎公吟。",
+      "近來雅道相親少，惟仰吾師所得深。",
+      "好句未停無暇日，舊山歸老有東林。",
+      "冷曹孤宦甘寥落，多謝攜筇數訪尋。"
+    ]
+  },
+  {
+    "uid": "QTS_632_030_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "重陽日訪元秀上人",
+    "poem": [
+      "紅葉黃花秋景寬，醉吟朝夕在樊川。",
+      "卻嫌今日登山俗，且共高僧對榻眠。",
+      "別畫長懷吳寺壁，宜茶偏賞霅溪泉。",
+      "歸來童穉爭相笑，何事無人與酒船。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "且共",
+        "variant": "共與",
+        "source": "一作「共與」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_031_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "丁未歲歸王官谷",
+    "poem": [
+      "家山牢落戰塵西，匹馬偷歸路已迷。",
+      "塚上卷旗人簇立，花邊移寨鳥驚啼。",
+      "本來薄俗輕文字，卻致中原動鼓鼙。",
+      "將取一壺閒日月，長歌深入武陵溪。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "將",
+        "variant": "時",
+        "source": "一作「時」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_032_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "書懷",
+    "poem": [
+      "病來猶強引雛行，力上東原欲試耕。",
+      "幾處馬嘶春麥長，一川人喜雪峰晴。",
+      "閒知有味心難肯，道貴謀安迹易平。",
+      "陶令若能兼不飲，無弦琴亦是沽名。"
+    ]
+  },
+  {
+    "uid": "QTS_632_033_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退棲",
+    "poem": [
+      "宦遊蕭索為無能，移住中條最上層。",
+      "得劔乍如添健僕，亡書久似失良朋。",
+      "燕昭不是空憐馬，支遁何妨亦愛鷹。",
+      "自此致身繩檢外，肯教世路日兢兢。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "失",
+        "variant": "憶",
+        "source": "一作「憶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_034_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "五十",
+    "poem": [
+      "閒身事少只題詩，五十今來覺陡衰。",
+      "清秩偶叨非養望，丹方頻試更堪疑。",
+      "髭鬚強染三分折，弦管遙聽一半悲。",
+      "漉酒有巾無黍釀，負他黃菊滿東籬。"
+    ],
+    "part_index": 1
+  },
+  {
+    "uid": "QTS_632_035_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "新歲對寫真",
+    "poem": [
+      "得見明時下壽身，須甘歲酒更移巡。",
+      "生情暗結千重恨，寒勢常欺一半春。",
+      "文武輕銷丹竈火，市朝偏貴黑頭人。",
+      "自傷衰颯慵開鏡，擬與兒童別寫真。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "結",
+        "variant": "隔",
+        "source": "一作「隔」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_036_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "華下",
+    "poem": [
+      "籜冠新帶步池塘，逸韻偏宜夏景長。",
+      "扶起綠荷承早露，驚迴白鳥入殘陽。",
+      "久無書去干時貴，時有僧來自故鄉。",
+      "不用名山訪真訣，退休便是養生方。"
+    ]
+  },
+  {
+    "uid": "QTS_632_037_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "重陽山居",
+    "poem": [
+      "詩人自古恨難窮，暮節登臨且喜同。",
+      "四望交親兵亂後，一川風物笛聲中。",
+      "菊殘深處迴幽蝶，陂動晴光下早鴻。",
+      "明日更期來此醉，不堪寂寞對衰翁。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "望交親",
+        "variant": "座賔朋",
+        "source": "一作「座賔朋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_038_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "爭名",
+    "poem": [
+      "爭名豈在更搜奇，不朽纔消一句詩。",
+      "窮辱未甘英氣阻，乖踈還有正人知。",
+      "荷香浥露侵衣潤，松影和風傍枕移。",
+      "只此共棲塵外境，無妨亦戀好文時。"
+    ]
+  },
+  {
+    "uid": "QTS_632_039_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "光啟四年春戊申",
+    "poem": [
+      "亂後燒殘數架書，峰前猶自戀吾廬。",
+      "忘機漸喜逢人少，覽鏡空憐待鶴疎。",
+      "孤嶼池痕春漲滿，小闌花韻午晴初。",
+      "酣歌自適逃名久，不必門多長者車。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "數",
+        "variant": "滿",
+        "source": "一作「滿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_040_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "丁巳重陽",
+    "poem": [
+      "重陽未到已登臨，探得黃花且獨斟。",
+      "客舍喜逢連日雨，家山似響隔河砧。",
+      "亂來已失耕桑計，病後休論濟活心。",
+      "自賀逢時能自棄，歸鞭唯拍馬韉吟。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "鄉",
+        "source": "一作「鄉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_041_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "喜王駕小儀重陽相訪",
+    "poem": [
+      "白菊初開臥內明，聞君相訪病身輕。",
+      "樽前且撥傷心事，谿上還隨覓句行。",
+      "幽鶴傍人疑舊識，殘蟬向日噪新晴。",
+      "擬將寂寞同留住，且勸康時立大名。"
+    ]
+  },
+  {
+    "uid": "QTS_632_042_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "酬張芬赦後見寄",
+    "poem": [
+      "紫鳳朝銜五色書，陽春忽布網羅除。",
+      "已將心變寒灰後，豈料光生腐草餘。",
+      "建水風煙收客淚，杜陵花燭夢郊居。",
+      "勞君故有詩相贈，欲報瓊瑤媿不如。"
+    ]
+  },
+  {
+    "uid": "QTS_632_043_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "上元放二雉",
+    "poem": [
+      "嬰網雖皆困，搴籠喜共歸。",
+      "無心期爾報，相見莫驚飛。"
+    ]
+  },
+  {
+    "uid": "QTS_632_044_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "中秋",
+    "poem": [
+      "閒吟秋景外，萬事覺悠悠。",
+      "此夜若無月，一年虛過秋。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "夜",
+        "variant": "際",
+        "source": "一作「際」"
+      },
+      {
+        "line": 2,
+        "text": "虛",
+        "variant": "空",
+        "source": "一作「空」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_045_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶題",
+    "poem": [
+      "水榭花繁處，春晴日午前。",
+      "鳥窺臨檻鏡，馬過隔牆鞭。"
+    ]
+  },
+  {
+    "uid": "QTS_632_046_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "閒步",
+    "poem": [
+      "幾處白煙斷，一川紅樹時。",
+      "壞橋侵轍水，殘照背村碑。"
+    ]
+  },
+  {
+    "uid": "QTS_632_047_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "春中",
+    "poem": [
+      "伏溜侵堦潤，繁花隔竹香。",
+      "嬌鶯方曉聽，無事過南塘。"
+    ]
+  },
+  {
+    "uid": "QTS_632_048_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "獨望",
+    "poem": [
+      "綠樹連邨暗，黃花出陌稀。",
+      "遠陂春草綠，猶有水禽飛。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "出陌",
+        "variant": "入麥",
+        "source": "一作「入麥」"
+      },
+      {
+        "line": 2,
+        "text": "草綠",
+        "variant": "早滲",
+        "source": "一作「早滲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_049_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題",
+    "poem": [
+      "孤枕聞鶯起，幽懷獨悄然。",
+      "地融春力潤，花泛曉光鮮。"
+    ]
+  },
+  {
+    "uid": "QTS_632_050_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "漫題三首 其一",
+    "poem": [
+      "亂後他鄉節，燒殘故國春。",
+      "自憐垂白首，猶伴踏青人。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_050_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "漫題三首 其二",
+    "poem": [
+      "齒落傷情久，心驚健忘頻。",
+      "蝸廬經歲客，蠶市異鄉人。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_050_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "漫題三首 其三",
+    "poem": [
+      "率怕人言謹，閒宜酒韻高。",
+      "山林若無慮，名利不難逃。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_051_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "河上二首 其一",
+    "poem": [
+      "慘慘日將暮，驅羸獨到莊。",
+      "沙痕傍墟落，風色入牛羊。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_051_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "河上二首 其二",
+    "poem": [
+      "新霽田園處，夕陽禾黍明。",
+      "沙村平見水，深巷有鷗聲。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_052_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "早朝",
+    "poem": [
+      "白日新年好，青春上國多。",
+      "街平雙闕近，塵起五雲和。"
+    ]
+  },
+  {
+    "uid": "QTS_632_053_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事二首 其一",
+    "poem": [
+      "茶爽添詩句，天清瑩道心。",
+      "只留鶴一隻，此外是空林。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_053_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事二首 其二",
+    "poem": [
+      "御禮徵奇策，人心注盛時。",
+      "從來留振滯，只待濟臨危。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_054_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "永夜",
+    "poem": [
+      "永夜疑無日，危時只賴山。",
+      "曠懷休戚外，孤跡是非間。"
+    ]
+  },
+  {
+    "uid": "QTS_632_055_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "秦關",
+    "poem": [
+      "形勝今雖在，荒涼恨不窮。",
+      "虎狼秦國破，狐兔漢陵空。"
+    ]
+  },
+  {
+    "uid": "QTS_632_056_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "渡江",
+    "poem": [
+      "秋江共僧渡，鄉淚滴船回。",
+      "一夜吳船夢，家書立馬開。"
+    ]
+  },
+  {
+    "uid": "QTS_632_057_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其一",
+    "poem": [
+      "花缺傷難綴，鶯喧奈細聽。",
+      "惜春春已晚，珍重草青青。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其二",
+    "poem": [
+      "堤柳自綿綿，幽人無恨牽。",
+      "只憂詩病發，莫寄校書牋。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其三",
+    "poem": [
+      "燕語曾來客，花催欲別人。",
+      "莫愁春又過，看著又新春。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_04",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其四",
+    "poem": [
+      "身外都無事，山中久避喧。",
+      "破巢看乳燕，留果待啼猨。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_05",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其五",
+    "poem": [
+      "詩家通籍美，工部與司勳。",
+      "高賈雖難敵，微官偶勝君。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_06",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其六",
+    "poem": [
+      "努力省前非，人生上壽稀。",
+      "青雲無直道，暗室有危機。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_057_07",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "退居漫題七首 其七",
+    "poem": [
+      "燕拙營巢苦，魚貪觸網驚。",
+      "豈緣身外事，亦似我勞形。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_632_058_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其一",
+    "poem": [
+      "宿雨川原霽，憑高景物新。",
+      "陂痕侵牧馬，雲影帶耕人。"
+    ],
+    "part_index": 1,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其二",
+    "poem": [
+      "十年深隱地，一雨太平心。",
+      "匣澁休看劔，窗明復上琴。"
+    ],
+    "part_index": 2,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其三",
+    "poem": [
+      "明時那棄置，多病自遲留。",
+      "疎磬和吟斷，殘燈照臥幽。"
+    ],
+    "part_index": 3,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_04",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其四",
+    "poem": [
+      "衰鬢閒生少，丹梯望覺危。",
+      "松須依石長，鶴不傍人卑。"
+    ],
+    "part_index": 4,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_05",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其五",
+    "poem": [
+      "落葉頻驚鹿，連峰欲映鵰。",
+      "此生詩病苦，此病更蕭條。"
+    ],
+    "part_index": 5,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_06",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其六",
+    "poem": [
+      "旅思又驚夏，庭前長小松。",
+      "遠峰生貴氣，殘月斂衰容。"
+    ],
+    "part_index": 6,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_07",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其七",
+    "poem": [
+      "林鳥頻窺靜，家人亦笑慵。",
+      "舊居留穩枕，歸臥聽秋鐘。"
+    ],
+    "part_index": 7,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_08",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其八",
+    "poem": [
+      "華宇知難保，燒來又卻修。",
+      "只應巢燕惜，未必主人留。"
+    ],
+    "part_index": 8,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_058_09",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "即事九首 其九",
+    "poem": [
+      "幽鳥穿籬去，鄰翁採藥回。",
+      "雲從潭底出，花向佛前開。"
+    ],
+    "part_index": 9,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_059_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "松滋渡二首 其一",
+    "poem": [
+      "步上短亭久，看回官渡船。",
+      "江鄉宜晚霽，楚老語豐年。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_059_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "松滋渡二首 其二",
+    "poem": [
+      "楚岫接鄉思，茫茫歸路迷。",
+      "更堪斑竹驛，初聽鷓鴣啼。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_060_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "華清宮",
+    "poem": [
+      "帝業山河固，離宮宴幸頻。",
+      "豈知驅戰馬，只是太平人。"
+    ]
+  },
+  {
+    "uid": "QTS_632_061_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "牛頭寺",
+    "poem": [
+      "終南最佳處，禪誦出青霄。",
+      "羣木澄幽寂，疏煙泛泬寥。"
+    ]
+  },
+  {
+    "uid": "QTS_632_062_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "感時上盧相",
+    "poem": [
+      "兵待皇威振，人隨國步安。",
+      "萬方休望幸，封岳始鳴鑾。"
+    ]
+  },
+  {
+    "uid": "QTS_632_063_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "亂後三首 其一",
+    "poem": [
+      "喪亂家難保，艱虞病懶醫。",
+      "空將憂國淚，猶擬灑丹墀。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_063_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "亂後三首 其二",
+    "poem": [
+      "流芳能幾日，惆悵又聞蟬。",
+      "行在多新貴，幽棲獨長年。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_063_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "亂後三首 其三",
+    "poem": [
+      "世事嘗艱險，僧居慣寂寥。",
+      "美香聞夜合，清景見寅朝。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_632_064_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "秋景",
+    "poem": [
+      "景物皆難駐，傷春復怨秋。",
+      "旋書紅葉落，擬畫碧雲收。"
+    ]
+  },
+  {
+    "uid": "QTS_632_065_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "避亂",
+    "poem": [
+      "離亂身偶在，竄跡任浮沉。",
+      "虎暴荒居迥，螢孤黑夜深。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "離亂",
+        "variant": "亂離",
+        "source": "一作「亂離」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_632_066_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "長亭",
+    "poem": [
+      "梅雨和鄉淚，終年共酒衣。",
+      "殷勤華表鶴，羨爾亦曾歸。"
+    ]
+  },
+  {
+    "uid": "QTS_632_067_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "村西杏花二首 其一",
+    "poem": [
+      "薄膩力偏羸，看看愴別時。",
+      "東風狂不惜，西子病難醫。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_067_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "村西杏花二首 其二",
+    "poem": [
+      "肌細分紅脈，香濃破紫苞。",
+      "無因留得翫，爭忍折來拋。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_068_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "獨坐",
+    "poem": [
+      "幽徑入桑麻，塢西逢一家。",
+      "編籬薪帶繭，補屋草和花。"
+    ]
+  },
+  {
+    "uid": "QTS_632_069_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "借居",
+    "poem": [
+      "借住郊園久，仍逢夏景新。",
+      "綠苔行屐穩，黃鳥傍窗頻。"
+    ]
+  },
+  {
+    "uid": "QTS_632_070_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "重陽",
+    "poem": [
+      "菊開猶阻雨，蝶意切於人。",
+      "亦應知暮節，不比惜殘春。"
+    ]
+  },
+  {
+    "uid": "QTS_632_071_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶書五首 其一",
+    "poem": [
+      "衰謝當何懺，惟應悔壯圖。",
+      "磬聲花外遠，人影塔前孤。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_632_071_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶書五首 其二",
+    "poem": [
+      "色變鶯雛長，竿齊筍籜垂。",
+      "白頭身偶在，清夏景還移。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_632_071_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶書五首 其三",
+    "poem": [
+      "蜀妓輕成妙，吳娃狎共纖。",
+      "晚妝留拜月，卷上水精簾。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_632_071_04",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶書五首 其四",
+    "poem": [
+      "獨步荒郊暮，沉思遠墅幽。",
+      "平生多少事，彈指一時休。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_632_071_05",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "偶書五首 其五",
+    "poem": [
+      "掩謗知迎吠，欺心見強顏。",
+      "有名人易困，無契債難還。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_632_072_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其一",
+    "poem": [
+      "病來勝未病，名縛便忘名。",
+      "今日甘為客，當時注愍征。"
+    ],
+    "notes": [
+      {
+        "content": "圖集有《注愍征賦述》，賦，盧獻卿撰。",
+        "context": "司空圖 雜題九首"
+      }
+    ],
+    "part_index": 1,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其二",
+    "poem": [
+      "暑濕深山雨，荒居破屋燈。",
+      "此生無懺處，此去作高僧。"
+    ],
+    "part_index": 2,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_03",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其三",
+    "poem": [
+      "不須頻悵望，且喜脫喧囂。",
+      "亦有終焉意，陂南看稻苗。"
+    ],
+    "part_index": 3,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_04",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其四",
+    "poem": [
+      "樓帶猨吟迥，庭容鶴舞寬。",
+      "⿰書因閱畫，封藥偶和丹。"
+    ],
+    "part_index": 4,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_05",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其五",
+    "poem": [
+      "宴罷論詩久，亭高拜表頻。",
+      "岸香蕃舶月，洲色海煙春。"
+    ],
+    "part_index": 5,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_06",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其六",
+    "poem": [
+      "驛步堤縈閣，軍城鼓振橋。",
+      "鷗和湖雁下，雪隔嶺梅飄。"
+    ],
+    "part_index": 6,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_07",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其七",
+    "poem": [
+      "帶雪南山道，和鐘北闕明。",
+      "太平當共賀，開化喝來聲。"
+    ],
+    "part_index": 7,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_08",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其八",
+    "poem": [
+      "舴艋猨偷上，蜻蜓燕競飛。",
+      "樵香燒桂子，苔濕掛莎衣。"
+    ],
+    "part_index": 8,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_072_09",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "雜題九首 其九",
+    "poem": [
+      "溪漲漁家近，煙收鳥道高。",
+      "松花飄可惜，睡裏灑離騷。"
+    ],
+    "part_index": 9,
+    "total_parts": 9
+  },
+  {
+    "uid": "QTS_632_073_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "古樂府",
+    "poem": [
+      "一葉隨西風，君行亦向東。",
+      "知妾飛書意，無勞待早鴻。"
+    ]
+  },
+  {
+    "uid": "QTS_632_074_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "有感",
+    "poem": [
+      "燈影看鬚黑，牆陰惜草青。",
+      "歲闌悲物我，同是冒霜螢。"
+    ]
+  },
+  {
+    "uid": "QTS_632_075_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "休休亭",
+    "poem": [
+      "且喜安能保，那堪病更憂。",
+      "可憐藜杖者，真個種瓜侯。"
+    ]
+  },
+  {
+    "uid": "QTS_632_076_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "漫書二首 其一",
+    "poem": [
+      "剩欲逢花折，判須冒雨頻。",
+      "晴明開漸少，莫怕濕新巾。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_076_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "漫書二首 其二",
+    "poem": [
+      "小蝶爾何競？追飛不憚勞。",
+      "遠教羣雀見，寧悟禍梯高。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_077_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "歲盡二首 其一",
+    "poem": [
+      "明日添一歲，端憂奈爾何。",
+      "衝寒出洞口，猶校夕陽多。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_077_02",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "歲盡二首 其二",
+    "poem": [
+      "莫話傷心事，投春滿鬢霜。",
+      "殷勤共尊酒，今歲只殘陽。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_632_078_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "牡丹",
+    "poem": [
+      "得地牡丹盛，曉添龍麝香。",
+      "主人猶自惜，錦幕護春霜。"
+    ]
+  },
+  {
+    "uid": "QTS_632_079_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "亂後",
+    "poem": [
+      "羽書傳棧道，風火隔鄉關。",
+      "病眼那堪泣，傷心不到間。"
+    ]
+  },
+  {
+    "uid": "QTS_632_080_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "春山",
+    "poem": [
+      "可是武陵溪，春芳著路迷。",
+      "花明催曙早，雲膩惹空低。"
+    ]
+  },
+  {
+    "uid": "QTS_632_081_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "樂府",
+    "poem": [
+      "寶馬跋塵光，雙馳照路旁。",
+      "喧傳報戚里，明日幸長楊。"
+    ]
+  },
+  {
+    "uid": "QTS_632_082_01",
+    "volume": 632,
+    "author": {
+      "canonical": "司空圖",
+      "recorded": "司空圖",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Sikong Tu",
+      "wikidata_id": "Q6382372"
+    },
+    "title": "亂前上盧相",
+    "poem": [
+      "虜黠雖多變，兵驕即易乘。",
+      "猶須勞斥候，勿遣大河冰。"
+    ]
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "uid": "QTS_757_001_01",
+    "volume": 757,
+    "author": {
+      "canonical": "徐鍇",
+      "recorded": "徐鍇",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Xu Kai",
+      "wikidata_id": "Q10296436"
+    },
+    "title": "送程德琳郎中學士",
+    "poem": [
+      "瓜步妖氛滅，崐岡草樹青。",
+      "終朝空望極，今日送君行。",
+      "報政秋雲靜，微吟曉月生。",
+      "樓中長可見，特用滅離情。"
+    ],
+    "notes": [
+      {
+        "content": "得遠山",
+        "context": "琳郎中學士",
+        "original_title": "送程德琳郎中學士〈得遠山〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_002_01",
+    "volume": 757,
+    "author": {
+      "canonical": "徐鍇",
+      "recorded": "徐鍇",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Xu Kai",
+      "wikidata_id": "Q10296436"
+    },
+    "title": "太傅相公以東觀庭梅，西垣舊植，昔陪盛賞，今獨家兄唱和之餘，俾令攀和，輙依本韻，伏愧斐然",
+    "poem": [
+      "靜對含章樹，閑思共有時。",
+      "香隨荀令在，根異武昌移。",
+      "物性雖搖落，人心豈變衰。",
+      "唱酬勝笛曲，來往韻朱絲。"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "漢有「含章簷下樹。」",
+        "context": "香隨荀令在，根異武昌移。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_003_01",
+    "volume": 757,
+    "author": {
+      "canonical": "徐鍇",
+      "recorded": "徐鍇",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Xu Kai",
+      "wikidata_id": "Q10296436"
+    },
+    "title": "太傅相公與家兄梅花酬唱，許綴末篇，再賜新詩，俯光拙句，謹奉清韻，用感鈞私，伏惟采覽",
+    "poem": [
+      "重歎梅花落，非關塞笛悲。",
+      "論文叨接萼，末曲愧吹篪。",
+      "枝逐清風動，香因白雪知。",
+      "陶鈞敷左悌，更賦邵公詩。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "毛詩云：「仲氏吹箎。」",
+        "context": "枝逐清風動，香因白雪知。"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_004_01",
+    "volume": 757,
+    "author": {
+      "canonical": "徐鍇",
+      "recorded": "徐鍇",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Xu Kai",
+      "wikidata_id": "Q10296436"
+    },
+    "title": "同家兄哭喬侍御",
+    "poem": [
+      "諸公長者鄭當時，事事無心性坦夷。",
+      "但是登臨皆有作，未嘗相見不伸眉。",
+      "生前適意無過酒，身後遺言只要詩。",
+      "三日笑談成理命，一篇投弔尚應知。"
+    ]
+  },
+  {
+    "uid": "QTS_757_005_01",
+    "volume": 757,
+    "author": {
+      "canonical": "徐鍇",
+      "recorded": "徐鍇",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Xu Kai",
+      "wikidata_id": "Q10296436"
+    },
+    "title": "秋詞",
+    "poem": [
+      "井梧紛墮砌，寒雁遠橫空。",
+      "雨久莓苔紫，霜濃薜荔紅。"
+    ]
+  },
+  {
+    "uid": "QTS_757_006_01",
+    "volume": 757,
+    "author": {
+      "canonical": "包穎",
+      "recorded": "包穎"
+    },
+    "title": "和徐鼎臣見寄",
+    "poem": [
+      "平生中表最情親，浮世那堪聚散頻。",
+      "謝脁卻吟歸省閣，劉楨猶自臥漳濱。",
+      "舊遊半似前生事，要路多逢後進人。",
+      "且喜新吟報強健，明年相望杏園春。"
+    ]
+  },
+  {
+    "uid": "QTS_757_007_01",
+    "volume": 757,
+    "author": {
+      "canonical": "鐘謨",
+      "recorded": "鐘謨",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhong Mo",
+      "wikidata_id": "Q10564231"
+    },
+    "title": "貽耀州將",
+    "poem": [
+      "翩翩歸盡塞垣鴻，隱隱驚開蟄戶蟲。",
+      "渭北離愁春色裏，江南家事戰塵中。",
+      "還同逐客紉蘭佩，誰聽縲囚奏土風。",
+      "多謝賢侯振吾道，免令搔首泣途窮。"
+    ]
+  },
+  {
+    "uid": "QTS_757_008_01",
+    "volume": 757,
+    "author": {
+      "canonical": "鐘謨",
+      "recorded": "鐘謨",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhong Mo",
+      "wikidata_id": "Q10564231"
+    },
+    "title": "獻周世宗",
+    "poem": [
+      "三年耀武羣雄服，一日回鑾萬國春。",
+      "南北通歡永無事，謝恩歸去老陪臣。"
+    ]
+  },
+  {
+    "uid": "QTS_757_009_01",
+    "volume": 757,
+    "author": {
+      "canonical": "鐘謨",
+      "recorded": "鐘謨",
+      "gender": "male",
+      "period": "Five Dynasties / Song",
+      "english_name": "Zhong Mo",
+      "wikidata_id": "Q10564231"
+    },
+    "title": "代京妓越賓答徐鉉",
+    "poem": [
+      "一幅輕綃寄海濱，越姑長感昔時恩。",
+      "欲知別後情多少，點點憑君看淚痕。"
+    ]
+  },
+  {
+    "uid": "QTS_757_010_01",
+    "volume": 757,
+    "author": {
+      "canonical": "查文徽",
+      "recorded": "查文徽"
+    },
+    "title": "寄麻姑仙壇道士",
+    "poem": [
+      "別後相思鶴信稀，郡樓南望遠峰迷。",
+      "人歸仙洞雲連地，花落春林水滿溪。",
+      "白髮只應悲鏡鑷，丹砂猶待寄刀圭。",
+      "方平車駕今何在，常苦塵中日易西。"
+    ]
+  },
+  {
+    "uid": "QTS_757_011_01",
+    "volume": 757,
+    "author": {
+      "canonical": "馬彧",
+      "recorded": "馬彧"
+    },
+    "title": "贈韓定辭",
+    "poem": [
+      "燧林芳草綿綿思，盡日相攜陟麗譙。",
+      "別後巏嵍山上望，羨君時復見王喬。"
+    ]
+  },
+  {
+    "uid": "QTS_757_012_01",
+    "volume": 757,
+    "author": {
+      "canonical": "韓定辭",
+      "recorded": "韓定辭"
+    },
+    "title": "答馬彧",
+    "poem": [
+      "崇霞臺上神仙客，學辨癡龍藝最多。",
+      "盛德好將銀管述，麗詞堪與雪兒歌。"
+    ]
+  },
+  {
+    "uid": "QTS_757_013_01",
+    "volume": 757,
+    "author": {
+      "canonical": "何昌齡",
+      "recorded": "何昌齡"
+    },
+    "title": "題楊克儉池館",
+    "poem": [
+      "經旬因雨不重來，門有蛛絲徑有苔。",
+      "再向白蓮亭上望，不知花木為誰開。"
+    ]
+  },
+  {
+    "uid": "QTS_757_014_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李羽",
+      "recorded": "李羽"
+    },
+    "title": "獻江淮郡守盧公",
+    "poem": [
+      "塞詔東來淝水濱，時情惟望秉陶鈞。",
+      "將軍一陣為功業，忍見沙場百戰人。"
+    ]
+  },
+  {
+    "uid": "QTS_757_015_01",
+    "volume": 757,
+    "author": {
+      "canonical": "梁藻",
+      "recorded": "梁藻"
+    },
+    "title": "南山池",
+    "poem": [
+      "翡翠戲翻荷葉雨，鷺鷥飛破竹林煙。",
+      "時沽村酒臨軒酌，擬摘新茶靠石煎。"
+    ]
+  },
+  {
+    "uid": "QTS_757_016_01",
+    "volume": 757,
+    "author": {
+      "canonical": "陳沆",
+      "recorded": "陳沆"
+    },
+    "title": "嘲廬山道士",
+    "poem": [
+      "啖肉先生欲上升，黃雲踏破紫雲崩。",
+      "龍腰鶴背無多力，傳與麻姑借大鵬。"
+    ],
+    "notes": [
+      {
+        "content": "《南唐近事》云：「廬山九天使者廟有一道士，體貌魁偉，飲㗖酒肉，晚節服餌丹砂，躁於沖舉。有鶴因風所飄，憇於廟庭，道士驚喜，謂當赴昇騰之召，令山童控而乗之，羽儀清弱，不勝其載，毛傷骨折而斃。翌日馴飬者知，訴於公府，沆以詩嘲之。",
+        "context": "嘲廬山道士",
+        "original_title": "嘲廬山道士",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_017_01",
+    "volume": 757,
+    "author": {
+      "canonical": "陳沆",
+      "recorded": "陳沆"
+    },
+    "title": "句",
+    "poem": [
+      "罷卻兒女戲，放他花木生。",
+      "掃地雲粘帚，耕山鳥怕牛。",
+      "點入旱雲千國仰，力浮塵世一毫輕。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《寒食》",
+        "context": "句"
+      },
+      {
+        "line": 4,
+        "content": "《閒居》",
+        "context": "句"
+      },
+      {
+        "line": 6,
+        "content": "《題永》",
+        "context": "句"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_018_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李詢",
+      "recorded": "李詢",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Li Xun",
+      "wikidata_id": "Q15889809"
+    },
+    "title": "贈織錦人",
+    "poem": [
+      "札札機聲曉復晡，眼穿力盡竟何如。",
+      "美人一曲成千賜，心裏猶嫌花樣疎。"
+    ]
+  },
+  {
+    "uid": "QTS_757_019_01",
+    "volume": 757,
+    "author": {
+      "canonical": "韓垂",
+      "recorded": "韓垂"
+    },
+    "title": "題金山",
+    "poem": [
+      "靈山一峰秀，岌然殊眾山。",
+      "盤根大江底，插影浮雲間。",
+      "雷霆常間作，風雨時往還。",
+      "象外懸清影，千載長躋攀。"
+    ]
+  },
+  {
+    "uid": "QTS_757_020_01",
+    "volume": 757,
+    "author": {
+      "canonical": "朱存",
+      "recorded": "朱存",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Zhu Cun",
+      "wikidata_id": "Q795129"
+    },
+    "title": "後湖",
+    "poem": [
+      "雷轟疊鼓火翻旗，三異翩翩試水師。",
+      "驚起黑龍眠不得，狂風猛雨不多時。"
+    ]
+  },
+  {
+    "uid": "QTS_757_021_01",
+    "volume": 757,
+    "author": {
+      "canonical": "陳彥",
+      "recorded": "陳彥"
+    },
+    "title": "和徐舍人九月十一日見寄",
+    "poem": [
+      "衡門寂寂逢迎少，不見仙郎向五旬。",
+      "莫問龍山前日事，菊花開卻為閒人。"
+    ]
+  },
+  {
+    "uid": "QTS_757_022_01",
+    "volume": 757,
+    "author": {
+      "canonical": "許堅",
+      "recorded": "許堅"
+    },
+    "title": "登游齊山",
+    "poem": [
+      "星使南馳入楚重，此山偏得駐行蹤。",
+      "落花滿地月華冷，寂寞舊山三四峰。"
+    ]
+  },
+  {
+    "uid": "QTS_757_023_01",
+    "volume": 757,
+    "author": {
+      "canonical": "許堅",
+      "recorded": "許堅"
+    },
+    "title": "游溧陽下山寺",
+    "poem": [
+      "地枕吳溪與越峰，前朝恩錫靈泉額。",
+      "竹林晴見雁塔高，石室曾棲幾禪伯。",
+      "荒碑字沒秋苔深，古池香泛荷花白。",
+      "客有經年說別林，落日啼猨情脈脈。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "晴見",
+        "variant": "層建",
+        "source": "一作「層建」"
+      },
+      {
+        "line": 2,
+        "text": "曾",
+        "variant": "幽",
+        "source": "一作「幽」"
+      },
+      {
+        "line": 3,
+        "text": "字",
+        "variant": "蕪",
+        "source": "一作「蕪」"
+      },
+      {
+        "line": 3,
+        "text": "秋",
+        "variant": "蒼",
+        "source": "一作「蒼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_024_01",
+    "volume": 757,
+    "author": {
+      "canonical": "許堅",
+      "recorded": "許堅"
+    },
+    "title": "題幽棲觀",
+    "poem": [
+      "仙翁上昇去，丹井寄晴壑。",
+      "山色接天台，湖光照寥廓。",
+      "玉洞絕無人，老檜猶棲鶴。",
+      "我欲掣青蛇，他時沖碧落。"
+    ]
+  },
+  {
+    "uid": "QTS_757_025_01",
+    "volume": 757,
+    "author": {
+      "canonical": "許堅",
+      "recorded": "許堅"
+    },
+    "title": "上舍人徐鉉",
+    "poem": [
+      "幾宵煙月鎖樓臺，欲寄侯門薦下才。",
+      "滿面塵埃人不識，謾隨流水出山來。"
+    ]
+  },
+  {
+    "uid": "QTS_757_026_01",
+    "volume": 757,
+    "author": {
+      "canonical": "許堅",
+      "recorded": "許堅"
+    },
+    "title": "題茅山觀",
+    "poem": [
+      "常恨清風千載鬱，洞天令得恣遊遨。",
+      "松楸古色玉壇靜，鸞鶴不來青漢高。",
+      "茅氏井寒丹已化，玄宗碑斷夢仍勞。",
+      "分明有個長生路，休向紅塵歎二毛。"
+    ]
+  },
+  {
+    "uid": "QTS_757_027_01",
+    "volume": 757,
+    "author": {
+      "canonical": "王感化",
+      "recorded": "王感化"
+    },
+    "title": "建州節帥更代，筵上獻詩",
+    "poem": [
+      "旌旗赴天臺，溪山曉色開。",
+      "萬家悲更喜，迎佛送如來。"
+    ]
+  },
+  {
+    "uid": "QTS_757_028_01",
+    "volume": 757,
+    "author": {
+      "canonical": "王感化",
+      "recorded": "王感化"
+    },
+    "title": "奉玄宗命詠苑中白野鵲",
+    "poem": [
+      "碧岩深洞恣遊遨，天與蘆花作羽毛。",
+      "要識此來棲宿處，上林瓊樹一枝高。"
+    ]
+  },
+  {
+    "uid": "QTS_757_029_01",
+    "volume": 757,
+    "author": {
+      "canonical": "王感化",
+      "recorded": "王感化"
+    },
+    "title": "句",
+    "poem": [
+      "草中誤認將軍虎，山上曾為道士羊。",
+      "[5]"
+    ]
+  },
+  {
+    "uid": "QTS_757_030_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李家明",
+      "recorded": "李家明"
+    },
+    "title": "玄宗釣魚無獲，進詩",
+    "poem": [
+      "玉甃垂鉤興正濃，碧池春暖水溶溶。",
+      "凡鱗不敢吞香餌，知是君王合釣龍。"
+    ]
+  },
+  {
+    "uid": "QTS_757_031_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李家明",
+      "recorded": "李家明"
+    },
+    "title": "詠臥牛",
+    "poem": [
+      "曾遭甯戚鞭敲角，又被田單火燎身。",
+      "閒向斜陽嚼枯草，近來問喘為無人。"
+    ],
+    "notes": [
+      {
+        "content": "玄宗游後苑，登臺見牛晚臥美蔭，家明曰：「臣不學，敢上絶句。」輔相皆慙。",
+        "context": "詠臥牛",
+        "original_title": "詠臥牛",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_032_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李家明",
+      "recorded": "李家明"
+    },
+    "title": "題紙鳶止宋齊丘哭子",
+    "poem": [
+      "安排唐祚革強吳，儘是先生作計謨。",
+      "一個孩兒拚不得，讓皇百口合何如。"
+    ],
+    "notes": [
+      {
+        "content": "烈祖受楊氏禪，遷讓皇於海陵。玄宗繼統，用齊　　　丘之謀，無少長，殺之。齊丘無子，晚得一子，隨卒慟不止，家明曰：「惟臣能止之。」乃為詩書紙鳶上，乗風吹之，度至齊丘家，遂絶其縷，齊丘見之，慚感，乃止。一作布衣李匡堯作。",
+        "context": "題紙鳶止宋齊丘哭子",
+        "original_title": "題紙鳶止宋齊丘哭子",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "安排唐祚革強吳，儘是先生作計謨。一個孩兒拚不得，讓皇百口合何如。",
+        "variant": "化家為國實良圖，總是先生畫計謩。今日喪雛猶自哭，讓皇宮眷合何如。",
+        "source": "一作「化家為國實良圖，總是先生畫計謩。今日喪雛猶自哭，讓皇宮眷合何如。」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_033_01",
+    "volume": 757,
+    "author": {
+      "canonical": "李家明",
+      "recorded": "李家明"
+    },
+    "title": "詠皖公山",
+    "poem": [
+      "龍舟輕颭錦帆風，正值宸遊望遠空。",
+      "迴首皖公山色翠，影斜不到壽杯中。"
+    ]
+  },
+  {
+    "uid": "QTS_757_034_01",
+    "volume": 757,
+    "author": {
+      "canonical": "湯悅",
+      "recorded": "湯悅",
+      "gender": "male",
+      "english_name": "Tang Yue",
+      "wikidata_id": "Q10379439"
+    },
+    "title": "奉和聖制送鄧王牧宣城",
+    "poem": [
+      "千里陵陽同陝服，鑿門胙土寄親賢。",
+      "曙煙已別黃金殿，晚照重登白玉筵。",
+      "江上浮光宜雨後，郡中遠岫列窗前。",
+      "天心待報期年政，留與工師播管弦。"
+    ]
+  },
+  {
+    "uid": "QTS_757_035_01",
+    "volume": 757,
+    "author": {
+      "canonical": "湯悅",
+      "recorded": "湯悅",
+      "gender": "male",
+      "english_name": "Tang Yue",
+      "wikidata_id": "Q10379439"
+    },
+    "title": "早春寄華下同志",
+    "poem": [
+      "正是花時節，思君寢復興。",
+      "市沽終不醉，春夢亦無憑。",
+      "嶽面懸清雨，河心走濁冰。",
+      "東門一條路，離恨正相仍。"
+    ]
+  },
+  {
+    "uid": "QTS_757_036_01",
+    "volume": 757,
+    "author": {
+      "canonical": "湯悅",
+      "recorded": "湯悅",
+      "gender": "male",
+      "english_name": "Tang Yue",
+      "wikidata_id": "Q10379439"
+    },
+    "title": "鼎臣學士侍郎以東館庭梅昔翰苑之毫末今復半枯向時同僚零落都盡素髮垂領茲唯二人感舊傷懐發於吟詠恵然好我不能無言輙次來韻攀和",
+    "poem": [
+      "憶見萌芽日，還憐合抱時。",
+      "舊歡如夢想，物態暗還移。",
+      "素豔今無幾，朱顏亦自衰。",
+      "樹將人共老，何暇更悲絲。"
+    ]
+  },
+  {
+    "uid": "QTS_757_037_01",
+    "volume": 757,
+    "author": {
+      "canonical": "湯悅",
+      "recorded": "湯悅",
+      "gender": "male",
+      "english_name": "Tang Yue",
+      "wikidata_id": "Q10379439"
+    },
+    "title": "再次前韻代梅答",
+    "poem": [
+      "託植經多稔，頃筐向盛時。",
+      "枝條雖已故，情分不曾移。",
+      "莫向階前老，還同鏡裏衰。",
+      "更應憐墮葉，殘吹掛蟲絲。"
+    ]
+  },
+  {
+    "uid": "QTS_757_038_01",
+    "volume": 757,
+    "author": {
+      "canonical": "湯悅",
+      "recorded": "湯悅",
+      "gender": "male",
+      "english_name": "Tang Yue",
+      "wikidata_id": "Q10379439"
+    },
+    "title": "鼎臣學士侍郎、楚金舍人學士以再傷庭梅詩，同垂寵和，清絶感歎，情致俱深，因成四十字陳謝",
+    "poem": [
+      "人物同遷謝，重成念舊悲。",
+      "連華得瓊玖，合奏發塤篪。",
+      "餘枿雖無取，殘芳尚獲知。",
+      "問君何所似，珍重杜秋詩。"
+    ]
+  },
+  {
+    "uid": "QTS_757_039_01",
+    "volume": 757,
+    "author": {
+      "canonical": "蕭彧",
+      "recorded": "蕭彧"
+    },
+    "title": "送鍾員外",
+    "poem": [
+      "麗漢金波滿，當筵玉斝傾。",
+      "因思頻聚散，幾復換虧盈。",
+      "光徹離襟冷，聲符別管清。",
+      "那堪還目此，兩地倚樓情。"
+    ],
+    "notes": [
+      {
+        "content": "賦月",
+        "context": "送鍾員外",
+        "original_title": "送鍾員外〈賦月〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_040_01",
+    "volume": 757,
+    "author": {
+      "canonical": "蕭彧",
+      "recorded": "蕭彧"
+    },
+    "title": "送德林郎中學士赴東府",
+    "poem": [
+      "離情折楊柳，此別異春哉。",
+      "含露東籬豔，泛香南浦杯。",
+      "惜持行次贈，留插醉中迴。",
+      "暮齒如能制，玉山甘判頹。"
+    ],
+    "notes": [
+      {
+        "content": "得菊",
+        "context": "學士赴東府",
+        "original_title": "送德林郎中學士赴東府〈得菊〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_041_01",
+    "volume": 757,
+    "author": {
+      "canonical": "孫峴",
+      "recorded": "孫峴"
+    },
+    "title": "送鍾員外",
+    "poem": [
+      "萬物中蕭灑，修篁獨逸羣。",
+      "貞姿曾冒雪，高節欲淩雲。",
+      "細韻風初發，濃煙日正曛。",
+      "因題偏惜別，不可暫無君。"
+    ],
+    "notes": [
+      {
+        "content": "賦竹",
+        "context": "送鍾員外",
+        "original_title": "送鍾員外〈賦竹〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_042_01",
+    "volume": 757,
+    "author": {
+      "canonical": "謝仲宣",
+      "recorded": "謝仲宣"
+    },
+    "title": "送鐘員外",
+    "poem": [
+      "送人多折柳，唯我獨吟松。",
+      "若保歲寒在，何妨霜雪重。",
+      "森梢逢靜境，廓落見孤峰。",
+      "還似君高節，亭亭鮮繼蹤。"
+    ],
+    "notes": [
+      {
+        "content": "賦松",
+        "context": "送鐘員外",
+        "original_title": "送鐘員外〈賦松〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_043_01",
+    "volume": 757,
+    "author": {
+      "canonical": "鐘蒨",
+      "recorded": "鐘蒨"
+    },
+    "title": "別諸同志",
+    "poem": [
+      "隨陽來萬里，點點度遙空。",
+      "影落長江水，聲悲半夜風。",
+      "殘秋辭絕漠，無定似驚蓬。",
+      "我有離群恨，飄飄類此鴻。"
+    ],
+    "notes": [
+      {
+        "content": "得新鴻",
+        "context": "別諸同志",
+        "original_title": "別諸同志〈得新鴻〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_044_01",
+    "volume": 757,
+    "author": {
+      "canonical": "喬舜",
+      "recorded": "喬舜"
+    },
+    "title": "送德林郎中學士赴東府",
+    "poem": [
+      "摻袂向江頭，朝宗勢未休。",
+      "何人乘桂楫，之子過揚州。",
+      "颯颯翹沙雁，漂漂逐浪鷗。",
+      "欲知離別恨，半是淚和流。"
+    ],
+    "notes": [
+      {
+        "content": "得江",
+        "context": "學士赴東府",
+        "original_title": "送德林郎中學士赴東府〈得江〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_045_01",
+    "volume": 757,
+    "author": {
+      "canonical": "王沂",
+      "recorded": "王沂",
+      "gender": "male",
+      "wikidata_id": "Q19825145"
+    },
+    "title": "送鍾員外",
+    "poem": [
+      "靜追蘋末興，況復值蕭條。",
+      "猛勢資新雁，寒聲伴暮潮。",
+      "過山雲散亂，經樹葉飄颻。",
+      "今日煙江上，征帆望望遙。"
+    ],
+    "notes": [
+      {
+        "content": "賦風",
+        "context": "送鍾員外",
+        "original_title": "送鍾員外〈賦風〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_757_046_01",
+    "volume": 757,
+    "author": {
+      "canonical": "陳元裕",
+      "recorded": "陳元裕"
+    },
+    "title": "送德林郎中學士赴東府",
+    "poem": [
+      "上善湛然秋，恩波洽帝猷。",
+      "謾言生險浪，豈爽見安流。",
+      "泛去星槎遠，澄來月練浮。",
+      "滔滔對離酌，入洛稱仙舟。"
+    ],
+    "notes": [
+      {
+        "content": "得水",
+        "context": "學士赴東府",
+        "original_title": "送德林郎中學士赴東府〈得水〉"
+      }
+    ]
+  }
+]

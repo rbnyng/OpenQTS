@@ -1,0 +1,2003 @@
+[
+  {
+    "uid": "QTS_267_001_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "夢後吟",
+    "poem": [
+      "醉中還有夢，身外已無心。",
+      "明鏡唯知老，青山何處深。"
+    ]
+  },
+  {
+    "uid": "QTS_267_002_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題靈山寺",
+    "poem": [
+      "覺地本隨身，靈山重結因。",
+      "如何戰鳥佛，不化捕魚人。"
+    ]
+  },
+  {
+    "uid": "QTS_267_003_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題元陽觀舊讀書房贈李範",
+    "poem": [
+      "此觀十年遊，此房千里宿。",
+      "還來舊窗下，更取君書讀。"
+    ]
+  },
+  {
+    "uid": "QTS_267_004_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "永嘉",
+    "poem": [
+      "東甌傳舊俗，風日江邊好。",
+      "何處樂神聲，夷歌出煙島。"
+    ]
+  },
+  {
+    "uid": "QTS_267_005_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "青弋江",
+    "poem": [
+      "淒清回泊夜，淪波激石響。",
+      "村邊草市橋，月下罟師網。"
+    ]
+  },
+  {
+    "uid": "QTS_267_006_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "聽山鷓鴣",
+    "poem": [
+      "誰家無春酒，何處無春鳥。",
+      "夜宿桃花村，踏歌接天曉。"
+    ]
+  },
+  {
+    "uid": "QTS_267_007_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山逕柳",
+    "poem": [
+      "宛轉若遊絲，淺深栽綠崦。",
+      "年年立春後，即被啼鶯占。"
+    ]
+  },
+  {
+    "uid": "QTS_267_008_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "石上藤",
+    "poem": [
+      "空山無鳥跡，何物如人意。",
+      "委曲結繩文，離披草書字。"
+    ]
+  },
+  {
+    "uid": "QTS_267_009_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "薜荔庵",
+    "poem": [
+      "薜荔作禪庵，重疊庵邊樹。",
+      "空山徑欲絕，也有人知處。"
+    ]
+  },
+  {
+    "uid": "QTS_267_010_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "芙蓉榭",
+    "poem": [
+      "風擺蓮衣乾，月背鳥巢寒。",
+      "文魚翻亂葉，翠羽上危欄。"
+    ]
+  },
+  {
+    "uid": "QTS_267_011_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "欹松漪",
+    "poem": [
+      "湛湛碧漣漪，老松攲側臥。",
+      "悠揚綠蘿影，下拂波紋破。"
+    ]
+  },
+  {
+    "uid": "QTS_267_012_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "焙茶塢",
+    "poem": [
+      "新茶已上焙，舊架憂生醭。",
+      "旋旋續新煙，呼兒劈寒木。"
+    ]
+  },
+  {
+    "uid": "QTS_267_013_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "彈琴谷",
+    "poem": [
+      "谷中誰彈琴，琴響谷冥寂。",
+      "因君扣商調，草蟲驚暗壁。"
+    ]
+  },
+  {
+    "uid": "QTS_267_014_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "白鷺汀",
+    "poem": [
+      "靃靡汀草碧，淋森鷺毛白。",
+      "夜起沙月中，思量捕魚策。"
+    ]
+  },
+  {
+    "uid": "QTS_267_015_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "千松嶺",
+    "poem": [
+      "終日吟天風，有時天籟止。",
+      "問渠何旨意，恐落凡人耳。"
+    ]
+  },
+  {
+    "uid": "QTS_267_016_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "黃菊灣",
+    "poem": [
+      "時菊凝曉露，露華滴秋灣。",
+      "仙人釀酒熟，醉裏飛空山。"
+    ]
+  },
+  {
+    "uid": "QTS_267_017_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "臨平湖",
+    "poem": [
+      "采藕平湖上，藕泥封藕節。",
+      "船影入荷香，莫衝蓮柄折。"
+    ]
+  },
+  {
+    "uid": "QTS_267_018_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山春洞",
+    "poem": [
+      "引燭踏仙泥，時時亂乳燕。",
+      "不知何道士，手把靈書卷。"
+    ]
+  },
+  {
+    "uid": "QTS_267_019_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "石竇泉",
+    "poem": [
+      "吹沙復噴石，曲折仍圓旋。",
+      "野客漱流時，杯黏落花片。"
+    ]
+  },
+  {
+    "uid": "QTS_267_020_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "古仙壇",
+    "poem": [
+      "遠山誰放燒，疑是壇邊醮。",
+      "仙人錯下山，拍手壇邊笑。"
+    ]
+  },
+  {
+    "uid": "QTS_267_021_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題山頂寺",
+    "poem": [
+      "遙聞林下語，知是經行所。",
+      "日暮香風時，諸天散花時。"
+    ]
+  },
+  {
+    "uid": "QTS_267_022_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "天寶題壁",
+    "poem": [
+      "五十餘年別，伶俜道不行。",
+      "卻來書處在，惆悵似前生。"
+    ]
+  },
+  {
+    "uid": "QTS_267_023_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "哭李別駕",
+    "poem": [
+      "故人行跡滅，秋草向南悲。",
+      "不欲頻回步，孀妻正哭時。"
+    ]
+  },
+  {
+    "uid": "QTS_267_024_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "春雨不聞百舌",
+    "poem": [
+      "百舌春來啞，愁人共待晴。",
+      "不關秋水事，飲恨亦無聲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_025_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "憶鄱陽舊遊",
+    "poem": [
+      "悠悠南國思，夜向江南泊。",
+      "楚客斷腸時，月明楓子落。"
+    ]
+  },
+  {
+    "uid": "QTS_267_026_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "春懷",
+    "poem": [
+      "園鶯啼已倦，樹樹隕香江。",
+      "不是春相背，當由己自翁。"
+    ]
+  },
+  {
+    "uid": "QTS_267_027_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "洛陽陌二首 其一",
+    "poem": [
+      "鶯聲滿御隄，隄柳拂絲齊。",
+      "風送名花落，香紅襯馬蹄。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_027_02",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "洛陽陌二首 其二",
+    "poem": [
+      "珂珮逐鳴騶，王孫結伴遊。",
+      "金丸落飛鳥，乘興醉青樓。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_028_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "寄淮上柳十三",
+    "poem": [
+      "葦蕭中闢戶，相映綠淮流。",
+      "莫訝春潮闊，鷗邊可泊舟。"
+    ]
+  },
+  {
+    "uid": "QTS_267_029_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送李泌",
+    "poem": [
+      "昔別吳堤雨，春帆去較遲。",
+      "江波千里綠，囗囗囗囗囗。"
+    ]
+  },
+  {
+    "uid": "QTS_267_030_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山中夜宿",
+    "poem": [
+      "涼月掛層峰，蘿林落葉重。",
+      "掩關深畏虎，風起撼長松。"
+    ]
+  },
+  {
+    "uid": "QTS_267_031_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "登樓",
+    "poem": [
+      "高閣成長望，江流雁呌哀。",
+      "淒涼故吳事，麋鹿走荒臺。"
+    ]
+  },
+  {
+    "uid": "QTS_267_032_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "江上",
+    "poem": [
+      "江清白鳥斜，蕩槳罥蘋花。",
+      "聽唱菱歌晚，迴塘月照沙。"
+    ]
+  },
+  {
+    "uid": "QTS_267_033_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "溪上",
+    "poem": [
+      "採蓮溪上女，舟小怯搖風。",
+      "驚起鴛鴦宿，水雲撩亂紅。"
+    ]
+  },
+  {
+    "uid": "QTS_267_034_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "田家",
+    "poem": [
+      "帶水摘禾穗，夜擣具晨炊。",
+      "縣帖取社長，嗔怪見官遲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_035_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宿山中僧",
+    "poem": [
+      "不爇香爐煙，蒲團坐如鐵。",
+      "嘗想同夜禪，風墮松頂雪。"
+    ]
+  },
+  {
+    "uid": "QTS_267_036_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "梅灣",
+    "poem": [
+      "白石盤盤磴，清香樹樹梅。",
+      "山深不吟賞，辜負委蒼苔。"
+    ]
+  },
+  {
+    "uid": "QTS_267_037_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "思歸",
+    "poem": [
+      "不能經綸大經，甘作草莽閑臣。",
+      "青瑣應須長別，白雲漫與相親。"
+    ]
+  },
+  {
+    "uid": "QTS_267_038_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "歸山作",
+    "poem": [
+      "心事數莖白髮，生涯一片青山。",
+      "空林有雪相待，古道無人獨還。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "青",
+        "variant": "春",
+        "source": "一作「春」"
+      },
+      {
+        "line": 2,
+        "text": "道",
+        "variant": "路",
+        "source": "一作「路」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_039_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "過山農家",
+    "poem": [
+      "板橋人渡泉聲，茆簷日午雞鳴。",
+      "莫嗔焙茶煙暗，卻喜曬穀天晴。"
+    ]
+  },
+  {
+    "uid": "QTS_267_040_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "代佳人贈別",
+    "poem": [
+      "萬里行人慾渡溪，千行珠淚滴為泥。",
+      "已成殘夢隨君去，猶有驚烏半夜啼。"
+    ]
+  },
+  {
+    "uid": "QTS_267_041_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "憶故園",
+    "poem": [
+      "惆悵多山人復稀，杜鵑啼處淚霑衣。",
+      "故園此去千餘里，春夢猶能夜夜歸。"
+    ]
+  },
+  {
+    "uid": "QTS_267_042_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題葉道士山房",
+    "poem": [
+      "水邊垂柳赤欄橋，洞裏仙人碧玉簫。",
+      "近得麻姑音信否，潯陽江上不通潮。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "垂",
+        "variant": "楊",
+        "source": "一作「楊」"
+      },
+      {
+        "line": 1,
+        "text": "碧",
+        "variant": "次",
+        "source": "一作「次」"
+      },
+      {
+        "line": 2,
+        "text": "音",
+        "variant": "書",
+        "source": "一作「書」"
+      },
+      {
+        "line": 2,
+        "text": "江",
+        "variant": "向",
+        "source": "一作「向」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_043_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送李秀才入京",
+    "poem": [
+      "五湖秋葉滿行船，八月靈槎欲上天。",
+      "君向長安余適越，獨登秦望望秦川。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "向",
+        "variant": "入",
+        "source": "一作「入」"
+      },
+      {
+        "line": 2,
+        "text": "望",
+        "variant": "嶺",
+        "source": "一作「嶺」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_044_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "越中席上看弄老人",
+    "poem": [
+      "不到山陰十二春，鏡中相見白頭新。",
+      "此生不復爲年少，今日從他弄老人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鏡",
+        "variant": "會",
+        "source": "一作「會」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_045_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "聽劉安唱歌",
+    "poem": [
+      "子夜新聲何處傳，悲翁更憶太平年。",
+      "即今法曲無人唱，已逐霓裳飛上天。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "子",
+        "variant": "午",
+        "source": "一作「午」"
+      },
+      {
+        "line": 1,
+        "text": "翁",
+        "variant": "歌",
+        "source": "一作「歌」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_046_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "櫻桃曲",
+    "poem": [
+      "百舌猶來上苑花，遊人獨自憶京華。",
+      "遙知寢廟嘗新後，敕賜櫻桃向幾家。"
+    ]
+  },
+  {
+    "uid": "QTS_267_047_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山中",
+    "poem": [
+      "野人愛向山中宿，況在葛洪丹井西。",
+      "庭前有箇長松樹，夜半子規來上啼。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "愛向",
+        "variant": "自愛",
+        "source": "一作「自愛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_048_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈朱放",
+    "poem": [
+      "野客歸時無四鄰，黔婁別久案常貧。",
+      "漁樵舊路不堪入，何處空山猶有人。"
+    ]
+  },
+  {
+    "uid": "QTS_267_049_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "江村亂後",
+    "poem": [
+      "江村日暮尋遺老，江水東流橫浩浩。",
+      "竹裡閒窗不見人，門前舊路生青草。"
+    ]
+  },
+  {
+    "uid": "QTS_267_050_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "望簡寂觀",
+    "poem": [
+      "青嶂青溪直復斜，白雞白犬到人家。",
+      "仙人住在最高處，向晚春泉流白花。"
+    ]
+  },
+  {
+    "uid": "QTS_267_051_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "五兩歌送張夏",
+    "poem": [
+      "竿頭五兩風褭褭，水上雲帆逐飛鳥。",
+      "送君初出揚州時，靄靄曈曈江溢曉。"
+    ]
+  },
+  {
+    "uid": "QTS_267_052_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "臨海所居三首 其一",
+    "poem": [
+      "此是昔年征戰處，曾經永日絕人行。",
+      "千家寂寂對流水，唯有汀洲春草生。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_267_052_02",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "臨海所居三首 其二",
+    "poem": [
+      "此去臨溪不是遙，樓中望見赤城標。",
+      "不知疊嶂重霞裏，更有何人度石橋。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_267_052_03",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "臨海所居三首 其三",
+    "poem": [
+      "家在雙峰蘭若邊，一聲秋磬發孤煙。",
+      "山連極浦鳥飛盡，月上青林人未眠。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_267_053_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "聽角思歸",
+    "poem": [
+      "故園黃葉滿青苔，夢後城頭曉角哀。",
+      "此夜斷腸人不見，起行殘日影徘徊。"
+    ]
+  },
+  {
+    "uid": "QTS_267_054_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "酬柳相公",
+    "poem": [
+      "天下如今已太平，相公何事喚狂生。",
+      "箇身恰似籠中鶴，東望滄溟呌數聲。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "天下",
+        "variant": "四海",
+        "source": "一作「四海」"
+      },
+      {
+        "line": 2,
+        "text": "事",
+        "variant": "用",
+        "source": "一作「用」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_055_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題明霞臺",
+    "poem": [
+      "野人本自不求名，欲向山中過一生。",
+      "莫嫌憔悴無知己，別有煙霞似弟兄。"
+    ]
+  },
+  {
+    "uid": "QTS_267_056_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "哭絢法師",
+    "poem": [
+      "楚客停橈欲問誰，白沙江草麴塵絲。",
+      "生公手種殿前樹，唯有花開鶗鴃悲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_057_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送柳宜城葬",
+    "poem": [
+      "鳴笳已逐春風咽，匹馬猶依舊路嘶。",
+      "遙望柳家門外樹，恐聞黃鳥向人啼。"
+    ]
+  },
+  {
+    "uid": "QTS_267_058_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞五首 其一",
+    "poem": [
+      "禁柳煙中聞曉烏，風吹玉漏盡銅壺。",
+      "內官先向蓬萊殿，金合開香瀉御鑪。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_267_058_02",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞五首 其二",
+    "poem": [
+      "玉樓天半起笙歌，風送宮嬪笑語和。",
+      "月殿影開聞夜漏，水晶簾卷近銀河。"
+    ],
+    "part_index": 2,
+    "total_parts": 5,
+    "variants": [
+      {
+        "line": 2,
+        "text": "銀",
+        "variant": "秋",
+        "source": "一作「秋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_058_03",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞五首 其三",
+    "poem": [
+      "玉階容衛宿千官，風獵青旂曉仗寒。",
+      "侍女先來薦瓊蘂，露漿新下九霄盤。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_267_058_04",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞五首 其四",
+    "poem": [
+      "九重天樂降神仙，步舞分行踏錦筵。",
+      "嘈囋一聲鐘鼓歇，萬人樓下拾金錢。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_267_058_05",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞五首 其五",
+    "poem": [
+      "金吾持戟護新簷，天樂聲傳萬姓瞻。",
+      "樓上美人相倚看，紅妝透出水精簾。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_267_059_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "尋桃花嶺潘三姑臺",
+    "poem": [
+      "桃花嶺上覺天低，人上青山馬隔溪。",
+      "行到三姑學仙處，遠有劉阮二郎迷。"
+    ]
+  },
+  {
+    "uid": "QTS_267_060_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "夜中望仙觀",
+    "poem": [
+      "日暮銜花飛鳥還，月明溪上見青山。",
+      "遙知玉女窗前樹，不是仙人不得攀。"
+    ]
+  },
+  {
+    "uid": "QTS_267_061_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送李侍御往吳興",
+    "poem": [
+      "世間只有情難說，今夜應無不醉人。",
+      "若向洞庭山下過，暗知澆瀝聖姑神。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "只",
+        "variant": "唯",
+        "source": "一作「唯」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_062_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "奉和韓晉公晦日呈諸判官",
+    "poem": [
+      "江南無處不聞歌，晦日中軍樂更多。",
+      "不是風光催柳色，卻緣威令動陽和。"
+    ]
+  },
+  {
+    "uid": "QTS_267_063_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "子規",
+    "poem": [
+      "杜宇冤亡積有時，年年啼血動人悲。",
+      "若教恨魄皆能化，何樹何山著子規。"
+    ]
+  },
+  {
+    "uid": "QTS_267_064_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "海鷗詠",
+    "poem": [
+      "萬里飛來為客鳥，曾蒙丹鳳借枝柯。",
+      "一朝鳳去梧桐死，滿目鴟鳶奈爾何。"
+    ]
+  },
+  {
+    "uid": "QTS_267_065_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈韋清將軍",
+    "poem": [
+      "身執金吾主禁兵，腰間寶劍重橫行。",
+      "接輿亦是狂歌者，更就將軍乞一聲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_066_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈僧二首 其一",
+    "poem": [
+      "家住義興東舍溪，溪邊莎草雨無泥。",
+      "上人一向心入定，春鳥年年空自啼。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_066_02",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈僧二首 其二",
+    "poem": [
+      "出頭皆是新年少，何處能容老病翁。",
+      "更把浮榮喻生滅，世間無事不虛空。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_067_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "登樓望水",
+    "poem": [
+      "鳥啼花發柳含煙，擲卻風光憶少年。",
+      "更上高樓望江水，故鄉何處一歸船。"
+    ]
+  },
+  {
+    "uid": "QTS_267_068_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "湖中",
+    "poem": [
+      "青草湖邊日色低，黃茅嶂裡鷓鴣啼。",
+      "丈夫飄蕩今如此，一曲長歌楚水西。"
+    ]
+  },
+  {
+    "uid": "QTS_267_069_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "歲日作",
+    "poem": [
+      "不覺老將春共至，更悲攜手幾人全。",
+      "還丹寂寞羞明鏡，手把屠蘇讓少年。"
+    ]
+  },
+  {
+    "uid": "QTS_267_070_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山中贈客",
+    "poem": [
+      "山中好處無人別，澗梅僞作山中雪。",
+      "野客相逢夜不眠，山中童子燒松節。"
+    ]
+  },
+  {
+    "uid": "QTS_267_071_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "王郎中妓席五詠 箜篌",
+    "poem": [
+      "玉作搔頭金步搖，高張苦調響連宵。",
+      "欲知寫盡相思夢，度水尋雲不用橋。"
+    ]
+  },
+  {
+    "uid": "QTS_267_072_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "王郎中妓席五詠 舞",
+    "poem": [
+      "汗浥新裝畫不成，絲催急節舞衣輕。",
+      "落花遶樹疑無影，回雪從風暗有情。"
+    ]
+  },
+  {
+    "uid": "QTS_267_073_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "王郎中妓席五詠 歌",
+    "poem": [
+      "柳拂青樓花滿衣，能歌宛轉世應稀。",
+      "空中幾處聞清響，欲遶行雲不遣飛。"
+    ]
+  },
+  {
+    "uid": "QTS_267_074_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "王郎中妓席五詠 箏",
+    "poem": [
+      "秦聲楚調怨無窮，隴水胡笳咽復通。",
+      "莫遣黃鶯花裏囀，參差撩亂妬春風。"
+    ]
+  },
+  {
+    "uid": "QTS_267_075_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "王郎中妓席五詠 笙",
+    "poem": [
+      "欲寫人間離別心，須聽鳴鳳似龍吟。",
+      "江南曲盡歸何處，洞水山雲知淺深。"
+    ]
+  },
+  {
+    "uid": "QTS_267_076_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送李山人還玉溪",
+    "poem": [
+      "好鳥共鳴臨水樹，幽人獨欠買山錢。",
+      "若爲種得千竿竹，引取君家一眼泉。"
+    ]
+  },
+  {
+    "uid": "QTS_267_077_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送少微上人還鹿門",
+    "poem": [
+      "少微不向吳中隱，爲箇生緣在鹿門。",
+      "行入漢江秋月色，襄陽耆舊幾人存。"
+    ]
+  },
+  {
+    "uid": "QTS_267_078_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宿昭應",
+    "poem": [
+      "武帝祈靈太乙壇，新豐樹色繞千官。",
+      "那知今夜長生殿，獨閉山門月影寒。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "那",
+        "variant": "豈",
+        "source": "一作「豈」"
+      },
+      {
+        "line": 2,
+        "text": "山門",
+        "variant": "空山",
+        "source": "一作「空山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_079_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "題琅邪上方",
+    "poem": [
+      "東晉王家在此溪，南朝樹色隔窗低。",
+      "碑沈字滅昔人遠，谷鳥猶向寒花啼。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "在",
+        "variant": "住",
+        "source": "一作「住」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_080_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "安仁港口望仙人城",
+    "poem": [
+      "樓臺采翠遠分明，聞說仙家在此城。",
+      "欲上仙城無路上，水邊花裏有人聲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_081_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "寄祕書包監",
+    "poem": [
+      "一別長安路幾千，遙知舊日主人憐。",
+      "賈生只是三年謫，獨自無才已四年。"
+    ]
+  },
+  {
+    "uid": "QTS_267_082_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "小孤山",
+    "poem": [
+      "古廟楓林江水邊，寒鴉接飯雁橫天。",
+      "大孤山遠小孤出，月照洞庭歸客船。"
+    ]
+  },
+  {
+    "uid": "QTS_267_083_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送李秀才遊嵩山",
+    "poem": [
+      "嵩山石壁掛飛流，無限神仙在上頭。",
+      "採得新詩題石壁，老人惆悵不同遊。"
+    ]
+  },
+  {
+    "uid": "QTS_267_084_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "從剡溪至赤城",
+    "poem": [
+      "靈溪宿處接靈山，窈映高樓向月閒。",
+      "夜半鶴聲殘夢裡，猶疑琴曲洞房間。"
+    ]
+  },
+  {
+    "uid": "QTS_267_085_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "葉上題詩從苑中流出",
+    "poem": [
+      "花落深宮鶯亦悲，上陽宮女斷腸時。",
+      "君恩不閉東流水，葉上題詩寄與誰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "花落深宮鶯亦悲",
+        "variant": "愁見鶯啼柳絮飛",
+        "source": "一作「愁見鶯啼柳絮飛」"
+      },
+      {
+        "line": 2,
+        "text": "寄與",
+        "variant": "欲寄",
+        "source": "一作「欲寄」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_086_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "崦裏桃花",
+    "poem": [
+      "崦裏桃花逢女冠，林間杏葉落仙壇。",
+      "老人方授上清籙，夜聽步虛山月寒。"
+    ]
+  },
+  {
+    "uid": "QTS_267_087_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "聽子規",
+    "poem": [
+      "棲霞山中子規鳥，口邊血出啼不了。",
+      "山僧後夜初出定，聞似不聞山月曉。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "出",
+        "variant": "入",
+        "source": "一作「入」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_088_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "竹枝曲",
+    "poem": [
+      "帝子蒼梧不復歸，洞庭葉下荊雲飛。",
+      "巴人夜唱竹枝後，腸斷曉猿聲漸稀。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "荊",
+        "variant": "楚",
+        "source": "一作「楚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_267_089_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "尋僧二首 其一",
+    "poem": [
+      "方丈玲瓏花竹閑，已將心印出人閒。",
+      "家家門外長安道，何處相逢是寶山。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_089_02",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "尋僧二首 其二",
+    "poem": [
+      "彌天釋子本高情，往往山中獨自行。",
+      "莫怪狂人游楚國，蓮花只在淤泥生。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_267_090_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "桃花曲",
+    "poem": [
+      "魏帝宮人舞鳳樓，隋家天子泛龍舟。",
+      "君王夜醉春眠晏，不覺桃花逐水流。"
+    ]
+  },
+  {
+    "uid": "QTS_267_091_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "贈遠",
+    "poem": [
+      "暫出河邊思遠道，卻來窗下聽新鶯。",
+      "故人一別幾時見，春草還從舊處生。"
+    ]
+  },
+  {
+    "uid": "QTS_267_092_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "早春思歸有唱竹枝歌者坐中下淚",
+    "poem": [
+      "渺渺春生楚水波，楚人齊唱竹枝歌。",
+      "與君皆是思歸客，拭淚看花奈老何。"
+    ]
+  },
+  {
+    "uid": "QTS_267_093_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "送郭秀才",
+    "poem": [
+      "故人曾任丹徒令，買得青山擬獨耕。",
+      "不作草堂招遠客，卻將垂柳借啼鶯。"
+    ]
+  },
+  {
+    "uid": "QTS_267_094_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "宮詞",
+    "poem": [
+      "長樂宮連上苑春，玉樓金殿豔歌新。",
+      "君門一入無由出，唯有宮鶯得見人。"
+    ]
+  },
+  {
+    "uid": "QTS_267_095_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "悼稚",
+    "poem": [
+      "稚子比來騎竹馬，猶疑只在屋東西。",
+      "莫言道者無悲事，曾聽巴猿向月啼。"
+    ]
+  },
+  {
+    "uid": "QTS_267_096_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "山僧蘭若",
+    "poem": [
+      "絕頂茅庵老此生，寒雲孤木伴經行。",
+      "世人那得知幽徑，遙向青峰禮磬聲。"
+    ]
+  },
+  {
+    "uid": "QTS_267_097_01",
+    "volume": 267,
+    "author": {
+      "canonical": "顧況",
+      "recorded": "顧況",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Gu Kuang",
+      "wikidata_id": "Q11665204"
+    },
+    "title": "句",
+    "poem": [
+      "崦合桃花水，窗鳴柳谷泉。",
+      "頹垣化爲陂，陸地堪乘舟。",
+      "汀洲渺渺江籬短，疑是疑非兩斷腸。",
+      "巫峽朝雲暮不歸，洞庭春水晴空滿。",
+      "龍吟四澤欲興雨，鳳引九雛警宿烏。",
+      "新婦磯邊月明，女兒浦口潮平。"
+    ],
+    "part_index": 1
+  }
+]

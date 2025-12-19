@@ -1,0 +1,437 @@
+[
+  {
+    "uid": "QTS_669_001_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "城南偶題",
+    "poem": [
+      "誰家朱閣道邊開，竹拂欄干滿壁苔。",
+      "野水不知何處去，遊人卻是等閒來。",
+      "南山氣聳分紅樹，北闕風高隔紫苔。",
+      "可惜登臨好光景，五門須聽鼓聲迴。"
+    ]
+  },
+  {
+    "uid": "QTS_669_002_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "贈邊將",
+    "poem": [
+      "千千鐵騎擁塵紅，去去平吞萬里空。",
+      "宛轉龍蟠金劍雪，連錢豹躩繡旗風。",
+      "行收部落歸天闕，旋進封疆入帝聰。",
+      "只有河源與遼海，如今全屬指麾中。"
+    ]
+  },
+  {
+    "uid": "QTS_669_003_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "桃源",
+    "poem": [
+      "絕壁相攲是洞門，昔人從此入仙源。",
+      "數株花下逢珠翠，半曲歌中老子孫。",
+      "別後自疑園吏夢，歸來誰信釣翁言。",
+      "山前空有無情水，猶繞當時碧樹村。"
+    ]
+  },
+  {
+    "uid": "QTS_669_004_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "曲江",
+    "poem": [
+      "日照香塵逐馬蹄，風吹浪濺幾回堤。",
+      "無窮羅綺填花徑，大半笙歌占麥畦。",
+      "落絮卻籠他樹白，嬌鶯更學別禽啼。",
+      "只緣頻燕蓬洲客，引得遊人去似迷。"
+    ]
+  },
+  {
+    "uid": "QTS_669_005_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "送韋岫郎中典泗州",
+    "poem": [
+      "送韋岫郎中典泗州"
+    ]
+  },
+  {
+    "uid": "QTS_669_006_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "贈婺州蘇員外",
+    "poem": [
+      "贈婺州蘇員外"
+    ]
+  },
+  {
+    "uid": "QTS_669_007_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "寄友人",
+    "poem": [
+      "寄友人"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "章碣",
+        "context": "寄友人"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_669_008_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "雨",
+    "poem": [
+      "雨"
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "content": "章碣",
+        "context": "雨"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_669_009_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "觀錫宴",
+    "poem": [
+      "觀錫宴"
+    ]
+  },
+  {
+    "uid": "QTS_669_010_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "城東即事",
+    "poem": [
+      "城東即事"
+    ]
+  },
+  {
+    "uid": "QTS_669_011_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "夏日湖上即是寄津陵蕭明府",
+    "poem": [
+      "夏日湖上即是寄津陵蕭明府"
+    ]
+  },
+  {
+    "uid": "QTS_669_012_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "對月",
+    "poem": [
+      "殘霞卷盡出東溟，萬古難消一片冰。",
+      "公子踏開香徑蘚，美人吹滅畫堂燈。",
+      "瓊輪正輾丹霄去，銀箭休催皓露凝。",
+      "別有洞天三十六，水晶臺殿冷層層。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "層層",
+        "variant": "難登",
+        "source": "一作「難登」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_669_013_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "浙西送杜晦侍御入關",
+    "poem": [
+      "浙西送杜晦侍御入關"
+    ]
+  },
+  {
+    "uid": "QTS_669_014_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "寄江東道友",
+    "poem": [
+      "寄江東道友"
+    ]
+  },
+  {
+    "uid": "QTS_669_015_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "下第有懷",
+    "poem": [
+      "下第有懷"
+    ]
+  },
+  {
+    "uid": "QTS_669_016_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "春日經湖上友人別業",
+    "poem": [
+      "春日經湖上友人別業"
+    ]
+  },
+  {
+    "uid": "QTS_669_017_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "長安春日",
+    "poem": [
+      "窮途日日困泥沙，上苑年年好物華。",
+      "荊棘不當車馬道，管弦長奏綺羅家。",
+      "王孫草上悠揚蝶，少女風前爛熳花。",
+      "懶出任從遊子笑，入門還是舊生涯。"
+    ]
+  },
+  {
+    "uid": "QTS_669_018_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "陪浙西王侍郎夜宴",
+    "poem": [
+      "陪浙西王侍郎夜宴"
+    ]
+  },
+  {
+    "uid": "QTS_669_019_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "春別",
+    "poem": [
+      "擲下籬觴指亂山，趨程不待鳳笙殘。",
+      "花邊馬嚼金銜去，樓上人垂玉筯看。",
+      "柳陌雖然風裊裊，蔥河猶自雪漫漫。",
+      "殷勤莫厭貂裘重，恐犯三邊五月寒。"
+    ]
+  },
+  {
+    "uid": "QTS_669_020_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "送謝進士還閩",
+    "poem": [
+      "送謝進士還閩"
+    ]
+  },
+  {
+    "uid": "QTS_669_021_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "焚書坑",
+    "poem": [
+      "竹帛煙銷帝業虛，關河空鎖祖龍居。",
+      "坑灰未冷山東亂，劉項原來不讀書。"
+    ]
+  },
+  {
+    "uid": "QTS_669_022_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "東都望幸",
+    "poem": [
+      "東都望幸"
+    ]
+  },
+  {
+    "uid": "QTS_669_023_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "旅舍早起",
+    "poem": [
+      "旅舍早起"
+    ]
+  },
+  {
+    "uid": "QTS_669_024_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "癸卯歲毘陵登高會中貽同志",
+    "poem": [
+      "癸卯歲毘陵登高會中貽同志"
+    ]
+  },
+  {
+    "uid": "QTS_669_025_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "上元夜建元寺觀燈？智通上人",
+    "poem": [
+      "上元夜建元寺觀燈？",
+      "智通上人"
+    ]
+  },
+  {
+    "uid": "QTS_669_026_01",
+    "volume": 669,
+    "author": {
+      "canonical": "章碣",
+      "recorded": "章碣",
+      "gender": "male",
+      "english_name": "Zhang Jie",
+      "wikidata_id": "Q22099878"
+    },
+    "title": "變體詩",
+    "poem": [
+      "變體詩"
+    ]
+  }
+]

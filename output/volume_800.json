@@ -1,0 +1,896 @@
+[
+  {
+    "uid": "QTS_800_001_01",
+    "volume": 800,
+    "author": {
+      "canonical": "柳氏",
+      "recorded": "柳氏",
+      "gender": "female",
+      "english_name": "Liu",
+      "wikidata_id": "Q13391498"
+    },
+    "title": "答韓翃",
+    "poem": [
+      "楊柳枝，芳菲節，可恨年年贈離別。",
+      "一葉隨風忽報秋，縱使君來豈堪折。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "可",
+        "variant": "所",
+        "source": "一作「所」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_002_01",
+    "volume": 800,
+    "author": {
+      "canonical": "程洛賓",
+      "recorded": "程洛賓",
+      "gender": "female"
+    },
+    "title": "歸李江州後寄別王氏",
+    "poem": [
+      "魚雁回時寫報音，難憑銼櫱數年心。",
+      "雖然情斷沙吒後，爭奈平生怨恨深。"
+    ]
+  },
+  {
+    "uid": "QTS_800_003_01",
+    "volume": 800,
+    "author": {
+      "canonical": "紅綃妓",
+      "recorded": "紅綃妓",
+      "gender": "female"
+    },
+    "title": "憶崔生",
+    "poem": [
+      "深洞鶯啼恨阮郎，偷來花下解珠璫。",
+      "碧雲飄斷音書絕，空倚玉簫愁鳳凰。"
+    ],
+    "notes": [
+      {
+        "content": "崔生詩云：「誤到蓬萊頂上遊，明璫玉女動星眸。朱扉半掩深宮月，應照瓊枝雪豔愁。」",
+        "context": "憶崔生"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "洞",
+        "variant": "谷",
+        "source": "一作「谷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_004_01",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "寄文茂",
+    "poem": [
+      "花箋制葉寄郎邊，的的尋魚為妾傳。",
+      "並蒂已看靈鵲報，倩郎早覓買花船。"
+    ],
+    "notes": [
+      {
+        "content": "文茂春日寄采詩云：「美人心共石頭堅，翹首佳期空黯然。安得千金遺侍者，一燒鵲腦繡房前。」「曉來扶病鏡臺前，無力梳頭任髻偏。消瘦渾如江上柳。東風日日起還眠。」「旭日曈曈破曉霾，遙知妝罷下芳階。那能化作桐花鳳，一集佳人白玉釵。」「孤燈纔滅巳三更，窗雨無聲雞又鳴。此夜相思不成夣，空懐一夣到天明。」荅采《贈髪》詩云：「几上金猊靜不焚，匡牀愁臥對斜曛。犀梳金鏡人何處？半枕蘭香空緑雲。」",
+        "context": "寄文茂"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_005_01",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "秋日再寄",
+    "poem": [
+      "珍簟生涼夜漏餘，夢中恍惚覺來初。",
+      "魂離不得空成病，面見無由浪寄書。",
+      "窗外江村鐘響絕，枕邊梧葉雨聲疎。",
+      "此時最是思君處，腸斷寒猿定不如。"
+    ],
+    "notes": [
+      {
+        "content": "茂荅采詩云：「忽見西風起洞房，盧家何處鬱金香？文君未奔先成渴，顓頊初逢巳自傷。懷夢欲尋愁落葉，忘憂將種恐飛霜。惟應分付春天月，共聼牀頭漏漸長。」",
+        "context": "秋日再寄"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_006_01",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "春日送夫之長安",
+    "poem": [
+      "思君遠別妾心愁，踏翠江邊送畫舟。",
+      "欲待相看遲此別，只憂紅日向西流。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "思",
+        "variant": "夫",
+        "source": "一作「夫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_007_01",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "雨中憶夫",
+    "poem": [
+      "窗前細雨日啾啾，妾在閨中獨自愁。",
+      "何事玉郎久離別，忘憂總對豈忘憂。",
+      "春風送雨過窗東，忽憶良人在客中。",
+      "安得妾身今似雨，也隨風去與郎同。"
+    ],
+    "notes": [
+      {
+        "content": "采家畜一白鶴，名素素。一日雨中，忽憶其夫，謂鶴曰：「昔王母青鸞、紹蘭紫燕，皆能寄書逺達，汝獨不能乎？」鶴延頸向采，若受命狀，采即援筆，直書二絶，繫於鶴足，竟至其夫。",
+        "context": "雨中憶夫",
+        "original_title": "雨中憶夫",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_008_01",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其一",
+    "poem": [
+      "儂既剪雲鬟，郎亦分絲髮。",
+      "覓向無人處，綰作同心結。"
+    ],
+    "part_index": 1,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_02",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其二",
+    "poem": [
+      "夜夜不成寐，擁被啼終夕。",
+      "郎不信儂時，但看枕上跡。"
+    ],
+    "part_index": 2,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_03",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其三",
+    "poem": [
+      "何時得成匹，離恨不復牽。",
+      "金針刺菡萏，夜夜得見蓮。"
+    ],
+    "part_index": 3,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_04",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其四",
+    "poem": [
+      "相逢逐涼候，黃花忽復香。",
+      "顰眉臘月露，愁殺未成霜。"
+    ],
+    "part_index": 4,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_05",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其五",
+    "poem": [
+      "明窗弄玉指，指甲如水晶。",
+      "剪之特寄郎，聊當攜手行。"
+    ],
+    "part_index": 5,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_06",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其六",
+    "poem": [
+      "寄語閨中娘，顏色不常好。",
+      "含笑對棘實，歡娛須是棗。"
+    ],
+    "part_index": 6,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_07",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其七",
+    "poem": [
+      "良會終有時，勸郎莫得怒。",
+      "薑櫱畏春蠶，要綿須辛苦。"
+    ],
+    "part_index": 7,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_08",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其八",
+    "poem": [
+      "醉夢幸逢郎，無奈烏啞啞。",
+      "中山如有酒，敢借千金價。"
+    ],
+    "part_index": 8,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_09",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其九",
+    "poem": [
+      "信使無虛日，玉醞寄盈觥。",
+      "一年一日雨，底事太多晴。"
+    ],
+    "part_index": 9,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_10",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十",
+    "poem": [
+      "繡房擬會郎，四窗日離離。",
+      "手自施屏障，恐有女伴窺。"
+    ],
+    "part_index": 10,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_11",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十一",
+    "poem": [
+      "相思百餘日，相見苦無期。",
+      "褰裳摘藕花，要蓮敢恨池。"
+    ],
+    "part_index": 11,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_12",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十二",
+    "poem": [
+      "金盆盥素手，焚香誦普門。",
+      "來生何所願，與郎為一身。"
+    ],
+    "part_index": 12,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_13",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十三",
+    "poem": [
+      "花池多芳水，玉杯挹贈郎。",
+      "避人藏袖裏，溼卻素羅裳。"
+    ],
+    "part_index": 13,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_14",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十四",
+    "poem": [
+      "感郎金鍼贈，欲報物俱輕。",
+      "一雙連素縷，與郎聊定情。"
+    ],
+    "part_index": 14,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_15",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十五",
+    "poem": [
+      "寒風響枯木，通夕不得臥。",
+      "早起遣問郎，昨宵何以過。"
+    ],
+    "part_index": 15,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_16",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十六",
+    "poem": [
+      "得郎日嗣音，令人不可覩。",
+      "熊膽磨作墨，書來字字苦。"
+    ],
+    "part_index": 16,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_17",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十七",
+    "poem": [
+      "輕巾手自製，顏色爛含桃。",
+      "先懷儂袖裏，然後約郎腰。"
+    ],
+    "part_index": 17,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_008_18",
+    "volume": 800,
+    "author": {
+      "canonical": "晁采",
+      "recorded": "晁采",
+      "gender": "female"
+    },
+    "title": "子夜歌十八首 其十八",
+    "poem": [
+      "儂贈綠絲衣，郎遺玉鉤子。",
+      "即欲繫儂心，儂思著郎體。"
+    ],
+    "part_index": 18,
+    "total_parts": 18
+  },
+  {
+    "uid": "QTS_800_009_01",
+    "volume": 800,
+    "author": {
+      "canonical": "崔鶯鶯",
+      "recorded": "崔鶯鶯",
+      "gender": "female",
+      "english_name": "Yingying's Biography",
+      "wikidata_id": "Q848870"
+    },
+    "title": "答張生",
+    "poem": [
+      "待月西廂下，迎風戶半開。",
+      "拂牆花影動，疑是玉人來。"
+    ]
+  },
+  {
+    "uid": "QTS_800_010_01",
+    "volume": 800,
+    "author": {
+      "canonical": "崔鶯鶯",
+      "recorded": "崔鶯鶯",
+      "gender": "female",
+      "english_name": "Yingying's Biography",
+      "wikidata_id": "Q848870"
+    },
+    "title": "寄詩",
+    "poem": [
+      "自從銷瘦減容光，萬轉千回嬾下床。",
+      "不為傍人羞不起，為郎憔悴卻羞郎。"
+    ]
+  },
+  {
+    "uid": "QTS_800_011_01",
+    "volume": 800,
+    "author": {
+      "canonical": "崔鶯鶯",
+      "recorded": "崔鶯鶯",
+      "gender": "female",
+      "english_name": "Yingying's Biography",
+      "wikidata_id": "Q848870"
+    },
+    "title": "告絕詩",
+    "poem": [
+      "棄置今何道，當時且自親。",
+      "還將舊來意，憐取眼前人。"
+    ]
+  },
+  {
+    "uid": "QTS_800_012_01",
+    "volume": 800,
+    "author": {
+      "canonical": "步非煙",
+      "recorded": "步非煙",
+      "gender": "female"
+    },
+    "title": "答趙子",
+    "poem": [
+      "綠慘雙蛾不自持，只緣幽恨在新詩。",
+      "郎心應似琴心怨，脈脈春情更泥誰。"
+    ]
+  },
+  {
+    "uid": "QTS_800_013_01",
+    "volume": 800,
+    "author": {
+      "canonical": "步非煙",
+      "recorded": "步非煙",
+      "gender": "female"
+    },
+    "title": "又答趙象獨坐",
+    "poem": [
+      "無力嚴妝倚繡櫳，暗題蟬錦思難窮。",
+      "近來贏得傷春病，柳弱花欹怯曉風。"
+    ]
+  },
+  {
+    "uid": "QTS_800_014_01",
+    "volume": 800,
+    "author": {
+      "canonical": "步非煙",
+      "recorded": "步非煙",
+      "gender": "female"
+    },
+    "title": "寄懷",
+    "poem": [
+      "畫簷春燕須同宿，蘭浦雙鴛肯獨飛。",
+      "長恨桃源諸女伴，等閒花裏送郎歸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "簷",
+        "variant": "梁",
+        "source": "一作「梁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_015_01",
+    "volume": 800,
+    "author": {
+      "canonical": "步非煙",
+      "recorded": "步非煙",
+      "gender": "female"
+    },
+    "title": "答趙象",
+    "poem": [
+      "相思只恨難相見，相見還愁卻別君。",
+      "願得化為松上鶴，一雙飛去入行雲。"
+    ],
+    "notes": [
+      {
+        "content": "趙象寄非煙詩云：「一睹傾城貌，塵心只自猜。不隨蕭史去，擬學阿誰來。」謝非煙詩云：「珍重佳人惠好音，綵箋芳翰兩情深。薄於蟬翼難供恨，密似蠅頭未寫心。疑是落花迷碧洞，又思輕雨灑幽襟。百回消息千回夢，裁作長謡寄緑琴。無報音懐非煙詩云：「緑暗紅藏起暝煙，獨將幽恨小庭前。沈沈良夜與誰語，星隔銀河月半天。」謝非煙贈連蟬錦香囊詩云：「見說傷情為見春，想封蟬錦緑蛾顰。叩頭與報卿卿道，第一風流最損人。」歡會後贈非煙詩云：「十洞三清雖路阻，有心還得傍瑤臺。瑞香風引思深夜，知是蘂宮仙馭來。」",
+        "context": "答趙象"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "恨難",
+        "variant": "怕不",
+        "source": "一作「怕不」"
+      },
+      {
+        "line": 1,
+        "text": "見",
+        "variant": "識",
+        "source": "一作「識」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_016_01",
+    "volume": 800,
+    "author": {
+      "canonical": "崔紫雲",
+      "recorded": "崔紫雲",
+      "gender": "female"
+    },
+    "title": "臨行獻李尚書",
+    "poem": [
+      "從來學製斐然詩，不料霜臺御史知。",
+      "忽見便教隨命去，戀恩腸斷出門時。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "製",
+        "variant": "得",
+        "source": "一作「得」"
+      },
+      {
+        "line": 1,
+        "text": "詩",
+        "variant": "詞",
+        "source": "一作「詞」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_017_01",
+    "volume": 800,
+    "author": {
+      "canonical": "姚月華",
+      "recorded": "姚月華",
+      "gender": "female"
+    },
+    "title": "怨詩效徐淑體",
+    "poem": [
+      "妾生兮不辰，盛年兮逢屯。",
+      "寒暑兮心結，夙夜兮眉顰。",
+      "循環兮不息，如彼兮車輪。",
+      "車輪兮可歇，妾心兮焉伸。",
+      "雜沓兮無緒，如彼兮絲棼。",
+      "絲棼兮可理，妾心兮焉分。",
+      "空閨兮岑寂，妝閣兮生塵。",
+      "萱草兮徒樹，茲憂兮豈泯。",
+      "幸逢兮君子，許結兮殷勤。",
+      "分香兮剪髮，贈玉兮共珍。",
+      "指天兮結誓，願為兮一身。",
+      "所遭兮多舛，玉體兮難親。",
+      "損餐兮減寢，帶緩兮羅裙。",
+      "菱鑒兮慵啟，博鑪兮焉熏。",
+      "整襪兮欲舉，塞路兮荊榛。",
+      "逢人兮欲語，鞈匝兮頑嚚。",
+      "煩冤兮憑胸，何時兮可論。",
+      "願君兮見察，妾死兮何瞋。"
+    ]
+  },
+  {
+    "uid": "QTS_800_018_01",
+    "volume": 800,
+    "author": {
+      "canonical": "姚月華",
+      "recorded": "姚月華",
+      "gender": "female"
+    },
+    "title": "製履贈楊達",
+    "poem": [
+      "金刀剪紫羢，與郎作輕履。",
+      "願化雙仙鳧，飛來入閨裏。"
+    ]
+  },
+  {
+    "uid": "QTS_800_019_01",
+    "volume": 800,
+    "author": {
+      "canonical": "姚月華",
+      "recorded": "姚月華",
+      "gender": "female"
+    },
+    "title": "有期不至",
+    "poem": [
+      "銀燭清尊久延佇，出門入門天欲曙。",
+      "月落星稀竟不來，煙柳朧朣鵲飛去。"
+    ]
+  },
+  {
+    "uid": "QTS_800_020_01",
+    "volume": 800,
+    "author": {
+      "canonical": "姚月華",
+      "recorded": "姚月華",
+      "gender": "female"
+    },
+    "title": "怨詩寄楊達",
+    "poem": [
+      "春水悠悠春草綠，對此思君淚相續。",
+      "羞將離恨向東風，理盡秦箏不成曲。",
+      "與君形影分吳越，玉枕經年對離別。",
+      "登臺北望煙雨深，回身泣向寥天月。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "水",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 2,
+        "text": "秦箏",
+        "variant": "瑤琴",
+        "source": "一作「瑤琴」"
+      },
+      {
+        "line": 3,
+        "text": "經",
+        "variant": "終",
+        "source": "一作「終」"
+      },
+      {
+        "line": 4,
+        "text": "臺",
+        "variant": "高",
+        "source": "一作「高」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_021_01",
+    "volume": 800,
+    "author": {
+      "canonical": "姚月華",
+      "recorded": "姚月華",
+      "gender": "female"
+    },
+    "title": "楚妃怨",
+    "poem": [
+      "梧桐葉下黃金井，橫架轆轤牽素綆。",
+      "美人初起天未明，手拂銀瓶秋水冷。"
+    ]
+  },
+  {
+    "uid": "QTS_800_022_01",
+    "volume": 800,
+    "author": {
+      "canonical": "孟氏",
+      "recorded": "孟氏",
+      "gender": "female",
+      "english_name": "Meng",
+      "wikidata_id": "Q856300"
+    },
+    "title": "獨游家園",
+    "poem": [
+      "可惜春時節，依前獨自遊。",
+      "無端兩行淚，長只對花流。"
+    ],
+    "notes": [
+      {
+        "content": "貞賈於外，孟氏春日獨遊家園，忽有美少年踰垣而入，賦詩贈荅，遂私焉。逾年，夫歸，少年曰：「吾固知其不久也。」言訖，騰身而去。",
+        "context": "獨游家園",
+        "original_title": "獨游家園",
+        "type": "footnote"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "只",
+        "variant": "秖",
+        "source": "一作「秖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_023_01",
+    "volume": 800,
+    "author": {
+      "canonical": "孟氏",
+      "recorded": "孟氏",
+      "gender": "female",
+      "english_name": "Meng",
+      "wikidata_id": "Q856300"
+    },
+    "title": "答少年",
+    "poem": [
+      "誰家少年兒，心中暗自欺。",
+      "不道終不可，可即恐郎知。"
+    ]
+  },
+  {
+    "uid": "QTS_800_024_01",
+    "volume": 800,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "寄情",
+    "poem": [
+      "春風白馬紫絲韁，正值蠶娘未採桑。",
+      "五夜有心隨暮雨，百年無節抱秋霜。",
+      "重尋繡帶朱藤合，卻忍羅裙碧草長。",
+      "為報西遊減離恨，阮郎纔去嫁劉郎。"
+    ],
+    "notes": [
+      {
+        "content": "一作許渾代作。",
+        "context": "寄情",
+        "original_title": "寄情",
+        "type": "footnote"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_025_01",
+    "volume": 800,
+    "author": {
+      "canonical": "李節度姬",
+      "recorded": "李節度姬",
+      "gender": "female"
+    },
+    "title": "書紅綃帕",
+    "poem": [
+      "囊裹真香誰見竊，鮫綃滴淚染成紅。",
+      "殷勤遺下輕綃意，好與情郎懷袖中。",
+      "金珠富貴吾家事，常渴佳期乃寂寥。",
+      "偶用志誠求雅合，良媒未必勝紅綃。"
+    ],
+    "notes": [
+      {
+        "content": "張生和姬詩云：「自覩佳人遺贈物，書窗終日獨無聊。未能得會真仙面，時看香囊與絳綃。」",
+        "context": "書紅綃帕"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_026_01",
+    "volume": 800,
+    "author": {
+      "canonical": "李節度姬",
+      "recorded": "李節度姬",
+      "gender": "female"
+    },
+    "title": "會張生述懷",
+    "poem": [
+      "門前畫戟尋常設，堂上犀簪取次看。",
+      "最是惱人情緒處，鳳凰樓上月華寒。"
+    ]
+  },
+  {
+    "uid": "QTS_800_027_01",
+    "volume": 800,
+    "author": {
+      "canonical": "崔素娥",
+      "recorded": "崔素娥",
+      "gender": "female"
+    },
+    "title": "別韋洵美詩",
+    "poem": [
+      "妾閉閒房君路岐，妾心君恨兩依依。",
+      "神魂倘遇巫娥伴，猶逐朝雲暮雨歸。"
+    ],
+    "notes": [
+      {
+        "content": "韋洵美荅素娥詩云：「別恨離羣自古聞，此心難捨意難論。承恩必若頒時服，莫使霑濡有淚痕。」",
+        "context": "別韋洵美詩"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_028_01",
+    "volume": 800,
+    "author": {
+      "canonical": "鮑家四弦",
+      "recorded": "鮑家四弦",
+      "gender": "female"
+    },
+    "title": "送韋生酒",
+    "poem": [
+      "白露濕庭砌，皓月臨前軒。",
+      "此時去留恨，含思獨無言。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "皓",
+        "variant": "素",
+        "source": "一作「素」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_800_029_01",
+    "volume": 800,
+    "author": {
+      "canonical": "鮑家四弦",
+      "recorded": "鮑家四弦",
+      "gender": "female"
+    },
+    "title": "送鮑生酒",
+    "poem": [
+      "風颭荷珠難暫圓，多情信有短姻緣。",
+      "西樓今夜三更月，還照離人泣斷弦。"
+    ]
+  },
+  {
+    "uid": "QTS_800_030_01",
+    "volume": 800,
+    "author": {
+      "canonical": "韓續姬",
+      "recorded": "韓續姬",
+      "gender": "female"
+    },
+    "title": "贈別",
+    "poem": [
+      "風柳搖搖無定枝，陽臺雲雨夢中歸。",
+      "他年蓬島音塵絕，留取尊前舊舞衣。"
+    ]
+  }
+]

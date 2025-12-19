@@ -1,0 +1,1203 @@
+[
+  {
+    "uid": "QTS_129_001_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "古離別",
+    "poem": [
+      "下階欲離別，相對映蘭叢。",
+      "含辭未及吐，淚落蘭叢中。",
+      "高堂靜秋日，羅衣飄暮風。",
+      "誰能待明月，迴首見牀空。"
+    ]
+  },
+  {
+    "uid": "QTS_129_002_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "青雀歌",
+    "poem": [
+      "林間青雀兒，來往翩翩繞一枝。",
+      "莫言不解銜環報，但聞君恩今若爲。"
+    ]
+  },
+  {
+    "uid": "QTS_129_003_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "同王昌齡裴迪游青龍寺曇壁上人兄院集和兄維",
+    "poem": [
+      "林中空寂舍，階下終南山。",
+      "高臥一牀上，迴看六合間。",
+      "浮雲幾處滅，飛鳥何時還？",
+      "問義天人接，無心世界閑。",
+      "誰知大隱者，兄弟自追攀。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "上",
+        "variant": "地",
+        "source": "一作「地」"
+      },
+      {
+        "line": 5,
+        "text": "者",
+        "variant": "客",
+        "source": "一作「客」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_004_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "別輞川別業",
+    "poem": [
+      "山月曉仍在，林風涼不絕。",
+      "殷勤如有情，惆悵令人別。"
+    ]
+  },
+  {
+    "uid": "QTS_129_005_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "與盧員外象過崔處士興宗林亭",
+    "poem": [
+      "身名不問十年餘，老大誰能更讀書。",
+      "林中獨酌鄰家酒，門外時聞長者車。"
+    ]
+  },
+  {
+    "uid": "QTS_129_006_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "九日作",
+    "poem": [
+      "莫將邊地比京都，八月嚴霜草已枯。",
+      "今日登高樽酒裏，不知能有菊花無。"
+    ]
+  },
+  {
+    "uid": "QTS_129_007_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "送孫秀才",
+    "poem": [
+      "帝城風日好，況復建平家。",
+      "玉枕雙紋簟，金盤五色瓜。",
+      "山中無魯酒，松下飯胡麻。",
+      "莫厭田家苦，歸期遠復賒。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "松",
+        "variant": "山",
+        "source": "一作「山」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_008_01",
+    "volume": 129,
+    "author": {
+      "canonical": "王縉",
+      "recorded": "王縉",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Wang Jin",
+      "wikidata_id": "Q5946567"
+    },
+    "title": "游悟真寺",
+    "poem": [
+      "聞道黃金地，仍開白玉田。",
+      "擲山移巨石，呪嶺出飛泉。",
+      "猛虎同三徑，愁猨學四禪。",
+      "買香然綠桂，乞火蹈紅蓮。",
+      "草色搖霞上，松聲泛月邊。",
+      "山河窮百二，世界接三千。",
+      "梵宇聊憑視，王城遂渺然。",
+      "灞陵纔出樹，渭水欲連天。",
+      "遠縣分朱郭，孤村起白煙。",
+      "望雲思聖主，披霧憶羣賢。",
+      "薄宦慚屍素，終身擬尚玄。",
+      "誰知草菴客，曾和柏梁篇。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "紅",
+        "variant": "青",
+        "source": "一作「青」"
+      },
+      {
+        "line": 6,
+        "text": "接",
+        "variant": "滿",
+        "source": "一作「滿」"
+      },
+      {
+        "line": 7,
+        "text": "視",
+        "variant": "覽",
+        "source": "一作「覽」"
+      },
+      {
+        "line": 11,
+        "text": "素",
+        "variant": "祿",
+        "source": "一作「祿」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_009_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "青龍寺曇壁上人院集",
+    "poem": [
+      "靈境信爲絕，法堂出塵氛。",
+      "自然成高致，向下看浮雲。",
+      "迤邐峯岫列，參差閭井分。",
+      "林端遠堞見，風末疎鐘聞。",
+      "吾師久禪寂，在世超人羣。"
+    ]
+  },
+  {
+    "uid": "QTS_129_010_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "青雀歌",
+    "poem": [
+      "動息自適性，不曾妄與燕雀羣。"
+    ]
+  },
+  {
+    "uid": "QTS_129_011_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "游感化寺曇興上人山院",
+    "poem": [
+      "不遠灞陵邊，安居向十年。",
+      "入門穿竹徑，留客聽山泉。",
+      "鳥囀深林裏，心閑落照前。",
+      "浮名竟何益，從此願棲禪。"
+    ]
+  },
+  {
+    "uid": "QTS_129_012_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "夏日過青龍寺謁操禪師",
+    "poem": [
+      "龍鍾一老翁，徐步謁禪宮。",
+      "欲問義心義，遙知空病空。",
+      "山河天眼裏，世界法身中。",
+      "莫怪銷炎熱，能生大地風。"
+    ]
+  },
+  {
+    "uid": "QTS_129_013_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "春日與王右丞過新昌里訪呂逸人不遇",
+    "poem": [
+      "恨不逢君出荷簑，青松白屋更無他。",
+      "陶令五男曾不有，蔣生三徑枉相過。",
+      "芙蓉曲沼春流滿，薜荔成帷晚靄多。",
+      "聞說桃源好迷客，不如高臥眄庭柯。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "枉",
+        "variant": "任",
+        "source": "一作「任」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_014_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 孟城坳",
+    "poem": [
+      "結廬古城下，時登古城上。",
+      "古城非疇昔，今人自來往。"
+    ],
+    "part_index": 1,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_02",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 華子岡",
+    "poem": [
+      "落日松風起，還家草露晞。",
+      "雲光侵履跡，山翠拂人衣。"
+    ],
+    "part_index": 2,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_03",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 文杏館",
+    "poem": [
+      "迢迢文杏館，躋攀日已屢。",
+      "南嶺與北湖，前看復迴顧。"
+    ],
+    "part_index": 3,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_04",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 斤竹嶺",
+    "poem": [
+      "明流紆且直，綠篠密復深。",
+      "一徑通山路，行歌望舊岑。"
+    ],
+    "part_index": 4,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_05",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 鹿柴",
+    "poem": [
+      "日夕見寒山，便爲獨往客。",
+      "不知深林事，但有麏麚跡。"
+    ],
+    "part_index": 5,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_06",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 木蘭柴",
+    "poem": [
+      "蒼蒼落日時，鳥聲亂谿水。",
+      "緣谿路轉深，幽興何時已。"
+    ],
+    "part_index": 6,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_07",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 茱萸沜",
+    "poem": [
+      "飄香亂椒桂，布葉間檀欒。",
+      "雲日雖迴照，森沈猶自寒。"
+    ],
+    "part_index": 7,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_08",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 宮槐陌",
+    "poem": [
+      "門前宮槐陌，是向欹湖道。",
+      "秋來山雨多，落葉無人掃。"
+    ],
+    "part_index": 8,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_09",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 臨湖亭",
+    "poem": [
+      "當軒彌滉漾，孤月正裴回。",
+      "谷口猨聲發，風傳入戶來。"
+    ],
+    "part_index": 9,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_10",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 南垞",
+    "poem": [
+      "孤舟信一泊，南垞湖水岸。",
+      "落日下崦嵫，清波殊淼漫。"
+    ],
+    "part_index": 10,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_11",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 欹湖",
+    "poem": [
+      "空闊湖水廣，青熒天色同。",
+      "艤舟一長嘯，四面來清風。"
+    ],
+    "part_index": 11,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_12",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 柳浪",
+    "poem": [
+      "映池同一色，逐吹散如絲。",
+      "結陰既得地，何謝陶家時。"
+    ],
+    "part_index": 12,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_13",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 欒家瀨",
+    "poem": [
+      "瀨聲喧極浦，沿涉向南津。",
+      "汎汎鷗鳧渡，時時欲近人。"
+    ],
+    "part_index": 13,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_14",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 金屑泉",
+    "poem": [
+      "縈渟澹不流，金碧如可拾。",
+      "迎晨含素華，獨往事朝汲。"
+    ],
+    "part_index": 14,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_15",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 白石灘",
+    "poem": [
+      "跂石復臨水，弄波情未極。",
+      "日下川上寒，浮雲澹無色。"
+    ],
+    "part_index": 15,
+    "total_parts": 20,
+    "variants": [
+      {
+        "line": 2,
+        "text": "無色",
+        "variant": "凝碧",
+        "source": "一作「凝碧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_014_16",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 北垞",
+    "poem": [
+      "南山北垞下，結宇臨欹湖。",
+      "每欲采樵去，扁舟出菰蒲。"
+    ],
+    "part_index": 16,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_17",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 竹里館",
+    "poem": [
+      "來過竹里館，日與道相親。",
+      "出入唯山鳥，幽深無世人。"
+    ],
+    "part_index": 17,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_18",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 辛夷塢",
+    "poem": [
+      "綠堤春草合，王孫自留玩。",
+      "況有辛夷花，色與芙蓉亂。"
+    ],
+    "part_index": 18,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_19",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 漆園",
+    "poem": [
+      "好閑早成性，果此諧宿諾。",
+      "今日漆園游，還同莊叟樂。"
+    ],
+    "part_index": 19,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_014_20",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞川集二十首 椒園",
+    "poem": [
+      "丹刺罥人衣，芳香留過客。",
+      "幸堪調鼎用，願君垂採摘。"
+    ],
+    "part_index": 20,
+    "total_parts": 20
+  },
+  {
+    "uid": "QTS_129_015_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "輞口遇雨憶終南山因獻王維",
+    "poem": [
+      "積雨晦空曲，平沙滅浮彩。",
+      "輞水去悠悠，南山復何在。"
+    ]
+  },
+  {
+    "uid": "QTS_129_016_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "崔九欲往南山馬上口號與別",
+    "poem": [
+      "歸山深淺去，須盡丘壑美。",
+      "莫學武陵人，暫游桃源裏。"
+    ]
+  },
+  {
+    "uid": "QTS_129_017_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "與盧員外象過崔處士興宗林亭",
+    "poem": [
+      "喬柯門裏自成陰，散髪窗中曾不簪。",
+      "逍遙且喜從吾事，榮寵從來非我心。"
+    ]
+  },
+  {
+    "uid": "QTS_129_018_01",
+    "volume": 129,
+    "author": {
+      "canonical": "裴迪",
+      "recorded": "裴迪",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Pei Di",
+      "wikidata_id": "Q7160879"
+    },
+    "title": "西塔寺陸羽茶泉",
+    "poem": [
+      "竟陵西塔寺，蹤跡尚空虛。",
+      "不獨支公住，曾經陸羽居。",
+      "草堂荒產蛤，茶井冷生魚。",
+      "一汲清泠水，高風味有餘。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "水",
+        "variant": "飲",
+        "source": "一作「飲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_019_01",
+    "volume": 129,
+    "author": {
+      "canonical": "崔興宗",
+      "recorded": "崔興宗"
+    },
+    "title": "同王右丞送瑗公南歸",
+    "poem": [
+      "行苦神亦秀，泠然谿上松。",
+      "銅瓶與竹杖，來自祝融峯。",
+      "常願入靈嶽，藏經訪遺蹤。",
+      "南歸見長老，且爲說心胸。"
+    ]
+  },
+  {
+    "uid": "QTS_129_020_01",
+    "volume": 129,
+    "author": {
+      "canonical": "崔興宗",
+      "recorded": "崔興宗"
+    },
+    "title": "青雀歌",
+    "poem": [
+      "青扈繞青林，翩翾陋體一微禽。",
+      "不應常在藩籬下，他日凌雲誰見心。"
+    ]
+  },
+  {
+    "uid": "QTS_129_021_01",
+    "volume": 129,
+    "author": {
+      "canonical": "崔興宗",
+      "recorded": "崔興宗"
+    },
+    "title": "和王維敕賜百官櫻桃",
+    "poem": [
+      "未央朝謁正逶迤，天上櫻桃錫此時。",
+      "朱實初傳九華殿，繁花舊雜萬年枝。",
+      "未勝晏子江南橘，莫比潘家大谷梨。",
+      "聞道令人好顏色，神農本草自應知。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "未",
+        "variant": "全",
+        "source": "一作「全」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_022_01",
+    "volume": 129,
+    "author": {
+      "canonical": "崔興宗",
+      "recorded": "崔興宗"
+    },
+    "title": "留別王維",
+    "poem": [
+      "駐馬欲分襟，清寒御溝上。",
+      "前山景氣佳，獨往還惆悵。"
+    ]
+  },
+  {
+    "uid": "QTS_129_023_01",
+    "volume": 129,
+    "author": {
+      "canonical": "崔興宗",
+      "recorded": "崔興宗"
+    },
+    "title": "酬王維盧象見過林亭",
+    "poem": [
+      "窮巷空林常閉關，悠然獨臥對前山。",
+      "今朝忽枉嵇生駕，倒屣開門遙解顏。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "空",
+        "variant": "深",
+        "source": "一作「深」"
+      },
+      {
+        "line": 1,
+        "text": "然",
+        "variant": "悠",
+        "source": "一作「悠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_024_01",
+    "volume": 129,
+    "author": {
+      "canonical": "苑咸",
+      "recorded": "苑咸",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Xian",
+      "wikidata_id": "Q15908148"
+    },
+    "title": "送大理正攝御史判涼州別駕",
+    "poem": [
+      "天子念西疆，咨君去不遑。",
+      "垂銀棘庭印，持斧柏臺綱。",
+      "雪下天山白，泉枯塞草黃。",
+      "佇聞河隴外，還繼海沂康。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "西",
+        "variant": "邊",
+        "source": "一作「邊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_025_01",
+    "volume": 129,
+    "author": {
+      "canonical": "苑咸",
+      "recorded": "苑咸",
+      "gender": "male",
+      "period": "High Tang",
+      "english_name": "Yuan Xian",
+      "wikidata_id": "Q15908148"
+    },
+    "title": "酬王維",
+    "poem": [
+      "蓮花梵字本從天，華省仙郎早悟禪。",
+      "三點成伊猶有想，一觀如幻自忘筌。",
+      "爲文已變當時體，入用還推間氣賢。",
+      "應同羅漢無名欲，故作馮唐老歲年。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "同",
+        "variant": "知",
+        "source": "一作「知」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_026_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "尋西山隱者不遇",
+    "poem": [
+      "絕頂一茅茨，直上三十里。",
+      "扣關無僮僕，窺室唯案幾。",
+      "若非巾柴車，應是釣秋水。",
+      "差池不相見，黽勉空仰止。",
+      "草色新雨中，松聲晚牕裏。",
+      "及茲契幽絕，自足蕩心耳。",
+      "雖無賓主意，頗得清淨理。",
+      "興盡方下山，何必待之子。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "上",
+        "variant": "下",
+        "source": "一作「下」"
+      },
+      {
+        "line": 8,
+        "text": "之",
+        "variant": "夫",
+        "source": "一作「夫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_027_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "題農父廬舍",
+    "poem": [
+      "東風何時至，已綠湖上山。",
+      "湖上春已早，田家日不閑。",
+      "溝塍流水處，耒耜平蕪間。",
+      "薄暮飯牛罷，歸來還閉關。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "時",
+        "variant": "處",
+        "source": "一作「處」"
+      },
+      {
+        "line": 2,
+        "text": "已",
+        "variant": "既",
+        "source": "一作「既」"
+      },
+      {
+        "line": 3,
+        "text": "塍",
+        "variant": "壑",
+        "source": "一作「壑」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_028_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "泛若耶谿",
+    "poem": [
+      "結廬若耶裏，左右若耶水。",
+      "無日不釣魚，有時向城市。",
+      "溪中水流急，渡口水流寬。",
+      "每得樵風便，往來殊不難。",
+      "一川草長綠，四時那得辨。",
+      "短褐衣妻兒，餘糧及雞犬。",
+      "日暮鳥雀稀，稚子呼牛歸。",
+      "住處無鄰里，柴門獨掩扉。"
+    ]
+  },
+  {
+    "uid": "QTS_129_029_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "湖中寄王侍御",
+    "poem": [
+      "日日湖水上，好登湖上樓。",
+      "終年不向郭，過午始梳頭。",
+      "嘗自愛桮酒，得無相獻酬。",
+      "小僮能膾鯉，少妾事蓮舟。",
+      "每有南浦信，仍期後月遊。",
+      "方春轉搖蕩，孤興時淹留。",
+      "驄馬真傲吏，翛然無所求。",
+      "晨趨玉階下，心許滄江流。",
+      "少別如昨日，何言經數秋。",
+      "應知方外事，獨往非悠悠。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "興",
+        "variant": "嶼",
+        "source": "一作「嶼」"
+      },
+      {
+        "line": 6,
+        "text": "時",
+        "variant": "每",
+        "source": "一作「每」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_030_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "登潤州城",
+    "poem": [
+      "天末江城晚，登臨客望迷。",
+      "春潮平島嶼，殘雨隔虹蜺。",
+      "鳥與孤帆遠，煙和獨樹低。",
+      "鄉山何處是？目斷廣陵西。"
+    ]
+  },
+  {
+    "uid": "QTS_129_031_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "尋廬山崔徵君",
+    "poem": [
+      "日高雞犬靜，門掩向寒塘。",
+      "夜竹深茅宇，秋亭冷石牀。",
+      "住山年已遠，服藥壽偏長。",
+      "虛棄浮生者，相逢益自傷。"
+    ]
+  },
+  {
+    "uid": "QTS_129_032_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "留別王維",
+    "poem": [
+      "歸鞍白雲外，繚繞出前山。",
+      "今日又明日，自知心不閑。",
+      "親勞簪組送，欲趂鶯花還。",
+      "一步一回首，遲遲向近關。"
+    ]
+  },
+  {
+    "uid": "QTS_129_033_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "竹下殘雪",
+    "poem": [
+      "一點消未盡，孤月在竹陰。",
+      "晴光夜轉瑩，寒氣曉仍深。",
+      "還對讀書牖，且關乘興心。",
+      "已能依此地，終不傍瑤琴。"
+    ]
+  },
+  {
+    "uid": "QTS_129_034_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "送閻校書之越",
+    "poem": [
+      "南入剡中路，草雲應轉微。",
+      "湖邊好花照，山口細泉飛。",
+      "此地饒古跡，世人多忘歸。",
+      "經年松雪在，永日世情稀。",
+      "芸閣應相望，芳時不可違。"
+    ]
+  },
+  {
+    "uid": "QTS_129_035_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "省試夏日可畏",
+    "poem": [
+      "赫赫溫風扇，炎炎夏日徂。",
+      "火威馳迥野，畏景爍遙途。",
+      "勢矯翔陽翰，功分造化爐。",
+      "禁城千品燭，黃道一輪孤。",
+      "落照頻空簟，餘暉卷夕梧。",
+      "如何倦遊子，中路獨踟躕。"
+    ]
+  },
+  {
+    "uid": "QTS_129_036_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "左掖梨花",
+    "poem": [
+      "冷豔全欺雪，餘香乍入衣。",
+      "春風且莫定，吹向玉階飛。"
+    ]
+  },
+  {
+    "uid": "QTS_129_037_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "渡漢江",
+    "poem": [
+      "漾舟漢江上，掛席候風生。",
+      "臨汎何容與，愛此江水清。",
+      "蘆洲隱遙嶂，露日隱孤城。",
+      "自顧疎野性，難忘鷗鳥情。",
+      "聊復與時顧，暫欲解塵纓。",
+      "跋涉非吾願，虛懷浩已盈。"
+    ],
+    "variants": [
+      {
+        "line": 6,
+        "text": "跋涉",
+        "variant": "驅馳",
+        "source": "一作「驅馳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_129_038_01",
+    "volume": 129,
+    "author": {
+      "canonical": "丘爲",
+      "recorded": "丘爲"
+    },
+    "title": "冬至下寄舍弟時應赴入京",
+    "poem": [
+      "去去知未遠，依依甚初別。",
+      "他鄉至下心，昨夜堦前雪。",
+      "終日讀書仍少孤，家貧兄弟未當途。",
+      "適遠纔過宿舂料，相隨惟一平頭奴。",
+      "男兒出門事四海，立身世業文章在。",
+      "莫漫憶柴扉，駟馬高車朝紫微。",
+      "江南驛使不曾斷，迎前爲爾非春衣。"
+    ]
+  },
+  {
+    "uid": "QTS_129_039_01",
+    "volume": 129,
+    "author": {
+      "canonical": "趙驊",
+      "recorded": "趙驊",
+      "gender": "male",
+      "wikidata_id": "Q10542681"
+    },
+    "title": "送晁補闕歸日本國",
+    "poem": [
+      "西掖承休澣，東隅返故林。",
+      "來稱郯子學，歸是越人吟。",
+      "馬上秋郊遠，舟中曙海陰。",
+      "知君懷魏闕，萬里獨搖心。"
+    ]
+  }
+]

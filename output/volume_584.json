@@ -1,0 +1,1206 @@
+[
+  {
+    "uid": "QTS_584_001_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "觀山燈獻徐尚書",
+    "poem": [
+      "風杪影凌亂，露輕光陸離。",
+      "如霞散仙掌，似燒上峨嵋。",
+      "道樹千花發，扶桑九日移。",
+      "因山成衆像，不復藉蟠螭。"
+    ],
+    "notes": [
+      {
+        "content": "並序",
+        "context": "燈獻徐尚書",
+        "original_title": "觀山燈獻徐尚書〈並序〉"
+      }
+    ],
+    "preface": "尚書東苑公鎮襄之三年，四維具舉，而仍歲榖熟。\n及上元日，百姓請事山燈，以報穰祈祉也。\n時從事及上客從公登城南樓觀之。\n初爍空焮谷、漫若朝炬，忽驚狂燒卷風，撲緣一峯，如塵烘斾色、如波殘鯨鬛、如霞駮、如珊瑚露，如丹蛇蚑離、如朱草藂藂、如芝之曲、如蓮之擎。\n布字而疾抵電書，寫塔而爭同蜃搆，亦天下一絶也。\n成式辭多嗤累，學未該悉，策山燈事，唯記陳後主宴光壁殿，遙詠山燈詩云：「雜桂還如月，依柳更疑星」，輙成三首，以紀壯觀。"
+  },
+  {
+    "uid": "QTS_584_002_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "觀山燈獻徐尚書",
+    "poem": [
+      "湧出多寶塔，往來飛錫僧。",
+      "分明三五月，傳照百千燈。",
+      "馴狖移高柱，慶雲遮半層。",
+      "夜深寒焰白，猶自綴金繩。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "柱",
+        "variant": "炷",
+        "source": "一作「炷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_003_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "觀山燈獻徐尚書",
+    "poem": [
+      "磊落風初定，輕明雲乍妨。",
+      "疎中揺月彩，繁處雜星芒。",
+      "火樹枝柯密，燭龍鱗甲張。",
+      "窮愁讀書者，應得假餘光。"
+    ]
+  },
+  {
+    "uid": "QTS_584_004_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "和徐商賀盧員外賜緋",
+    "poem": [
+      "雲雨軒懸鶯語新，一篇佳句占陽春。",
+      "銀黃年少偏欺酒，金紫風流不讓人。",
+      "連璧座中斜日滿，貫珠歌裏落花頻。",
+      "莫辭倒載吟歸去，看欲東山又吐茵。"
+    ],
+    "notes": [
+      {
+        "content": "一作《和徐相公賀㐮陽徐副使加章服》",
+        "context": "盧員外賜緋",
+        "original_title": "和徐商賀盧員外賜緋〈一作《和徐相公賀㐮陽徐副使加章服》〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_005_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "河出榮光",
+    "poem": [
+      "符命自陶唐，吾君應會昌。",
+      "千年清德水，九折滿榮光。",
+      "極岸浮佳氣，微波照夕陽。",
+      "澄輝明貝闕，散彩入龍堂。",
+      "近帶關雲紫，遙連日道黃。",
+      "馮夷矜海若，漢武貴宣房。",
+      "漸沒孤槎影，仍呈一葦航。",
+      "撫躬悲未濟，作頌喜時康。"
+    ]
+  },
+  {
+    "uid": "QTS_584_006_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "哭李羣玉",
+    "poem": [
+      "曾話黃陵事，今為白日催。",
+      "老無兒女累，誰哭到泉臺？"
+    ]
+  },
+  {
+    "uid": "QTS_584_007_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "寄溫飛卿牋紙",
+    "poem": [
+      "三十六鱗充使時，數番猶得裹相思。",
+      "待將袍襖重抄了，盡寫襄陽播掿詞。"
+    ],
+    "notes": [
+      {
+        "content": "予在九江造雲藍紙，既乏左伯之法，全無張永之功，輙送五十板",
+        "context": "溫飛卿牋紙",
+        "original_title": "寄溫飛卿牋紙〈予在九江造雲藍紙，既乏左伯之法，全無張永之功，輙送五十板〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "播掿",
+        "variant": "掘拓",
+        "source": "一作「掘拓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_008_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題石泉蘭若",
+    "poem": [
+      "矗竹為籬松作門，石楠陰底藉芳蓀。",
+      "方袍近日少平叔，注得逍遙無處論。"
+    ]
+  },
+  {
+    "uid": "QTS_584_009_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "怯酒贈周繇",
+    "poem": [
+      "大白東西飛正狂，新篘石凍雜梅香。",
+      "詩中反語常迴避，尤怯花前喚索郎。"
+    ],
+    "notes": [
+      {
+        "content": "一作《答周為憲看牡丹》",
+        "context": "怯酒贈周繇",
+        "original_title": "怯酒贈周繇〈一作《答周為憲看牡丹》〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_010_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "牛尊師宅看牡丹",
+    "poem": [
+      "洞裏仙春日更長，翠叢風翦紫霞芳。",
+      "若為蕭史通家客，情願扛壺入醉鄉。"
+    ]
+  },
+  {
+    "uid": "QTS_584_011_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "觀碁",
+    "poem": [
+      "閒對奕楸傾一壺，黃羊枰上幾成都。",
+      "他時謁帝銅池曉，便賭宣城太守無。"
+    ],
+    "notes": [
+      {
+        "content": "一作溫庭筠詩",
+        "context": "觀碁",
+        "original_title": "觀碁〈一作溫庭筠詩〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_012_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題僧壁",
+    "poem": [
+      "有僧支頰撚睂毫，起就夕陽磨剃刀。",
+      "到此既知閒最樂，俗心何啻九牛毛。"
+    ],
+    "notes": [
+      {
+        "content": "一本下有「和韋蟾」三字",
+        "context": "題僧壁",
+        "original_title": "題僧壁〈一本下有「和韋蟾」三字〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "最",
+        "variant": "處",
+        "source": "一作「處」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_013_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "哭房處士",
+    "poem": [
+      "獨上黃壇幾度盟，印開龍渥喜丹成。",
+      "豈同叔夜終無分，空向人間著養生。"
+    ]
+  },
+  {
+    "uid": "QTS_584_014_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "呈輪上人",
+    "poem": [
+      "虎到前頭心不驚，殘陽擇蝨嬾逢迎。",
+      "東林水石未勝此，要假遠公方有名。"
+    ]
+  },
+  {
+    "uid": "QTS_584_015_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題谷隱蘭若三首 其一",
+    "poem": [
+      "風惹閒雲半谷陰，巖西隱者醉相尋。",
+      "草衰乍覺徑增險，葉盡卻疑溪不深。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_015_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題谷隱蘭若三首 其二",
+    "poem": [
+      "鳥啄靈雛戀落暉，村情山趣頓忘機。",
+      "丹成道士過門數，葉盡寒猨下嶺稀。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_015_03",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題谷隱蘭若三首 其三",
+    "poem": [
+      "風帶巢熊抝樹聲，老僧相引入雲行。",
+      "半陂新路畬纔了，一谷寒煙燒不成。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_016_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "不赴光風亭夜飲贈周繇",
+    "poem": [
+      "屏開屈膝見吳娃，蠻蠟同心四照花。",
+      "奼女不愁難管領，斬新鉛裏得黃牙。"
+    ]
+  },
+  {
+    "uid": "QTS_584_017_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲元中丞",
+    "poem": [
+      "鶯裏花前選孟光，東山逋客酒初狂。",
+      "素娥畢竟難防備，燒得河車莫遣嘗。"
+    ],
+    "notes": [
+      {
+        "content": "一作《襄陽中堂賞花為憲與妓人戲語嘲之》",
+        "context": "嘲元中丞",
+        "original_title": "嘲元中丞〈一作《襄陽中堂賞花為憲與妓人戲語嘲之》〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_018_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "寄周繇求人參",
+    "poem": [
+      "少賦令才猶強作，衆醫多識不能呼。",
+      "九莖仙草眞難得，五葉靈根許惠無。"
+    ]
+  },
+  {
+    "uid": "QTS_584_019_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其一",
+    "poem": [
+      "曾見當壚一箇人，入時裝束好腰身。",
+      "少年花蔕多芳思，只向詩中寫取眞。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_019_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其二",
+    "poem": [
+      "醉袂幾侵魚子纈，飄纓長罥鳯皇釵。",
+      "知君欲作閑情賦，應願將身作錦鞵。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_019_03",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其三",
+    "poem": [
+      "翠蝶密偎金叉首，青蟲危泊玉釵梁。",
+      "愁生半額不開靨，只為多情團扇郎。"
+    ],
+    "part_index": 3,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "叉",
+        "variant": "七",
+        "source": "一作「七」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_019_04",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其四",
+    "poem": [
+      "柳煙梅雪隱青樓，殘日黃鸝語未休。",
+      "見說自能裁袙腹，不知誰更著帩頭。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_019_05",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其五",
+    "poem": [
+      "愁機嬾織同心苣，悶繡先描連理枝。",
+      "多少風流詞句裏，愁中空詠早環詩。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_019_06",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其六",
+    "poem": [
+      "燕支山色重能輕，南陽水澤鬭分明。",
+      "不煩射雉先張翳，自有琴中威鳯聲。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_019_07",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "嘲飛卿七首 其七",
+    "poem": [
+      "半歳愁中鏡似荷，牽環撩鬢卻須磨。",
+      "花前不復抱瓶渴，月底還應琢刺歌。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_020_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "柔卿解籍戲呈飛卿三首 其一",
+    "poem": [
+      "長檐犢車初入門，金牙新醖盈深罇。",
+      "良人為漬木瓜粉，遮卻紅腮交午痕。"
+    ],
+    "part_index": 1,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_020_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "柔卿解籍戲呈飛卿三首 其二",
+    "poem": [
+      "最宜全幅碧鮫綃，自襞春羅等舞腰。",
+      "未有長錢求鄴錦，且令裁取一團嬌。"
+    ],
+    "part_index": 2,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_020_03",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "柔卿解籍戲呈飛卿三首 其三",
+    "poem": [
+      "出意挑鬟一尺長，金為鈿鳥簇釵梁。",
+      "鬱金種得花茸細，添入春衫領裏香。"
+    ],
+    "part_index": 3,
+    "total_parts": 3
+  },
+  {
+    "uid": "QTS_584_021_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其一",
+    "poem": [
+      "百媚城中一箇人，紫羅垂手見精神。",
+      "青琴仙子長敎示，自小來來號阿真。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_021_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其二",
+    "poem": [
+      "七尺髮猶三角梳，玳牛獨駕長檐車。",
+      "曾城自有三青鳥，不要蓮東雙鯉魚。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_021_03",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其三",
+    "poem": [
+      "花恨紅腰柳妬睂，東鄰牆短不曾窺。",
+      "猶憐最小分瓜日，奈許迎春得藕時。"
+    ],
+    "part_index": 3,
+    "total_parts": 7,
+    "variants": [
+      {
+        "line": 1,
+        "text": "腰",
+        "variant": "腮",
+        "source": "一作「腮」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_021_04",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其四",
+    "poem": [
+      "自等腰身尺六彊，兩重危鬢盡釵長。",
+      "欲燻羅薦嫌龍腦，須為尋求石葉香。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_021_05",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其五",
+    "poem": [
+      "別起青樓作幾層，斜陽幔卷鹿盧繩。",
+      "厭裁魚子深紅纈，泥覓蜻蜓淺碧綾。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_021_06",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其六",
+    "poem": [
+      "詐嫌嚼貝磨衣鈍，私帶男錢壓鬢低。",
+      "不獨邯鄲新嫁女，四枝鬟上插通犀。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_021_07",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "戲高侍御七首 其七",
+    "poem": [
+      "可羨羅敷自有夫，愁中漫捋白髭鬚。",
+      "豹錢驄子能擎舉，兼著連乾許換無。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_022_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "送僧二首 其一",
+    "poem": [
+      "形神不滅論初成，愛馬乘閒入帝京。",
+      "四十二年虛過了，方知僧裏有唐生。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_584_022_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "送僧二首 其二",
+    "poem": [
+      "想到頭陀最上方，桂陰猶認惠宗房。",
+      "因行戀燒歸來晚，窗下猶殘一字香。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_584_023_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "猨",
+    "poem": [
+      "卻憶書齋值晚晴，挽枝閒嘯激蟬清。",
+      "影沈巴峽夜巖色，蹤絶石塘寒瀨聲。"
+    ]
+  },
+  {
+    "uid": "QTS_584_024_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "送穆郎中赴闕",
+    "poem": [
+      "應念愁中恨索居，鸝歌聲裏且踟躕。",
+      "若逢金馬門前客，爲說虞卿久著書。"
+    ]
+  },
+  {
+    "uid": "QTS_584_025_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "題商山廟",
+    "poem": [
+      "偶出雲泉謁禮闈，篇章曾沭漢皇知。",
+      "無謀靜國東歸去，羞過商山四老祠。"
+    ]
+  },
+  {
+    "uid": "QTS_584_026_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其一",
+    "poem": [
+      "枝枝交影鎖長門，嫩色曾沾雨露恩。",
+      "鳯輦不來春欲盡，空留鶯語到黃昏。"
+    ],
+    "part_index": 1,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其二",
+    "poem": [
+      "水殿年年占早芳，柔條偏惹御爐香。",
+      "而今萬乘多廵狩，輦路無陰綠草長。"
+    ],
+    "part_index": 2,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_03",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其三",
+    "poem": [
+      "玉樓煙薄不勝芳，金屋寒輕翠帶長。",
+      "公子驊騮往何處，綠陰堪繫紫遊韁。"
+    ],
+    "part_index": 3,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_04",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其四",
+    "poem": [
+      "嫩葉初齊不耐寒，風和時拂玉欄干。",
+      "君王去日曾攀折，泣雨傷春翠黛殘。"
+    ],
+    "part_index": 4,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_05",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其五",
+    "poem": [
+      "微黃纔綻未成陰，繡戶珠簾相映深。",
+      "長恨早梅無賴極，先將春色出前林。"
+    ],
+    "part_index": 5,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_06",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其六",
+    "poem": [
+      "隋家堤上已成塵，漢將營邊不復春。",
+      "只向江南並塞北，酒旗相伴惹行人。"
+    ],
+    "part_index": 6,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_026_07",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "折楊柳七首 其七",
+    "poem": [
+      "陌上河邊千萬枝，怕寒愁雨盡低垂。",
+      "黃金穟短人多折，已恨東風不展睂。"
+    ],
+    "part_index": 7,
+    "total_parts": 7
+  },
+  {
+    "uid": "QTS_584_027_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "哭李羣玉",
+    "poem": [
+      "酒裏詩中三十年，縱橫唐突世喧喧。",
+      "明時不作禰衡死，傲盡公卿歸九泉。"
+    ]
+  },
+  {
+    "uid": "QTS_584_028_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "漢宮詞二首 其一",
+    "poem": [
+      "歌舞初承恩寵時，六宮學妾畫蛾睂。",
+      "君王厭世妾頭白，聞唱歌聲卻淚垂。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_584_028_02",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "漢宮詞二首 其二",
+    "poem": [
+      "二八能歌得進名，人言選入便光榮。",
+      "豈知妃後多嬌妬，不許君前唱一聲。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_584_029_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "醉中吟",
+    "poem": [
+      "只愛糟牀滴滴聲，長愁聲絶又醒醒。",
+      "人間榮辱不常定，唯有南山依舊青。"
+    ]
+  },
+  {
+    "uid": "QTS_584_030_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "桃源僧舍看花",
+    "poem": [
+      "前年帝里探春時，寺寺名花我盡知。",
+      "今日長安已灰燼，忍能南國對芳枝。"
+    ]
+  },
+  {
+    "uid": "QTS_584_031_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "和周繇見嘲",
+    "poem": [
+      "才甘魚目並，藝怯馬蹄間。",
+      "王謝初飛蓋，姬姜盡下山。",
+      "縛雞方角逐，射雉豈開顔。",
+      "亂翠移林色，狂紅照座殷。",
+      "防梭齒雖在，乞帽鬢慙斑。",
+      "儻恕相如瘦，應容累騎還。"
+    ],
+    "notes": [
+      {
+        "content": "並序，一作《和周為憲廣陽公宴見嘲詩》",
+        "context": "和周繇見嘲",
+        "original_title": "和周繇見嘲〈並序，一作《和周為憲廣陽公宴見嘲詩》〉"
+      }
+    ],
+    "preface": "近者，初開金埒，大敞紅筵，騎歴塊而風生，鼓摻撾而雷發。\n成式未曾盤馬，徒效執鞭；喜過君子之營，徒接將軍之第。\n欵叚辭退，因得坐觀。\n是時滿目鉛黃，迎鼻蘭麝。\n晚薪餘論，恨織素而不憐；斜柯新知，歎因針而難假。\n化符端公。\n妾換名馬，賦闢長門，莫逆賞心，形於善謔。\n為憲老舅，吟飄白雪，思效碧雲。\n六韻傳觀，不得落地，鏗如佩玉，粲若列星，僦眼詎貴於千金，貸心只勞於一句。\n輙鳴瓦缶，方應金鐃，拗輔宜咍，足代諧笑。",
+    "variants": [
+      {
+        "line": 3,
+        "text": "方",
+        "variant": "難",
+        "source": "一作「難」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_584_032_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "和張希復詠宣律和尚袈裟",
+    "poem": [
+      "南山披時寒夜中，一角不動毘嵐風。",
+      "何人見此生慙媿，斷續猶應䕶得龍。"
+    ]
+  },
+  {
+    "uid": "QTS_584_033_01",
+    "volume": 584,
+    "author": {
+      "canonical": "段成式",
+      "recorded": "段成式",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Duan Chengshi",
+      "wikidata_id": "Q855746"
+    },
+    "title": "句",
+    "poem": [
+      "高談敬風鑒，古貌怯冰稜。",
+      "虱暴妨歸夢，蟲喧徹曙更。",
+      "夢裏思甘露，言中惜惠燈。",
+      "新破毘曇義，相期卜夜論。",
+      "隨樵劫猨藏，隈石覻熊緣。",
+      "捽胡雲彩落，疻面月痕消。",
+      "擲履仙鳬起，撦衣蝴蝶飄。",
+      "羞中含薄怒，顰裏帯餘嬌。",
+      "醒後猶攘臂，歸時更折腰。",
+      "狂夫自纓絶，眉勢倩人描。",
+      "不願石郎戴笠，難甘玉女披衣。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "以下見《海錄碎事》",
+        "context": "句"
+      },
+      {
+        "line": 8,
+        "content": "《夢得句云云因續成十韻》",
+        "context": "句"
+      },
+      {
+        "line": 10,
+        "content": "《隱山書事》，見《㐮陽志》",
+        "context": "句"
+      },
+      {
+        "line": 12,
+        "content": "《光風亭夜宴妓有醉歐者》",
+        "context": "句"
+      },
+      {
+        "line": 20,
+        "content": "題同上，見《紀事》",
+        "context": "句"
+      },
+      {
+        "line": 22,
+        "content": "《苦雨》",
+        "context": "句"
+      }
+    ]
+  }
+]

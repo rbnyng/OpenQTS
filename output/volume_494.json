@@ -1,0 +1,3626 @@
+[
+  {
+    "uid": "QTS_494_001_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "及第後過揚子江",
+    "poem": [
+      "憶昔將貢年，抱愁此江邊。",
+      "魚龍互閃爍，黑浪高於天。",
+      "今日步春草，復來經此道。",
+      "江神也世情，為我風色好。"
+    ],
+    "preface": "施肩吾，字希聖，洪州人。元和十年登第。隱洪州之西山。為詩奇麗，《西山集》十卷，今編詩一卷。",
+    "variants": [
+      {
+        "line": 3,
+        "text": "春",
+        "variant": "青",
+        "source": "一作「青」"
+      },
+      {
+        "line": 3,
+        "text": "復",
+        "variant": "還",
+        "source": "一作「還」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_002_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夜宴曲",
+    "poem": [
+      "蘭缸如晝曉不眠，玉堂夜起沈香煙。",
+      "青娥一行十二仙，欲笑不笑桃花然。",
+      "碧窗弄嬌梳洗晚，戶外不知銀漢轉。",
+      "被郎嗔罰琉璃盞，酒入四肢紅玉軟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "堂",
+        "variant": "爐",
+        "source": "一作「爐」"
+      },
+      {
+        "line": 3,
+        "text": "嬌",
+        "variant": "粧",
+        "source": "一作「粧」"
+      },
+      {
+        "line": 4,
+        "text": "琉璃",
+        "variant": "屠蘓",
+        "source": "一作「屠蘓」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_003_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "效古興",
+    "poem": [
+      "金雀無舊釵，緗綺無舊裾。",
+      "唯有一寸心，長貯萬里夫。",
+      "南軒夜蟲織已促，北牖飛蛾繞殘燭。",
+      "祗言眾口鑠千金，誰信獨愁銷片玉。",
+      "不知歲晚歸不歸，又將啼眼縫征衣。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "金雀",
+        "variant": "黃金",
+        "source": "一作「黃金」"
+      },
+      {
+        "line": 4,
+        "text": "千",
+        "variant": "黃",
+        "source": "一作「黃」"
+      },
+      {
+        "line": 5,
+        "text": "啼",
+        "variant": "淚",
+        "source": "一作「淚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_004_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "古別離二首 其一",
+    "poem": [
+      "古人謾歌西飛燕，十年不見狂夫面。",
+      "三更風作切夢刀，萬轉愁成系腸線。",
+      "所嗟不及牛女星，一年一度得相見。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_004_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "古別離二首 其二",
+    "poem": [
+      "老母別愛子，少妻送征郎。",
+      "血流既四面，乃一斷二腸。",
+      "不愁寒無衣，不怕饑無糧。",
+      "惟恐征戰不還鄉，母化為鬼妻為孀。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_005_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "壯士行",
+    "poem": [
+      "一斗之膽撐臟腑，如磥之筋礙臂骨。",
+      "有時悞入千人叢，自覺一身橫突兀。",
+      "當今四海無煙塵，胸襟被壓不得伸。",
+      "凍梟殘蠆我不取，汙我匣裏青蛇鱗。"
+    ]
+  },
+  {
+    "uid": "QTS_494_006_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "代征婦怨",
+    "poem": [
+      "寒窗羞見影相隨，嫁得五陵輕薄兒。",
+      "長短豔歌君自解，淺深更漏妾偏知。",
+      "畫裙多淚鴛鴦濕，雲鬢慵梳玳瑁垂。",
+      "何事不看霜雪裏，堅貞惟有古松枝。"
+    ]
+  },
+  {
+    "uid": "QTS_494_007_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送人南遊",
+    "poem": [
+      "見說南行偏不易，中途莫忘寄書頻。",
+      "淩空瘴氣墮飛鳥，解語山魈惱病人。",
+      "閩縣綠娥能引客，泉州烏藥好防身。",
+      "異花奇竹分明看，待汝歸來畫取真。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "行",
+        "variant": "遊",
+        "source": "一作「遊」"
+      },
+      {
+        "line": 3,
+        "text": "好",
+        "variant": "可",
+        "source": "一作「可」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_008_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈邊將",
+    "poem": [
+      "輕生奉國不為難，戰苦身多舊箭瘢。",
+      "玉匣鎖龍鱗甲冷，金鈴襯鶻羽毛寒。",
+      "皂貂擁出花當背，白馬騎來月在鞍。",
+      "猶恐犬戎臨虜塞，柳營時把陣圖看。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "時",
+        "variant": "特",
+        "source": "一作「特」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_009_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "上禮部侍郎陳情",
+    "poem": [
+      "九重城裏無親識，八百人中獨姓施。",
+      "弱羽飛時攢箭險，蹇驢行處薄冰危。",
+      "晴天欲照盆難反，貧女如花鏡不知。",
+      "卻向從來受恩地，再求青律變寒枝。"
+    ]
+  },
+  {
+    "uid": "QTS_494_010_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "早春殘雪",
+    "poem": [
+      "春景照林巒，玲瓏雪影殘。",
+      "井泉添碧甃，藥圃洗朱欄。",
+      "雲路迷初醒，書堂映漸難。",
+      "花分梅嶺色，塵減玉階寒。",
+      "遠稱棲松鶴，高宜點露盤。",
+      "佇逢春律後，陰谷始堪看。"
+    ]
+  },
+  {
+    "uid": "QTS_494_011_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送端上人游天台",
+    "poem": [
+      "師今欲向天台去，來說天台意最真。",
+      "溪過石橋為險處，路逢毛褐是真人。",
+      "雲邊望字鐘聲遠，雪裏尋僧腳跡新。",
+      "只可且論經夏別，莫教琪樹兩回春。"
+    ]
+  },
+  {
+    "uid": "QTS_494_012_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "惜花",
+    "poem": [
+      "落盡萬株紅，無人解繫風。",
+      "今朝芳徑裏，惆悵錦機空。"
+    ]
+  },
+  {
+    "uid": "QTS_494_013_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "衝夜行",
+    "poem": [
+      "夜行無月時，古路多荒榛。",
+      "山鬼遙把火，自照不照人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_014_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夜愁曲",
+    "poem": [
+      "歌者歌未絕，愁人愁轉增。",
+      "空把琅玕枝，強挑無心燈。"
+    ]
+  },
+  {
+    "uid": "QTS_494_015_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜古詞五首 其一",
+    "poem": [
+      "可憐江北女，慣唱江南曲。",
+      "搖盪木蘭舟，雙鳧不成浴。"
+    ],
+    "part_index": 1,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_494_015_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜古詞五首 其二",
+    "poem": [
+      "郎為七上香，妾作籠下灰。",
+      "歸時即暖熱，去罷生塵埃。"
+    ],
+    "part_index": 2,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_494_015_03",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜古詞五首 其三",
+    "poem": [
+      "夜裁鴛鴦綺，朝織蒲桃綾。",
+      "欲試一寸心，待縫三尺冰。"
+    ],
+    "part_index": 3,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_494_015_04",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜古詞五首 其四",
+    "poem": [
+      "憐時魚得水，怨罷商與參。",
+      "不如山梔子，卻能結同心。"
+    ],
+    "part_index": 4,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_494_015_05",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雜古詞五首 其五",
+    "poem": [
+      "紅顏感暮花，白日同流水。",
+      "思君若孤燈，一夜一心死。"
+    ],
+    "part_index": 5,
+    "total_parts": 5
+  },
+  {
+    "uid": "QTS_494_016_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "幼女詞",
+    "poem": [
+      "幼女纔六歲，未知巧與拙。",
+      "向夜在堂前，學人拜新月。"
+    ]
+  },
+  {
+    "uid": "QTS_494_017_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "買地詞",
+    "poem": [
+      "買地不惜錢，為多芳桂叢。",
+      "所期在清涼，坐起聞香風。"
+    ]
+  },
+  {
+    "uid": "QTS_494_018_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "弋陽訪古",
+    "poem": [
+      "行逢葛溪水，不見葛仙人。",
+      "空拋青竹杖，呪作葛陂神。"
+    ]
+  },
+  {
+    "uid": "QTS_494_019_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "幽居樂",
+    "poem": [
+      "萬籟不在耳，寂寥心境清。",
+      "無妨數莖竹，時有蕭蕭聲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_020_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "湘川懷古",
+    "poem": [
+      "湘水終日流，湘妃昔時哭。",
+      "美色已成塵，淚痕猶在竹。"
+    ]
+  },
+  {
+    "uid": "QTS_494_021_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋山吟",
+    "poem": [
+      "夜吟秋山上，嫋嫋秋風歸。",
+      "月色清且冷，桂香落人衣。"
+    ]
+  },
+  {
+    "uid": "QTS_494_022_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寒夜",
+    "poem": [
+      "三復招隱吟，不知寒夜深。",
+      "看看西來月，移到青天心。"
+    ]
+  },
+  {
+    "uid": "QTS_494_023_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "湘竹詞",
+    "poem": [
+      "萬古湘江竹，無窮奈怨何。",
+      "年年長春筍，只是淚痕多。"
+    ]
+  },
+  {
+    "uid": "QTS_494_024_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "觀花後遊慈恩寺",
+    "poem": [
+      "世事知難了，應須問苦空。",
+      "羞將看花眼，來入梵王宮。"
+    ]
+  },
+  {
+    "uid": "QTS_494_025_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "乞巧詞",
+    "poem": [
+      "乞巧望星河，雙雙並綺羅。",
+      "不嫌針眼小，只道月明多。"
+    ]
+  },
+  {
+    "uid": "QTS_494_026_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "不見來詞",
+    "poem": [
+      "烏鵲語千回，黃昏不見來。",
+      "漫教脂粉匣，閉了又重開。"
+    ]
+  },
+  {
+    "uid": "QTS_494_027_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夜起來",
+    "poem": [
+      "香銷連理帶，塵覆合歡杯。",
+      "懶臥相思枕，愁吟夜起來。"
+    ]
+  },
+  {
+    "uid": "QTS_494_028_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "笑卿卿詞",
+    "poem": [
+      "笑向卿卿道，躭書夜夜多。",
+      "出來看玉兔，又欲過銀河。"
+    ]
+  },
+  {
+    "uid": "QTS_494_029_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "感遇詞",
+    "poem": [
+      "一種貌如仙，人情要自偏。",
+      "羅敷有底好，最得使君憐。"
+    ]
+  },
+  {
+    "uid": "QTS_494_030_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "及第後夜訪月仙子",
+    "poem": [
+      "自喜尋幽夜，新當及第年。",
+      "還將天上桂，來訪月中仙。"
+    ]
+  },
+  {
+    "uid": "QTS_494_031_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "定情樂",
+    "poem": [
+      "敢嗟君不憐，自是命不諧。",
+      "著破三條裙，卻還雙股釵。",
+      "感郎雙條脫，新破八幅綃。",
+      "不惜榆莢錢，買人金步搖。"
+    ]
+  },
+  {
+    "uid": "QTS_494_032_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "宿南一上人山房",
+    "poem": [
+      "窗牖月色多，坐臥禪心靜。",
+      "青鬼來試人，夜深弄燈影。"
+    ]
+  },
+  {
+    "uid": "QTS_494_033_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "蘭渚泊",
+    "poem": [
+      "家在洞水西，身作蘭渚客。",
+      "天晝無纖雲，獨坐空江碧。"
+    ]
+  },
+  {
+    "uid": "QTS_494_034_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "經吳真君舊宅",
+    "poem": [
+      "古仙煉丹處，不測何歲年。",
+      "至今空宅基，時有五色煙。"
+    ]
+  },
+  {
+    "uid": "QTS_494_035_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "古相思",
+    "poem": [
+      "十訪九不見，甚於菖蒲花。",
+      "可憐雲中月，今夜墮我家。"
+    ]
+  },
+  {
+    "uid": "QTS_494_036_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "瀑布",
+    "poem": [
+      "豁開青冥顛，寫出萬丈泉。",
+      "如裁一條素，白日懸秋天。"
+    ]
+  },
+  {
+    "uid": "QTS_494_037_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "金尺石",
+    "poem": [
+      "丹砂畫頑石，黃金橫一尺。",
+      "人世較短長，仙家愛平直。"
+    ]
+  },
+  {
+    "uid": "QTS_494_038_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋洞宿",
+    "poem": [
+      "夜深秋洞裏，風雨報龍歸。",
+      "何事觸人睡，不教蝴蝶飛。"
+    ]
+  },
+  {
+    "uid": "QTS_494_039_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "效古詞",
+    "poem": [
+      "姊妹無多兄弟少，舉家鍾愛年最小。",
+      "有時繞樹山鵲飛，貪看不待畫眉了。"
+    ]
+  },
+  {
+    "uid": "QTS_494_040_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山中得劉秀才京書",
+    "poem": [
+      "自笑家貧客到疏，滿庭煙草不能鋤。",
+      "今朝誰料三千里，忽得劉京一紙書。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "京",
+        "variant": "公",
+        "source": "一作「公」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_041_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "望夫詞",
+    "poem": [
+      "手爇寒燈向影頻，回文機上暗生塵。",
+      "自家夫婿無消息，卻恨橋頭賣卜人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_042_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "憶四明山泉",
+    "poem": [
+      "愛彼山中石泉水，幽深夜夜落空裏。",
+      "至今憶得臥雲時，猶自涓涓在人耳。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "夜夜落空",
+        "variant": "夜落空窗",
+        "source": "一作「夜落空窗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_043_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "西山靜中吟",
+    "poem": [
+      "重重道氣結成神，玉闕金堂逐日新。",
+      "若數西山得道者，連予便是十三人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_044_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "天柱山贈峨嵋田道士",
+    "poem": [
+      "古稱天柱連九天，峨嵋道士棲其巔。",
+      "近聞教得玄鶴舞，試憑驅出青芝田。"
+    ]
+  },
+  {
+    "uid": "QTS_494_045_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夜巖謠",
+    "poem": [
+      "夜上幽巖踏靈草，松枝已疎桂枝老。",
+      "新詩幾度惜不吟，此處一聲風月好。"
+    ]
+  },
+  {
+    "uid": "QTS_494_046_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "島夷行",
+    "poem": [
+      "腥臊海邊多鬼市，島夷居處無鄉里。",
+      "黑皮年少學採珠，手把生犀照鹹水。"
+    ]
+  },
+  {
+    "uid": "QTS_494_047_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "帝宮詞",
+    "poem": [
+      "自得君王寵愛時，敢言春色上寒枝。",
+      "十年宮裏無人問，一日承恩天下知。"
+    ]
+  },
+  {
+    "uid": "QTS_494_048_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "歎花詞",
+    "poem": [
+      "前日滿林紅錦遍，今日繞林看不見。",
+      "空餘古岸泥土中，零落胭脂兩三片。"
+    ]
+  },
+  {
+    "uid": "QTS_494_049_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "杜鵑花詞",
+    "poem": [
+      "杜鵑花時夭豔然，所恨帝城人不識。",
+      "丁甯莫遣春風吹，留與佳人比顏色。"
+    ]
+  },
+  {
+    "uid": "QTS_494_050_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "曉光詞",
+    "poem": [
+      "日輪浮動羲和推，東方一軋天門開。",
+      "風神為我掃煙霧，四海蕩蕩無塵埃。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "輪",
+        "variant": "光",
+        "source": "一作「光」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_051_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "望曉詞",
+    "poem": [
+      "攬衣起兮望秋河，濛濛遠霧飛輕羅。",
+      "蟠桃樹上日欲出，白榆枝畔星無多。"
+    ]
+  },
+  {
+    "uid": "QTS_494_052_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "海邊遠望",
+    "poem": [
+      "扶桑枝邊紅皎皎，天雞一聲四溟曉。",
+      "偶看仙女上青天，鸞鶴無多采雲少。"
+    ]
+  },
+  {
+    "uid": "QTS_494_053_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "聽南僧說偈詞",
+    "poem": [
+      "師子座中香已發，西方佛偈南僧說。",
+      "惠風吹盡六條塵，清淨水中初見月。"
+    ]
+  },
+  {
+    "uid": "QTS_494_054_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日美新綠詞",
+    "poem": [
+      "前日萌芽小於粟，今朝草樹色已足。",
+      "天公不語能運為，驅遣羲和染新綠。"
+    ]
+  },
+  {
+    "uid": "QTS_494_055_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "對月憶嵩陽故人",
+    "poem": [
+      "團團月光照西壁，嵩陽故人千里隔。",
+      "不知三十六峰前，定為何處峰前客。"
+    ]
+  },
+  {
+    "uid": "QTS_494_056_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈莎地道士",
+    "poem": [
+      "莎地陰森古蓮葉，遊龜暗老青苔甲。",
+      "池邊道士誇眼明，夜取蟭螟摘蚊睫。"
+    ]
+  },
+  {
+    "uid": "QTS_494_057_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "效古詞",
+    "poem": [
+      "姊妹無多兄弟少，舉家鍾愛年最小。",
+      "有時繞樹山鵲飛，貪看不待畫眉了。"
+    ]
+  },
+  {
+    "uid": "QTS_494_058_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "冬日觀早朝",
+    "poem": [
+      "紫煙捧日爐香動，萬馬千車踏新凍。",
+      "繡衣年少朝欲歸，美人猶在青樓夢。"
+    ]
+  },
+  {
+    "uid": "QTS_494_059_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "觀吳偃畫松",
+    "poem": [
+      "君有絕藝終身寶，方寸巧心通萬造。",
+      "忽然寫出澗底松，筆下看看一枝老。"
+    ]
+  },
+  {
+    "uid": "QTS_494_060_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "題山僧水閣",
+    "poem": [
+      "山房水閣連空翠，沉沉下有蛟龍睡。",
+      "老僧趺坐入定時，不知花落黃金地。"
+    ]
+  },
+  {
+    "uid": "QTS_494_061_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "登峴亭懷孟生",
+    "poem": [
+      "峴山自高水自綠，後輩詞人心眼俗。",
+      "鹿門才子不再生，怪景幽奇無管屬。"
+    ]
+  },
+  {
+    "uid": "QTS_494_062_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "吳中代蜀客吟",
+    "poem": [
+      "身狎吳兒家在蜀，春深屢唱思鄉曲。",
+      "峨眉風景無主人，錦江悠悠為誰綠。"
+    ]
+  },
+  {
+    "uid": "QTS_494_063_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "戲詠榆莢",
+    "poem": [
+      "風吹榆錢落如雨，繞林繞屋來不住。",
+      "知爾不堪還酒家，漫教夷甫無行處。"
+    ]
+  },
+  {
+    "uid": "QTS_494_064_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寄李補闕",
+    "poem": [
+      "蒼生應怪君起遲，蒲輪重輾嵩陽道。",
+      "功成名遂來不及，三十六峰仙鶴老。"
+    ]
+  },
+  {
+    "uid": "QTS_494_065_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "貧客吟",
+    "poem": [
+      "𣰦毯敝衣無處結，寸心耿耿如刀切。",
+      "今朝欲泣泉客珠，及到盤中卻成血。"
+    ]
+  },
+  {
+    "uid": "QTS_494_066_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "誚山中叟",
+    "poem": [
+      "老人今年八十幾，口中零落殘牙齒。",
+      "天陰傴僂帶嗽行，猶向巖前種松子。"
+    ]
+  },
+  {
+    "uid": "QTS_494_067_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "聞山中步虛聲",
+    "poem": [
+      "何人步虛南峰頂，鶴唳九天霜月冷。",
+      "仙詞偶逐東風來，誤飄數聲落塵境。"
+    ]
+  },
+  {
+    "uid": "QTS_494_068_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "題龍池山人",
+    "poem": [
+      "主人家在龍池側，水中有魚不敢食。",
+      "終朝采藥供仙廚，卻笑桃花少顏色。"
+    ]
+  },
+  {
+    "uid": "QTS_494_069_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "翫新桃花",
+    "poem": [
+      "幾歎紅桃開未得，忽驚造化新裝飾。",
+      "一種同沾榮盛時，偏荷清光借顏色。"
+    ]
+  },
+  {
+    "uid": "QTS_494_070_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山石榴花",
+    "poem": [
+      "深色胭脂碎剪紅，巧能攢合是天公。",
+      "莫言無物堪相比，妖豔西施春驛中。"
+    ]
+  },
+  {
+    "uid": "QTS_494_071_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "翫友人庭竹",
+    "poem": [
+      "曾去玄洲看種玉，那似君家滿庭竹。",
+      "客來不用呼清風，此處掛冠涼自足。"
+    ]
+  },
+  {
+    "uid": "QTS_494_072_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋夜山居二首 其一",
+    "poem": [
+      "幽居正想餐霞客，夜久月寒珠露滴。",
+      "千年獨鶴兩三聲，飛下巖前一枝柏。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_072_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋夜山居二首 其二",
+    "poem": [
+      "去雁聲遙人語絕，誰家素機織新雪。",
+      "秋山野客醉醒時，百尺老松銜半月。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_073_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋夜山中別友人",
+    "poem": [
+      "獨鶴孤雲兩難說，明朝又作東西別。",
+      "知君少壯無幾年，莫愛閑吟老松月。"
+    ]
+  },
+  {
+    "uid": "QTS_494_074_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈別王煉師往羅浮",
+    "poem": [
+      "道俗駢闐留不住，羅浮山上有心期。",
+      "卻愁仙處人難到，別後音書寄與誰。"
+    ]
+  },
+  {
+    "uid": "QTS_494_075_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日餐霞閣",
+    "poem": [
+      "灑水初晴物候新，餐霞閣上最宜春。",
+      "山花四面風吹入，為我鋪床作錦茵。"
+    ]
+  },
+  {
+    "uid": "QTS_494_076_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "喜友再相逢",
+    "poem": [
+      "三十年前與君別，可憐容色奪花紅。",
+      "誰知日月相催促，此度見君成老翁。"
+    ]
+  },
+  {
+    "uid": "QTS_494_077_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "候仙詞",
+    "poem": [
+      "西歸公子何時降，南嶽先生早晚來。",
+      "巡歷世間猶未遍，乞求鸞鶴且裵回。"
+    ]
+  },
+  {
+    "uid": "QTS_494_078_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "修仙詞",
+    "poem": [
+      "丹田自種留年藥，玄谷長生續命芝。",
+      "世上漫忙兼漫走，不知求己更求誰。"
+    ]
+  },
+  {
+    "uid": "QTS_494_079_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夏日題方師院",
+    "poem": [
+      "火天無處買清風，悶發時來入梵宮。",
+      "只向方師小廊下，回看門外是樊籠。"
+    ]
+  },
+  {
+    "uid": "QTS_494_080_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春遊樂",
+    "poem": [
+      "一年三百六十日，賞心那似春中物。",
+      "草迷曲塢花滿園，東家少年西家出。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "塢",
+        "variant": "渚",
+        "source": "一作「渚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_081_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "仙客歸鄉詞二首 其一",
+    "poem": [
+      "六合八荒遊未半，子孫零落暫歸來。",
+      "井邊不認捎雲樹，多是門人在後栽。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_081_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "仙客歸鄉詞二首 其二",
+    "poem": [
+      "洞中日月洞中仙，不算離家是幾年。",
+      "出郭始知人代變，又須拋卻古時錢。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_082_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雲州飲席",
+    "poem": [
+      "酒腸雖滿少歡情，身在雲州望帝城。",
+      "巡次合當誰令改，先須爲我打還京。"
+    ]
+  },
+  {
+    "uid": "QTS_494_083_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "戲贈李主簿",
+    "poem": [
+      "官罷江南客恨遙，二年空被酒中消。",
+      "不知暗數春遊處，偏憶揚州第幾橋。"
+    ]
+  },
+  {
+    "uid": "QTS_494_084_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春詞",
+    "poem": [
+      "黃鳥啼多春日高，紅芳開盡井邊桃。",
+      "美人手暖裁衣易，片片輕雲落剪刀。"
+    ],
+    "notes": [
+      {
+        "content": "一作沈亞之詩",
+        "context": "春詞",
+        "original_title": "春詞〈一作沈亞之詩〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_085_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "題景上人山門",
+    "poem": [
+      "水有青蓮沙有金，老僧於此獨觀心。",
+      "愁人慾寄中峰宿，只恐白猿啼夜深。"
+    ]
+  },
+  {
+    "uid": "QTS_494_086_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "妓人殘粧詞",
+    "poem": [
+      "雲髻已收金鳳凰，巧勻輕黛約殘妝。",
+      "不知昨夜新歌響，猶在誰家繞畫梁。"
+    ]
+  },
+  {
+    "uid": "QTS_494_087_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "臨水亭",
+    "poem": [
+      "只怪素亭黏黛色，溪煙為我染莓苔。",
+      "欲知源上春風起，看取桃花逐水來。"
+    ]
+  },
+  {
+    "uid": "QTS_494_088_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "聽范玄長吟",
+    "poem": [
+      "聲聲扣出碧琅玕，能使秋猿欲叫難。",
+      "詩興未窮心更遠，手垂青拂向雲看。"
+    ]
+  },
+  {
+    "uid": "QTS_494_089_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "觀葉生畫花",
+    "poem": [
+      "心竅玲瓏貌亦奇，榮枯只在手中移。",
+      "今朝故向霜天裏，點破繁花四五枝。"
+    ]
+  },
+  {
+    "uid": "QTS_494_090_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "洗丹沙詞",
+    "poem": [
+      "千淘萬洗紫光攢，夜火熒熒照玉盤。",
+      "恐是麻姑殘米粒，不曾將與世人看。"
+    ]
+  },
+  {
+    "uid": "QTS_494_091_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "長安春夜吟",
+    "poem": [
+      "露盤滴時河漢微，美人燈下裁春衣。",
+      "蟾蜍東去鵲南飛，芸香省中郎不歸。"
+    ]
+  },
+  {
+    "uid": "QTS_494_092_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "自述",
+    "poem": [
+      "篋貯靈砂日日看，欲成仙法脫身難。",
+      "不知誰向交州去，為謝羅浮葛長官。"
+    ]
+  },
+  {
+    "uid": "QTS_494_093_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "少年行",
+    "poem": [
+      "醉騎白馬走空衢，惡少皆稱電不如。",
+      "五鳳街頭新勒轡，半垂衫袖揖金吾。"
+    ]
+  },
+  {
+    "uid": "QTS_494_094_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "越中遇寒食",
+    "poem": [
+      "去歲清明霅溪口，今朝寒食鏡湖西。",
+      "信知天地心不易，還有子規依舊啼。"
+    ]
+  },
+  {
+    "uid": "QTS_494_095_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈採藥叟",
+    "poem": [
+      "老去唯將藥裹行，無家無累一身輕。",
+      "卻教年少取書卷，小字燈前鬥眼明。"
+    ]
+  },
+  {
+    "uid": "QTS_494_096_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "清夜憶仙宮子",
+    "poem": [
+      "夜靜門深紫洞煙，孤行獨坐憶神仙。",
+      "三清宮裏月如晝，十二宮樓何處眠。"
+    ]
+  },
+  {
+    "uid": "QTS_494_097_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "江南怨",
+    "poem": [
+      "愁見橋邊荇葉新，蘭舟枕水楫生塵。",
+      "從來不是無蓮采，十頃蓮塘賣與人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_098_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送絕塵子歸舊隱二首 其一",
+    "poem": [
+      "雲水千重繞洞門，獨歸何處是桃源。",
+      "仙方不用隨身去，留與人間老子孫。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_098_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送絕塵子歸舊隱二首 其二",
+    "poem": [
+      "班藤為杖草為衣，萬壑千峰獨自歸。",
+      "縱令相憶誰相報，桂樹岩邊人信稀。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_099_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送裴秀才歸淮南",
+    "poem": [
+      "怪來頻起詠刀頭，楓葉枝邊一夕秋。",
+      "又向江南別才子，卻將風景過揚州。"
+    ]
+  },
+  {
+    "uid": "QTS_494_100_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "錢塘渡口",
+    "poem": [
+      "天塹茫茫連沃焦，秦皇何事不安橋。",
+      "錢塘渡口無錢納，已失西興兩信潮。"
+    ]
+  },
+  {
+    "uid": "QTS_494_101_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日宴徐君池亭",
+    "poem": [
+      "暫憑春酒換愁顏，今日應須醉始還。",
+      "池上有門君莫掩，從教野客見青山。"
+    ]
+  },
+  {
+    "uid": "QTS_494_102_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山中送友人",
+    "poem": [
+      "欲折楊枝別恨生，一重枝上一啼鶯。",
+      "亂山重疊雲相掩，君向亂山何處行。"
+    ]
+  },
+  {
+    "uid": "QTS_494_103_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寄王少府",
+    "poem": [
+      "采松仙子徒銷日，喫菜山僧枉過生。",
+      "多謝藍田王少府，人間詩酒最關情。"
+    ]
+  },
+  {
+    "uid": "QTS_494_104_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈女道士鄭玉華二首 其一",
+    "poem": [
+      "玄發新簪碧藕花，欲添肌雪餌紅砂。",
+      "世間風景那堪戀，長笑劉郎漫憶家。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_104_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈女道士鄭玉華二首 其二",
+    "poem": [
+      "明鏡湖中休採蓮，卻師阿母學神仙。",
+      "朱絲誤落青囊裏，猶是箜篌第幾弦。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_105_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寄西臺李侍御",
+    "poem": [
+      "二千餘里採瓊瑰，到處傷心瓦礫堆。",
+      "唯有繡衣周柱史，獨將珠玉掛西臺。"
+    ]
+  },
+  {
+    "uid": "QTS_494_106_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈淩仙姥",
+    "poem": [
+      "阿母從天降幾時，前朝惟有漢皇知。",
+      "仙桃不啻三回熟，飽見東方一小兒。"
+    ]
+  },
+  {
+    "uid": "QTS_494_107_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "晚春送王秀才游剡川",
+    "poem": [
+      "越山花去剡藤新，才子風光不厭春。",
+      "第一莫尋溪上路，可憐仙女愛迷人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "去",
+        "variant": "老",
+        "source": "一作「老」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_108_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "馮上人院",
+    "poem": [
+      "擾擾凡情逐水流，世間多喜複多憂。",
+      "一回行到馮公院，便欲令人百事休。"
+    ]
+  },
+  {
+    "uid": "QTS_494_109_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "金吾詞",
+    "poem": [
+      "行擁朱輪錦幨兒，望仙門外叱金羈。",
+      "染須偷嫩無人覺，唯有平康小婦知。"
+    ]
+  },
+  {
+    "uid": "QTS_494_110_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "觀舞女",
+    "poem": [
+      "纏紅結紫畏風吹，嫋娜初回弱柳枝。",
+      "買笑未知誰是主，萬人心逐一人移。"
+    ]
+  },
+  {
+    "uid": "QTS_494_111_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "鄠縣村居",
+    "poem": [
+      "欲住村西日日慵，上山無水引高蹤。",
+      "誰能求得秦皇術，為我先驅紫閣峰。"
+    ]
+  },
+  {
+    "uid": "QTS_494_112_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "酬周秀才",
+    "poem": [
+      "三展蜀牋皆郢曲，我心珍重甚瓊瑤。",
+      "應緣水府龍神睡，偷得蛟人五色綃。"
+    ]
+  },
+  {
+    "uid": "QTS_494_113_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "旅次文水縣喜遇李少府",
+    "poem": [
+      "爲君三日廢行程，一縣官人是酒朋。",
+      "共憶襄陽同醉處，尚書坐上納銀觥。"
+    ]
+  },
+  {
+    "uid": "QTS_494_114_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夏雨後題青荷蘭若",
+    "poem": [
+      "僧舍清涼竹樹新，初經一雨洗諸塵。",
+      "微風忽起吹蓮葉，青玉盤中瀉水銀。"
+    ]
+  },
+  {
+    "uid": "QTS_494_115_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "途中逢少女",
+    "poem": [
+      "身倚西門笑向東，牡丹初折一枝紅。",
+      "市頭日賣千般鏡，知落誰家新匣中。"
+    ]
+  },
+  {
+    "uid": "QTS_494_116_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山中翫白鹿",
+    "poem": [
+      "繞洞尋花日易銷，人間無路得相招。",
+      "呦呦白鹿毛如雪，踏我桃花過石橋。"
+    ]
+  },
+  {
+    "uid": "QTS_494_117_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山居樂",
+    "poem": [
+      "鸞鶴每於松下見，笙歌常向坐中聞。",
+      "手持十節龍頭杖，不指虛空即指雲。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "鶴",
+        "variant": "鳳",
+        "source": "一作「鳳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_118_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "襄陽曲",
+    "poem": [
+      "大堤女兒郎莫尋，三三五五結同心。",
+      "清晨對鏡理容色，意欲取郎千萬金。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "理",
+        "variant": "冶",
+        "source": "一作「冶」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_119_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "望夫詞二首 其一",
+    "poem": [
+      "看看北雁又南飛，薄倖征夫久不歸。",
+      "蟢子到頭無信處，凡經幾度上人衣。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_119_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "望夫詞二首 其二",
+    "poem": [
+      "何事經年斷書信，愁聞遠客說風波。",
+      "西家還有望夫伴，一種淚痕兒最多。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_120_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "少婦遊春詞",
+    "poem": [
+      "簇錦攢花鬬勝遊，萬人行處最風流。",
+      "無端自向春園裏，笑摘青梅呌阿侯。"
+    ]
+  },
+  {
+    "uid": "QTS_494_121_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "折柳枝",
+    "poem": [
+      "傷見路邊楊柳春，一重折盡一重新。",
+      "今年還折去年處，不送去年離別人。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "邊",
+        "variant": "傍",
+        "source": "一作「傍」"
+      },
+      {
+        "line": 1,
+        "text": "重",
+        "variant": "株",
+        "source": "一作「株」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_122_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "歸將吟",
+    "poem": [
+      "百戰放歸成老翁，餘生得出死人中。",
+      "今朝授敕三回舞，兩賜青娥又拜公。"
+    ]
+  },
+  {
+    "uid": "QTS_494_123_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "惜花詞",
+    "poem": [
+      "千樹繁紅繞碧泉，正宜尊酒對芳年。",
+      "明朝欲飲還來此，只怕春風卻在前。"
+    ]
+  },
+  {
+    "uid": "QTS_494_124_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "拋纏頭詞",
+    "poem": [
+      "翠娥初罷繞梁詞，又見雙鬟對舞時。",
+      "一抱紅羅分不足，參差裂破鳳凰兒。"
+    ]
+  },
+  {
+    "uid": "QTS_494_125_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "望騎馬郎",
+    "poem": [
+      "碧蹄新壓步初成，玉色郎君弄影行。",
+      "賺殺唱歌樓上女，伊州誤作石州聲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_126_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日錢塘雜興二首 其一",
+    "poem": [
+      "酒姥溪頭桑嫋嫋，錢塘郭外柳毿毿。",
+      "路逢鄰婦遙相問，小小如今學養蠶。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_126_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日錢塘雜興二首 其二",
+    "poem": [
+      "西鄰年少問東鄰，柳岸花堤幾處新。",
+      "昨夜雨多春水闊，隔江桃葉喚何人。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_127_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "翫手植松",
+    "poem": [
+      "卻思毫末栽松處，青翠才將眾草分。",
+      "今日散材遮不得，看看氣色慾淩雲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_128_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "夜笛詞",
+    "poem": [
+      "皎潔西樓月未斜，笛聲寥亮入東家。",
+      "卻令燈下裁衣婦，誤剪同心一半花。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "半",
+        "variant": "片",
+        "source": "一作「片」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_129_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈鄭倫吹鳳管",
+    "poem": [
+      "喃喃解語鳳凰兒，曾聽梨園竹裏吹。",
+      "誰謂五陵年少子，還將此曲暗相隨。"
+    ]
+  },
+  {
+    "uid": "QTS_494_130_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "蜀茗詞",
+    "poem": [
+      "越碗初盛蜀茗新，薄煙輕處攪來勻。",
+      "山僧問我將何比，欲道瓊漿卻畏嗔。"
+    ]
+  },
+  {
+    "uid": "QTS_494_131_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春霽",
+    "poem": [
+      "煎茶水裏花千片，候客亭中酒一樽。",
+      "獨對春光還寂寞，羅浮道士忽敲門。"
+    ]
+  },
+  {
+    "uid": "QTS_494_132_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "諷山雲",
+    "poem": [
+      "閑雲生葉不生根，常被重重蔽石門。",
+      "賴有風簾能掃蕩，滿山晴日照乾坤。"
+    ]
+  },
+  {
+    "uid": "QTS_494_133_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "日晚歸山詞",
+    "poem": [
+      "虎跡新逢雨後泥，無人家處洞邊溪。",
+      "獨行歸客晚山裏，賴有鷓鴣臨路岐。"
+    ]
+  },
+  {
+    "uid": "QTS_494_134_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "翫花詞",
+    "poem": [
+      "今朝造化使春風，開折西施面上紅。",
+      "竟日眼前猶不足，數株舁入寸心中。"
+    ]
+  },
+  {
+    "uid": "QTS_494_135_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "長安早春",
+    "poem": [
+      "報花消息是春風，未見先教何處紅。",
+      "想得芳園十餘日，萬家身在畫屏中。"
+    ]
+  },
+  {
+    "uid": "QTS_494_136_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "再酬李先輩",
+    "poem": [
+      "清辭再發郢人家，字字新移錦上花。",
+      "能使龍宮買綃女，低回不敢織輕霞。"
+    ]
+  },
+  {
+    "uid": "QTS_494_137_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寄隱者",
+    "poem": [
+      "路絕空林無處問，幽奇山水不知名。",
+      "松門拾得一片屐，知是高人向此行。"
+    ]
+  },
+  {
+    "uid": "QTS_494_138_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "寄四明山子",
+    "poem": [
+      "高棲只在千峰裏，塵世望君那得知。",
+      "長憶去年風雨夜，向君窗下聽猨時。"
+    ]
+  },
+  {
+    "uid": "QTS_494_139_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "觀美人",
+    "poem": [
+      "漆點雙眸鬢繞蟬，長留白雪占胸前。",
+      "愛將紅袖遮嬌笑，往往偷開水上蓮。"
+    ]
+  },
+  {
+    "uid": "QTS_494_140_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "收妝詞",
+    "poem": [
+      "斜月朧朧照半床，煢煢孤妾懶收妝。",
+      "燈前再覽青銅鏡，枉插金釵十二行。"
+    ]
+  },
+  {
+    "uid": "QTS_494_141_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "仙女詞",
+    "poem": [
+      "仙女羣中名最高，曾看王母種仙桃。",
+      "手題金簡非凡筆，道是天邊玉兔毛。"
+    ]
+  },
+  {
+    "uid": "QTS_494_142_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "仙翁詞",
+    "poem": [
+      "世間無遠可為遊，六合朝行夕已周。",
+      "壇上夜深風雨靜，小仙乘月擊蒼虯。"
+    ]
+  },
+  {
+    "uid": "QTS_494_143_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "遇李山人",
+    "poem": [
+      "遊山游水幾千重，二十年中一度逢。",
+      "別易會難君且住，莫交青竹化為龍。"
+    ]
+  },
+  {
+    "uid": "QTS_494_144_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "同張煉師溪行",
+    "poem": [
+      "青溪道士紫霞巾，洞裏仙家舊是鄰。",
+      "每見桃花逐流水，無回不憶武陵人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_145_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "桃源詞二首 其一",
+    "poem": [
+      "夭夭花裏千家住，總為當時隱暴秦。",
+      "歸去不論無舊識，子孫今亦是他人。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_145_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "桃源詞二首 其二",
+    "poem": [
+      "秦世老翁歸漢世，還同白鶴返遼城。",
+      "縱令記得山川路，莫問當時州縣名。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_146_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送道友游山",
+    "poem": [
+      "欲駐如今未老形，萬重山上九芝清。",
+      "君今若問采芝路，踏水踏雲攀杳冥。"
+    ]
+  },
+  {
+    "uid": "QTS_494_147_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈王屋劉道士",
+    "poem": [
+      "小有洞中長住客，大羅天下後來仙。",
+      "出門即是尋常處，未可還它跨鶴鞭。"
+    ]
+  },
+  {
+    "uid": "QTS_494_148_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "謝自然升仙",
+    "poem": [
+      "分明得道謝自然，古來漫說屍解仙。",
+      "如花年少一女子，身騎白鶴游青天。"
+    ]
+  },
+  {
+    "uid": "QTS_494_149_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋吟獻李舍人",
+    "poem": [
+      "腸結愁根酒不消，新驚白髮長愁苗。",
+      "主司儻許題名姓，筆下看成度海橋。"
+    ]
+  },
+  {
+    "uid": "QTS_494_150_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山中喜靜和子見訪",
+    "poem": [
+      "絕壁深溪無四鄰，每逢猿鶴即相親。",
+      "小奴驚出垂藤下，山犬今朝吠一人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_151_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "春日題羅處士山舍",
+    "poem": [
+      "亂疊千峰掩翠微，高人愛此自忘機。",
+      "春風若掃階前地，便是山花帶錦飛。"
+    ]
+  },
+  {
+    "uid": "QTS_494_152_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "訪松嶺徐煉師",
+    "poem": [
+      "千仞峰頭一謫仙，何時種玉已成田。",
+      "開經猶在松陰裏，讀到南華第幾篇。"
+    ]
+  },
+  {
+    "uid": "QTS_494_153_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "江南織綾詞",
+    "poem": [
+      "卿卿買得越人絲，貪弄金梭懶畫眉。",
+      "女伴能來看新𥷨，鴛鴦正欲上花枝。"
+    ]
+  },
+  {
+    "uid": "QTS_494_154_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "宿蘭若",
+    "poem": [
+      "聽鐘投宿入孤煙，岩下病僧猶坐禪。",
+      "獨夜客心何處是，秋雲影裏一燈然。"
+    ]
+  },
+  {
+    "uid": "QTS_494_155_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "題禪僧院",
+    "poem": [
+      "棲禪枝畔數花新，飛作琉璃池上塵。",
+      "穀鳥自啼猿自叫，不能愁得定中人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_156_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送絕粒僧",
+    "poem": [
+      "碧洞青蘿不畏深，免將饑渴累禪心。",
+      "若期野客來相訪，一室無煙何處尋。"
+    ]
+  },
+  {
+    "uid": "QTS_494_157_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "早春遊曲江",
+    "poem": [
+      "芳處亦將枯槁同，應緣遭化未施功。",
+      "羲和若擬動鑪鞴，先鑄曲江千樹紅。"
+    ]
+  },
+  {
+    "uid": "QTS_494_158_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "佳人覽鏡",
+    "poem": [
+      "每坐臺前見玉容，今朝不與昨朝同。",
+      "良人一夜出門宿，減卻桃花一半紅。"
+    ]
+  },
+  {
+    "uid": "QTS_494_159_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "遇王山人",
+    "poem": [
+      "每欲尋君千萬峰，豈知人世也相逢。",
+      "一瓢遺卻在何處，應掛天台最老松。"
+    ]
+  },
+  {
+    "uid": "QTS_494_160_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "遇醉道士",
+    "poem": [
+      "霞帔尋常帶酒眠，路傍疑是酒中仙。",
+      "醉來不住人家宿，多向遠山松月邊。"
+    ]
+  },
+  {
+    "uid": "QTS_494_161_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送人歸台州",
+    "poem": [
+      "莫驅歸騎且徘徊，更遣離情四五杯。",
+      "醉後不憂迷客路，遙看瀑布識天臺。"
+    ]
+  },
+  {
+    "uid": "QTS_494_162_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈施仙姑",
+    "poem": [
+      "縹緲吾家一女仙，冰容雖小不知年。",
+      "有時頻夜看明月，心在嫦娥幾案邊。"
+    ]
+  },
+  {
+    "uid": "QTS_494_163_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "山院觀花",
+    "poem": [
+      "初來唯見空樹枝，今朝滿院花如雪。",
+      "門前為報諸少年，明日來遲不堪折。"
+    ]
+  },
+  {
+    "uid": "QTS_494_164_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "經桃花夫人廟",
+    "poem": [
+      "誰能枉駕入荒榛，隨例形相土木身。",
+      "不及連山種桃樹，花開猶得識夫人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_165_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "代農叟吟",
+    "poem": [
+      "且將一笑悅豐年，漸老那能日日眠。",
+      "引客特來山地上，坐看秋水落紅蓮。"
+    ]
+  },
+  {
+    "uid": "QTS_494_166_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "下第春遊",
+    "poem": [
+      "羈情含櫱復含辛，淚眼看花只似塵。",
+      "天遣春風領春色，不教分付與愁人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_167_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "送僧游越",
+    "poem": [
+      "麻衣年少雪為顏，卻笑孤雲未是閑。",
+      "此去若逢花柳月，棲禪莫向薴羅山。"
+    ]
+  },
+  {
+    "uid": "QTS_494_168_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "遇越州賀仲宣",
+    "poem": [
+      "君在鏡湖西畔住，四明山下莫經春。",
+      "門前幾個採蓮女，欲泊蓮舟無主人。"
+    ]
+  },
+  {
+    "uid": "QTS_494_169_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "江南積雨歎",
+    "poem": [
+      "人厭為霖水毀溪，床邊生菌路成泥。",
+      "雨師一日三回到，棟裏閑雲豈得棲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_170_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "雲中道上作",
+    "poem": [
+      "羊馬群中覓人道，雁門關外絕人家。",
+      "昔時聞有雲中郡，今日無雲空見沙。"
+    ]
+  },
+  {
+    "uid": "QTS_494_171_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "同諸隱者夜登四明山",
+    "poem": [
+      "半夜尋幽上四明，手攀松桂觸雲行。",
+      "相呼已到無人境，何處玉簫吹一聲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_172_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "戲鄭申府",
+    "poem": [
+      "年少鄭郎那解愁，春來閑臥酒家樓。",
+      "胡姬若擬邀他宿，掛卻金鞭系紫騮。"
+    ],
+    "notes": [
+      {
+        "content": "一本有贈字",
+        "context": "戲",
+        "original_title": "戲〈一本有贈字〉鄭申府"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_494_173_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "宿干越亭",
+    "poem": [
+      "琵琶洲上人行絕，干越亭中客思多。",
+      "月滿秋江山冷落，不知誰問夜如何。"
+    ]
+  },
+  {
+    "uid": "QTS_494_174_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "少女詞二首 其一",
+    "poem": [
+      "嬌羞不肯點新黃，踏過金鈿出繡床。",
+      "信物無端寄誰去，等閒裁破錦鴛鴦。"
+    ],
+    "part_index": 1,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_174_02",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "少女詞二首 其二",
+    "poem": [
+      "同心帶裏脫金錢，買取頭花翠羽連。",
+      "手執木蘭猶未慣，今朝初上采菱船。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_494_175_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "冬詞",
+    "poem": [
+      "錦繡堆中臥初起，芙蓉面上粉猶殘。",
+      "臺前也欲梳雲髻，只怕盤龍手捻難。"
+    ]
+  },
+  {
+    "uid": "QTS_494_176_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "昭君怨",
+    "poem": [
+      "馬上徒勞別恨深，總緣如玉不輸金。",
+      "已知賤妾無歸日，空荷君王有悔心。"
+    ]
+  },
+  {
+    "uid": "QTS_494_177_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "贈仙子",
+    "poem": [
+      "欲令雪貌帶紅芳，更取金瓶瀉玉漿。",
+      "鳳管鶴聲來未足，懶眠秋月憶蕭郎。"
+    ]
+  },
+  {
+    "uid": "QTS_494_178_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "越溪懷古",
+    "poem": [
+      "憶昔西施人未求，浣紗曾向此溪頭。",
+      "一朝得侍君王側，不見玉顏空水流。"
+    ]
+  },
+  {
+    "uid": "QTS_494_179_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "秋夜山中贈別友人",
+    "poem": [
+      "何處邀君話別情，寒山木落月華清。",
+      "莫愁今夜無詩思，已聽秋猨第一聲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_180_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "大堤新詠",
+    "poem": [
+      "行路少年知不知，襄陽全欠舊來時。",
+      "宜城賈客載錢出，始覺大堤無女兒。"
+    ]
+  },
+  {
+    "uid": "QTS_494_181_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "宿四明山",
+    "poem": [
+      "黎洲老人命餘宿，杳然高頂浮雲平。",
+      "下視不知幾千仞，欲曉不曉天雞聲。"
+    ]
+  },
+  {
+    "uid": "QTS_494_182_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "禁中新柳",
+    "poem": [
+      "萬條金錢帶春煙，深染青絲不直錢。",
+      "又免生當離別地，宮鵶啼處禁門前。"
+    ]
+  },
+  {
+    "uid": "QTS_494_183_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "酬張明府",
+    "poem": [
+      "潘令新詩忽寄來，分明繡段對花開。",
+      "此時欲醉紅樓裏，正被歌人勸一桮。"
+    ]
+  },
+  {
+    "uid": "QTS_494_184_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "安吉天甯寺聞磬",
+    "poem": [
+      "玉磬敲時清夜分，老龍吟斷碧天雲。",
+      "鄰房逢見廣州客，曾向羅浮山裏聞。"
+    ]
+  },
+  {
+    "uid": "QTS_494_185_01",
+    "volume": 494,
+    "author": {
+      "canonical": "施肩吾",
+      "recorded": "施肩吾",
+      "gender": "male",
+      "period": "Middle Tang",
+      "english_name": "Jianwu Shi",
+      "wikidata_id": "Q2448473"
+    },
+    "title": "句",
+    "poem": [
+      "年來如拋梭，不老應不得。",
+      "。",
+      "花眼綻紅斟酒看，藥心抽綠帶煙鋤。",
+      "顛狂楚客歌成雪，媚賴吳娘笑是鹽。",
+      "荷翻紫蓋搖波面，蒲瑩青刀插水湄。",
+      "煙黏薜荔龍鬚軟，雨壓芭蕉鳳翅垂。",
+      "茶為滌煩子，酒為忘憂君。",
+      "鋤藥顧老叟，焚香呼小青。",
+      "遺卻白雞呼喌喌。",
+      "五通本是佛家奴，身著青衣一足無。",
+      "天邊有仙藥，為我補三關。",
+      "世人誰不愛年長，所欲皆非保命方。",
+      "但看日及花，惟是朝可憐。",
+      "池塘已長雞頭葉，籬落初開狗脊花。",
+      "出路船為腳，供官本是奴。",
+      "一言感著熱鐵心，為人劍下偷青娥。",
+      "青鬢丈人不識愁。"
+    ]
+  }
+]

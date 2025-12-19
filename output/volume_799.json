@@ -1,0 +1,1461 @@
+[
+  {
+    "uid": "QTS_799_001_01",
+    "volume": 799,
+    "author": {
+      "canonical": "楊容華",
+      "recorded": "楊容華",
+      "gender": "female"
+    },
+    "title": "新妝詩",
+    "poem": [
+      "啼鳥驚眠罷，房櫳乘曉開。",
+      "鳳釵金作縷，鸞鏡玉為臺。",
+      "妝似臨池出，人疑向月來。",
+      "自憐終不見，欲去復裵回。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "啼",
+        "variant": "宿",
+        "source": "一作「宿」，一作「林」"
+      },
+      {
+        "line": 1,
+        "text": "乘曉",
+        "variant": "曙色",
+        "source": "一作「曙色」"
+      },
+      {
+        "line": 3,
+        "text": "向月",
+        "variant": "月下",
+        "source": "一作「月下」"
+      },
+      {
+        "line": 4,
+        "text": "終不見",
+        "variant": "方未已",
+        "source": "一作「方未已」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_002_01",
+    "volume": 799,
+    "author": {
+      "canonical": "魏氏",
+      "recorded": "魏氏",
+      "gender": "female",
+      "english_name": "Wei",
+      "wikidata_id": "Q842157"
+    },
+    "title": "贈外",
+    "poem": [
+      "浮萍依綠水，弱蔦寄青松。",
+      "與君結大義，移天得所從。",
+      "翰林無雙鳥，劔水不分龍。",
+      "諧和類琴瑟，堅固同膠漆。",
+      "義重恩欲深，夷險貴如一。",
+      "本自身不令，積多嬰痛疾。",
+      "朝夕倦床枕，形體恥巾櫛。",
+      "遊子倦風塵，從官初解巾。",
+      "束裝赴南郢，脂駕出西秦。",
+      "比翼終難遂，銜雌苦未因。",
+      "徒悲楓岸遠，空對柳園春。",
+      "男兒不重舊，丈夫多好新。",
+      "新人喜新聘，朝朝臨粉鏡。",
+      "兩鴛固無比，雙蛾誰與競。",
+      "詎憐愁思人，銜啼嗟薄命。",
+      "蕣華不足恃，松枝有餘勁。",
+      "所願好九思，勿令虧百行。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "寄",
+        "variant": "附",
+        "source": "一作「附」"
+      },
+      {
+        "line": 13,
+        "text": "粉",
+        "variant": "寶",
+        "source": "一作「寶」"
+      },
+      {
+        "line": 17,
+        "text": "好",
+        "variant": "存",
+        "source": "一作「存」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_003_01",
+    "volume": 799,
+    "author": {
+      "canonical": "喬氏",
+      "recorded": "喬氏",
+      "gender": "female"
+    },
+    "title": "詠破簾",
+    "poem": [
+      "喬氏著",
+      "已漏風聲罷，繩持也不禁。",
+      "一從經落後，無復有貞心。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "罷",
+        "variant": "擺",
+        "source": "一作「擺」"
+      },
+      {
+        "line": 3,
+        "text": "後",
+        "variant": "節",
+        "source": "一作「節」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_004_01",
+    "volume": 799,
+    "author": {
+      "canonical": "七歲女子",
+      "recorded": "七歲女子",
+      "gender": "female"
+    },
+    "title": "送兄",
+    "poem": [
+      "別路雲初起，離亭葉正飛。",
+      "所嗟人異鴈，不作一行歸。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "飛",
+        "variant": "稀",
+        "source": "一作「稀」"
+      },
+      {
+        "line": 2,
+        "text": "歸",
+        "variant": "飛",
+        "source": "一作「飛」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_005_01",
+    "volume": 799,
+    "author": {
+      "canonical": "林氏",
+      "recorded": "林氏",
+      "gender": "female"
+    },
+    "title": "送男左貶詩",
+    "poem": [
+      "他日初投杼，勤王在飲氷。",
+      "有辭期不罰，積毀竟相仍。",
+      "謫宦今何在，銜冤猶未勝。",
+      "天涯分越徼，驛騎速毗陵。",
+      "腸斷腹非苦，書傳寫豈能。",
+      "淚添江水遠，心劇海雲蒸。",
+      "明月珠難識，甘泉賦可稱。",
+      "但將忠報主，何懼點青蠅。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "毀竟",
+        "variant": "意許",
+        "source": "一作「意許」"
+      },
+      {
+        "line": 4,
+        "text": "騎",
+        "variant": "驟",
+        "source": "一作「驟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_006_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "古興",
+    "poem": [
+      "鬱蒸夏將半，暑氣扇飛閣。",
+      "驟雨滿空來，當軒卷羅幕。",
+      "度雲開夕霽，宇宙何清廓。",
+      "明月流素光，輕風換炎鑠。",
+      "孤鸞傷對影，寶瑟悲別鶴。",
+      "君子去不還，遙心欲何託。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "羅",
+        "variant": "簾",
+        "source": "一作「簾」"
+      },
+      {
+        "line": 5,
+        "text": "傷",
+        "variant": "相",
+        "source": "一作「相」"
+      },
+      {
+        "line": 6,
+        "text": "遙",
+        "variant": "搖",
+        "source": "一作「搖」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_007_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "古興",
+    "poem": [
+      "金菊延清霜，玉壺多美酒。",
+      "良人猶不歸，芳菲豈常有。",
+      "不惜芳菲歇，但傷別離久。",
+      "含情罷斟酌，凝怨對窗牖。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "猶",
+        "variant": "獨",
+        "source": "一作「獨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_008_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "古興",
+    "poem": [
+      "霽雪舒長野，寒雲半幽谷。",
+      "嚴風振枯條，猨啼抱冰木。",
+      "所嗟遊宦子，少小荷天祿。",
+      "前程未云至，悽愴對車僕。",
+      "歲寒成詠歌，日暮棲林樸。",
+      "不憚行險道，空悲年運促。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "半幽",
+        "variant": "伴秋",
+        "source": "一作「伴秋」"
+      },
+      {
+        "line": 2,
+        "text": "猨啼",
+        "variant": "啼猨",
+        "source": "一作「啼猨」"
+      },
+      {
+        "line": 5,
+        "text": "樸",
+        "variant": "曲",
+        "source": "一作「曲」"
+      },
+      {
+        "line": 6,
+        "text": "險道",
+        "variant": "路險",
+        "source": "一作「路險」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_009_01",
+    "volume": 799,
+    "author": {
+      "canonical": "郭紹蘭",
+      "recorded": "郭紹蘭",
+      "gender": "female"
+    },
+    "title": "寄夫",
+    "poem": [
+      "我壻去重湖，臨窗泣血書。",
+      "殷勤憑燕翼，寄與薄情夫。"
+    ]
+  },
+  {
+    "uid": "QTS_799_010_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王韞秀",
+      "recorded": "王韞秀",
+      "gender": "female"
+    },
+    "title": "同夫遊秦",
+    "poem": [
+      "路掃飢寒跡，天哀志氣人。",
+      "休零離別淚，攜手入西秦。"
+    ]
+  },
+  {
+    "uid": "QTS_799_011_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王韞秀",
+      "recorded": "王韞秀",
+      "gender": "female"
+    },
+    "title": "夫入相寄姨妹",
+    "poem": [
+      "相國已隨麟閣貴，家風第一右丞詩。",
+      "笄年解笑鳴機婦，恥見蘇秦富貴時。"
+    ]
+  },
+  {
+    "uid": "QTS_799_012_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王韞秀",
+      "recorded": "王韞秀",
+      "gender": "female"
+    },
+    "title": "喻夫阻客",
+    "poem": [
+      "楚竹燕歌動畫梁，春蘭重換舞衣裳。",
+      "公孫開閣招嘉客，知道浮榮不久長。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "春蘭",
+        "variant": "更闌",
+        "source": "一作「更闌」"
+      },
+      {
+        "line": 2,
+        "text": "閣",
+        "variant": "館",
+        "source": "一作「館」"
+      },
+      {
+        "line": 2,
+        "text": "嘉",
+        "variant": "佳",
+        "source": "一作「佳」"
+      },
+      {
+        "line": 2,
+        "text": "榮",
+        "variant": "雲",
+        "source": "一作「雲」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_013_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "古意",
+    "poem": [
+      "轆轤曉轉素絲綆，桐聲夜落蒼苔塼。",
+      "涓涓吹溜若時雨，濯濯佳蔬非用天。",
+      "丈夫不解此中意，抱甕當時徒自賢。"
+    ]
+  },
+  {
+    "uid": "QTS_799_014_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "拜新月",
+    "poem": [
+      "拜新月，拜月出堂前。",
+      "暗魄初籠桂，虛弓未引弦。",
+      "拜新月，拜月妝樓上。",
+      "鸞鏡始安臺，蛾睂已相向。",
+      "拜新月，拜月不勝情，庭花風露清。",
+      "月臨人自老，人望月長明。",
+      "東家阿母亦拜月，一拜一悲聲斷絕。",
+      "昔年拜月逞容輝，如今拜月雙淚垂。",
+      "回看眾女拜新月，卻憶紅閨年少時。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "出",
+        "variant": "畫",
+        "source": "一作「畫」"
+      },
+      {
+        "line": 2,
+        "text": "初",
+        "variant": "深",
+        "source": "一作「深」"
+      },
+      {
+        "line": 4,
+        "text": "始",
+        "variant": "未",
+        "source": "一作「未」"
+      },
+      {
+        "line": 5,
+        "text": "花",
+        "variant": "前",
+        "source": "一作「前」"
+      },
+      {
+        "line": 6,
+        "text": "人望月長明",
+        "variant": "望月更長生",
+        "source": "一作「望月更長生」"
+      },
+      {
+        "line": 8,
+        "text": "輝",
+        "variant": "儀",
+        "source": "一作「儀」"
+      },
+      {
+        "line": 9,
+        "text": "紅閨",
+        "variant": "閨中",
+        "source": "一作「閨中」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_015_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "柳絮",
+    "poem": [
+      "靄靄芳春朝，雪絮起青條。",
+      "或值花同舞，不因風自飄。",
+      "過尊浮綠醑，拂幌綴紅綃。",
+      "那用持愁翫，春懷不自聊。"
+    ]
+  },
+  {
+    "uid": "QTS_799_016_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "拾得韋氏花鈿，以詩寄贈",
+    "poem": [
+      "今朝妝閣前，拾得舊花鈿。",
+      "粉污痕猶在，塵侵色尚鮮。",
+      "曾經纖手裏，拈向翠睂邊。",
+      "能助千金笑，如何忍棄捐。"
+    ]
+  },
+  {
+    "uid": "QTS_799_017_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "誚喜鵲",
+    "poem": [
+      "疇昔鴛鴦侶，朱門賀客多。",
+      "如今無此事，好去莫相過。"
+    ]
+  },
+  {
+    "uid": "QTS_799_018_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張夫人",
+      "recorded": "張夫人",
+      "gender": "female"
+    },
+    "title": "句",
+    "poem": [
+      "遊蜂乍起驚落墀，黃鳥銜來卻上枝。",
+      "臨風重回首，掩淚向庭花。",
+      "鏡中春色老，枕前秋夜長。"
+    ],
+    "notes": [
+      {
+        "content": "以上見《吟窗雜錄》。",
+        "context": "句",
+        "original_title": "句"
+      },
+      {
+        "line": 2,
+        "content": "《柳絮》",
+        "context": "句"
+      },
+      {
+        "line": 4,
+        "content": "《寄遠》",
+        "context": "句"
+      },
+      {
+        "line": 6,
+        "content": "《詠淚》。",
+        "context": "句"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_019_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王氏",
+      "recorded": "王氏",
+      "gender": "female"
+    },
+    "title": "書石壁",
+    "poem": [
+      "何事潘郎戀別筵，歡情未斷妾心懸。",
+      "汰王灘下相思處，猨叫山山月滿船。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "未",
+        "variant": "不",
+        "source": "一作「不」"
+      },
+      {
+        "line": 2,
+        "text": "山",
+        "variant": "空",
+        "source": "一作「空」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_020_01",
+    "volume": 799,
+    "author": {
+      "canonical": "裵淑",
+      "recorded": "裵淑",
+      "gender": "female"
+    },
+    "title": "答微之",
+    "poem": [
+      "侯門初擁節，御苑柳絲新。",
+      "不是悲殊命，唯愁別近親。",
+      "黃鶯遷古木，朱履從清塵。",
+      "想到千山外，滄江正暮春。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "朱",
+        "variant": "珠",
+        "source": "一作「珠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_021_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "夫下第",
+    "poem": [
+      "良人的的有奇才，何事年年被放回。",
+      "如今妾面羞君面，君若來時近夜來。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "若",
+        "variant": "到",
+        "source": "一作「到」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_022_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "雜言寄杜羔",
+    "poem": [
+      "君從淮海遊，再過蘭杜秋。",
+      "歸來未須臾，又欲向梁州。",
+      "梁州秦嶺西，棧道與雲齊。",
+      "羌蠻萬餘落，矛戟自高低。",
+      "已念寡儔侶，復慮勞攀躋。",
+      "丈夫重志氣，兒女空悲啼。",
+      "臨邛滯遊地，肯顧濁水泥。",
+      "人生賦命有厚薄，君但遨遊我寂寞。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蘭杜",
+        "variant": "杜蘭",
+        "source": "一作「杜蘭」"
+      },
+      {
+        "line": 2,
+        "text": "未",
+        "variant": "不",
+        "source": "一作「不」"
+      },
+      {
+        "line": 4,
+        "text": "蠻",
+        "variant": "虜",
+        "source": "一作「虜」"
+      },
+      {
+        "line": 8,
+        "text": "但",
+        "variant": "自",
+        "source": "一作「自」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_023_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "聞夫杜羔登第",
+    "poem": [
+      "長安此去無多地，鬱鬱蔥蔥佳氣浮。",
+      "良人得意正年少，今夜醉眠何處樓。"
+    ]
+  },
+  {
+    "uid": "QTS_799_024_01",
+    "volume": 799,
+    "author": {
+      "canonical": "趙氏",
+      "recorded": "趙氏",
+      "gender": "female"
+    },
+    "title": "雜言",
+    "poem": [
+      "上林園中青青桂，折得一枝好夫壻。",
+      "杏花如雪柳垂絲，春風蕩颺不同枝。"
+    ]
+  },
+  {
+    "uid": "QTS_799_025_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張氏",
+      "recorded": "張氏",
+      "gender": "female",
+      "wikidata_id": "Q88744713"
+    },
+    "title": "寄夫",
+    "poem": [
+      "久無音信到羅幃，路遠迢迢遣問誰。",
+      "聞君折得東堂桂，折罷那能不暫歸。"
+    ]
+  },
+  {
+    "uid": "QTS_799_026_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張氏",
+      "recorded": "張氏",
+      "gender": "female",
+      "wikidata_id": "Q88744713"
+    },
+    "title": "寄夫",
+    "poem": [
+      "驛使今朝過五湖，殷勤為我報狂夫。",
+      "從來誇有龍泉劍，試割相思得斷無。"
+    ]
+  },
+  {
+    "uid": "QTS_799_027_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛馧",
+      "recorded": "薛馧",
+      "gender": "female"
+    },
+    "title": "贈鄭女郎",
+    "poem": [
+      "豔陽灼灼河洛神，珠簾繡戶青樓春。",
+      "能彈箜篌弄纖指，愁殺門前少年子。",
+      "笑開一面紅粉妝，東園幾樹桃花死。",
+      "朝理曲，暮理曲，獨坐窗前一片玉。",
+      "行也嬌，坐也嬌，見之令人魂魄銷。",
+      "堂前錦褥紅地爐，綠沈香榼傾屠蘇。",
+      "解佩時時歇歌管，芙蓉帳裏蘭麝滿。",
+      "晚起羅衣香不斷，滅燭每嫌秋夜短。"
+    ]
+  },
+  {
+    "uid": "QTS_799_028_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛馧",
+      "recorded": "薛馧",
+      "gender": "female"
+    },
+    "title": "古意",
+    "poem": [
+      "昨夜巫山中，失卻陽臺女。",
+      "朝來香閣裏，獨伴楚王語。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "中",
+        "variant": "雲",
+        "source": "一作「雲」"
+      },
+      {
+        "line": 2,
+        "text": "朝來香閣裏",
+        "variant": "今朝香閣前",
+        "source": "一作「今朝香閣前」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_029_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛馧",
+      "recorded": "薛馧",
+      "gender": "female"
+    },
+    "title": "贈故人",
+    "poem": [
+      "昔別容如玉，今來鬢若絲。",
+      "淚痕應共見，腸斷阿誰知？"
+    ]
+  },
+  {
+    "uid": "QTS_799_030_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛馧",
+      "recorded": "薛馧",
+      "gender": "female"
+    },
+    "title": "句",
+    "poem": [
+      "寂寞相思處，雕梁落燕泥。"
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "content": "《春閨曲》，見《吟窗雜錄》。",
+        "context": "句"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_031_01",
+    "volume": 799,
+    "author": {
+      "canonical": "楊德麟",
+      "recorded": "楊德麟",
+      "gender": "female"
+    },
+    "title": "題奉慈寺",
+    "poem": [
+      "日月金輪動，旃檀碧樹秋。",
+      "塔分鴻雁翅，鐘掛鳳凰樓。"
+    ]
+  },
+  {
+    "uid": "QTS_799_032_01",
+    "volume": 799,
+    "author": {
+      "canonical": "崔氏",
+      "recorded": "崔氏",
+      "gender": "female",
+      "english_name": "Cui",
+      "wikidata_id": "Q4518438"
+    },
+    "title": "述懷",
+    "poem": [
+      "不怨盧郎年紀大，不怨盧郎官職卑。",
+      "自恨妾身生較晚，不及盧郎年少時。"
+    ]
+  },
+  {
+    "uid": "QTS_799_033_01",
+    "volume": 799,
+    "author": {
+      "canonical": "陳玉蘭",
+      "recorded": "陳玉蘭",
+      "gender": "female"
+    },
+    "title": "寄夫",
+    "poem": [
+      "夫戍邊關妾在吳，西風吹妾妾憂夫。",
+      "一行書信千行淚，寒到君邊衣到無。"
+    ]
+  },
+  {
+    "uid": "QTS_799_034_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛媛",
+      "recorded": "薛媛",
+      "gender": "female"
+    },
+    "title": "寫真寄夫",
+    "poem": [
+      "欲下丹青筆，先拈寶鏡寒。",
+      "已經顏索寞，漸覺鬢凋殘。",
+      "淚眼描將易，愁腸寫出難。",
+      "恐君渾忘卻，時展畫圖看。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "經",
+        "variant": "驚",
+        "source": "一作「驚」"
+      },
+      {
+        "line": 3,
+        "text": "將",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_035_01",
+    "volume": 799,
+    "author": {
+      "canonical": "孫氏",
+      "recorded": "孫氏",
+      "gender": "female",
+      "english_name": "Sun",
+      "wikidata_id": "Q3543591"
+    },
+    "title": "聞琴",
+    "poem": [
+      "玉指朱弦軋複清，湘妃愁怨最難聽。",
+      "初疑颯颯涼風勁，又似蕭蕭暮雨零。",
+      "近比流泉來碧嶂，遠如玄鶴下青冥。",
+      "夜深彈罷堪惆悵，露溼叢蘭月滿庭。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "勁",
+        "variant": "動",
+        "source": "一作「動」，一作「至」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_036_01",
+    "volume": 799,
+    "author": {
+      "canonical": "孫氏",
+      "recorded": "孫氏",
+      "gender": "female",
+      "english_name": "Sun",
+      "wikidata_id": "Q3543591"
+    },
+    "title": "白蠟燭詩",
+    "poem": [
+      "景勝銀釭香比蘭，一條白玉偪人寒。",
+      "他時紫禁春風夜，醉草天書仔細看。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "景勝銀釭香比蘭",
+        "variant": "自占清香勝蕙蘭",
+        "source": "一作「自占清香勝蕙蘭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_037_01",
+    "volume": 799,
+    "author": {
+      "canonical": "孫氏",
+      "recorded": "孫氏",
+      "gender": "female",
+      "english_name": "Sun",
+      "wikidata_id": "Q3543591"
+    },
+    "title": "謝人送酒",
+    "poem": [
+      "謝將清酒寄愁人，澄澈甘香氣味真。",
+      "好是綠窗風月夜，一杯搖蕩滿懷春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "風",
+        "variant": "明",
+        "source": "一作「明」"
+      },
+      {
+        "line": 2,
+        "text": "蕩",
+        "variant": "動",
+        "source": "一作「動」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_038_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張立本女",
+      "recorded": "張立本女",
+      "gender": "female"
+    },
+    "title": "詩",
+    "poem": [
+      "危冠廣袖楚宮妝，獨步閒庭逐夜涼。",
+      "自把玉簪敲砌竹，清歌一曲月如霜。"
+    ]
+  },
+  {
+    "uid": "QTS_799_039_01",
+    "volume": 799,
+    "author": {
+      "canonical": "侯氏",
+      "recorded": "侯氏",
+      "gender": "female"
+    },
+    "title": "繡龜形詩",
+    "poem": [
+      "暌離已是十秋強，對鏡那堪重理妝。",
+      "聞鴈幾迴修尺素，見霜先為製衣裳。",
+      "開箱疊練先垂淚，拂杵調砧更斷腸。",
+      "繡作龜形獻天子，願教征客早還鄉。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "秋",
+        "variant": "年",
+        "source": "一作「年」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_040_01",
+    "volume": 799,
+    "author": {
+      "canonical": "慎氏",
+      "recorded": "慎氏",
+      "gender": "female"
+    },
+    "title": "感夫詩",
+    "poem": [
+      "當時心事已相關，雨散雲飛一餉間。",
+      "便是孤帆從此去，不堪重上望夫山。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "飛",
+        "variant": "收",
+        "source": "一作「收」"
+      },
+      {
+        "line": 2,
+        "text": "上",
+        "variant": "過",
+        "source": "一作「過」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_041_01",
+    "volume": 799,
+    "author": {
+      "canonical": "薛瑤",
+      "recorded": "薛瑤",
+      "gender": "male",
+      "period": "Early Tang",
+      "english_name": "Xue Chuyu",
+      "wikidata_id": "Q10513979"
+    },
+    "title": "謠",
+    "poem": [
+      "化雲心兮思淑貞，洞寂滅兮不見人。",
+      "瑤草芳兮思芬蒀，將奈何兮青春。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "芬蒀",
+        "variant": "氛氳",
+        "source": "一作「氛氳」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_042_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王霞卿",
+      "recorded": "王霞卿",
+      "gender": "male"
+    },
+    "title": "題唐安寺閣壁",
+    "poem": [
+      "春來引步暫尋遊，愁見風光倚寺樓。",
+      "正好開懷對煙月，雙睂不覺自如鉤。"
+    ],
+    "notes": [
+      {
+        "content": "並序",
+        "context": "唐安寺閣壁",
+        "original_title": "題唐安寺閣壁〈並序〉"
+      }
+    ],
+    "preface": "瑯琊王氏霞卿，光啟三年陽春二月登於是閣，臨軒軫，恨覩物增悲，雖看煥爛之花，但比淒涼之色，時有輕綃捧硯，小玉看題。",
+    "variants": [
+      {
+        "line": 1,
+        "text": "愁見風光倚",
+        "variant": "恨覩煙霄簇",
+        "source": "一作「恨覩煙霄簇」"
+      },
+      {
+        "line": 2,
+        "text": "正好開懷對煙月",
+        "variant": "舉目盡為停待景",
+        "source": "一作「舉目盡為停待景」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_043_01",
+    "volume": 799,
+    "author": {
+      "canonical": "王霞卿",
+      "recorded": "王霞卿",
+      "gender": "male"
+    },
+    "title": "答鄭殷彝",
+    "poem": [
+      "君是煙霄折桂身，聖朝方切用儒珍。",
+      "正堪西上文場戰，空向途中泥婦人。"
+    ]
+  },
+  {
+    "uid": "QTS_799_044_01",
+    "volume": 799,
+    "author": {
+      "canonical": "竇梁賓",
+      "recorded": "竇梁賓",
+      "gender": "female"
+    },
+    "title": "喜盧郎及第",
+    "poem": [
+      "曉妝初罷眼初瞤，小玉驚人踏破帬。",
+      "手把紅箋書一紙，上頭名字有郎君。"
+    ]
+  },
+  {
+    "uid": "QTS_799_045_01",
+    "volume": 799,
+    "author": {
+      "canonical": "竇梁賓",
+      "recorded": "竇梁賓",
+      "gender": "female"
+    },
+    "title": "雨中看牡丹",
+    "poem": [
+      "東風未放曉泥乾，紅藥花開不奈寒。",
+      "待得天晴花已老，不如攜手雨中看。"
+    ]
+  },
+  {
+    "uid": "QTS_799_046_01",
+    "volume": 799,
+    "author": {
+      "canonical": "任氏",
+      "recorded": "任氏",
+      "gender": "female"
+    },
+    "title": "書桐葉",
+    "poem": [
+      "拭翠斂蛾睂，鬱鬱心中事。",
+      "搦管下庭除，書成相思字。",
+      "此字不書石，此字不書紙。",
+      "書在桐葉上，願逐秋風起。",
+      "天下有心人，盡解相思死。",
+      "天下負心人，不識相思字。",
+      "有心與負心，不知落何地？"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "蛾",
+        "variant": "雙",
+        "source": "一作「雙」"
+      },
+      {
+        "line": 1,
+        "text": "鬱",
+        "variant": "為",
+        "source": "一作「為」"
+      },
+      {
+        "line": 2,
+        "text": "搦管",
+        "variant": "桐葉",
+        "source": "一作「桐葉」"
+      },
+      {
+        "line": 2,
+        "text": "成",
+        "variant": "我",
+        "source": "一作「我」"
+      },
+      {
+        "line": 4,
+        "text": "在桐",
+        "variant": "向秋",
+        "source": "一作「向秋」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_047_01",
+    "volume": 799,
+    "author": {
+      "canonical": "黃崇嘏",
+      "recorded": "黃崇嘏",
+      "gender": "female",
+      "period": "Late Tang",
+      "english_name": "Huang Chonggu",
+      "wikidata_id": "Q45593474"
+    },
+    "title": "下獄貢詩",
+    "poem": [
+      "偶辭幽隱在臨邛，行止堅貞比澗松。",
+      "何事政清如水鏡，絆他野鶴在深籠。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "辭",
+        "variant": "離",
+        "source": "一作「離」"
+      },
+      {
+        "line": 1,
+        "text": "在",
+        "variant": "住",
+        "source": "一作「住」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_048_01",
+    "volume": 799,
+    "author": {
+      "canonical": "黃崇嘏",
+      "recorded": "黃崇嘏",
+      "gender": "female",
+      "period": "Late Tang",
+      "english_name": "Huang Chonggu",
+      "wikidata_id": "Q45593474"
+    },
+    "title": "辭蜀相妻女詩",
+    "poem": [
+      "一辭拾翠碧江湄，貧守蓬茅但賦詩。",
+      "自服藍衫居郡掾，永拋鸞鏡畫蛾睂。",
+      "立身卓爾青松操，挺志鏗然白璧姿。",
+      "幕府若容為坦腹，願天速變作男兒。"
+    ]
+  },
+  {
+    "uid": "QTS_799_049_01",
+    "volume": 799,
+    "author": {
+      "canonical": "蔣氏",
+      "recorded": "蔣氏",
+      "gender": "female"
+    },
+    "title": "荅諸姊妹戒飲",
+    "poem": [
+      "平生偏好酒，勞爾勸吾餐。",
+      "但得杯中滿，時光度不難。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "杯",
+        "variant": "尊",
+        "source": "一作「尊」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_050_01",
+    "volume": 799,
+    "author": {
+      "canonical": "周仲美",
+      "recorded": "周仲美",
+      "gender": "female"
+    },
+    "title": "書壁",
+    "poem": [
+      "愛妾不愛子，為問此何理？",
+      "棄官更棄妻，人情寧可已。",
+      "永訣泗之濵，遺言空在耳。",
+      "三載無朝昏，孤幃淚如洗。",
+      "婦人義從夫，一節誓生死。",
+      "江鄉感殘春，腸斷晚煙起。",
+      "西望太華峰，不知幾千里？"
+    ]
+  },
+  {
+    "uid": "QTS_799_051_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張文姬",
+      "recorded": "張文姬",
+      "gender": "female"
+    },
+    "title": "溪口雲",
+    "poem": [
+      "溶溶溪口雲，纔向溪中吐。",
+      "不復歸溪中，還作溪中雨。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "溶溶",
+        "variant": "一片",
+        "source": "一作「一片」"
+      },
+      {
+        "line": 2,
+        "text": "中",
+        "variant": "頭",
+        "source": "一作「頭」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_052_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張文姬",
+      "recorded": "張文姬",
+      "gender": "female"
+    },
+    "title": "池上竹",
+    "poem": [
+      "此君臨此池，枝低水相近。",
+      "碧色綠波中，日日流不盡。"
+    ]
+  },
+  {
+    "uid": "QTS_799_053_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張文姬",
+      "recorded": "張文姬",
+      "gender": "female"
+    },
+    "title": "沙上鷺",
+    "poem": [
+      "沙頭一水禽，鼓翼揚清音。",
+      "只待高風便，非無雲漢心。"
+    ]
+  },
+  {
+    "uid": "QTS_799_054_01",
+    "volume": 799,
+    "author": {
+      "canonical": "張文姬",
+      "recorded": "張文姬",
+      "gender": "female"
+    },
+    "title": "雙槿樹",
+    "poem": [
+      "綠影競扶踈，紅姿相照灼。",
+      "不學桃李花，亂向春風落。"
+    ]
+  },
+  {
+    "uid": "QTS_799_055_01",
+    "volume": 799,
+    "author": {
+      "canonical": "程長文",
+      "recorded": "程長文",
+      "gender": "female"
+    },
+    "title": "獄中書情上使君",
+    "poem": [
+      "妾家本住鄱陽曲，一片貞心比孤竹。",
+      "當年二八盛容儀，紅箋草隸恰如飛。",
+      "盡日閒窓刺繡坐，有時極浦採蓮歸。",
+      "誰道居貧守都邑，幽閨寂寞無人識。",
+      "海燕朝歸衾枕寒，山花夜落階墀溼。",
+      "強暴之男何所為，手持白刃向簾幃。",
+      "一命任從刀下死，千金豈受暗中欺。",
+      "我心匪石情難轉，志奪秋霜意不移。",
+      "血濺羅衣終不恨，瘡黏錦袖亦何辭。",
+      "縣僚曾未知情緒，即便教人縶囹圄。",
+      "朱唇滴瀝獨銜冤，玉筯闌干歎非所。",
+      "十月寒更堪思人，一聞擊柝一傷神。",
+      "高髻不梳雲已散，蛾睂罷掃月仍新。",
+      "三尺嚴章難可越，百年心事向誰說。",
+      "但看洗雪出圜扉，始信白圭無玷缺。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "貞",
+        "variant": "堅",
+        "source": "一作「堅」"
+      },
+      {
+        "line": 2,
+        "text": "儀",
+        "variant": "輝",
+        "source": "一作「輝」"
+      },
+      {
+        "line": 4,
+        "text": "閨",
+        "variant": "居",
+        "source": "一作「居」"
+      },
+      {
+        "line": 5,
+        "text": "衾枕",
+        "variant": "枕席",
+        "source": "一作「枕席」"
+      },
+      {
+        "line": 7,
+        "text": "豈",
+        "variant": "不",
+        "source": "一作「不」"
+      },
+      {
+        "line": 12,
+        "text": "堪思",
+        "variant": "更愁",
+        "source": "一作「更愁」"
+      },
+      {
+        "line": 13,
+        "text": "罷",
+        "variant": "淡",
+        "source": "一作「淡」"
+      },
+      {
+        "line": 14,
+        "text": "難",
+        "variant": "焉",
+        "source": "一作「焉」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_056_01",
+    "volume": 799,
+    "author": {
+      "canonical": "程長文",
+      "recorded": "程長文",
+      "gender": "female"
+    },
+    "title": "銅雀臺怨",
+    "poem": [
+      "君王去後行人絕，簫箏不響歌喉咽。",
+      "雄劔無威光彩沈，寶琴零落金星滅。",
+      "玉階寂寞墜秋露，月照當時歌舞處。",
+      "當時歌舞人不迴，化為今日西陵灰。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "箏",
+        "variant": "竽",
+        "source": "一作「竽」"
+      },
+      {
+        "line": 3,
+        "text": "寞",
+        "variant": "寂",
+        "source": "一作「寂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_799_057_01",
+    "volume": 799,
+    "author": {
+      "canonical": "程長文",
+      "recorded": "程長文",
+      "gender": "female"
+    },
+    "title": "春閨怨",
+    "poem": [
+      "陭陌香飄柳如線，時光瞬息如流電。",
+      "良人何處事功名？十載相思不相見。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "如",
+        "variant": "驚",
+        "source": "一作「驚」"
+      }
+    ]
+  }
+]

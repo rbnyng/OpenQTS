@@ -1,0 +1,1041 @@
+[
+  {
+    "uid": "QTS_655_001_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "曲江春感",
+    "poem": [
+      "江頭日暖花又開，江東行客心悠哉。",
+      "高陽酒徒半彫落，終南山色空崔嵬。",
+      "聖代也知無棄物，侯門未必用非才。",
+      "一船明月一竿竹，家住五湖歸去來。"
+    ],
+    "notes": [
+      {
+        "content": "一題作《歸五湖》",
+        "context": "曲江春感",
+        "original_title": "曲江春感〈一題作《歸五湖》〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "住",
+        "variant": "在",
+        "source": "一作「在」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_002_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "皇陂",
+    "poem": [
+      "皇陂瀲灔深復深，陂西下馬聊登臨。",
+      "垂楊風輕弄翠帶，鯉魚日暖跳黃金。",
+      "三月窮途無勝事，十年流水見歸心。",
+      "輸他谷口鄭夫子，偷得閒名說至今。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "說",
+        "variant": "直",
+        "source": "一作「直」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_003_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "寄鄭補闕",
+    "poem": [
+      "夫子門前數仞牆，每經過處憶游梁。",
+      "路從青瑣無因見，恩在丹心不可忘。",
+      "未必便為讒口隔，只應貪草諫書忙。",
+      "別來愁悴知多少？兩度槐花馬上黃。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "應",
+        "variant": "因",
+        "source": "一作「因」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_004_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "牡丹花",
+    "poem": [
+      "似共東風別有因，絳羅高卷不勝春。",
+      "若教解語應傾國，任是無情亦動人。",
+      "芍藥與君為近侍，芙蓉何處避芳塵？",
+      "可憐韓令功成後，辜負穠華過此身。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "風",
+        "variant": "君",
+        "source": "一作「君」"
+      },
+      {
+        "line": 2,
+        "text": "亦",
+        "variant": "也",
+        "source": "一作「也」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_005_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "黃河",
+    "poem": [
+      "莫把阿膠向此傾，此中天意固難明。",
+      "解通銀漢應須曲，才出崑崙便不清。",
+      "高祖誓功衣帶小，仙人占斗客槎輕。",
+      "三千年後知誰在，何必勞君報太平。"
+    ]
+  },
+  {
+    "uid": "QTS_655_006_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "汴河",
+    "poem": [
+      "當時天子是閒遊，今日行人特地愁。",
+      "柳色縱饒妝故國，水聲何忍到揚州。",
+      "乾坤有意終難會，黎庶無情豈自由。",
+      "應笑秦皇用心錯，謾驅神鬼海東頭。"
+    ]
+  },
+  {
+    "uid": "QTS_655_007_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "西京崇德里居",
+    "poem": [
+      "進乏梯媒退又難，強隨豪貴殢長安。",
+      "風從昨夜吹銀漢，淚擬何門落玉盤。",
+      "拋擲紅塵應有恨，思量仙桂也無端。",
+      "錦鱗赬尾平生事，卻被閒人把釣竿。"
+    ]
+  },
+  {
+    "uid": "QTS_655_008_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "投所思",
+    "poem": [
+      "顦顇長安何所為？旅魂窮命自相疑。",
+      "滿川碧嶂無歸日，一榻紅塵有淚時。",
+      "雕琢只應勞郢匠，膏肓終恐誤秦醫。",
+      "浮生七十今三十，從此悽惶未可知。"
+    ]
+  },
+  {
+    "uid": "QTS_655_009_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "經張舍人舊居",
+    "poem": [
+      "行塵不是昔時塵，謾向朱門憶侍臣。",
+      "一榻已無開眼處，九泉應有愛才人。",
+      "文餘吐鳳他年詔，樹想棲鸞舊日春。",
+      "從此恩深轉難報，夕陽衰草淚沾巾。"
+    ],
+    "notes": [
+      {
+        "content": "一題作《河中經故翰林張舍人所居》",
+        "context": "張舍人舊居",
+        "original_title": "經張舍人舊居〈一題作《河中經故翰林張舍人所居》〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "他",
+        "variant": "當",
+        "source": "一作「當」"
+      },
+      {
+        "line": 4,
+        "text": "恩深轉",
+        "variant": "深恩更",
+        "source": "一作「深恩更」"
+      },
+      {
+        "line": 4,
+        "text": "淚",
+        "variant": "獨",
+        "source": "一作「獨」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_010_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "雒城作",
+    "poem": [
+      "大鹵旌旗出洛濵，此中煙月已埃塵。",
+      "更無樓閣尋行處，只有山川識野人。",
+      "早得鑄金誇范蠡，旋聞垂釣哭平津。",
+      "舊遊難得時難遇，廻首空城百草春。"
+    ]
+  },
+  {
+    "uid": "QTS_655_011_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "姑蘇城南湖陪曹使君遊",
+    "poem": [
+      "水蓼花紅稻穗黃，使君蘭棹泛回塘。",
+      "倚風荇藻先開路，迎旆鳧鷖盡著行。",
+      "手裏兵符神與術，腰間金印綵為囊。",
+      "少年太守勳庸盛，應笑燕臺兩鬢霜。"
+    ],
+    "variants": [
+      {
+        "line": 3,
+        "text": "裏",
+        "variant": "內",
+        "source": "一作「內」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_012_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "秋日有寄姑蘇曹使君",
+    "poem": [
+      "多病無因櫂小舟，闔閭城下謁名侯。",
+      "水寒不見雙魚信，風便惟聞五袴謳。",
+      "早說用兵長暗合，近傳觀稼亦閒遊。",
+      "須知謝奕依前醉，閒阻清談又一秋。"
+    ]
+  },
+  {
+    "uid": "QTS_655_013_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "送章碣赴舉",
+    "poem": [
+      "苹鹿歌中別酒催，粉闈星彩動昭回。",
+      "久經罹亂心應破，乍覩昇平眼漸開。",
+      "顧我昔年悲玉石，憐君今日蘊風雷。",
+      "龍門盛事無因見，費盡黃金老隗臺。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "罹",
+        "variant": "離",
+        "source": "一作「離」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_014_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "寄楊秘書",
+    "poem": [
+      "湖水平來見鯉魚，偶因烹處得瓊琚。",
+      "披尋藻思千重後，吟想氷光萬里餘。",
+      "漳浦病來情轉薄，赤城吟苦意何如。",
+      "錦衣公子憐君在，十載兵戈從板輿。"
+    ]
+  },
+  {
+    "uid": "QTS_655_015_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "往年進士趙能卿嘗話金庭勝事，見示敘",
+    "poem": [
+      "會稽詩客趙能卿，往歲相逢話石城。",
+      "正恨故人無上壽，喜聞良宰有高情。",
+      "山朝佐命層層聳，水接飛流步步清。",
+      "兩火一刀罹亂後，會須乘興雪中行。"
+    ]
+  },
+  {
+    "uid": "QTS_655_016_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "得宣州竇尚書書因投寄二首 其一",
+    "poem": [
+      "雙魚迢遞到江濵，傷感南陵舊主人。",
+      "萬里朝臺勞寄夢，十年侯國阻趨塵。",
+      "尋知亂後嘗辭祿，共喜閒來得養神。",
+      "時見齊山敬亭客，不堪戎馬戰征頻。"
+    ],
+    "part_index": 1,
+    "total_parts": 2,
+    "variants": [
+      {
+        "line": 1,
+        "text": "傷感南陵",
+        "variant": "南感陵陽",
+        "source": "一作「南感陵陽」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_016_02",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "得宣州竇尚書書因投寄二首 其二",
+    "poem": [
+      "曾逐旌旗過板橋，世途多難竟蓬飄。",
+      "步兵校尉辭公府，車騎將軍憶本朝。",
+      "醉裏舊遊還歷歷，病中衰髩奈蕭蕭。",
+      "遺簪墮履應留念，門客如今只下僚。"
+    ],
+    "part_index": 2,
+    "total_parts": 2
+  },
+  {
+    "uid": "QTS_655_017_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "雪",
+    "poem": [
+      "細玉羅紋下碧霄，杜門顏巷落偏饒。",
+      "巢居只恐高柯折，旅客愁聞去路遙。",
+      "撅凍野蔬和粉重，掃庭松葉帶酥燒。",
+      "寒窗呵筆尋詩句，一片飛來紙上銷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "顏",
+        "variant": "傾",
+        "source": "一作「傾」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_018_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "暇日有寄姑蘇曹使君兼呈張郎中郡中賔僚",
+    "poem": [
+      "嘉植陰陰覆劍池，此中能政動神祇。",
+      "湖邊觀稼雨迎馬，城外犒軍風滿旗。",
+      "融酒徒誇無算爵，儉蓮還少最高枝。",
+      "珊瑚筆架真珠履，曾和陳王幾首詩。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "植",
+        "variant": "樹",
+        "source": "一作「樹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_019_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "寄右省王諫議",
+    "poem": [
+      "耳邊要靜不得靜，心裏欲閑終未閒。",
+      "自是宿緣應有累，可能時事更相關。",
+      "魚慚張翰辭東府，鶴怨周顒負北山。",
+      "看卻金庭芝朮老，又驅車入七人班。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "時",
+        "variant": "世",
+        "source": "一作「世」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_020_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "焚書坑",
+    "poem": [
+      "千載遺蹤一窖塵，路傍耕者亦傷神。",
+      "祖龍算事渾乖角，將謂詩書活得人。"
+    ]
+  },
+  {
+    "uid": "QTS_655_021_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "始皇陵",
+    "poem": [
+      "荒堆無草樹無枝，嬾向行人問昔時。",
+      "六國英雄漫多事，到頭徐福是男兒。"
+    ]
+  },
+  {
+    "uid": "QTS_655_022_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "送沈先輩歸送上嘉禮",
+    "poem": [
+      "青青月桂觸人香，白薴衫輕稱沈郎。",
+      "好繼馬卿歸故里，況聞山簡在襄陽。",
+      "盃傾別岸應須醉，花傍征車漸欲芳。",
+      "擬把金錢贈嘉禮，不堪棲屑困名塲。"
+    ],
+    "notes": [
+      {
+        "content": "一題作《送沈光及第後東歸兼赴嘉禮》",
+        "context": "歸送上嘉禮",
+        "original_title": "送沈先輩歸送上嘉禮〈一題作《送沈光及第後東歸兼赴嘉禮》〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "月",
+        "variant": "仙",
+        "source": "一作「仙」"
+      },
+      {
+        "line": 3,
+        "text": "應",
+        "variant": "終",
+        "source": "一作「終」"
+      },
+      {
+        "line": 3,
+        "text": "花",
+        "variant": "草",
+        "source": "一作「草」"
+      },
+      {
+        "line": 4,
+        "text": "贈",
+        "variant": "助",
+        "source": "一作「助」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_023_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "春日葉秀才曲江",
+    "poem": [
+      "江花江草暖相隈，也向江邊把酒杯。",
+      "春色惱人遮不得，別愁如瘧避還來。",
+      "安排賤跡無良策，裨補明時望重才。",
+      "一曲吳歌齊拍手，十年塵眼未曾開。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "隈",
+        "variant": "偎",
+        "source": "一作「偎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_024_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "西京道德里",
+    "poem": [
+      "秦樹團團夕結陰，此中莊舄動悲吟。",
+      "一枝丹桂未入手，萬里蒼波長負心。",
+      "老去漸知時態薄，愁來唯願酒杯深。",
+      "七雄三傑今何在？休為閒人淚滿襟。"
+    ]
+  },
+  {
+    "uid": "QTS_655_025_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "憶夏口",
+    "poem": [
+      "漢陽渡口蘭為舟，漢陽城下多酒樓。",
+      "當年不得盡一醉，別夢有時還重遊。",
+      "襟帶可憐吞楚塞，風煙只好狎江鷗。",
+      "月明更想曾行處，吹笛橋邊木葉秋。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "陽",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 1,
+        "text": "陽",
+        "variant": "江",
+        "source": "一作「江」"
+      },
+      {
+        "line": 2,
+        "text": "當",
+        "variant": "芳",
+        "source": "一作「芳」"
+      },
+      {
+        "line": 3,
+        "text": "楚塞",
+        "variant": "塞鴈",
+        "source": "一作「塞鴈」"
+      },
+      {
+        "line": 3,
+        "text": "只好狎",
+        "variant": "好是冷",
+        "source": "一作「好是冷」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_026_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "武牢關",
+    "poem": [
+      "楚人曾此限封疆，不見清陰六里長。",
+      "一壑暮聲何怨望，數峰秋勢自顛狂。",
+      "由來四皓須神伏，大抵秦皇謾氣強。",
+      "欲學雞鳴試關吏，太平時節嬾思量。"
+    ]
+  },
+  {
+    "uid": "QTS_655_027_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "途中獻晉州孟中丞",
+    "poem": [
+      "太平天子念蒲東，又委星郎養育功。",
+      "昨日隼旟辭闕下，今朝珠履在河中。",
+      "樓移庾亮千山月，樹待袁宏一扇風。",
+      "不及政成應入拜，晉州何足展清通。"
+    ]
+  },
+  {
+    "uid": "QTS_655_028_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "長安秋夜",
+    "poem": [
+      "遠聞天子似羲皇，偶捨漁鄉入帝鄉。",
+      "五等列侯無故舊，一枝仙桂有風霜。",
+      "燈欹短焰燒離髩，漏轉寒更滴旅腸。",
+      "歸計未知身已老，九衢雙闕夜蒼蒼。"
+    ]
+  },
+  {
+    "uid": "QTS_655_029_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "春晚寄鍾尚書",
+    "poem": [
+      "宰府初開忝末塵，四年談笑隔通津。",
+      "官資肯便矜中路，酒醆還應憶故人。",
+      "江畔舊遊秦望月，檻前公事鏡湖春。",
+      "如今莫問西禪塢，一炷寒香老病身。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "禪",
+        "variant": "城",
+        "source": "一作「城」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_030_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "秋曉寄友人",
+    "poem": [
+      "洞庭霜落水雲秋，又泛輕漣任去留。",
+      "世界高談今已得，宦途清貴舊曾遊。",
+      "手中綵筆誇題鳳，天上泥封獎狎鷗。",
+      "更見南來釣翁說，醉吟還上木蘭舟。"
+    ]
+  },
+  {
+    "uid": "QTS_655_031_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "秋日有酬",
+    "poem": [
+      "舊業傳家有寶刀，近聞餘力更揮毫。",
+      "腰間印佩黃金重，卷裏詩裁白雪高。",
+      "讌罷嘉賔迎鳳藻，獵歸諸將問龍韜。",
+      "分茅列土纔三十，猶擬廻頭賭錦袍。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "舊",
+        "variant": "盛",
+        "source": "一作「盛」"
+      },
+      {
+        "line": 1,
+        "text": "寶",
+        "variant": "佩",
+        "source": "一作「佩」"
+      },
+      {
+        "line": 1,
+        "text": "餘力",
+        "variant": "揮刀",
+        "source": "一作「揮刀」"
+      },
+      {
+        "line": 2,
+        "text": "佩",
+        "variant": "綬",
+        "source": "一作「綬」"
+      },
+      {
+        "line": 2,
+        "text": "金重",
+        "variant": "樞貴",
+        "source": "一作「樞貴」"
+      },
+      {
+        "line": 2,
+        "text": "裏",
+        "variant": "內",
+        "source": "一作「內」"
+      },
+      {
+        "line": 2,
+        "text": "詩裁",
+        "variant": "文章",
+        "source": "一作「文章」"
+      },
+      {
+        "line": 3,
+        "text": "歸",
+        "variant": "回",
+        "source": "一作「回」"
+      },
+      {
+        "line": 4,
+        "text": "分茅列土",
+        "variant": "登壇甲子",
+        "source": "一作「登壇甲子」"
+      },
+      {
+        "line": 4,
+        "text": "賭",
+        "variant": "奪",
+        "source": "一作「奪」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_032_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "所思",
+    "poem": [
+      "梁王兔苑荊榛裏，煬帝雞臺夢想中。",
+      "只覺惘然悲謝傅，未知何以報文翁。",
+      "生靈不幸台星拆，造化無情世界空。",
+      "劃盡寒灰始堪歎，滿庭霜葉一窓風。"
+    ]
+  },
+  {
+    "uid": "QTS_655_033_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "送魏校書兼呈曹使君",
+    "poem": [
+      "亂離無計駐生涯，又事東遊惜歲華。",
+      "村店酒旗沽竹葉，野橋梅雨泊蘆花。",
+      "讐書發跡官雖屈，負米安親路不賒。",
+      "應見使君論世舊，掃門重得向曹家。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "離",
+        "variant": "罹",
+        "source": "一作「罹」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_034_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "四皓廟",
+    "poem": [
+      "漢惠秦皇事已聞，廟前高木眼前雲。",
+      "楚王謾費閒心力，六里青山盡屬君。"
+    ]
+  },
+  {
+    "uid": "QTS_655_035_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "浮雲",
+    "poem": [
+      "溶溶曳曳自舒張，不向蒼梧即帝鄉。",
+      "莫道無心便無事，也曾愁殺楚襄王。"
+    ],
+    "notes": [
+      {
+        "content": "一本題上無「浮」字",
+        "context": "浮雲",
+        "original_title": "浮雲〈一本題上無「浮」字〉"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_036_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "早發",
+    "poem": [
+      "北去南來無定居，此生生計竟何如。",
+      "酷憐一覺平明睡，長被雞聲惡破除。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "雞聲惡破除",
+        "variant": "鄰雞半夜啼",
+        "source": "一作「鄰雞半夜啼」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_037_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "香",
+    "poem": [
+      "瀋水良材食柏珍，博山煙煖玉樓春。",
+      "憐君亦是無端物，貪作馨香忘卻身。"
+    ],
+    "notes": [
+      {
+        "content": "一本題上有「詠」字",
+        "context": "香",
+        "original_title": "香〈一本題上有「詠」字〉"
+      }
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "煙",
+        "variant": "墟",
+        "source": "一作「墟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_655_038_01",
+    "volume": 655,
+    "author": {
+      "canonical": "羅隱",
+      "recorded": "羅隱",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Luo Yin",
+      "wikidata_id": "Q711778"
+    },
+    "title": "鄴城",
+    "poem": [
+      "臺上年年揜翠蛾，臺前高樹夾漳河。",
+      "英雄亦到分香處，能共常人較幾多。"
+    ],
+    "notes": [
+      {
+        "content": "一本作《銅雀臺之二》",
+        "context": "鄴城",
+        "original_title": "鄴城〈一本作《銅雀臺之二》〉"
+      }
+    ]
+  }
+]

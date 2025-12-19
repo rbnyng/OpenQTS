@@ -1,0 +1,722 @@
+[
+  {
+    "uid": "QTS_517_001_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "南溪書院",
+    "poem": [
+      "茅屋住來久，山深不置門。",
+      "草生垂井口，花發接籬根。",
+      "入院將雛鳥，攀蘿抱子猿。",
+      "曾逢異人說，風景似桃源。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "接",
+        "variant": "擁",
+        "source": "一作「擁」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_002_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "春園醉醒閑臥小齋",
+    "poem": [
+      "酣醉送餘春，醒來恨更頻。",
+      "花殘蜂蠹物，葉暗鳥欺人。",
+      "簾閉高眠貴，齋空浩氣新。",
+      "從今北窗蝶，長是夢中身。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "窗",
+        "variant": "牕",
+        "source": "一作「牕」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_003_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "小園秋興",
+    "poem": [
+      "誰言帝城裡，獨作野人居。",
+      "石磴晴看疊，山苗晚自鋤。",
+      "相慚五秉粟，尚癖一車書。",
+      "昔日揚雄宅，還無卿相輿。"
+    ]
+  },
+  {
+    "uid": "QTS_517_004_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "與諸公池上待月",
+    "poem": [
+      "樹密雲縈岸，池遙水際空。",
+      "芰開方吐鏡，蘋動欲含風。",
+      "漸映沙汀白，微分渚葉紅。",
+      "金波宜共賞，仙棹一宵同。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "棹",
+        "variant": "櫂",
+        "source": "一作「櫂」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_005_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "簷雀",
+    "poem": [
+      "弱羽怯孤飛，投簷幸所依。",
+      "銜環唯報德，賀廈本知歸。",
+      "紅觜休爭顧，丹心自識機。",
+      "從來攀鳳足，生死戀光輝。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "德",
+        "variant": "徳",
+        "source": "一作「徳」"
+      },
+      {
+        "line": 2,
+        "text": "廈",
+        "variant": "廈",
+        "source": "一作「廈」"
+      },
+      {
+        "line": 4,
+        "text": "鳳",
+        "variant": "鯱",
+        "source": "一作「鯱」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_006_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "殘花",
+    "poem": [
+      "已笑良時晚，仍悲別酒催。",
+      "暖芳隨日薄，殘片逐風回。",
+      "黛斂愁歌扇，妝殘泣鏡臺。",
+      "繁陰莫矜衒，終是共塵埃。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "片",
+        "variant": "輕",
+        "source": "一作「輕」"
+      },
+      {
+        "line": 2,
+        "text": "回",
+        "variant": "廻",
+        "source": "一作「廻」"
+      },
+      {
+        "line": 3,
+        "text": "殘",
+        "variant": "紅",
+        "source": "一作「紅」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_007_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "山泉",
+    "poem": [
+      "半空飛下水，勢去響如雷。",
+      "靜徹啼猿寺，高陵坐客台。",
+      "耳同經劍閣，身若到天臺。",
+      "濺樹吹成凍，鄰祠觸作灰。",
+      "深中試榔栗，淺處落莓苔。",
+      "半夜重城閉，潺湲枕底來。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "猿",
+        "variant": "猨",
+        "source": "一作「猨」"
+      },
+      {
+        "line": 2,
+        "text": "台",
+        "variant": "臺",
+        "source": "一作「臺」"
+      },
+      {
+        "line": 3,
+        "text": "劍",
+        "variant": "劒",
+        "source": "一作「劒」"
+      },
+      {
+        "line": 3,
+        "text": "臺",
+        "variant": "台",
+        "source": "一作「台」"
+      },
+      {
+        "line": 6,
+        "text": "來",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_008_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "秋晚日少陵原遊山泉之什",
+    "poem": [
+      "喧濁侵肌性未沈，每來雲外恣幽尋。",
+      "塵衣更喜秋泉潔，倦跡方依竹洞深。",
+      "暫過偶然應係分，有期終去但勞心。",
+      "唯憐一夜空山月，似許他年伴獨吟。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "來",
+        "variant": "來",
+        "source": "一作「來」"
+      },
+      {
+        "line": 3,
+        "text": "係",
+        "variant": "繫",
+        "source": "一作「繫」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_009_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "秋晴獨立南亭",
+    "poem": [
+      "晝對南風獨閉關，暗期幽鳥去仍還。",
+      "如今有待終身貴，未若忘機盡日閑。",
+      "心似蒙莊遊物外，官慚許掾在人間。",
+      "開襟自向清風笑，無限秋光為解顏。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "閑",
+        "variant": "閒",
+        "source": "一作「閒」"
+      },
+      {
+        "line": 3,
+        "text": "蒙",
+        "variant": "䝉",
+        "source": "一作「䝉」"
+      },
+      {
+        "line": 3,
+        "text": "外",
+        "variant": "象",
+        "source": "一作「象」"
+      },
+      {
+        "line": 4,
+        "text": "解",
+        "variant": "觧",
+        "source": "一作「觧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_010_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "宿黃花館",
+    "poem": [
+      "孤館蕭條槐葉稀，暮蟬聲隔水聲微。",
+      "年年為客路無盡，日日送人身未歸。",
+      "何處迷鴻離浦月，誰家愁婦霜衣。",
+      "夜深不臥簾猶卷，數點殘螢入戶飛。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "臥",
+        "variant": "臥",
+        "source": "一作「臥」"
+      },
+      {
+        "line": 4,
+        "text": "卷",
+        "variant": "捲",
+        "source": "一作「捲」"
+      },
+      {
+        "line": 4,
+        "text": "點",
+        "variant": "㸃",
+        "source": "一作「㸃」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_011_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "南野逢田客",
+    "poem": [
+      "桑柘悠悠水蘸堤，晚風晴景不妨犁。",
+      "高機猶織臥蠶子，下阪未饑逢飼妻。",
+      "杏色滿林羊酪熟，麥涼浮壟雉媒低。",
+      "生時自樂死由命，萬事在天管不迷。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "犁",
+        "variant": "犂",
+        "source": "一作「犂」"
+      },
+      {
+        "line": 2,
+        "text": "臥",
+        "variant": "臥",
+        "source": "一作「臥」"
+      },
+      {
+        "line": 2,
+        "text": "阪",
+        "variant": "坂",
+        "source": "一作「坂」"
+      },
+      {
+        "line": 3,
+        "text": "涼",
+        "variant": "涼",
+        "source": "一作「涼」"
+      },
+      {
+        "line": 3,
+        "text": "壟",
+        "variant": "壠",
+        "source": "一作「壠」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_012_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "東齋夜宴酬紹之起居見贈",
+    "poem": [
+      "龍門八上不知津，唯有君心困益親。",
+      "白社追遊名自遠，青袍相映道逾新。",
+      "十年江海魚緘盡，一夜笙歌鳳吹頻。",
+      "漸老舊交情更重，莫將美酒負良辰。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "遠",
+        "variant": "逺",
+        "source": "一作「逺」"
+      },
+      {
+        "line": 4,
+        "text": "美酒",
+        "variant": "文酒",
+        "source": "一作「文酒」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_013_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊發",
+      "recorded": "楊發",
+      "gender": "male",
+      "wikidata_id": "Q18906928"
+    },
+    "title": "玩殘花",
+    "poem": [
+      "十日濃芳一歲程，東風初急眼偏明。",
+      "低枝似泥幽人醉，莫道無情似有情。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "歲",
+        "variant": "嵗",
+        "source": "一作「嵗」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_014_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊收",
+      "recorded": "楊收",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Yang Shou",
+      "wikidata_id": "Q1525066"
+    },
+    "title": "詠蛙",
+    "poem": [
+      "兔邊分玉樹，龍底耀銅儀。",
+      "會當同鼓吹，不復問官私。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "兔",
+        "variant": "兎",
+        "source": "一作「兎」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_015_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊收",
+      "recorded": "楊收",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Yang Shou",
+      "wikidata_id": "Q1525066"
+    },
+    "title": "筆",
+    "poem": [
+      "雖匪囊中物，何堅不可鑽。",
+      "一朝操政柄，定使冠三端。"
+    ]
+  },
+  {
+    "uid": "QTS_517_016_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊收",
+      "recorded": "楊收",
+      "gender": "male",
+      "period": "Late Tang",
+      "english_name": "Yang Shou",
+      "wikidata_id": "Q1525066"
+    },
+    "title": "嘲吳人觀者",
+    "poem": [
+      "爾幸無羸角，何用觸吾藩。",
+      "若是升堂者，還應自得門。"
+    ]
+  },
+  {
+    "uid": "QTS_517_017_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊乘",
+      "recorded": "楊乘"
+    },
+    "title": "甲子歲書事",
+    "poem": [
+      "豎子未鼎烹，大君尚旰食。",
+      "風雷隨出師，雲霞有戰色。",
+      "犒功椎萬牛，募勇懸千帛。",
+      "武士日曳柴，飛將兢執馘。",
+      "喜氣迎捷書，歡聲送羽檄。",
+      "天兵日雄強，桀犬稍離析。",
+      "賊臂既已斷，賊喉既已扼。",
+      "樂禍但鯨鯢，同惡為肘腋。",
+      "小大勢難侔，逆順初不敵。",
+      "違命固天亡，恃險乖長策。",
+      "蠆毒久萌牙，狼顧非日夕。",
+      "禮貌忽驕狂，疏奏遂指斥。",
+      "動眾豈佳兵，含忍恐無益。",
+      "鴻恩既已孤，小效不足惜。",
+      "腐儒一鉛刀，投筆時感激。",
+      "帝閽不敢幹，恓恓坐長畫。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "兢",
+        "variant": "競",
+        "source": "一作「競」"
+      },
+      {
+        "line": 5,
+        "text": "捷",
+        "variant": "㨗",
+        "source": "一作「㨗」"
+      },
+      {
+        "line": 7,
+        "text": "已",
+        "variant": "巳",
+        "source": "一作「巳」"
+      },
+      {
+        "line": 7,
+        "text": "扼",
+        "variant": "搤",
+        "source": "一作「搤」"
+      },
+      {
+        "line": 12,
+        "text": "疏",
+        "variant": "䟽",
+        "source": "一作「䟽」"
+      },
+      {
+        "line": 15,
+        "text": "筆",
+        "variant": "茟",
+        "source": "一作「茟」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_018_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊乘",
+      "recorded": "楊乘"
+    },
+    "title": "南徐春日懷古",
+    "poem": [
+      "六代驕奢地，三春物象繁。",
+      "靈湖通漲海，天塹隔中原。",
+      "曉渡高帆駛，陰風巨艦翻。",
+      "旌旗西日落，戈甲夏雲屯。",
+      "豹變資陳武，龍飛擁晉元。",
+      "風流前事盡，文物舊儀存。",
+      "邪侮嘗移潤，忠貞幾度冤。",
+      "興亡山兀兀，今古水渾渾。",
+      "露滴蜂偷蕊，鶯啼日到軒。",
+      "酒腸堆曲糵，詩思繞乾坤。",
+      "愁夢全無蝶，離憂每愧萱。",
+      "形骸勞大塊，玉石任炎昆。",
+      "出處寧由己，升沈未足言。",
+      "且應中聖樂，坐起任昏昏。"
+    ],
+    "variants": [
+      {
+        "line": 9,
+        "text": "蕊",
+        "variant": "蘂",
+        "source": "一作「蘂」"
+      },
+      {
+        "line": 10,
+        "text": "曲",
+        "variant": "麴",
+        "source": "一作「麴」"
+      },
+      {
+        "line": 10,
+        "text": "糵",
+        "variant": "櫱",
+        "source": "一作「櫱」"
+      },
+      {
+        "line": 10,
+        "text": "繞",
+        "variant": "遶",
+        "source": "一作「遶」"
+      },
+      {
+        "line": 11,
+        "text": "每",
+        "variant": "毎",
+        "source": "一作「毎」"
+      },
+      {
+        "line": 12,
+        "text": "昆",
+        "variant": "崑",
+        "source": "一作「崑」"
+      },
+      {
+        "line": 13,
+        "text": "寧",
+        "variant": "寧",
+        "source": "一作「寧」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_019_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊乘",
+      "recorded": "楊乘"
+    },
+    "title": "吳中書事",
+    "poem": [
+      "十萬人家天塹東，管臺榭滿春風。",
+      "名歸範蠡五湖上，國破西施一笑中。",
+      "香逕自生蘭葉小，響廊深映月華空。",
+      "尊前多暇但懷古，盡日愁吟誰與同。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "範",
+        "variant": "范",
+        "source": "一作「范」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_020_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊乘",
+      "recorded": "楊乘"
+    },
+    "title": "建鄴懷古",
+    "poem": [
+      "故城故壘滿江濆，盡是干戈舊苦辛。",
+      "見此即須知帝利，生來便作太平人。"
+    ],
+    "variants": [
+      {
+        "line": 2,
+        "text": "利",
+        "variant": "力",
+        "source": "一作「力」"
+      },
+      {
+        "line": 2,
+        "text": "來",
+        "variant": "來",
+        "source": "一作「來」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_021_01",
+    "volume": 517,
+    "author": {
+      "canonical": "楊乘",
+      "recorded": "楊乘"
+    },
+    "title": "榜句",
+    "poem": [
+      "伶俜乖拙兩何如，晝泥琴聲夜泥書。",
+      "數拍胡笳彈未熟，故人新命畫胡車。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "伶俜",
+        "variant": "自憐",
+        "source": "一作「自憐」"
+      },
+      {
+        "line": 2,
+        "text": "彈",
+        "variant": "彈",
+        "source": "一作「彈」"
+      },
+      {
+        "line": 2,
+        "text": "未",
+        "variant": "遍",
+        "source": "一作「遍」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_517_022_01",
+    "volume": 517,
+    "author": {
+      "canonical": "尹璞",
+      "recorded": "尹璞"
+    },
+    "title": "題楊收相公宅",
+    "poem": [
+      "禍福從來路不遙，偶然平地上煙霄。",
+      "煙霄未穩還平地，門對孤峰占寂寥。"
+    ]
+  }
+]

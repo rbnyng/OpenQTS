@@ -1,0 +1,237 @@
+[
+  {
+    "uid": "QTS_007_001_01",
+    "volume": 7,
+    "author": {
+      "canonical": "宜芳公主",
+      "recorded": "宜芬公主",
+      "gender": "female",
+      "period": "High Tang",
+      "english_name": "Yang Yifen",
+      "wikidata_id": "Q10949100"
+    },
+    "title": "虛池驛題屏風",
+    "poem": [
+      "出嫁辭鄉國",
+      "由來此別難",
+      "聖恩愁遠道",
+      "行路泣相看",
+      "沙塞容顔盡",
+      "邊隅粉黛殘",
+      "妾心何所斷",
+      "他日望長安"
+    ]
+  },
+  {
+    "uid": "QTS_007_002_01",
+    "volume": 7,
+    "author": {
+      "canonical": "宋若莘",
+      "recorded": "女學士宋氏若華",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Song Ruoshen",
+      "wikidata_id": "Q8249811"
+    },
+    "title": "嘲陸暢",
+    "poem": [
+      "十二層樓倚翠空",
+      "鳳鸞相對立梧桐",
+      "雙成走報監門衛",
+      "莫使吳歈入漢宮"
+    ]
+  },
+  {
+    "uid": "QTS_007_003_01",
+    "volume": 7,
+    "author": {
+      "canonical": "宋若昭",
+      "recorded": "尚宮宋氏若昭",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Song Ruozhao",
+      "wikidata_id": "Q8249793"
+    },
+    "title": "奉和御制麟德殿宴百僚應制",
+    "poem": [
+      "垂衣臨八極",
+      "肅穆四門通",
+      "自是無爲化",
+      "非關輔弼功",
+      "修文招隱伏",
+      "尚武殄妖兇",
+      "德炳韶光熾",
+      "恩霑雨露濃",
+      "衣冠陪御宴",
+      "禮樂盛朝宗",
+      "萬壽稱觴舉",
+      "千年信一同"
+    ]
+  },
+  {
+    "uid": "QTS_007_004_01",
+    "volume": 7,
+    "author": {
+      "canonical": "宋若憲",
+      "recorded": "尚宮宋氏若憲",
+      "gender": "female",
+      "period": "Middle Tang",
+      "english_name": "Song Ruoxian",
+      "wikidata_id": "Q8249783"
+    },
+    "title": "奉和御制麟德殿宴百官",
+    "poem": [
+      "端拱承休命",
+      "時清荷聖皇",
+      "四聰聞受諫",
+      "五服遠朝王",
+      "景媚鶯初囀",
+      "春殘日更長",
+      "命筵多濟濟",
+      "盛樂復鏘鏘",
+      "酆鎬誰將敵",
+      "橫汾未可方",
+      "願齊山嶽壽",
+      "祉福永無疆"
+    ]
+  },
+  {
+    "uid": "QTS_007_005_01",
+    "volume": 7,
+    "author": {
+      "canonical": "鮑君徽",
+      "recorded": "鮑氏君徽",
+      "gender": "female",
+      "english_name": "Bao Junhui",
+      "wikidata_id": "Q15712340"
+    },
+    "title": "奉和麟德殿宴百僚應制",
+    "poem": [
+      "睿澤先寰海",
+      "功成展武韶",
+      "戈鋋清外壘",
+      "文物盛中朝",
+      "聖祚山河固",
+      "宸章日月昭",
+      "玉筵鸞鵠集",
+      "仙管鳳皇調",
+      "御柳新低綠",
+      "宮鶯乍囀嬌",
+      "願將億兆慶",
+      "千祀奉神堯"
+    ]
+  },
+  {
+    "uid": "QTS_007_006_01",
+    "volume": 7,
+    "author": {
+      "canonical": "鮑君徽",
+      "recorded": "鮑氏君徽",
+      "gender": "female",
+      "english_name": "Bao Junhui",
+      "wikidata_id": "Q15712340"
+    },
+    "title": "關山月",
+    "poem": [
+      "高高秋月明",
+      "北照遼陽城",
+      "塞迥光初滿",
+      "風多暈更生",
+      "征人望鄉思",
+      "戰馬聞鼙驚",
+      "朔風悲邊草",
+      "胡沙暗虜營",
+      "霜凝匣中劍",
+      "風憊原上旌",
+      "早晚謁金闕",
+      "不聞刁斗聲"
+    ]
+  },
+  {
+    "uid": "QTS_007_007_01",
+    "volume": 7,
+    "author": {
+      "canonical": "鮑君徽",
+      "recorded": "鮑氏君徽",
+      "gender": "female",
+      "english_name": "Bao Junhui",
+      "wikidata_id": "Q15712340"
+    },
+    "title": "惜花吟",
+    "poem": [
+      "枝上花，花下人，可憐顔色俱青春。",
+      "昨日看花花灼灼，今朝看花花欲落。",
+      "不如盡此花下歡，莫待春風總吹卻。",
+      "鶯歌蝶舞韶光長，紅爐煮茗松花香。",
+      "妝成罷吟恣遊後，獨把芳枝歸洞房。"
+    ],
+    "variants": [
+      {
+        "line": 4,
+        "text": "韶光長",
+        "variant": "韶景長，又作媚韶光",
+        "source": "一作「韶景長，又作媚韶光」"
+      },
+      {
+        "line": 5,
+        "text": "罷吟",
+        "variant": "吟罷，又作曲罷",
+        "source": "一作「吟罷，又作曲罷」"
+      },
+      {
+        "line": 5,
+        "text": "後",
+        "variant": "樂",
+        "source": "一作「樂」"
+      },
+      {
+        "line": 5,
+        "text": "芳",
+        "variant": "花",
+        "source": "一作「花」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_007_008_01",
+    "volume": 7,
+    "author": {
+      "canonical": "鮑君徽",
+      "recorded": "鮑氏君徽",
+      "gender": "female",
+      "english_name": "Bao Junhui",
+      "wikidata_id": "Q15712340"
+    },
+    "title": "東亭茶宴",
+    "poem": [
+      "閑朝向曉出簾櫳，茗宴東亭四望通。",
+      "遠眺城池山色裡，俯聆弦管水聲中。",
+      "幽篁引沼新抽翠，芳槿低檐欲吐紅。",
+      "坐久此中無限興，更憐團扇起清風。"
+    ],
+    "variants": [
+      {
+        "line": 1,
+        "text": "曉",
+        "variant": "晚",
+        "source": "一作「晚」"
+      }
+    ]
+  },
+  {
+    "uid": "QTS_007_009_01",
+    "volume": 7,
+    "author": {
+      "canonical": "蕭妃",
+      "recorded": "蕭妃",
+      "gender": "female",
+      "wikidata_id": "Q15880050"
+    },
+    "title": "夜夢",
+    "poem": [
+      "昨夜夢君歸，賤妾下鳴機。",
+      "極知意氣薄，不著去時衣。",
+      "故言如夢裡，賴得雁書飛。"
+    ]
+  }
+]
