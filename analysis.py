@@ -28,6 +28,11 @@ df_poems = pd.json_normalize(poems)
 print(f"Loaded {len(df_poems)} poems")
 print(f"Loaded {len(authors_data)} authors")
 
+if 'author.gender' in df_poems.columns:
+    df_poems['author.gender'] = df_poems['author.gender'].fillna('unknown')
+else:
+    df_poems['author.gender'] = 'unknown'
+    
 # Create output file for statistics
 output = open('analysis_results.txt', 'w', encoding='utf-8')
 
