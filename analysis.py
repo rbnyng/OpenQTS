@@ -32,7 +32,7 @@ if 'author.gender' in df_poems.columns:
     df_poems['author.gender'] = df_poems['author.gender'].fillna('unknown')
 else:
     df_poems['author.gender'] = 'unknown'
-    
+
 # Create output file for statistics
 output = open('analysis_results.txt', 'w', encoding='utf-8')
 
@@ -105,7 +105,7 @@ plt.tight_layout()
 plt.savefig('figures/period_distribution.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/period_distribution.pdf', bbox_inches='tight')
 plt.close()
-write_stat("\n✓ Saved: figures/period_distribution.png")
+write_stat("\nSaved: figures/period_distribution.png")
 
 # Period-based poem characteristics
 write_stat("\nAverage poem length by period:")
@@ -181,7 +181,7 @@ plt.tight_layout()
 plt.savefig('figures/gender_distribution.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/gender_distribution.pdf', bbox_inches='tight')
 plt.close()
-write_stat("\n✓ Saved: figures/gender_distribution.png")
+write_stat("\nSaved: figures/gender_distribution.png")
 
 # Female poets by period
 write_stat("\nFemale poets by period:")
@@ -249,7 +249,7 @@ latex_table = df_coverage.to_latex(index=False, caption='Authority File Coverage
                                     label='tab:authority_coverage')
 with open('tables/authority_coverage.tex', 'w') as f:
     f.write(latex_table)
-write_stat("\n✓ Saved: tables/authority_coverage.tex")
+write_stat("\nSaved: tables/authority_coverage.tex")
 
 # Visualize coverage
 fig, ax = plt.subplots(figsize=(10, 6))
@@ -275,7 +275,7 @@ plt.tight_layout()
 plt.savefig('figures/authority_coverage.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/authority_coverage.pdf', bbox_inches='tight')
 plt.close()
-write_stat("✓ Saved: figures/authority_coverage.png")
+write_stat("Saved: figures/authority_coverage.png")
 
 write_stat("")
 
@@ -344,39 +344,6 @@ write_stat(f"Academic degree: {degree_count:,} ({degree_count/total_authors*100:
 write_stat("")
 
 # ============================================================================
-# ANALYSIS 8: EXAMPLE POEMS (for paper)
-# ============================================================================
-write_stat("="*80)
-write_stat("8. EXAMPLE POEMS FOR PAPER")
-write_stat("="*80)
-
-# Find a famous poet with good metadata
-famous_poets = ['李白', '杜甫', '白居易', '王維', '李商隱']
-for poet_name in famous_poets:
-    if poet_name in authors_data:
-        poet_data = authors_data[poet_name]
-        poet_poems = df_poems[df_poems['author.canonical'] == poet_name]
-        
-        if len(poet_poems) > 0:
-            write_stat(f"\nExample author: {poet_name}")
-            write_stat(f"  English name: {poet_data.get('english_name', 'N/A')}")
-            write_stat(f"  Birth-Death: {poet_data.get('birth_year', '?')}-{poet_data.get('death_year', '?')}")
-            write_stat(f"  Period: {poet_data.get('period', 'Unknown')}")
-            write_stat(f"  Wikidata: {poet_data.get('wikidata_id', 'N/A')}")
-            write_stat(f"  CBDB: {poet_data.get('cbdb_id', 'N/A')}")
-            write_stat(f"  Poems in corpus: {len(poet_poems)}")
-            
-            # Get one example poem
-            example = poet_poems.iloc[0]
-            write_stat(f"\n  Example poem UID: {example['uid']}")
-            write_stat(f"  Title: {example['title']}")
-            write_stat(f"  Lines: {len(example['poem'])}")
-            
-            break
-
-write_stat("")
-
-# ============================================================================
 # TEMPORAL ANALYSIS: Poem characteristics over time
 # ============================================================================
 print("Generating temporal analysis...")
@@ -397,7 +364,6 @@ print(period_stats)
 # Visualize temporal trends
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
 
-period_order = ['Early Tang', 'High Tang', 'Middle Tang', 'Late Tang']
 period_data = df_poems[df_poems['author.period'].isin(period_order)]
 
 # Box plot of poem lengths
@@ -427,36 +393,7 @@ plt.tight_layout()
 plt.savefig('figures/temporal_characteristics.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/temporal_characteristics.pdf', bbox_inches='tight')
 plt.close()
-print("✓ Saved: figures/temporal_characteristics.png")
-
-# ============================================================================
-# GENDER OVER TIME: Female poet representation by period
-# ============================================================================
-print("\nGenerating gender-over-time analysis...")
-
-female_by_period = df_poems[df_poems['author.gender'] == 'female'].groupby('author.period').size()
-total_by_period = df_poems.groupby('author.period').size()
-female_pct = (female_by_period / total_by_period * 100).reindex(period_order, fill_value=0)
-
-fig, ax = plt.subplots(figsize=(10, 6))
-bars = ax.bar(range(len(period_order)), female_pct.values, color='#E24A90', alpha=0.8)
-ax.set_xticks(range(len(period_order)))
-ax.set_xticklabels(period_order, rotation=45, ha='right')
-ax.set_ylabel('Percentage of Poems by Female Authors (%)', fontsize=12)
-ax.set_xlabel('Period', fontsize=12)
-ax.set_title('Female Poet Representation Across Tang Dynasty', fontsize=14, fontweight='bold')
-
-# Add value labels
-for i, (bar, value) in enumerate(zip(bars, female_pct.values)):
-    count = female_by_period.get(period_order[i], 0)
-    ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.1,
-            f'{value:.2f}%\n({count:,})', ha='center', va='bottom', fontsize=9)
-
-plt.tight_layout()
-plt.savefig('figures/female_poets_by_period.png', dpi=300, bbox_inches='tight')
-plt.savefig('figures/female_poets_by_period.pdf', bbox_inches='tight')
-plt.close()
-print("✓ Saved: figures/female_poets_by_period.png")
+print("Saved: figures/temporal_characteristics.png")
 
 # ============================================================================
 # PROLIFIC AUTHORS: Top poets by output
@@ -505,7 +442,7 @@ plt.tight_layout()
 plt.savefig('figures/top_poets.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/top_poets.pdf', bbox_inches='tight')
 plt.close()
-print("✓ Saved: figures/top_poets.png")
+print("Saved: figures/top_poets.png")
 
 # Save table for paper
 top_10_table = df_top[['name', 'english', 'period', 'count']].head(10)
@@ -515,7 +452,7 @@ latex_table = top_10_table.to_latex(index=False,
                                      label='tab:top_poets')
 with open('tables/top_poets.tex', 'w', encoding='utf-8') as f:
     f.write(latex_table)
-print("✓ Saved: tables/top_poets.tex")
+print("Saved: tables/top_poets.tex")
 
 # ============================================================================
 # VOLUME DISTRIBUTION: Coverage across volumes
@@ -545,7 +482,7 @@ plt.tight_layout()
 plt.savefig('figures/volume_distribution.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/volume_distribution.pdf', bbox_inches='tight')
 plt.close()
-print("✓ Saved: figures/volume_distribution.png")
+print("Saved: figures/volume_distribution.png")
 
 print(f"\nVolume statistics:")
 print(f"  Mean poems per volume: {mean_poems:.1f}")
@@ -590,7 +527,7 @@ plt.tight_layout()
 plt.savefig('figures/occupations.png', dpi=300, bbox_inches='tight')
 plt.savefig('figures/occupations.pdf', bbox_inches='tight')
 plt.close()
-print("✓ Saved: figures/occupations.png")
+print("Saved: figures/occupations.png")
 
 # ============================================================================
 # CHARACTER FREQUENCY: Most common characters in poems
@@ -611,14 +548,13 @@ for char, count in top_chars[:20]:
 
 
 # ============================================================================
-# SUMMARY STATISTICS FOR ABSTRACT
+# SUMMARY STATISTICS
 # ============================================================================
 write_stat("="*80)
-write_stat("SUMMARY STATISTICS FOR ABSTRACT/INTRO")
+write_stat("SUMMARY STATISTICS")
 write_stat("="*80)
 
 write_stat(f"""
-Key numbers for paper:
 - {len(df_poems):,} poems across {df_poems['volume'].nunique()} volumes
 - {len(authors_data):,} authors with biographical metadata
 - {any_authority:,} authors ({any_authority/total_authors*100:.1f}%) linked to authority files (Wikidata/CBDB/VIAF)
