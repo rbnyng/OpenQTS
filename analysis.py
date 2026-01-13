@@ -72,22 +72,24 @@ write_stat("="*80)
 write_stat("2. TEMPORAL DISTRIBUTION BY TANG PERIOD")
 write_stat("="*80)
 
-period_counts = df_poems['author.period'].value_counts()
+df_poems['period_filled'] = df_poems['author.period'].fillna('Unclassified')
+period_counts = df_poems['period_filled'].value_counts()
 write_stat("\nPoems by period:")
 for period, count in period_counts.items():
     pct = count / len(df_poems) * 100
     write_stat(f"  {period}: {count:,} poems ({pct:.1f}%)")
 
+
 # Create period distribution plot
 fig, ax = plt.subplots(figsize=(10, 6))
-period_order = ['Early Tang', 'High Tang', 'Middle Tang', 'Late Tang', 'Unknown']
+period_order = ['Pre-Tang', 'Early Tang', 'High Tang', 'Middle Tang', 'Late Tang', 'Five Dynasties / Song', 'Unclassified']
 period_data = period_counts.reindex(period_order, fill_value=0)
 bars = ax.bar(range(len(period_data)), period_data.values, color='steelblue', alpha=0.8)
 ax.set_xticks(range(len(period_data)))
 ax.set_xticklabels(period_data.index, rotation=45, ha='right')
 ax.set_ylabel('Number of Poems', fontsize=12)
-ax.set_xlabel('Tang Dynasty Period', fontsize=12)
-ax.set_title('Distribution of Poems Across Tang Dynasty Periods', fontsize=14, fontweight='bold')
+ax.set_xlabel('Period', fontsize=12)
+ax.set_title('Distribution of Poems Across Dynasty Periods', fontsize=14, fontweight='bold')
 
 # Add value labels on bars
 for i, (bar, value) in enumerate(zip(bars, period_data.values)):
@@ -138,7 +140,9 @@ for source, count in sorted(gender_source_dist.items(), key=lambda x: x[1], reve
     write_stat(f"  {source}: {count:,} ({pct:.1f}%)")
 
 # Gender distribution in poems
-gender_dist_poems = df_poems['author.gender'].value_counts()
+df_poems['gender_filled'] = df_poems['author.gender'].fillna('unknown')
+df_poems['gender_filled'] = df_poems.get('author.gender', 'unknown')
+gender_dist_poems = df_poems['gender_filled'].value_counts()
 write_stat("\nPoems by author gender:")
 for gender, count in gender_dist_poems.items():
     pct = count / len(df_poems) * 100
